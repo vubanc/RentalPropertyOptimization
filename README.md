@@ -7,13 +7,13 @@ Assumptions
   - Refurnishing costs- Fixed expenses based on property size.
     
 - Operating expense assumptions
-  - Mortgage (deterministic)- A mortgage calculator using current interest rate (6-7%)
-  - Airbnb property manager charges (probabilistic)- A full-service fee % (excluding listing creation and optimization services) 
-  - Airbnb host fees (deterministic)- AirBnb charges a flat service fee of 3% on the booking subtotal
-  - Supply restocking expenses (deterministic)- A fixed amount per night that is determined by peroperty size
+  - Mortgage (deterministic)- Average mortgage payment from AHS data. 
+  - Airbnb property manager charges (probabilistic)- A full-service fee % (excluding listing creation and optimization services).
+  - Airbnb host fees (deterministic)- AirBnb charges a flat service fee of 3% on the booking subtotal.
+  - Supply restocking expenses (deterministic)- A fixed amount per night that is determined by peroperty size.
   - Utilities- TBD
-  - Airbnb insurance- AirCover + a home insurance with an STR rider
-  - Preventive maintenance- TBD
+  - Airbnb insurance (probabilistic)- AirCover + sampled home insurance from AHS data with a x% surcharge for STR add-on 
+  - Preventive maintenance- $1 per square footage (TBD)
   - Property taxes- Tax rate for 2025
     
 - Occupancy and Nightly rate
