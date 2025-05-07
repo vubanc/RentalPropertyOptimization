@@ -3,17 +3,19 @@ An optimization + ML approach to finding the best rental property investment.
 
 Assumptions
 - Capital Expense assumptions
-  - Mortgage assumptions- Interest rate for 2025.
+  - Down payment- 25% down payment
   - Refurnishing costs- Fixed expenses based on property size.
     
 - Operating expense assumptions
-  - Airbnb property manager charges- Run different simulations for a [flat fee] vs a [half-service fee] vs [full-service fee].
-  - Airbnb host fees- AirBnb charges a flat service fee of 3% on the booking subtotal.
-  - Cleaning, housekeeping, and supply restocking expenses- Cancelled out by a cleaning fee charged to guests based on property size.
+  - Mortgage (deterministic)- A mortgage calculator using current interest rate (6-7%)
+  - Airbnb property manager charges (probabilistic)- A full-service fee % (excluding listing creation and optimization services) 
+  - Airbnb host fees (deterministic)- AirBnb charges a flat service fee of 3% on the booking subtotal
+  - Supply restocking expenses (deterministic)- A fixed amount per night that is determined by peroperty size
   - Utilities- TBD
-  - Airbnb insurance- AirCover + a home insurance with an STR rider.
+  - Airbnb insurance- AirCover + a home insurance with an STR rider
   - Preventive maintenance- TBD
-  - Property taxes- Tax rate for 2025.
+  - Property taxes- Tax rate for 2025
     
 - Occupancy and Nightly rate
   - Granularity of simulations and seasonal variations is limited to a monthly level.
+  - Cleaning fee will be included.
