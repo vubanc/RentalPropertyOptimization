@@ -13,7 +13,6 @@ Assumptions
   - Utilities- TBD
   - Airbnb insurance- AirCover + a home insurance with an STR rider.
   - Preventive maintenance- TBD
-  - Fixes and repairs- TBD
   - Property taxes- Tax rate for 2025.
     
 - Occupancy and Nightly rate
