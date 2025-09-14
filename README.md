@@ -14,7 +14,7 @@ Assumptions
   - Utilities (probabilistic) - Sample electricity and gas from RECs data and use 20% to 30% of (gas + electricity).
   - Airbnb insurance (estimate) AirCover + Home insurance estimate from zillow a fixed % of surcharge for STR add-on. 
   - Cleaning 
-  - Appliance and property maintenance - (https://www.census.gov/data/data-tools/ahs-table-creator.html)
+  - Appliance and property maintenance - 1-3% rule stated here: https://www.thebalancemoney.com/home-maintenance-budget-453820
   - Property taxes (estimate) - Tax rate estimates from Zillow.
     
 - Occupancy and Nightly rate
