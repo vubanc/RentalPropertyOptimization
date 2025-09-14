@@ -10,10 +10,9 @@ Assumptions
   - Mortgage (estimate) - Use mortgage payment estimates from Zillow.
   - Airbnb property manager charges (probabilistic) - A full-service fee % (excluding listing creation and optimization services).
   - Airbnb host fees (deterministic) - AirBnb charges a flat service fee of 3% on the booking subtotal.
-  - Supply restocking expenses (deterministic) - A fixed amount per night that is determined by property size.
+  - Restocking and cleaning expenses (deterministic) - Cleaning fees will cover these expenses.
   - Utilities (probabilistic) - Sample electricity and gas from RECs data and use 20% to 30% of (gas + electricity) as the water bill.
   - Airbnb insurance (estimate) AirCover + Home insurance estimate from zillow a fixed % of surcharge for STR add-on. 
-  - Cleaning - Cleaning cost per service times the number of stays (total booked nights/average number of nights per stay).
   - Appliance and property maintenance - 1-3% rule stated here: https://www.thebalancemoney.com/home-maintenance-budget-453820
   - Property taxes (estimate) - Tax rate estimates from Zillow.
     
