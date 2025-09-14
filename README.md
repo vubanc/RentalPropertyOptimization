@@ -13,7 +13,7 @@ Assumptions
   - Supply restocking expenses (deterministic) - A fixed amount per night that is determined by peroperty size.
   - Utilities (probabilistic) - Sample electricity and gas from RECs data and use 20% to 30% of (gas + electricity).
   - Airbnb insurance (estimate) AirCover + Home insurance estimate from zillow a fixed % of surcharge for STR add-on. 
-  - Cleaning 
+  - Cleaning - Calculated as the cleaning cost per service time the number of stays (total booked nights/average number of nights per stay).
   - Appliance and property maintenance - 1-3% rule stated here: https://www.thebalancemoney.com/home-maintenance-budget-453820
   - Property taxes (estimate) - Tax rate estimates from Zillow.
     
