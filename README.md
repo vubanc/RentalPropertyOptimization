@@ -3,12 +3,12 @@ An optimization + ML approach to finding the best rental property investment.
 
 Assumptions
 - Capital Expense assumptions
-  - Down payment (deterministic) - 25% down payment.
+  - Down payment (deterministic) - 20% down payment.
   - Closing Costs (estimate) - Estimate from Zillow.
   - Refurnishing costs (estimate) - Fixed expense based on property size.
     
 - Operating expense assumptions
-  - Mortgage (estimate) - Calculated based on property price listed on Zillow.
+  - Mortgage (estimate) - Calculated based on Zillow property price (assuming 6% interest rate and 30-year loan).
   - HOA fees- (estimate) - Estimate from Zillow.
   - Airbnb property manager charges (deterministic) - A % fee (excluding listing creation and optimization services).
   - Airbnb host fees (deterministic) - a flat service fee of 3%.
