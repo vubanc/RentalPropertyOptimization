@@ -4,6 +4,7 @@ An optimization + ML approach to finding the best rental property investment.
 Assumptions
 - Capital Expense assumptions
   - Down payment- 25% down payment
+  - Closing Costs- Estimate from Zillow
   - Refurnishing costs- Fixed expenses based on property size.
     
 - Operating expense assumptions
