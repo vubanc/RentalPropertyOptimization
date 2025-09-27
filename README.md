@@ -1,5 +1,5 @@
 # RentalPropertyOptimization
-An optimization + ML approach to finding the best rental property investment.
+Finding the best market for short term rental investment using bayesian hierarchical modeling.
 
 Assumptions
 - Capital Expense assumptions
