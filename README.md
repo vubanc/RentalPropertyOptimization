@@ -10,7 +10,7 @@ Data Sources/Assumptions
 - Operating Expense Components
   - [x] Mortgage (estimate) - Calculated based on Zillow property price (assuming 6% interest rate and 30-year loan).
   - [x] HOA fees- (estimate) - Estimate from Zillow.
-  - [x] Airbnb property manager charges (deterministic) - Assuming actively managed property
+  - [x] Airbnb property manager charges (deterministic) - Assuming actively managed property (i.e., no property management fees)
   - [x] Airbnb host fees (deterministic) - a flat service fee of 3%.
   - [x] Restocking and cleaning expenses (deterministic) - Cancelled out by cleaning fee.
   - [ ] Utility bill/sqft (probabilistic) - Electricity and gas sampled from RECs data. 20% to 30% of (gas + electricity) is considered as the water bill.
