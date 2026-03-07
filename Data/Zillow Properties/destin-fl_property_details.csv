@@ -1,0 +1,498 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/910-Emerald-Bay-Dr-Destin-FL-32541/45968681_zpid/,45968681,,SINGLE FAMILY,"$1,395,000",910 Emerald Bay Dr,Destin,FL,32541,4,4,3775, ,6044
+https://www.zillow.com/homedetails/298-Ketch-Ct-Destin-FL-32541/83891271_zpid/,83891271,,SINGLE FAMILY,"$1,150,000",298 Ketch Ct,Destin,FL,32541,3,3,2660,9583.2 sqft,3818
+https://www.zillow.com/homedetails/121-Country-Club-Dr-W-Destin-FL-32541/45969440_zpid/,45969440,,SINGLE FAMILY,"$1,149,900",121 Country Club Dr W,Destin,FL,32541,4,3,3489,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-602-Destin-FL-32541/45975654_zpid/,45975654,,CONDO,"$1,450,000",100 Gulf Shore Dr UNIT 602,Destin,FL,32541,3,3,2100, ,
+https://www.zillow.com/homedetails/4739-Amhurst-Cir-Destin-FL-32541/67851328_zpid/,67851328,,SINGLE FAMILY,"$525,000",4739 Amhurst Cir,Destin,FL,32541,4,3,2210,3049.2 sqft,
+https://www.zillow.com/homedetails/225-Wekiva-Cv-Destin-FL-32541/45968412_zpid/,45968412,,SINGLE FAMILY,"$1,125,000",225 Wekiva Cv,Destin,FL,32541,4,3,2498,9583.2 sqft,
+https://www.zillow.com/homedetails/251-Mattie-M-Kelly-Blvd-UNIT-203-Destin-FL-32541/67855335_zpid/,67855335,,CONDO,"$210,000",251 Mattie M Kelly Blvd UNIT 203,Destin,FL,32541,2,2,1051, ,
+https://www.zillow.com/homedetails/319-Main-St-Destin-FL-32541/45969872_zpid/,45969872,,SINGLE FAMILY,"$375,000",319 Main St,Destin,FL,32541,3,3,1456,6969.6 sqft,
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-27-Destin-FL-32541/45973465_zpid/,45973465,,CONDO,"$449,000",940 Highway 98 E UNIT 27,Destin,FL,32541,3,3,1289, ,
+https://www.zillow.com/homedetails/301-Summit-Dr-Destin-FL-32541/45973604_zpid/,45973604,,SINGLE FAMILY,"$699,900",301 Summit Dr,Destin,FL,32541,4,3,2133,0.27 acres,3439
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-2310-Destin-FL-32541/81820902_zpid/,81820902,,CONDO,"$299,000",4207 Indian Bayou Trl #2310,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/705-Gulf-Shore-Dr-UNIT-401-Destin-FL-32541/45967970_zpid/,45967970,,CONDO,"$399,000",705 Gulf Shore Dr UNIT 401,Destin,FL,32541,2,2,1203, ,
+https://www.zillow.com/homedetails/223-Indian-Oaks-Dr-Destin-FL-32541/45973825_zpid/,45973825,,MULTI FAMILY,"$230,000",223 Indian Oaks Dr,Destin,FL,32541,2,2,900,2178 sqft,
+https://www.zillow.com/homedetails/3290-Scenic-Highway-98-UNIT-305B-Destin-FL-32541/45966850_zpid/,45966850,,CONDO,"$765,000",3290 Scenic Highway 98 UNIT 305B,Destin,FL,32541,2,2,1072, ,2303
+https://www.zillow.com/homedetails/605-3rd-St-Destin-FL-32541/45970057_zpid/,45970057,,SINGLE FAMILY,"$497,500",605 3rd St,Destin,FL,32541,4,3,1699,0.29 acres,2899
+https://www.zillow.com/homedetails/1080-Highway-98-E-UNIT-412-Destin-FL-32541/45972646_zpid/,45972646,,CONDO,"$637,500",1080 Highway 98 E UNIT 412,Destin,FL,32541,2,2,861, ,
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-33-Destin-FL-32541/45973479_zpid/,45973479,,SINGLE FAMILY,"$470,000",940 Highway 98 E UNIT 33,Destin,FL,32541,3,3,1289,9.86 acres,
+https://www.zillow.com/homedetails/3857-Indian-Trl-UNIT-416-Destin-FL-32541/2077023266_zpid/,2077023266,,CONDO,"$389,900",3857 Indian Trl UNIT 416,Destin,FL,32541,2,2,1020, ,
+https://www.zillow.com/homedetails/237-Indian-Oaks-Dr-Destin-FL-32541/45973821_zpid/,45973821,,SINGLE FAMILY,"$312,000",237 Indian Oaks Dr,Destin,FL,32541,2,2,1080,2613.6 sqft,2007
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-3214-Destin-FL-32541/45971551_zpid/,45971551,,CONDO,"$378,800",775 Gulf Shore Dr UNIT 3214,Destin,FL,32541,2,2,950, ,2124
+https://www.zillow.com/homedetails/309-Wimico-Cir-Destin-FL-32541/52954421_zpid/,52954421,,SINGLE FAMILY,"$495,000",309 Wimico Cir,Destin,FL,32541,3,2,1791,7405.2 sqft,2871
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-228-Destin-FL-32541/45969051_zpid/,45969051,,CONDO,"$285,000",4000 Gulf Terrace Dr UNIT 228,Destin,FL,32541,2,2,738, ,1672
+https://www.zillow.com/homedetails/4709-Amhurst-Cir-Destin-FL-32541/103457738_zpid/,103457738,,SINGLE FAMILY,"$675,000",4709 Amhurst Cir,Destin,FL,32541,4,3,2301,3049.2 sqft,
+https://www.zillow.com/homedetails/4528-Golf-Villa-Ct-UNIT-402-Destin-FL-32541/81858188_zpid/,81858188,,CONDO,"$699,000",4528 Golf Villa Ct UNIT 402,Destin,FL,32541,3,3,2195, ,
+https://www.zillow.com/homedetails/54-Country-Club-Dr-E-Destin-FL-32541/45969310_zpid/,45969310,,SINGLE FAMILY,"$695,000",54 Country Club Dr E,Destin,FL,32541,3,3,2392,0.38 acres,4278
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-8100-Destin-FL-32541/45971569_zpid/,45971569,,CONDO,"$265,000",775 Gulf Shore Dr UNIT 8100,Destin,FL,32541,0,1,468, ,1532
+https://www.zillow.com/homedetails/284-Ketch-Ct-Destin-FL-32541/52954500_zpid/,52954500,,SINGLE FAMILY,"$950,000",284 Ketch Ct,Destin,FL,32541,3,3,2127,0.27999999999999997 acres,3855
+https://www.zillow.com/homedetails/701-Planet-Dr-Destin-FL-32541/45970499_zpid/,45970499,,SINGLE FAMILY,"$650,000",701 Planet Dr,Destin,FL,32541,4,3,2624,0.6900000000000001 acres,
+https://www.zillow.com/homedetails/235-Pelican-Pl-UNIT-6-Destin-FL-32541/55744328_zpid/,55744328,,TOWNHOUSE,"$315,000",235 Pelican Pl UNIT 6,Destin,FL,32541,2,3,1332,871.2 sqft,
+https://www.zillow.com/homedetails/134-Cayman-Cv-Destin-FL-32541/45966963_zpid/,45966963,,SINGLE FAMILY,"$1,299,999",134 Cayman Cv,Destin,FL,32541,4,4,2933,5662.8 sqft,4926
+https://www.zillow.com/homedetails/115-Garnet-Pl-Destin-FL-32541/45968677_zpid/,45968677,,SINGLE FAMILY,"$699,000",115 Garnet Pl,Destin,FL,32541,3,3,2455,8712 sqft,
+https://www.zillow.com/homedetails/4507-Furling-Ln-SUITE-302-Destin-FL-32541/52954483_zpid/,52954483,,CONDO,"$320,000",4507 Furling Ln SUITE 302,Destin,FL,32541,3,3,1801, ,
+https://www.zillow.com/homedetails/96-Garnet-Pl-Destin-FL-32541/45968673_zpid/,45968673,,SINGLE FAMILY,"$1,400,000",96 Garnet Pl,Destin,FL,32541,4,4,3860,10018.8 sqft,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-1045-Destin-FL-32541/45971880_zpid/,45971880,,CONDO,"$615,000",900 Gulf Shore Dr UNIT 1045,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/1040-Highway-98-UNIT-110-Destin-FL-32541/445860907_zpid/,445860907,,CONDO,"$349,000",1040 Highway 98 UNIT 110,Destin,FL,32541,1,2,719, ,
+https://www.zillow.com/homedetails/253-Mattie-M-Kelly-Blvd-Destin-FL-32541/71352531_zpid/,71352531,,SINGLE FAMILY,"$384,900",253 Mattie M Kelly Blvd,Destin,FL,32541,3,2.5,1543,1742 sqft,2779
+https://www.zillow.com/homedetails/609-Kelly-St-Destin-FL-32541/45970202_zpid/,45970202,,SINGLE FAMILY,"$349,000",609 Kelly St,Destin,FL,32541,3,2,1982,9147.6 sqft,3081
+https://www.zillow.com/homedetails/445-Gulf-Shore-Dr-UNIT-206-Destin-FL-32541/45975196_zpid/,45975196,,CONDO,"$275,000",445 Gulf Shore Dr UNIT 206,Destin,FL,32541,1,1,525, ,1721
+https://www.zillow.com/homedetails/113-Mantero-Way-Destin-FL-32541/45974592_zpid/,45974592,,SINGLE FAMILY,"$489,000",113 Mantero Way,Destin,FL,32541,2,2,1148,3600 sqft,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-E1106-Destin-FL-32541/2080035769_zpid/,2080035769,,CONDO,"$1,095,000",10 Harbor Blvd #E1106,Destin,FL,32541,4,4,1660, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-9104-Destin-FL-32541/45971767_zpid/,45971767,,CONDO,"$495,000",775 Gulf Shore Dr UNIT 9104,Destin,FL,32541,2,2,1132, ,
+https://www.zillow.com/homedetails/150-Lola-Cir-Destin-FL-32541/45967209_zpid/,45967209,,SINGLE FAMILY,"$365,000",150 Lola Cir,Destin,FL,32541,2,2,1120,5662.8 sqft,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-UNIT-3E-Destin-FL-32541/71357060_zpid/,71357060,,CONDO,"$1,050,000",770 Harbor Blvd UNIT 3E,Destin,FL,32541,3,3,2191, ,4209
+https://www.zillow.com/homedetails/702-Whippoorwill-Ln-Destin-FL-32541/45972479_zpid/,45972479,,SINGLE FAMILY,"$339,900",702 Whippoorwill Ln,Destin,FL,32541,3,2,1673,10018.8 sqft,2681
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-19-Destin-FL-32541/45971498_zpid/,45971498,,CONDO,"$634,000",775 Gulf Shore Dr UNIT 19,Destin,FL,32541,3,2,1468, ,2893
+https://www.zillow.com/homedetails/510-Gulf-Shore-Dr-UNIT-210-Destin-FL-32541/45976408_zpid/,45976408,,CONDO,"$579,900",510 Gulf Shore Dr UNIT 210,Destin,FL,32541,2,2,1066, ,1995
+https://www.zillow.com/homedetails/184-Durango-Rd-Destin-FL-32541/45975414_zpid/,45975414,,TOWNHOUSE,"$445,000",184 Durango Rd,Destin,FL,32541,3,3,1700, ,
+https://www.zillow.com/homedetails/3655-E-Scenic-Highway-98-UNIT-303A-Destin-FL-32541/2065081539_zpid/,2065081539,,CONDO,"$550,000",3655 E Scenic Highway 98 UNIT 303A,Destin,FL,32541,3,2,1740, ,
+https://www.zillow.com/homedetails/1030-Highway-98-14-Destin-FL-32541/45972357_zpid/,45972357,,CONDO,"$319,900",1030 Highway 98 #14,Destin,FL,32541,1,1,600, ,1558
+https://www.zillow.com/homedetails/211-Durango-Rd-UNIT-414-Destin-FL-32541/87660752_zpid/,87660752,,CONDO,"$1,250,000",211 Durango Rd UNIT 414,Destin,FL,32541,3,3,2296, ,
+https://www.zillow.com/homedetails/329-Sailfish-Cir-Destin-FL-32541/45974370_zpid/,45974370,,SINGLE FAMILY,"$699,900",329 Sailfish Cir,Destin,FL,32541,4,3,2259, ,
+https://www.zillow.com/homedetails/4000-Dancing-Cloud-Ct-UNIT-14-Destin-FL-32541/71357114_zpid/,71357114,,CONDO,"$169,000",4000 Dancing Cloud Ct UNIT 14,Destin,FL,32541,1,1,734, ,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-189-Destin-FL-32541/45968896_zpid/,45968896,,CONDO,"$269,999",4000 Gulf Terrace Dr UNIT 189,Destin,FL,32541,2,1,1000, ,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-11209-Destin-FL-32541/81820362_zpid/,81820362,,CONDO,"$349,000",4203 Indian Bayou Trl #11209,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/4030-Dancing-Cloud-Ct-UNIT-339-Destin-FL-32541/71357293_zpid/,71357293,,CONDO,"$214,000",4030 Dancing Cloud Ct UNIT 339,Destin,FL,32541,1,1,920, ,1812
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-UNIT-406A-Destin-FL-32541/45975068_zpid/,45975068,,CONDO,"$375,000",30 Moreno Point Rd UNIT 406A,Destin,FL,32541,2,2,1193, ,2552
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-2001-Destin-FL-32541/45968968_zpid/,45968968,,CONDO,"$201,000",4000 Gulf Terrace Dr UNIT 2001,Destin,FL,32541,1,1,738, ,1643
+https://www.zillow.com/homedetails/412-Primrose-Ln-Destin-FL-32541/45968129_zpid/,45968129,,SINGLE FAMILY,"$499,000",412 Primrose Ln,Destin,FL,32541,4,3,2228,0.29 acres,2979
+https://www.zillow.com/homedetails/195-Durango-Rd-UNIT-3E-Destin-FL-32541/45978222_zpid/,45978222,,CONDO,"$399,000",195 Durango Rd UNIT 3E,Destin,FL,32541,2,2,900, ,2437
+https://www.zillow.com/homedetails/3908-Mesa-Rd-Destin-FL-32541/45969669_zpid/,45969669,,SINGLE FAMILY,"$447,500",3908 Mesa Rd,Destin,FL,32541,3,2,1625,6969 sqft,2745
+https://www.zillow.com/homedetails/96-Trista-Terrace-Ct-Destin-FL-32541/45968395_zpid/,45968395,,SINGLE FAMILY,"$449,000",96 Trista Terrace Ct,Destin,FL,32541,3,2,1200,6098.4 sqft,
+https://www.zillow.com/homedetails/4010-Dancing-Cloud-Ct-UNIT-404-Destin-FL-32541/71357267_zpid/,71357267,,CONDO,"$287,000",4010 Dancing Cloud Ct UNIT 404,Destin,FL,32541,3,2,1254, ,
+https://www.zillow.com/homedetails/610-5th-St-Destin-FL-32541/45970184_zpid/,45970184,,SINGLE FAMILY,"$689,500",610 5th St,Destin,FL,32541,4,3,2184,0.48 acres,4246
+https://www.zillow.com/homedetails/518-2nd-Ave-Destin-FL-32541/125449463_zpid/,125449463,,SINGLE FAMILY,"$485,000",518 2nd Ave,Destin,FL,32541,3,2,1695,9583.2 sqft,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-2007-Destin-FL-32541/45968974_zpid/,45968974,,CONDO,"$280,000",4000 Gulf Terrace Dr UNIT 2007,Destin,FL,32541,2,2,1100, ,2047
+https://www.zillow.com/homedetails/129-Country-Club-Dr-W-Destin-FL-32541/45969467_zpid/,45969467,,SINGLE FAMILY,"$1,328,100",129 Country Club Dr W,Destin,FL,32541,4,4,4070,0.6900000000000001 acres,6835
+https://www.zillow.com/homedetails/4553-Grand-Key-Loop-E-Destin-FL-32541/103472964_zpid/,103472964,,SINGLE FAMILY,"$1,169,000",4553 Grand Key Loop E,Destin,FL,32541,5,4,2891,1306.8 sqft,
+https://www.zillow.com/homedetails/110-Gulf-Shore-Dr-626-Destin-FL-32541/45975698_zpid/,45975698,,CONDO,"$1,090,000",110 Gulf Shore Dr #626,Destin,FL,32541,3,3,2367, ,3982
+https://www.zillow.com/homedetails/3871-Indian-Trl-UNIT-3E-Destin-FL-32541/45973589_zpid/,45973589,,TOWNHOUSE,"$285,000",3871 Indian Trl UNIT 3E,Destin,FL,32541,3,2,1392,871.2 sqft,2479
+https://www.zillow.com/homedetails/1044-Highway-98-E-UNIT-703-Destin-FL-32541/45968560_zpid/,45968560,,CONDO,"$739,000",1044 Highway 98 E UNIT 703,Destin,FL,32541,2,2,1126, ,2124
+https://www.zillow.com/homedetails/4694-Amhurst-Cir-Destin-FL-32541/103464213_zpid/,103464213,,SINGLE FAMILY,"$775,000",4694 Amhurst Cir,Destin,FL,32541,4,3,2266,5227.2 sqft,
+https://www.zillow.com/homedetails/115-Gulf-Winds-Ct-UNIT-2-Destin-FL-32541/45974637_zpid/,45974637,,SINGLE FAMILY,"$575,000",115 Gulf Winds Ct UNIT 2,Destin,FL,32541,2,2,1184,1306.8 sqft,
+https://www.zillow.com/homedetails/197-Kel-Wen-Cir-KEL-Destin-FL-32541/453631399_zpid/,453631399,,SINGLE FAMILY,"$624,000",197 Kel Wen Cir #KEL,Destin,FL,32541,3,2,1749,8500 sqft,
+https://www.zillow.com/homedetails/3829-Indigo-Cir-Destin-FL-32541/45969237_zpid/,45969237,,SINGLE FAMILY,"$549,900",3829 Indigo Cir,Destin,FL,32541,3,2,1990, ,3097
+https://www.zillow.com/homedetails/164-Lola-Cir-Destin-FL-32541/45967216_zpid/,45967216,,SINGLE FAMILY,"$395,000",164 Lola Cir,Destin,FL,32541,3,2,1007,3920.4 sqft,
+https://www.zillow.com/homedetails/1018-Highway-98-E-UNIT-340-Destin-FL-32541/45969715_zpid/,45969715,,CONDO,"$1,200,000",1018 Highway 98 E UNIT 340,Destin,FL,32541,3,3,1622, ,2983
+https://www.zillow.com/homedetails/5-Cahaba-Ct-Destin-FL-32541/45969307_zpid/,45969307,,SINGLE FAMILY,"$675,000",5 Cahaba Ct,Destin,FL,32541,4,2,2578,0.36 acres,3580
+https://www.zillow.com/homedetails/4090-Dancing-Cloud-Ct-UNIT-260-Destin-FL-32541/71357246_zpid/,71357246,,CONDO,"$300,000",4090 Dancing Cloud Ct UNIT 260,Destin,FL,32541,2,2,1013, ,1920
+https://www.zillow.com/homedetails/506-Gulf-Shore-Dr-UNIT-319-Destin-FL-32541/45978313_zpid/,45978313,,CONDO,"$694,700",506 Gulf Shore Dr UNIT 319,Destin,FL,32541,3,2,1600, ,
+https://www.zillow.com/homedetails/31-Shannon-Sound-Destin-FL-32541/45966197_zpid/,45966197,,SINGLE FAMILY,"$1,199,000",31 Shannon Sound,Destin,FL,32541,5,5,3567,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/710-Legion-Dr-UNIT-P2-Destin-FL-32541/45969600_zpid/,45969600,,TOWNHOUSE,"$220,000",710 Legion Dr UNIT P2,Destin,FL,32541,2,1,850,1306.8 sqft,
+https://www.zillow.com/homedetails/1040-Highway-98-112-Destin-FL-32541/444106572_zpid/,444106572,,CONDO,"$725,000",1040 Highway 98 #112,Destin,FL,32541,2,2,1138, ,
+https://www.zillow.com/homedetails/75-Sunfish-St-Destin-FL-32541/45973026_zpid/,45973026,,SINGLE FAMILY,"$1,245,000",75 Sunfish St,Destin,FL,32541,3,4,2234, ,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-1046-Destin-FL-32541/45971881_zpid/,45971881,,CONDO,"$699,900",900 Gulf Shore Dr UNIT 1046,Destin,FL,32541,3,2,1800, ,3240
+https://www.zillow.com/homedetails/219-Twin-Lakes-Ln-Destin-FL-32541/52954943_zpid/,52954943,,SINGLE FAMILY,"$420,000",219 Twin Lakes Ln,Destin,FL,32541,3,3,1544,3484.8 sqft,
+https://www.zillow.com/homedetails/4106-Drifting-Sand-Trl-Destin-FL-32541/45973774_zpid/,45973774,,SINGLE FAMILY,"$640,000",4106 Drifting Sand Trl,Destin,FL,32541,3,2,2267, ,
+https://www.zillow.com/homedetails/4081-Drifting-Sand-Trl-Destin-FL-32541/45973709_zpid/,45973709,,SINGLE FAMILY,"$649,000",4081 Drifting Sand Trl,Destin,FL,32541,4,2,2135,7840.8 sqft,
+https://www.zillow.com/homedetails/706-Vintage-Cir-Destin-FL-32541/45969116_zpid/,45969116,,SINGLE FAMILY,"$557,000",706 Vintage Cir,Destin,FL,32541,3,2,1625,0.25 acres,
+https://www.zillow.com/homedetails/415-Gulf-Shore-Dr-UNIT-23-Destin-FL-32541/45977703_zpid/,45977703,,TOWNHOUSE,"$889,000",415 Gulf Shore Dr UNIT 23,Destin,FL,32541,4,3,1800,3049.2 sqft,2740
+https://www.zillow.com/homedetails/70-Country-Club-Dr-E-Destin-FL-32541/45969318_zpid/,45969318,,SINGLE FAMILY,"$629,999",70 Country Club Dr E,Destin,FL,32541,4,4,2573,0.36 acres,
+https://www.zillow.com/homedetails/4633-Paradise-Isles-Destin-FL-32541/2065102403_zpid/,2065102403,,SINGLE FAMILY,"$1,200,000",4633 Paradise Isles,Destin,FL,32541,4,3,2745,6969.6 sqft,
+https://www.zillow.com/homedetails/4010-Dancing-Cloud-Ct-UNIT-391-Destin-FL-32541/71357255_zpid/,71357255,,CONDO,"$229,100",4010 Dancing Cloud Ct UNIT 391,Destin,FL,32541,2,2,1090, ,1838
+https://www.zillow.com/homedetails/226-Talquin-Cv-Destin-FL-32541/45968453_zpid/,45968453,,SINGLE FAMILY,"$599,900",226 Talquin Cv,Destin,FL,32541,3,3,2091,9147.6 sqft,3084
+https://www.zillow.com/homedetails/603-Mountain-Dr-Destin-FL-32541/114187482_zpid/,114187482,,MULTI FAMILY,"$810,000",603 Mountain Dr,Destin,FL,32541,6,6,3066,10454.4 sqft,2831
+https://www.zillow.com/homedetails/287-Stahlman-Ave-Destin-FL-32541/45972275_zpid/,45972275,,SINGLE FAMILY,"$515,000",287 Stahlman Ave,Destin,FL,32541,3,2,1647,7500 sqft,2912
+https://www.zillow.com/homedetails/3450-Us-Highway-98-W-UNIT-B102-Miramar-Beach-FL-32550/449984130_zpid/,449984130,,CONDO,"$589,000",3450 Us Highway 98 W UNIT B102,Miramar Beach,FL,32550,1,2,1100, ,
+https://www.zillow.com/homedetails/706-Whippoorwill-Ln-Destin-FL-32541/45965674_zpid/,45965674,,SINGLE FAMILY,"$459,900",706 Whippoorwill Ln,Destin,FL,32541,3,1,1648,9844.56 sqft,
+https://www.zillow.com/homedetails/57-Kokomo-Row-Destin-FL-32541/45973021_zpid/,45973021,,SINGLE FAMILY,"$999,000",57 Kokomo Row,Destin,FL,32541,3,3,2067,5662.8 sqft,3798
+https://www.zillow.com/homedetails/3871-Indian-Trl-UNIT-6B-Destin-FL-32541/45973571_zpid/,45973571,,TOWNHOUSE,"$435,000",3871 Indian Trl UNIT 6B,Destin,FL,32541,3,2,1392,871.2 sqft,2434
+https://www.zillow.com/homedetails/305-Mattie-M-Kelly-Blvd-Destin-FL-32541/71352548_zpid/,71352548,,TOWNHOUSE,"$332,000",305 Mattie M Kelly Blvd,Destin,FL,32541,3,3,1543,1742.4 sqft,
+https://www.zillow.com/homedetails/69-Crystal-Beach-Dr-8-Destin-FL-32541/45970538_zpid/,45970538,,SINGLE FAMILY,"$679,000",69 Crystal Beach Dr #8,Destin,FL,32541,2,2,1200,871.2 sqft,2153
+https://www.zillow.com/homedetails/4573-Nautical-Ct-Destin-FL-32541/45967037_zpid/,45967037,,SINGLE FAMILY,"$1,490,000",4573 Nautical Ct,Destin,FL,32541,3,4,3244,0.37 acres,6100
+https://www.zillow.com/homedetails/418-Evergreen-Dr-Destin-FL-32541/45968144_zpid/,45968144,,SINGLE FAMILY,"$430,000",418 Evergreen Dr,Destin,FL,32541,3,2,1375,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/809-Main-St-Destin-FL-32541/45970424_zpid/,45970424,,SINGLE FAMILY,"$995,000",809 Main St,Destin,FL,32541,4,5,4560,0.73 acres,
+https://www.zillow.com/homedetails/1190-Bay-Ct-Destin-FL-32541/45973189_zpid/,45973189,,SINGLE FAMILY,"$849,000",1190 Bay Ct,Destin,FL,32541,5,4,3059,0.29 acres,
+https://www.zillow.com/homedetails/97-Barracuda-St-Destin-FL-32541/45967447_zpid/,45967447,,SINGLE FAMILY,"$1,250,000",97 Barracuda St,Destin,FL,32541,3,3,1838,7405.2 sqft,3561
+https://www.zillow.com/homedetails/4666-Sunsail-Cir-Destin-FL-32541/45966645_zpid/,45966645,,SINGLE FAMILY,"$649,999",4666 Sunsail Cir,Destin,FL,32541,3,2,1911,4878.72 sqft,
+https://www.zillow.com/homedetails/700-Vintage-Cir-Destin-FL-32541/45969119_zpid/,45969119,,SINGLE FAMILY,"$549,900",700 Vintage Cir,Destin,FL,32541,3,2,1548,10454.4 sqft,2634
+https://www.zillow.com/homedetails/90-Vista-Blfs-Destin-FL-32541/45966897_zpid/,45966897,,SINGLE FAMILY,"$1,300,000",90 Vista Blfs,Destin,FL,32541,4,5,3357, ,
+https://www.zillow.com/homedetails/1010-Highway-98-E-UNIT-605-Destin-FL-32541/45965878_zpid/,45965878,,CONDO,"$849,900",1010 Highway 98 E UNIT 605,Destin,FL,32541,2,2,1453, ,
+https://www.zillow.com/homedetails/4009-Lauren-Ct-Destin-FL-32541/45969165_zpid/,45969165,,SINGLE FAMILY,"$680,000",4009 Lauren Ct,Destin,FL,32541,4,2,2317,10454.4 sqft,
+https://www.zillow.com/homedetails/194-Bent-Arrow-Dr-Destin-FL-32541/45973834_zpid/,45973834,,SINGLE FAMILY,"$335,000",194 Bent Arrow Dr,Destin,FL,32541,3,2,1350,3049.2 sqft,
+https://www.zillow.com/homedetails/103-Fletcher-Way-Destin-FL-32541/440701564_zpid/,440701564,,SINGLE FAMILY,"$634,000",103 Fletcher Way,Destin,FL,32541,4,2,1823,5349.85 sqft,
+https://www.zillow.com/homedetails/4020-Drifting-Sand-Trl-Destin-FL-32541/45973787_zpid/,45973787,,SINGLE FAMILY,"$577,000",4020 Drifting Sand Trl,Destin,FL,32541,4,2,2186,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Drive-1076-Destin-FL-32541/446407426_zpid/,446407426,,CONDO,"$579,900",900 Gulf Shore Drive 1076,Destin,FL,32541,2,2,1627, ,
+https://www.zillow.com/homedetails/135-Durango-Rd-Destin-FL-32541/45976033_zpid/,45976033,,TOWNHOUSE,"$1,199,000",135 Durango Rd,Destin,FL,32541,4,4,2377,3920.4 sqft,4867
+https://www.zillow.com/homedetails/130-Durango-Rd-UNIT-104-Destin-FL-32541/45975578_zpid/,45975578,,TOWNHOUSE,"$540,000",130 Durango Rd UNIT 104,Destin,FL,32541,3,3,1523,1306.8 sqft,3621
+https://www.zillow.com/homedetails/504-Kelly-St-Destin-FL-32541/45966164_zpid/,45966164,,SINGLE FAMILY,"$650,000",504 Kelly St,Destin,FL,32541,5,3,2783,0.37 acres,
+https://www.zillow.com/homedetails/1030-Highway-98-UNIT-1200C-Destin-FL-32541/52954678_zpid/,52954678,,CONDO,"$635,000",1030 Highway 98 UNIT 1200C,Destin,FL,32541,2,2,1080, ,
+https://www.zillow.com/homedetails/8-Weekewachee-Cir-Destin-FL-32541/45969527_zpid/,45969527,,SINGLE FAMILY,"$1,220,000",8 Weekewachee Cir,Destin,FL,32541,4,6,4726,0.47000000000000003 acres,
+https://www.zillow.com/homedetails/138-Country-Club-Dr-W-Destin-FL-32541/45969501_zpid/,45969501,,SINGLE FAMILY,"$1,500,000",138 Country Club Dr W,Destin,FL,32541,5,4,3100,0.5 acres,5354
+https://www.zillow.com/homedetails/600-Gulf-Shore-Dr-UNIT-304-Destin-FL-32541/45975429_zpid/,45975429,,CONDO,"$640,000",600 Gulf Shore Dr UNIT 304,Destin,FL,32541,2,2,1050, ,
+https://www.zillow.com/homedetails/520-Gulf-Shore-Dr-UNIT-317-Destin-FL-32541/45974882_zpid/,45974882,,CONDO,"$799,000",520 Gulf Shore Dr UNIT 317,Destin,FL,32541,3,4,1870, ,
+https://www.zillow.com/homedetails/4020-Dancing-Cloud-Ct-UNIT-383-Destin-FL-32541/71357290_zpid/,71357290,,CONDO,"$282,000",4020 Dancing Cloud Ct UNIT 383,Destin,FL,32541,3,2,1254, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-4205-Destin-FL-32541/45971697_zpid/,45971697,,CONDO,"$299,900",775 Gulf Shore Dr UNIT 4205,Destin,FL,32541,1,1,635, ,1699
+https://www.zillow.com/homedetails/506-Gulf-Shore-Dr-UNIT-311-Destin-FL-32541/45978305_zpid/,45978305,,CONDO,"$655,000",506 Gulf Shore Dr UNIT 311,Destin,FL,32541,2,2,1362, ,
+https://www.zillow.com/homedetails/3928-Mesa-Rd-Destin-FL-32541/45969674_zpid/,45969674,,SINGLE FAMILY,"$499,000",3928 Mesa Rd,Destin,FL,32541,4,2,1946,6969.6 sqft,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1809-Destin-FL-32541/81822504_zpid/,81822504,,CONDO,"$399,000",4203 Indian Bayou Trl #1809,Destin,FL,32541,2,2,970, ,2018
+https://www.zillow.com/homedetails/222-Wekiva-Cv-Destin-FL-32541/67850356_zpid/,67850356,,SINGLE FAMILY,"$599,000",222 Wekiva Cv,Destin,FL,32541,4,2,2201,1306.8 sqft,
+https://www.zillow.com/homedetails/4797-Ocean-Blvd-Destin-FL-32541/45966074_zpid/,45966074,,SINGLE FAMILY,"$1,380,000",4797 Ocean Blvd,Destin,FL,32541,3,3,2394,2613.6 sqft,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-2082-Destin-FL-32541/45971966_zpid/,45971966,,CONDO,"$615,000",900 Gulf Shore Dr UNIT 2082,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-21005-Destin-FL-32541/81819097_zpid/,81819097,,CONDO,"$330,000",4207 Indian Bayou Trl #21005,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/151-Calhoun-Ave-UNIT-301-Destin-FL-32541/45972925_zpid/,45972925,,CONDO,"$379,000",151 Calhoun Ave UNIT 301,Destin,FL,32541,1,1,800, ,1800
+https://www.zillow.com/homedetails/600-Gulf-Shore-Dr-UNIT-501-Destin-FL-32541/45975440_zpid/,45975440,,CONDO,"$675,000",600 Gulf Shore Dr UNIT 501,Destin,FL,32541,2,2,1050, ,2207
+https://www.zillow.com/homedetails/10-Harbor-Blvd-E210-Destin-FL-32541/2069980025_zpid/,2069980025,,CONDO,"$729,900",10 Harbor Blvd #E210,Destin,FL,32541,3,3,1580,0.64 acres,
+https://www.zillow.com/homedetails/400-Mattie-M-Kelly-Blvd-7-Destin-FL-32541/338908892_zpid/,338908892,,TOWNHOUSE,"$425,000",400 Mattie M Kelly Blvd #7,Destin,FL,32541,3,3,1827, ,2653
+https://www.zillow.com/homedetails/3795-Highway-98-UNIT-2D-Destin-FL-32541/449377743_zpid/,449377743,,CONDO,"$398,000",3795 Highway 98 UNIT 2D,Destin,FL,32541,2,2,1121, ,
+https://www.zillow.com/homedetails/2934-Scenic-Highway-98-UNIT-301-Destin-FL-32541/45968355_zpid/,45968355,,CONDO,"$935,000",2934 Scenic Highway 98 UNIT 301,Destin,FL,32541,2,2,1223, ,2249
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-98-UNIT-308-Destin-FL-32541/2127214093_zpid/,2127214093,,CONDO,"$709,000",1751 Scenic Hwy 98 UNIT 308,Destin,FL,32541,3,2,1476, ,2472
+https://www.zillow.com/homedetails/662-Harbor-Blvd-UNIT-350-Destin-FL-32541/55744284_zpid/,55744284,,CONDO,"$1,199,000",662 Harbor Blvd UNIT 350,Destin,FL,32541,4,4,2995, ,
+https://www.zillow.com/homedetails/93-Woodward-St-Destin-FL-32541/45967410_zpid/,45967410,,SINGLE FAMILY,"$1,550,000",93 Woodward St,Destin,FL,32541,5,4,2400,7405.200000000001 sqft,
+https://www.zillow.com/homedetails/406-Lee-Ln-Destin-FL-32541/45972496_zpid/,45972496,,SINGLE FAMILY,"$475,000",406 Lee Ln,Destin,FL,32541,4,2,1572,0.26 acres,
+https://www.zillow.com/homedetails/4010-Dancing-Cloud-Ct-UNIT-400-Destin-FL-32541/71357263_zpid/,71357263,,CONDO,"$299,900",4010 Dancing Cloud Ct UNIT 400,Destin,FL,32541,3,2,1254, ,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-282-Destin-FL-32541/45968940_zpid/,45968940,,CONDO,"$290,000",4000 Gulf Terrace Dr UNIT 282,Destin,FL,32541,2,2,982, ,1975
+https://www.zillow.com/homedetails/601-Mountain-Dr-Destin-FL-32541/45973089_zpid/,45973089,,SINGLE FAMILY,"$439,999",601 Mountain Dr,Destin,FL,32541,3,2,1550,0.26 acres,
+https://www.zillow.com/homedetails/1050-Highway-98-E-1003E-Destin-FL-32541/2078253126_zpid/,2078253126,,CONDO,"$1,457,000",1050 Highway 98 E #1003E,Destin,FL,32541,3,3,1790, ,
+https://www.zillow.com/homedetails/169-Durango-Rd-Destin-FL-32541/45978469_zpid/,45978469,,TOWNHOUSE,"$945,000",169 Durango Rd,Destin,FL,32541,3,4,1516, ,4300
+https://www.zillow.com/homedetails/54-Terra-Cotta-Way-Destin-FL-32541/45972768_zpid/,45972768,,SINGLE FAMILY,"$1,145,000",54 Terra Cotta Way,Destin,FL,32541,4,4,2193,4356 sqft,4205
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-202-Destin-FL-32541/67855379_zpid/,67855379,,CONDO,"$675,000",15100 Emerald Coast Pkwy UNIT 202,Destin,FL,32541,2,2,1369, ,
+https://www.zillow.com/homedetails/83-Sunfish-St-Destin-FL-32541/45973029_zpid/,45973029,,SINGLE FAMILY,"$1,495,000",83 Sunfish St,Destin,FL,32541,5,3,2450,7405.2 sqft,5865
+https://www.zillow.com/homedetails/265-Chipola-Cv-Destin-FL-32541/67850363_zpid/,67850363,,SINGLE FAMILY,"$669,500",265 Chipola Cv,Destin,FL,32541,4,3,2411,8276.4 sqft,
+https://www.zillow.com/homedetails/4594-Nautical-Ct-Destin-FL-32541/67850310_zpid/,67850310,,SINGLE FAMILY,"$1,475,000",4594 Nautical Ct,Destin,FL,32541,5,3,3354,0.43 acres,4659
+https://www.zillow.com/homedetails/995-Airport-Rd-UNIT-28-Destin-FL-32541/195124733_zpid/,195124733,,TOWNHOUSE,"$450,000",995 Airport Rd UNIT 28,Destin,FL,32541,3,3,2075,1306.8 sqft,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-3053-Destin-FL-32541/45972014_zpid/,45972014,,CONDO,"$549,900",900 Gulf Shore Dr UNIT 3053,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-WET-C19-Destin-FL-32541/455239148_zpid/,455239148,,LOT,"$175,000",770 Harbor Blvd #WET-C19,Destin,FL,32541,,,,1045 sqft,
+https://www.zillow.com/homedetails/6341-Augusta-Cv-Destin-FL-32541/52954433_zpid/,52954433,,SINGLE FAMILY,"$1,299,000",6341 Augusta Cv,Destin,FL,32541,3,3,3772,0.6 acres,
+https://www.zillow.com/homedetails/508-Sibert-Ave-Destin-FL-32541/307867276_zpid/,307867276,,SINGLE FAMILY,"$994,900",508 Sibert Ave,Destin,FL,32541,4,4,2816,2613.6 sqft,
+https://www.zillow.com/homedetails/490-Regatta-Bay-Blvd-Destin-FL-32541/45971133_zpid/,45971133,,SINGLE FAMILY,"$1,599,000",490 Regatta Bay Blvd,Destin,FL,32541,4,5,4037,0.29 acres,
+https://www.zillow.com/homedetails/1700-Scenic-Highway-98-UNIT-101-Destin-FL-32541/45973208_zpid/,45973208,,CONDO,"$519,000",1700 Scenic Highway 98 UNIT 101,Destin,FL,32541,1,1,760, ,1633
+https://www.zillow.com/homedetails/294-Ketch-Ct-Destin-FL-32541/71351544_zpid/,71351544,,SINGLE FAMILY,"$1,399,000",294 Ketch Ct,Destin,FL,32541,4,4,3104,9147.6 sqft,
+https://www.zillow.com/homedetails/607-Magnolia-Dr-Destin-FL-32541/45977536_zpid/,45977536,,SINGLE FAMILY,"$1,599,000",607 Magnolia Dr,Destin,FL,32541,2,2,1373,0.27 acres,2841
+https://www.zillow.com/homedetails/601-3rd-Ave-Destin-FL-32541/440701555_zpid/,440701555,,SINGLE FAMILY,"$785,000",601 3rd Ave,Destin,FL,32541,4,3,2815,10454.4 sqft,
+https://www.zillow.com/homedetails/207-Kono-Way-Destin-FL-32541/103465495_zpid/,103465495,,SINGLE FAMILY,"$969,000",207 Kono Way,Destin,FL,32541,4,4,2040,1306.8 sqft,3732
+https://www.zillow.com/homedetails/125-Crystal-Beach-Dr-UNIT-133-Destin-FL-32541/245910109_zpid/,245910109,,SINGLE FAMILY,"$650,000",125 Crystal Beach Dr UNIT 133,Destin,FL,32541,3,3,1644,1742.4 sqft,3045
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-2411-Destin-FL-32541/81821900_zpid/,81821900,,CONDO,"$349,900",4207 Indian Bayou Trl #2411,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/85-Garnet-Pl-Destin-FL-32541/102983859_zpid/,102983859,,SINGLE FAMILY,"$1,348,000",85 Garnet Pl,Destin,FL,32541,3,3,2778,8712 sqft,
+https://www.zillow.com/homedetails/423-Maritime-Ct-Destin-FL-32541/45967050_zpid/,45967050,,SINGLE FAMILY,"$1,200,000",423 Maritime Ct,Destin,FL,32541,3,3,2605,0.42000000000000004 acres,
+https://www.zillow.com/homedetails/3705-Old-Highway-98-E-6-Destin-FL-32541/45972334_zpid/,45972334,,TOWNHOUSE,"$798,000",3705 Old Highway 98 E #6,Destin,FL,32541,2,3,1257,871.2 sqft,
+https://www.zillow.com/homedetails/480-Gulf-Shore-Dr-UNIT-410-Destin-FL-32541/45975506_zpid/,45975506,,CONDO,"$529,000",480 Gulf Shore Dr UNIT 410,Destin,FL,32541,2,2,895, ,
+https://www.zillow.com/homedetails/69-Garnet-Pl-Destin-FL-32541/45968679_zpid/,45968679,,SINGLE FAMILY,"$1,145,000",69 Garnet Pl,Destin,FL,32541,4,3,2509,8712 sqft,
+https://www.zillow.com/homedetails/92-Tarpon-St-Destin-FL-32541/45967466_zpid/,45967466,,SINGLE FAMILY,"$965,000",92 Tarpon St,Destin,FL,32541,4,4,1932,7405.2 sqft,
+https://www.zillow.com/homedetails/72-Tranquility-Ln-Destin-FL-32541/45965966_zpid/,45965966,,SINGLE FAMILY,"$1,500,000",72 Tranquility Ln,Destin,FL,32541,4,3,2323,10018.8 sqft,4362
+https://www.zillow.com/homedetails/4581-Wood-Wind-Dr-Destin-FL-32541/67850292_zpid/,67850292,,SINGLE FAMILY,"$938,000",4581 Wood Wind Dr,Destin,FL,32541,3,2,2133,4791.6 sqft,3215
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-159-Destin-FL-32541/45968866_zpid/,45968866,,CONDO,"$269,900",4000 Gulf Terrace Dr UNIT 159,Destin,FL,32541,2,1,982, ,1947
+https://www.zillow.com/homedetails/113-Durango-Rd-Destin-FL-32541/45977674_zpid/,45977674,,TOWNHOUSE,"$735,000",113 Durango Rd,Destin,FL,32541,3,3,1760, ,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-E409-Destin-FL-32541/441601069_zpid/,441601069,,CONDO,"$735,000",10 Harbor Blvd #E409,Destin,FL,32541,3,3,1566, ,
+https://www.zillow.com/homedetails/445-Gulf-Shore-Dr-UNIT-10-Destin-FL-32541/45975178_zpid/,45975178,,SINGLE FAMILY,"$999,900",445 Gulf Shore Dr UNIT 10,Destin,FL,32541,4,4,2415,1742.4 sqft,1751
+https://www.zillow.com/homedetails/3551-Scenic-Highway-98-UNIT-23-Destin-FL-32541/45966040_zpid/,45966040,,SINGLE FAMILY,"$1,350,000",3551 Scenic Highway 98 UNIT 23,Destin,FL,32541,4,4,1920,2613.6 sqft,3923
+https://www.zillow.com/homedetails/1030-Highway-98-UNIT-1401B-Destin-FL-32541/52954674_zpid/,52954674,,CONDO,"$709,000",1030 Highway 98 UNIT 1401B,Destin,FL,32541,2,2,1080, ,2164
+https://www.zillow.com/homedetails/4705-Seastar-Vis-Destin-FL-32541/45966108_zpid/,45966108,,SINGLE FAMILY,"$1,215,000",4705 Seastar Vis,Destin,FL,32541,4,3,2857,0.29 acres,
+https://www.zillow.com/homedetails/212-Harbor-Blvd-UNIT-205-Destin-FL-32541/45965819_zpid/,45965819,,CONDO,"$450,000",212 Harbor Blvd UNIT 205,Destin,FL,32541,2,2,1186, ,2430
+https://www.zillow.com/homedetails/4661-Windstarr-Dr-Destin-FL-32541/45966628_zpid/,45966628,,SINGLE FAMILY,"$625,000",4661 Windstarr Dr,Destin,FL,32541,3,2,1625,4791.6 sqft,2937
+https://www.zillow.com/homedetails/4765-Bonaire-Cay-Destin-FL-32541/45965987_zpid/,45965987,,SINGLE FAMILY,"$1,295,000",4765 Bonaire Cay,Destin,FL,32541,4,3,2744,9147.6 sqft,4972
+https://www.zillow.com/homedetails/506-Gulf-Shore-Dr-UNIT-617-Destin-FL-32541/45978368_zpid/,45978368,,CONDO,"$550,000",506 Gulf Shore Dr UNIT 617,Destin,FL,32541,2,2,1362, ,2328
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-1008-Destin-FL-32541/45968966_zpid/,45968966,,CONDO,"$224,900",4000 Gulf Terrace Dr UNIT 1008,Destin,FL,32541,2,1,980, ,1946
+https://www.zillow.com/homedetails/4466-Stonebridge-Rd-Destin-FL-32541/67851837_zpid/,67851837,,SINGLE FAMILY,"$1,375,000",4466 Stonebridge Rd,Destin,FL,32541,4,3,3043,0.52 acres,4732
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-504-Destin-FL-32541/449380517_zpid/,449380517,,CONDO,"$895,000",500 Gulf Shore Dr UNIT 504,Destin,FL,32541,3,3,1666, ,
+https://www.zillow.com/homedetails/211-Indian-Oaks-Dr-Destin-FL-32541/45973829_zpid/,45973829,,SINGLE FAMILY,"$350,000",211 Indian Oaks Dr,Destin,FL,32541,2,2,1107,2250 sqft,
+https://www.zillow.com/homedetails/3291-Scenic-Highway-98-UNIT-303-Destin-FL-32541/45967144_zpid/,45967144,,CONDO,"$525,000",3291 Scenic Highway 98 UNIT 303,Destin,FL,32541,2,2,1085, ,2306
+https://www.zillow.com/homedetails/69-Crystal-Beach-Dr-UNIT-10-A-Destin-FL-32541/446362718_zpid/,446362718,,SINGLE FAMILY,"$675,000",69 Crystal Beach Dr UNIT 10-A,Destin,FL,32541,2,2,1200,871.2 sqft,
+https://www.zillow.com/homedetails/416-Admiral-Ct-Destin-FL-32541/67850315_zpid/,67850315,,SINGLE FAMILY,"$1,475,000",416 Admiral Ct,Destin,FL,32541,4,3,3208,0.38 acres,5242
+https://www.zillow.com/homedetails/1700-Scenic-Highway-98-UNIT-106-Destin-FL-32541/45973213_zpid/,45973213,,CONDO,"$483,000",1700 Scenic Highway 98 UNIT 106,Destin,FL,32541,1,1,760, ,
+https://www.zillow.com/homedetails/1044-Highway-98-E-UNIT-806-Destin-FL-32541/45968569_zpid/,45968569,,CONDO,"$1,595,000",1044 Highway 98 E UNIT 806,Destin,FL,32541,3,3,1701, ,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-3071-Destin-FL-32541/45972024_zpid/,45972024,,CONDO,"$645,000",900 Gulf Shore Dr UNIT 3071,Destin,FL,32541,3,2,1800, ,
+https://www.zillow.com/homedetails/3587-Waverly-Cir-Destin-FL-32541/45974959_zpid/,45974959,,SINGLE FAMILY,"$1,400,000",3587 Waverly Cir,Destin,FL,32541,5,4,2695,4791.6 sqft,5000
+https://www.zillow.com/homedetails/4458-Clipper-Cv-Destin-FL-32541/45967608_zpid/,45967608,,SINGLE FAMILY,"$1,199,500",4458 Clipper Cv,Destin,FL,32541,4,2,1806,5227.2 sqft,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1908-Destin-FL-32541/81820948_zpid/,81820948,,CONDO,"$395,000",4203 Indian Bayou Trl #1908,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/4009-Dancing-Cloud-Ct-UNIT-28-Destin-FL-32541/71357148_zpid/,71357148,,CONDO,"$199,900",4009 Dancing Cloud Ct UNIT 28,Destin,FL,32541,1,1,743, ,
+https://www.zillow.com/homedetails/4490-Luke-Ave-Destin-FL-32541/45967563_zpid/,45967563,,SINGLE FAMILY,"$999,000",4490 Luke Ave,Destin,FL,32541,3,3,1299,6098.4 sqft,
+https://www.zillow.com/homedetails/3595-Waverly-Cir-Destin-FL-32541/67850457_zpid/,67850457,,SINGLE FAMILY,"$1,350,000",3595 Waverly Cir,Destin,FL,32541,4,4,2111,4791.6 sqft,
+https://www.zillow.com/homedetails/4100-Dancing-Cloud-Ct-UNIT-266-Destin-FL-32541/71357210_zpid/,71357210,,CONDO,"$249,900",4100 Dancing Cloud Ct UNIT 266,Destin,FL,32541,2,2,1018, ,1787
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-8101-Destin-FL-32541/45971570_zpid/,45971570,,CONDO,"$247,000",775 Gulf Shore Dr UNIT 8101,Destin,FL,32541,0,1,468, ,1532
+https://www.zillow.com/homedetails/602-Harbor-Blvd-UNIT-201-Destin-FL-32541/55744315_zpid/,55744315,,CONDO,"$1,119,000",602 Harbor Blvd UNIT 201,Destin,FL,32541,3,3,1797, ,
+https://www.zillow.com/homedetails/3695-Scenic-Highway-98-UNIT-703-Destin-FL-32541/55744352_zpid/,55744352,,TOWNHOUSE,"$774,900",3695 Scenic Highway 98 UNIT 703,Destin,FL,32541,3,3,2036, ,3083
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-GV25-Destin-FL-32541/2076858018_zpid/,2076858018,,CONDO,"$1,499,000",10 Harbor Blvd UNIT GV25,Destin,FL,32541,3,3,1739, ,
+https://www.zillow.com/homedetails/615-Beach-Dr-Destin-FL-32541/45970103_zpid/,45970103,,SINGLE FAMILY,"$699,000",615 Beach Dr,Destin,FL,32541,3,3,2055,0.37 acres,3429
+https://www.zillow.com/homedetails/4595-Sailmaker-Ln-Destin-FL-32541/71352555_zpid/,71352555,,SINGLE FAMILY,"$925,000",4595 Sailmaker Ln,Destin,FL,32541,3,3,2486,7405.2 sqft,3611
+https://www.zillow.com/homedetails/15300-Emerald-Coast-Pkwy-UNIT-406-Destin-FL-32541/52954706_zpid/,52954706,,CONDO,"$1,385,000",15300 Emerald Coast Pkwy UNIT 406,Destin,FL,32541,3,3,1873, ,
+https://www.zillow.com/homedetails/4637-Sunset-Pointe-Destin-FL-32541/45966918_zpid/,45966918,,SINGLE FAMILY,"$1,249,000",4637 Sunset Pointe,Destin,FL,32541,3,3,2488,9583.2 sqft,4251
+https://www.zillow.com/homedetails/22-Moreno-Point-Rd-UNIT-6-Destin-FL-32541/45978400_zpid/,45978400,,CONDO,"$429,900",22 Moreno Point Rd UNIT 6,Destin,FL,32541,2,2,1076, ,
+https://www.zillow.com/homedetails/428-Captains-Cir-Destin-FL-32541/71350805_zpid/,71350805,,SINGLE FAMILY,"$1,599,000",428 Captains Cir,Destin,FL,32541,3,3,3408,0.6643250688705234 acres,5534
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-38-Destin-FL-32541/45973474_zpid/,45973474,,CONDO,"$447,900",940 Highway 98 E UNIT 38,Destin,FL,32541,3,3,1289, ,2827
+https://www.zillow.com/homedetails/1008-Highway-98-E-UNIT-41-Destin-FL-32541/45967743_zpid/,45967743,,CONDO,"$869,900",1008 Highway 98 E UNIT 41,Destin,FL,32541,2,2,1328, ,
+https://www.zillow.com/homedetails/3655-Scenic-Highway-98-UNIT-503B-Destin-FL-32541/2077902720_zpid/,2077902720,,CONDO,"$589,900",3655 Scenic Highway 98 UNIT 503B,Destin,FL,32541,3,2,1740, ,2688
+https://www.zillow.com/homedetails/154-Bayou-Dr-Destin-FL-32541/45971064_zpid/,45971064,,TOWNHOUSE,"$270,000",154 Bayou Dr,Destin,FL,32541,2,2,1162,2178 sqft,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1617-Destin-FL-32541/81816511_zpid/,81816511,,CONDO,"$539,000",4203 Indian Bayou Trl #1617,Destin,FL,32541,3,2,1445, ,2574
+https://www.zillow.com/homedetails/212-Harbor-Blvd-UNIT-102-Destin-FL-32541/45965810_zpid/,45965810,,CONDO,"$534,900",212 Harbor Blvd UNIT 102,Destin,FL,32541,2,2,1128,0.84 acres,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-129-Destin-FL-32541/45969004_zpid/,45969004,,CONDO,"$227,000",4000 Gulf Terrace Dr UNIT 129,Destin,FL,32541,1,2,900, ,
+https://www.zillow.com/homedetails/3998-Lauren-Ct-Destin-FL-32541/45969160_zpid/,45969160,,SINGLE FAMILY,"$540,000",3998 Lauren Ct,Destin,FL,32541,4,2,1917,8276.4 sqft,
+https://www.zillow.com/homedetails/3600-Waverly-Cir-Destin-FL-32541/67850459_zpid/,67850459,,SINGLE FAMILY,"$1,175,000",3600 Waverly Cir,Destin,FL,32541,3,3,1993,4791.6 sqft,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-2092-Destin-FL-32541/45971461_zpid/,45971461,,CONDO,"$425,000",775 Gulf Shore Dr UNIT 2092,Destin,FL,32541,2,2,950, ,
+https://www.zillow.com/homedetails/4586-Wood-Wind-Dr-Destin-FL-32541/45966993_zpid/,45966993,,SINGLE FAMILY,"$1,048,000",4586 Wood Wind Dr,Destin,FL,32541,3,3,2365,5227.2 sqft,
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-98-UNIT-916-Destin-FL-32541/2130748077_zpid/,2130748077,,CONDO,"$600,000",1751 Scenic Hwy 98 UNIT 916,Destin,FL,32541,2,2,943, ,1910
+https://www.zillow.com/homedetails/1002-Highway-98-UNIT-312-Destin-FL-32541/45970684_zpid/,45970684,,CONDO,"$705,000",1002 Highway 98 UNIT 312,Destin,FL,32541,2,2,924, ,2017
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-UNIT-205B-Destin-FL-32541/45975095_zpid/,45975095,,CONDO,"$450,000",30 Moreno Point Rd UNIT 205B,Destin,FL,32541,2,2,1193, ,2583
+https://www.zillow.com/homedetails/4508-Luke-Ave-Destin-FL-32541/45967420_zpid/,45967420,,SINGLE FAMILY,"$1,295,000",4508 Luke Ave,Destin,FL,32541,4,3,1755,7405.2 sqft,
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-314-Destin-FL-32541/45976954_zpid/,45976954,,CONDO,"$447,500",502 Gulf Shore Dr UNIT 314,Destin,FL,32541,2,2,987, ,
+https://www.zillow.com/homedetails/6345-Augusta-Cv-Destin-FL-32541/52954432_zpid/,52954432,,SINGLE FAMILY,"$1,249,900",6345 Augusta Cv,Destin,FL,32541,3,3,3158,0.58 acres,4958
+https://www.zillow.com/homedetails/16-Court-Dr-Destin-FL-32541/45967873_zpid/,45967873,,TOWNHOUSE,"$330,000",16 Court Dr,Destin,FL,32541,3,3,1592, ,
+https://www.zillow.com/homedetails/1751-Scenic-Highway-98-UNIT-1017-Destin-FL-32541/447911373_zpid/,447911373,,CONDO,"$750,000",1751 Scenic Highway 98 UNIT 1017,Destin,FL,32541,2,2,1286, ,
+https://www.zillow.com/homedetails/4410-Stonebridge-Rd-Destin-FL-32541/71351704_zpid/,71351704,,SINGLE FAMILY,"$1,250,000",4410 Stonebridge Rd,Destin,FL,32541,3,3,2475,0.53 acres,
+https://www.zillow.com/homedetails/234-Kono-Way-Destin-FL-32541/87655395_zpid/,87655395,,SINGLE FAMILY,"$1,240,000",234 Kono Way,Destin,FL,32541,6,4,2600,1306.8 sqft,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-504-Destin-FL-32541/67855399_zpid/,67855399,,CONDO,"$700,000",15100 Emerald Coast Pkwy UNIT 504,Destin,FL,32541,2,2,1363, ,2331
+https://www.zillow.com/homedetails/122-Country-Club-Dr-W-Destin-FL-32541/45969460_zpid/,45969460,,SINGLE FAMILY,"$895,000",122 Country Club Dr W,Destin,FL,32541,3,3,2906,0.32999999999999996 acres,
+https://www.zillow.com/homedetails/5-Calhoun-Ave-UNIT-208-Destin-FL-32541/67855348_zpid/,67855348,,CONDO,"$879,000",5 Calhoun Ave UNIT 208,Destin,FL,32541,3,3,2142, ,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-1022-Destin-FL-32541/45971865_zpid/,45971865,,CONDO,"$695,900",900 Gulf Shore Dr UNIT 1022,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/3871-Indian-Trl-UNIT-2E-Destin-FL-32541/45973590_zpid/,45973590,,TOWNHOUSE,"$325,000",3871 Indian Trl UNIT 2E,Destin,FL,32541,3,2,1392, ,2434
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-21-Destin-FL-32541/45973453_zpid/,45973453,,TOWNHOUSE,"$439,000",940 Highway 98 E UNIT 21,Destin,FL,32541,3,3,1289,9.86 acres,
+https://www.zillow.com/homedetails/119-Country-Club-Dr-W-Destin-FL-32541/45969439_zpid/,45969439,,SINGLE FAMILY,"$949,900",119 Country Club Dr W,Destin,FL,32541,4,4,3153,0.49000000000000005 acres,5471
+https://www.zillow.com/homedetails/970-Highway-98-E-UNIT-1006-Destin-FL-32541/52954835_zpid/,52954835,,CONDO,"$390,000",970 Highway 98 E UNIT 1006,Destin,FL,32541,2,2,1072, ,
+https://www.zillow.com/homedetails/100-Beach-Dr-UNIT-7-Destin-FL-32541/2055864281_zpid/,2055864281,,SINGLE FAMILY,"$525,000",100 Beach Dr UNIT 7,Destin,FL,32541,3,3,1758, ,2307
+https://www.zillow.com/homedetails/1014-Airport-Rd-UNIT-153-Destin-FL-32541/87661493_zpid/,87661493,,TOWNHOUSE,"$317,500",1014 Airport Rd UNIT 153,Destin,FL,32541,3,2,1375,1306.8 sqft,
+https://www.zillow.com/homedetails/4080-Dancing-Cloud-Ct-UNIT-218-Destin-FL-32541/71357191_zpid/,71357191,,CONDO,"$230,000",4080 Dancing Cloud Ct UNIT 218,Destin,FL,32541,2,2,1013, ,1784
+https://www.zillow.com/homedetails/378-Terrapin-Trce-Destin-FL-32541/2065100092_zpid/,2065100092,,SINGLE FAMILY,"$1,250,000",378 Terrapin Trce,Destin,FL,32541,4,3,3308,0.3 acres,5083
+https://www.zillow.com/homedetails/125-Crystal-Beach-Dr-UNIT-140-Destin-FL-32541/245910114_zpid/,245910114,,TOWNHOUSE,"$675,000",125 Crystal Beach Dr UNIT 140,Destin,FL,32541,3,3,1641, ,2989
+https://www.zillow.com/homedetails/300-Gulf-Shore-Dr-UNIT-308-Destin-FL-32541/45977187_zpid/,45977187,,CONDO,"$500,000",300 Gulf Shore Dr UNIT 308,Destin,FL,32541,2,2,840, ,
+https://www.zillow.com/homedetails/228-Grand-Key-Loop-W-Destin-FL-32541/87654783_zpid/,87654783,,SINGLE FAMILY,"$1,085,000",228 Grand Key Loop W,Destin,FL,32541,6,4,2572,1306.8 sqft,
+https://www.zillow.com/homedetails/404-Kelly-Plantation-Dr-UNIT-1405-Destin-FL-32541/81816212_zpid/,81816212,,CONDO,"$1,495,000",404 Kelly Plantation Dr UNIT 1405,Destin,FL,32541,3,3,3008, ,4709
+https://www.zillow.com/homedetails/1014-Airport-Rd-UNIT-155-Destin-FL-32541/87653370_zpid/,87653370,,TOWNHOUSE,"$320,000",1014 Airport Rd UNIT 155,Destin,FL,32541,3,2,1375,1306.8 sqft,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-602-Destin-FL-32541/67855403_zpid/,67855403,,CONDO,"$699,000",15100 Emerald Coast Pkwy UNIT 602,Destin,FL,32541,2,2,1369, ,
+https://www.zillow.com/homedetails/3695-Scenic-Highway-98-UNIT-101-Destin-FL-32541/54705206_zpid/,54705206,,SINGLE FAMILY,"$975,000",3695 Scenic Highway 98 UNIT 101,Destin,FL,32541,3,3,1850,871.2 sqft,
+https://www.zillow.com/homedetails/300-Gulf-Shore-Dr-UNIT-106-Destin-FL-32541/45977165_zpid/,45977165,,CONDO,"$499,900",300 Gulf Shore Dr UNIT 106,Destin,FL,32541,2,2,840, ,
+https://www.zillow.com/homedetails/387-Twin-Lakes-Ln-Destin-FL-32541/67852969_zpid/,67852969,,TOWNHOUSE,"$359,900",387 Twin Lakes Ln,Destin,FL,32541,3,3,1560, ,2365
+https://www.zillow.com/homedetails/633-Emerald-Bay-Dr-Destin-FL-32541/45968657_zpid/,45968657,,SINGLE FAMILY,"$872,500",633 Emerald Bay Dr,Destin,FL,32541,3,3,2688,6969.6 sqft,3897
+https://www.zillow.com/homedetails/4075-Dancing-Cloud-Ct-UNIT-206-Destin-FL-32541/71357181_zpid/,71357181,,CONDO,"$255,000",4075 Dancing Cloud Ct UNIT 206,Destin,FL,32541,2,2,1013, ,2232
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-403-Destin-FL-32541/45975638_zpid/,45975638,,CONDO,"$680,000",100 Gulf Shore Dr UNIT 403,Destin,FL,32541,2,2,1500, ,2733
+https://www.zillow.com/homedetails/5-Calhoun-Ave-UNIT-505-Destin-FL-32541/67855245_zpid/,67855245,,CONDO,"$1,050,000",5 Calhoun Ave UNIT 505,Destin,FL,32541,3,3,2367, ,
+https://www.zillow.com/homedetails/432-Admiral-Ct-Destin-FL-32541/45967026_zpid/,45967026,,SINGLE FAMILY,"$1,586,000",432 Admiral Ct,Destin,FL,32541,5,4,4428,0.5 acres,
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-31-Destin-FL-32541/45973461_zpid/,45973461,,SINGLE FAMILY,"$480,000",940 Highway 98 E UNIT 31,Destin,FL,32541,3,3,1289,9.86 acres,
+https://www.zillow.com/homedetails/226-Indian-Oaks-Dr-226-Destin-FL-32541/2065085828_zpid/,2065085828,,TOWNHOUSE,"$270,000",226 Indian Oaks Dr #226,Destin,FL,32541,2,2,1060,2613.6 sqft,2090
+https://www.zillow.com/homedetails/1040-Highway-98-UNIT-1018-Destin-FL-32541/443772728_zpid/,443772728,,CONDO,"$674,000",1040 Highway 98 UNIT 1018,Destin,FL,32541,2,2,949, ,
+https://www.zillow.com/homedetails/125-Crystal-Beach-Dr-UNIT-106-Destin-FL-32541/245910095_zpid/,245910095,,TOWNHOUSE,"$679,000",125 Crystal Beach Dr UNIT 106,Destin,FL,32541,3,3,1661, ,3009
+https://www.zillow.com/homedetails/256-Kono-Way-Destin-FL-32541/87659253_zpid/,87659253,,SINGLE FAMILY,"$1,150,000",256 Kono Way,Destin,FL,32541,6,4,2600,1306.8 sqft,
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-114-Destin-FL-32541/45976936_zpid/,45976936,,CONDO,"$432,877",502 Gulf Shore Dr UNIT 114,Destin,FL,32541,2,2,987, ,1893
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-2096-Destin-FL-32541/45971469_zpid/,45971469,,CONDO,"$415,000",775 Gulf Shore Dr UNIT 2096,Destin,FL,32541,2,2,950, ,
+https://www.zillow.com/homedetails/4779-Bonaire-Cay-Destin-FL-32541/45966016_zpid/,45966016,,SINGLE FAMILY,"$1,149,999",4779 Bonaire Cay,Destin,FL,32541,4,3,2100,8276.4 sqft,
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-2406-Destin-FL-32541/81818091_zpid/,81818091,,CONDO,"$350,000",4207 Indian Bayou Trl #2406,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/3450-Us-Highway-98-W-UNIT-B103-Miramar-Beach-FL-32550/447642294_zpid/,447642294,,CONDO,"$599,900",3450 Us Highway 98 W UNIT B103,Miramar Beach,FL,32550,1,2,1100, ,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-112-Destin-FL-32541/45968987_zpid/,45968987,,CONDO,"$240,000",4000 Gulf Terrace Dr UNIT 112,Destin,FL,32541,2,1,982, ,1881
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-303-Destin-FL-32541/45975629_zpid/,45975629,,CONDO,"$979,000",100 Gulf Shore Dr UNIT 303,Destin,FL,32541,3,2,1490, ,
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-UNIT-203C-Destin-FL-32541/45975133_zpid/,45975133,,CONDO,"$395,900",30 Moreno Point Rd UNIT 203C,Destin,FL,32541,2,2,1193, ,2583
+https://www.zillow.com/homedetails/4030-Dancing-Cloud-Ct-UNIT-337-Destin-FL-32541/71327202_zpid/,71327202,,CONDO,"$198,500",4030 Dancing Cloud Ct UNIT 337,Destin,FL,32541,1,1,920, ,1644
+https://www.zillow.com/homedetails/204-Tahitian-Way-Destin-FL-32541/103472543_zpid/,103472543,,SINGLE FAMILY,"$925,000",204 Tahitian Way,Destin,FL,32541,4,4,2040,1306.8 sqft,3741
+https://www.zillow.com/homedetails/408-Kelly-Plantation-Dr-UNIT-810-Destin-FL-32541/87658329_zpid/,87658329,,CONDO,"$1,100,000",408 Kelly Plantation Dr UNIT 810,Destin,FL,32541,3,3,2649, ,4268
+https://www.zillow.com/homedetails/4819-Ocean-Blvd-Destin-FL-32541/45966068_zpid/,45966068,,SINGLE FAMILY,"$1,290,000",4819 Ocean Blvd,Destin,FL,32541,4,5,2200,2613.6 sqft,4472
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-1035-Destin-FL-32541/45971874_zpid/,45971874,,CONDO,"$649,900",900 Gulf Shore Dr UNIT 1035,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-604A-Destin-FL-32541/45976721_zpid/,45976721,,CONDO,"$369,900",500 Gulf Shore Dr UNIT 604A,Destin,FL,32541,1,1,636, ,1496
+https://www.zillow.com/homedetails/4492-Luke-Ave-Destin-FL-32541/45967564_zpid/,45967564,,SINGLE FAMILY,"$989,000",4492 Luke Ave,Destin,FL,32541,3,2,1399,6098.4 sqft,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-W1025-Destin-FL-32541/81815953_zpid/,81815953,,CONDO,"$1,275,000",10 Harbor Blvd UNIT W1025,Destin,FL,32541,3,3,1739, ,2456
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-503A-Destin-FL-32541/452098983_zpid/,452098983,,CONDO,"$965,000",725 Gulf Shore Dr UNIT 503A,Destin,FL,32541,3,4,2377, ,
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-701B-Destin-FL-32541/81819918_zpid/,81819918,,CONDO,"$949,900",725 Gulf Shore Dr UNIT 701B,Destin,FL,32541,3,3,2044, ,
+https://www.zillow.com/homedetails/4734-Amhurst-Cir-Destin-FL-32541/103471613_zpid/,103471613,,SINGLE FAMILY,"$724,900",4734 Amhurst Cir,Destin,FL,32541,4,4,2158,3049.2 sqft,1991
+https://www.zillow.com/homedetails/5-Calhoun-Ave-UNIT-203-Destin-FL-32541/67855345_zpid/,67855345,,CONDO,"$919,000",5 Calhoun Ave UNIT 203,Destin,FL,32541,3,3,2196, ,
+https://www.zillow.com/homedetails/501-Benning-Dr-Destin-FL-32541/103477074_zpid/,103477074,,SINGLE FAMILY,"$999,000",501 Benning Dr,Destin,FL,32541,3,4,3735,0.32 acres,
+https://www.zillow.com/homedetails/3755-Scenic-Highway-98-UNIT-604-Destin-FL-32541/45974296_zpid/,45974296,,CONDO,"$279,000",3755 Scenic Highway 98 UNIT 604,Destin,FL,32541,1,1,725, ,2043
+https://www.zillow.com/homedetails/1700-Scenic-Highway-98-UNIT-109-Destin-FL-32541/45973216_zpid/,45973216,,CONDO,"$505,000",1700 Scenic Highway 98 UNIT 109,Destin,FL,32541,1,1,760, ,
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-408-Destin-FL-32541/45976903_zpid/,45976903,,CONDO,"$539,000",502 Gulf Shore Dr UNIT 408,Destin,FL,32541,2,2,987, ,1879
+https://www.zillow.com/homedetails/2996-Scenic-Hwy-98-UNIT-403-Destin-FL-32541/2126842283_zpid/,2126842283,,CONDO,"$1,199,000",2996 Scenic Hwy 98 UNIT 403,Destin,FL,32541,2,2,1262, ,2252
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-306-Destin-FL-32541/67855389_zpid/,67855389,,CONDO,"$935,000",15100 Emerald Coast Pkwy UNIT 306,Destin,FL,32541,3,3,1804, ,
+https://www.zillow.com/homedetails/289-Mattie-M-Kelly-Blvd-Destin-FL-32541/71352542_zpid/,71352542,,TOWNHOUSE,"$346,000",289 Mattie M Kelly Blvd,Destin,FL,32541,3,3,1543,1742.4 sqft,2749
+https://www.zillow.com/homedetails/91-Cayman-Cv-Destin-FL-32541/45966956_zpid/,45966956,,SINGLE FAMILY,"$1,250,000",91 Cayman Cv,Destin,FL,32541,3,4,2446,5662.8 sqft,
+https://www.zillow.com/homedetails/3861-Indian-Trl-UNIT-104-Destin-FL-32541/45970393_zpid/,45970393,,TOWNHOUSE,"$329,900",3861 Indian Trl UNIT 104,Destin,FL,32541,2,3,1600,871.2 sqft,2516
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1310-Destin-FL-32541/81817500_zpid/,81817500,,CONDO,"$319,000",4203 Indian Bayou Trl #1310,Destin,FL,32541,2,2,970, ,2018
+https://www.zillow.com/homedetails/113-Fletcher-Way-Destin-FL-32541/440701572_zpid/,440701572,,SINGLE FAMILY,"$677,900",113 Fletcher Way,Destin,FL,32541,4,2,1926,6098.4 sqft,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-7201-Destin-FL-32541/45971673_zpid/,45971673,,CONDO,"$399,000",775 Gulf Shore Dr UNIT 7201,Destin,FL,32541,2,2,950, ,
+https://www.zillow.com/homedetails/3291-Scenic-Highway-98-UNIT-101-Destin-FL-32541/45967117_zpid/,45967117,,CONDO,"$548,000",3291 Scenic Highway 98 UNIT 101,Destin,FL,32541,2,2,1077, ,2298
+https://www.zillow.com/homedetails/10-Harbor-Blvd-W221-Destin-FL-32541/81820478_zpid/,81820478,,CONDO,"$615,000",10 Harbor Blvd #W221,Destin,FL,32541,2,2,1249, ,
+https://www.zillow.com/homedetails/223-Durango-Rd-UNIT-3C-Destin-FL-32541/45975555_zpid/,45975555,,CONDO,"$999,000",223 Durango Rd UNIT 3C,Destin,FL,32541,2,2,1520, ,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-PARKWAY-PH-2-Destin-FL-32541/439166599_zpid/,439166599,,CONDO,"$1,339,000",15100 Emerald Coast Pkwy UNIT PARKWAY PH 2,Destin,FL,32541,4,3,2493, ,
+https://www.zillow.com/homedetails/3695-Scenic-Highway-98-UNIT-1002-Destin-FL-32541/67851855_zpid/,67851855,,SINGLE FAMILY,"$675,000",3695 Scenic Highway 98 UNIT 1002,Destin,FL,32541,2,3,1536,1306.8 sqft,
+https://www.zillow.com/homedetails/140-Sibert-Ave-1-Destin-FL-32541/338909386_zpid/,338909386,,SINGLE FAMILY,"$545,000",140 Sibert Ave #1,Destin,FL,32541,3,3,1915, ,2987
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-W1123-Destin-FL-32541/81815577_zpid/,81815577,,CONDO,"$675,000",10 Harbor Blvd UNIT W1123,Destin,FL,32541,2,2,1254, ,1941
+https://www.zillow.com/homedetails/940-E-98th-Hwy-120-Destin-FL-32541/447600106_zpid/,447600106,,CONDO,"$699,000",940 E 98th Hwy #120,Destin,FL,32541,3,3,1289, ,
+https://www.zillow.com/homedetails/1014-Airport-Rd-UNIT-163-Destin-FL-32541/87665735_zpid/,87665735,,TOWNHOUSE,"$329,000",1014 Airport Rd UNIT 163,Destin,FL,32541,3,2,1375,1306.8 sqft,2122
+https://www.zillow.com/homedetails/1048-Highway-98-106-Destin-FL-32541/63839885_zpid/,63839885,,CONDO,"$1,199,000",1048 Highway 98 #106,Destin,FL,32541,2,2,1672,0.37 acres,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-2101-Destin-FL-32541/45971977_zpid/,45971977,,CONDO,"$850,000",900 Gulf Shore Dr UNIT 2101,Destin,FL,32541,3,2,1627, ,
+https://www.zillow.com/homedetails/1080-Highway-98-E-UNIT-306-Destin-FL-32541/45972598_zpid/,45972598,,CONDO,"$825,000",1080 Highway 98 E UNIT 306,Destin,FL,32541,2,2,1200, ,2312
+https://www.zillow.com/homedetails/10-Harbor-Blvd-W128-Destin-FL-32541/81820971_zpid/,81820971,,CONDO,"$789,000",10 Harbor Blvd #W128,Destin,FL,32541,3,3,1566, ,2343
+https://www.zillow.com/homedetails/211-Grand-Key-Loop-E-Destin-FL-32541/87666552_zpid/,87666552,,SINGLE FAMILY,"$1,090,000",211 Grand Key Loop E,Destin,FL,32541,5,4,2769,1170 sqft,
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-2204-Destin-FL-32541/81821342_zpid/,81821342,,CONDO,"$329,000",4207 Indian Bayou Trl #2204,Destin,FL,32541,2,2,970, ,2018
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-208B-Destin-FL-32541/45976598_zpid/,45976598,,CONDO,"$570,000",500 Gulf Shore Dr UNIT 208B,Destin,FL,32541,2,2,1036, ,1928
+https://www.zillow.com/homedetails/197-Durango-Rd-UNIT-2B-Destin-FL-32541/45978236_zpid/,45978236,,CONDO,"$499,000",197 Durango Rd UNIT 2B,Destin,FL,32541,2,2,1356, ,3230
+https://www.zillow.com/homedetails/186-Durango-Rd-Destin-FL-32541/45975415_zpid/,45975415,,TOWNHOUSE,"$475,000",186 Durango Rd,Destin,FL,32541,2,3,1500,1306.8 sqft,
+https://www.zillow.com/homedetails/211-Durango-Rd-UNIT-615-Destin-FL-32541/87650335_zpid/,87650335,,CONDO,"$699,000",211 Durango Rd UNIT 615,Destin,FL,32541,2,2,1390, ,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1909-Destin-FL-32541/81821677_zpid/,81821677,,CONDO,"$315,000",4203 Indian Bayou Trl #1909,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-1001-Destin-FL-32541/67855432_zpid/,67855432,,CONDO,"$1,175,000",15100 Emerald Coast Pkwy UNIT 1001,Destin,FL,32541,3,3,1804, ,2929
+https://www.zillow.com/homedetails/4371-Bahia-Ln-Destin-FL-32541/303895592_zpid/,303895592,,TOWNHOUSE,"$1,075,000",4371 Bahia Ln,Destin,FL,32541,3,4,2639,3049.2 sqft,4551
+https://www.zillow.com/homedetails/4789-Bonaire-Cay-Destin-FL-32541/45966012_zpid/,45966012,,SINGLE FAMILY,"$1,149,000",4789 Bonaire Cay,Destin,FL,32541,3,3,2244,5662.8 sqft,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-231-Destin-FL-32541/45969054_zpid/,45969054,,CONDO,"$233,000",4000 Gulf Terrace Dr UNIT 231,Destin,FL,32541,1,1,834, ,1727
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-518A-Destin-FL-32541/45976709_zpid/,45976709,,CONDO,"$329,000",500 Gulf Shore Dr UNIT 518A,Destin,FL,32541,1,1,636, ,1496
+https://www.zillow.com/homedetails/3655-Scenic-Highway-98-UNIT-501A-Destin-FL-32541/2065073808_zpid/,2065073808,,CONDO,"$449,000",3655 Scenic Highway 98 UNIT 501A,Destin,FL,32541,2,2,1262, ,2179
+https://www.zillow.com/homedetails/4741-Papaya-Park-Destin-FL-32541/45966137_zpid/,45966137,,SINGLE FAMILY,"$929,999",4741 Papaya Park,Destin,FL,32541,3,2,1943,9100 sqft,
+https://www.zillow.com/homedetails/970-Us-Highway-98-W-UNIT-205-Miramar-Beach-FL-32550/2076090146_zpid/,2076090146,,CONDO,"$418,999",970 Us Highway 98 W UNIT 205,Miramar Beach,FL,32550,2,2,1072, ,
+https://www.zillow.com/homedetails/140-Sibert-Ave-16-Destin-FL-32541/338909232_zpid/,338909232,,SINGLE FAMILY,"$540,000",140 Sibert Ave #16,Destin,FL,32541,3,3,1962, ,3106
+https://www.zillow.com/homedetails/4761-Calatrava-Ct-Destin-FL-32541/45972789_zpid/,45972789,,SINGLE FAMILY,"$719,000",4761 Calatrava Ct,Destin,FL,32541,2,2,1420,5227.2 sqft,
+https://www.zillow.com/homedetails/3450-Highway-98-E-B106-Destin-FL-32541/2054221201_zpid/,2054221201,,CONDO,"$570,000",3450 Highway 98 E #B106,Destin,FL,32541,2,1,1100, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-3100-Destin-FL-32541/45971521_zpid/,45971521,,CONDO,"$424,900",775 Gulf Shore Dr UNIT 3100,Destin,FL,32541,2,2,950, ,
+https://www.zillow.com/homedetails/4724-Serendipity-Point-Destin-FL-32541/45965963_zpid/,45965963,,SINGLE FAMILY,"$1,550,000",4724 Serendipity Point,Destin,FL,32541,6,6,3393,9583.2 sqft,6186
+https://www.zillow.com/homedetails/4497-Clipper-Cv-Destin-FL-32541/45967568_zpid/,45967568,,SINGLE FAMILY,"$1,050,000",4497 Clipper Cv,Destin,FL,32541,3,2,1805,4800 sqft,2869
+https://www.zillow.com/homedetails/940-Highway-98-E-UNIT-106-Destin-FL-32541/45973553_zpid/,45973553,,CONDO,"$649,900",940 Highway 98 E UNIT 106,Destin,FL,32541,3,3,1289, ,
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-UNIT-303A-Destin-FL-32541/45975059_zpid/,45975059,,CONDO,"$399,000",30 Moreno Point Rd UNIT 303A,Destin,FL,32541,2,2,1169, ,2552
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-3044-Destin-FL-32541/45972009_zpid/,45972009,,CONDO,"$549,000",900 Gulf Shore Dr UNIT 3044,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-98-UNIT-715-Destin-FL-32541/2132065254_zpid/,2132065254,,CONDO,"$529,000",1751 Scenic Hwy 98 UNIT 715,Destin,FL,32541,2,2,943, ,
+https://www.zillow.com/homedetails/3755-Scenic-Highway-98-UNIT-902-Destin-FL-32541/45974334_zpid/,45974334,,CONDO,"$399,000",3755 Scenic Highway 98 UNIT 902,Destin,FL,32541,2,2,1095, ,
+https://www.zillow.com/homedetails/4701-Seastar-Vis-Destin-FL-32541/87666680_zpid/,87666680,,SINGLE FAMILY,"$1,545,000",4701 Seastar Vis,Destin,FL,32541,5,5,4183,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/3850-Indian-Trl-APT-205-Destin-FL-32541/45966280_zpid/,45966280,,CONDO,"$285,000",3850 Indian Trl APT 205,Destin,FL,32541,1,1,1055, ,
+https://www.zillow.com/homedetails/1006-Highway-98-E-114-Destin-FL-32541/45971152_zpid/,45971152,,CONDO,"$399,900",1006 Highway 98 E #114,Destin,FL,32541,2,2,936, ,
+https://www.zillow.com/homedetails/1700-Scenic-Highway-98-UNIT-107-Destin-FL-32541/45973214_zpid/,45973214,,CONDO,"$515,000",1700 Scenic Highway 98 UNIT 107,Destin,FL,32541,1,1,760, ,1599
+https://www.zillow.com/homedetails/970-Highway-98-UNIT-1105-Destin-FL-32541/449122077_zpid/,449122077,,CONDO,"$485,000",970 Highway 98 UNIT 1105,Destin,FL,32541,2,2,1072, ,
+https://www.zillow.com/homedetails/1006-Highway-98-E-131-Destin-FL-32541/45971156_zpid/,45971156,,CONDO,"$499,900",1006 Highway 98 E #131,Destin,FL,32541,3,2,1029, ,2269
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-98-UNIT-207-Destin-FL-32541/2082328170_zpid/,2082328170,,CONDO,"$524,500",1751 Scenic Hwy 98 UNIT 207,Destin,FL,32541,2,2,1374, ,2198
+https://www.zillow.com/homedetails/970-Highway-98-UNIT-1203-Destin-FL-32541/444448367_zpid/,444448367,,CONDO,"$485,000",970 Highway 98 UNIT 1203,Destin,FL,32541,2,2,1070, ,
+https://www.zillow.com/homedetails/1030-Highway-98-UNIT-204D-Destin-FL-32541/45972411_zpid/,45972411,,CONDO,"$565,000",1030 Highway 98 UNIT 204D,Destin,FL,32541,2,2,980, ,
+https://www.zillow.com/homedetails/1030-Highway-98-203D-Destin-FL-32541/45972410_zpid/,45972410,,CONDO,"$519,900",1030 Highway 98 #203D,Destin,FL,32541,2,2,960, ,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-PENTHOUSE-4-Destin-FL-32541/67855429_zpid/,67855429,,CONDO,"$1,499,990",15100 Emerald Coast Pkwy PENTHOUSE 4,Destin,FL,32541,4,3,2480, ,
+https://www.zillow.com/homedetails/4589-Wood-Wind-Dr-Destin-FL-32541/67850290_zpid/,67850290,,SINGLE FAMILY,"$1,199,900",4589 Wood Wind Dr,Destin,FL,32541,4,3,2530,6098.4 sqft,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-904E-Destin-FL-32541/2100281524_zpid/,2100281524,,CONDO,"$735,000",10 Harbor Blvd #904E,Destin,FL,32541,3,2,1220, ,2071
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-202-Destin-FL-32541/45975616_zpid/,45975616,,CONDO,"$615,000",100 Gulf Shore Dr UNIT 202,Destin,FL,32541,2,2,1050, ,2222
+https://www.zillow.com/homedetails/510-Gulf-Shore-Dr-UNIT-117-Destin-FL-32541/45976393_zpid/,45976393,,CONDO,"$459,000",510 Gulf Shore Dr UNIT 117,Destin,FL,32541,1,1,750, ,
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-PENTHOUSE-701C-Destin-FL-32541/45975161_zpid/,45975161,,CONDO,"$884,900",30 Moreno Point Rd PENTHOUSE 701C,Destin,FL,32541,3,2,1870, ,
+https://www.zillow.com/homedetails/710-Legion-Dr-UNIT-O3-Destin-FL-32541/45969606_zpid/,45969606,,TOWNHOUSE,"$235,000",710 Legion Dr UNIT O3,Destin,FL,32541,2,1,850,1306.8 sqft,
+https://www.zillow.com/homedetails/4644-Sunsail-Cir-Destin-FL-32541/45966656_zpid/,45966656,,SINGLE FAMILY,"$625,000",4644 Sunsail Cir,Destin,FL,32541,3,2,1651,5227.2 sqft,2989
+https://www.zillow.com/homedetails/4362-Filly-Ln-Destin-FL-32541/121244384_zpid/,121244384,,SINGLE FAMILY,"$1,150,000",4362 Filly Ln,Destin,FL,32541,4,4,2992,7405.2 sqft,4101
+https://www.zillow.com/homedetails/1008-Highway-98-E-UNIT-83-Destin-FL-32541/45967757_zpid/,45967757,,CONDO,"$894,000",1008 Highway 98 E UNIT 83,Destin,FL,32541,2,2,1306, ,2210
+https://www.zillow.com/homedetails/4767-Bonaire-Cay-Destin-FL-32541/45965988_zpid/,45965988,,SINGLE FAMILY,"$1,495,000",4767 Bonaire Cay,Destin,FL,32541,4,3,2553, ,
+https://www.zillow.com/homedetails/140-Sibert-Ave-3-Destin-FL-32541/338909171_zpid/,338909171,,SINGLE FAMILY,"$540,000",140 Sibert Ave #3,Destin,FL,32541,3,3,1915, ,2987
+https://www.zillow.com/homedetails/173-Durango-Rd-Destin-FL-32541/45978471_zpid/,45978471,,TOWNHOUSE,"$1,250,000",173 Durango Rd,Destin,FL,32541,2,3,1384, ,
+https://www.zillow.com/homedetails/22-Moreno-Point-Rd-UNIT-14-Destin-FL-32541/45978408_zpid/,45978408,,CONDO,"$415,000",22 Moreno Point Rd UNIT 14,Destin,FL,32541,2,2,1076, ,
+https://www.zillow.com/homedetails/674-Emerald-Bay-Dr-Destin-FL-32541/45968665_zpid/,45968665,,SINGLE FAMILY,"$868,000",674 Emerald Bay Dr,Destin,FL,32541,3,3,1984,6534 sqft,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-W1021-Destin-FL-32541/81819078_zpid/,81819078,,CONDO,"$750,000",10 Harbor Blvd UNIT W1021,Destin,FL,32541,3,2,1306, ,
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-504A-Destin-FL-32541/81815865_zpid/,81815865,,CONDO,"$1,150,000",725 Gulf Shore Dr UNIT 504A,Destin,FL,32541,3,4,2388, ,4656
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-31-Destin-FL-32541/45971514_zpid/,45971514,,CONDO,"$659,900",775 Gulf Shore Dr UNIT 31,Destin,FL,32541,3,2,1468, ,2680
+https://www.zillow.com/homedetails/100-Matthew-Blvd-UNIT-213-Destin-FL-32541/251988597_zpid/,251988597,,CONDO,"$919,000",100 Matthew Blvd UNIT 213,Destin,FL,32541,2,2,1280, ,2549
+https://www.zillow.com/homedetails/300-Gulf-Shore-Dr-UNIT-103-Destin-FL-32541/45977162_zpid/,45977162,,CONDO,"$465,000",300 Gulf Shore Dr UNIT 103,Destin,FL,32541,2,2,840, ,
+https://www.zillow.com/homedetails/4075-Dancing-Cloud-Ct-UNIT-197-Destin-FL-32541/71357173_zpid/,71357173,,CONDO,"$269,000",4075 Dancing Cloud Ct UNIT 197,Destin,FL,32541,2,2,1013, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-3210-Destin-FL-32541/45971543_zpid/,45971543,,CONDO,"$380,000",775 Gulf Shore Dr UNIT 3210,Destin,FL,32541,2,2,950, ,
+https://www.zillow.com/homedetails/995-Airport-Rd-UNIT-9-Destin-FL-32541/195124423_zpid/,195124423,,TOWNHOUSE,"$490,000",995 Airport Rd UNIT 9,Destin,FL,32541,3,3,2150, ,
+https://www.zillow.com/homedetails/4009-Dancing-Cloud-Ct-UNIT-48-Destin-FL-32541/71357168_zpid/,71357168,,CONDO,"$229,900",4009 Dancing Cloud Ct UNIT 48,Destin,FL,32541,2,2,1013, ,1784
+https://www.zillow.com/homedetails/213-Grand-Key-Loop-E-Destin-FL-32541/87651751_zpid/,87651751,,SINGLE FAMILY,"$1,300,000",213 Grand Key Loop E,Destin,FL,32541,5,4,2769,1306.8 sqft,4196
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-35-Destin-FL-32541/45971518_zpid/,45971518,,CONDO,"$649,000",775 Gulf Shore Dr UNIT 35,Destin,FL,32541,3,2,1468, ,
+https://www.zillow.com/homedetails/4643-Windstarr-Dr-Destin-FL-32541/45966619_zpid/,45966619,,SINGLE FAMILY,"$664,900",4643 Windstarr Dr,Destin,FL,32541,3,2,2129,5227.2 sqft,
+https://www.zillow.com/homedetails/970-Highway-98-E-UNIT-202-Destin-FL-32541/52954776_zpid/,52954776,,CONDO,"$488,000",970 Highway 98 E UNIT 202,Destin,FL,32541,2,2,1072, ,2170
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-118A-Destin-FL-32541/45976581_zpid/,45976581,,CONDO,"$348,000",500 Gulf Shore Dr UNIT 118A,Destin,FL,32541,1,1,616, ,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-UNIT-5H-Destin-FL-32541/71357078_zpid/,71357078,,CONDO,"$865,000",770 Harbor Blvd UNIT 5H,Destin,FL,32541,3,3,2038, ,3959
+https://www.zillow.com/homedetails/770-Harbor-Blvd-UNIT-1D-Destin-FL-32541/71357042_zpid/,71357042,,CONDO,"$799,000",770 Harbor Blvd UNIT 1D,Destin,FL,32541,3,3,2038, ,
+https://www.zillow.com/homedetails/1002-Us-Highway-98-W-1901-Miramar-Beach-FL-32550/454582122_zpid/,454582122,,CONDO,"$900,000",1002 Us Highway 98 W #1901,Miramar Beach,FL,32550,2,2,1144, ,
+https://www.zillow.com/homedetails/1044-Highway-98-E-UNIT-405-Destin-FL-32541/45968544_zpid/,45968544,,CONDO,"$825,000",1044 Highway 98 E UNIT 405,Destin,FL,32541,2,2,1126, ,
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-301-Destin-FL-32541/67855384_zpid/,67855384,,CONDO,"$934,000",15100 Emerald Coast Pkwy UNIT 301,Destin,FL,32541,3,3,1804, ,2929
+https://www.zillow.com/homedetails/1030-Highway-98-6-Destin-FL-32541/45972350_zpid/,45972350,,CONDO,"$477,500",1030 Highway 98 #6,Destin,FL,32541,2,2,960, ,1963
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-21113-Destin-FL-32541/81815849_zpid/,81815849,,CONDO,"$349,000",4207 Indian Bayou Trl #21113,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/1014-Airport-Rd-UNIT-123-Destin-FL-32541/87660418_zpid/,87660418,,TOWNHOUSE,"$337,000",1014 Airport Rd UNIT 123,Destin,FL,32541,3,2,1375, ,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1601-Destin-FL-32541/81820761_zpid/,81820761,,CONDO,"$399,000",4203 Indian Bayou Trl #1601,Destin,FL,32541,2,2,1175, ,
+https://www.zillow.com/homedetails/970-Highway-98-UNIT-305-Destin-FL-32541/450465104_zpid/,450465104,,CONDO,"$400,000",970 Highway 98 UNIT 305,Destin,FL,32541,2,2,1072, ,
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-205-Destin-FL-32541/45976882_zpid/,45976882,,CONDO,"$500,000",502 Gulf Shore Dr UNIT 205,Destin,FL,32541,2,2,987, ,1879
+https://www.zillow.com/homedetails/3857-Indian-Trl-UNIT-203-Destin-FL-32541/452655271_zpid/,452655271,,CONDO,"$409,900",3857 Indian Trl UNIT 203,Destin,FL,32541,2,2,1029, ,
+https://www.zillow.com/homedetails/25-Court-Dr-Destin-FL-32541/45967882_zpid/,45967882,,TOWNHOUSE,"$337,500",25 Court Dr,Destin,FL,32541,3,4,1488,871.2 sqft,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1603-Destin-FL-32541/81816168_zpid/,81816168,,CONDO,"$309,000",4203 Indian Bayou Trl #1603,Destin,FL,32541,2,2,970, ,2018
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-106-Destin-FL-32541/45975609_zpid/,45975609,,CONDO,"$599,000",100 Gulf Shore Dr UNIT 106,Destin,FL,32541,2,2,1050, ,2222
+https://www.zillow.com/homedetails/103-Cayman-Cv-Destin-FL-32541/45966950_zpid/,45966950,,SINGLE FAMILY,"$925,000",103 Cayman Cv,Destin,FL,32541,3,3,1988,6098.4 sqft,3519
+https://www.zillow.com/homedetails/4604-Paradise-Isle-Destin-FL-32541/45966928_zpid/,45966928,,SINGLE FAMILY,"$1,100,000",4604 Paradise Isle,Destin,FL,32541,3,2,2170, ,
+https://www.zillow.com/homedetails/500-Gulf-Shore-Dr-UNIT-117B-Destin-FL-32541/45976580_zpid/,45976580,,CONDO,"$649,400",500 Gulf Shore Dr UNIT 117B,Destin,FL,32541,2,2,1030, ,1923
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-2065-Destin-FL-32541/45971413_zpid/,45971413,,CONDO,"$299,500",775 Gulf Shore Dr UNIT 2065,Destin,FL,32541,1,1,708, ,
+https://www.zillow.com/homedetails/226-Grand-Key-Loop-Destin-FL-32541/440916908_zpid/,440916908,,SINGLE FAMILY,"$1,200,000",226 Grand Key Loop,Destin,FL,32541,6,4,2600,3920.4 sqft,
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-98-UNIT-404-Destin-FL-32541/2126458435_zpid/,2126458435,,CONDO,"$1,180,000",1751 Scenic Hwy 98 UNIT 404,Destin,FL,32541,3,3,2324, ,3313
+https://www.zillow.com/homedetails/3695-Scenic-Highway-98-UNIT-1001-Destin-FL-32541/67851854_zpid/,67851854,,TOWNHOUSE,"$550,000",3695 Scenic Highway 98 UNIT 1001,Destin,FL,32541,2,3,1536,1306.8 sqft,3050
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-1037-Destin-FL-32541/2065080150_zpid/,2065080150,,CONDO,"$350,000",775 Gulf Shore Dr #1037,Destin,FL,32541,1,1,629, ,
+https://www.zillow.com/homedetails/4660-Sunsail-Cir-Destin-FL-32541/45966648_zpid/,45966648,,SINGLE FAMILY,"$749,000",4660 Sunsail Cir,Destin,FL,32541,3,2,1830,6969.6 sqft,
+https://www.zillow.com/homedetails/1002-Highway-98-UNIT-810-Destin-FL-32541/45970772_zpid/,45970772,,CONDO,"$585,000",1002 Highway 98 UNIT 810,Destin,FL,32541,1,1,775, ,
+https://www.zillow.com/homedetails/1040-Highway-98-UNIT-615-Destin-FL-32541/446050269_zpid/,446050269,,CONDO,"$450,000",1040 Highway 98 UNIT 615,Destin,FL,32541,1,2,766, ,
+https://www.zillow.com/homedetails/506-Gulf-Shore-Dr-UNIT-107-Destin-FL-32541/45978263_zpid/,45978263,,CONDO,"$700,000",506 Gulf Shore Dr UNIT 107,Destin,FL,32541,2,2,1362, ,
+https://www.zillow.com/homedetails/995-Airport-Rd-UNIT-37-Destin-FL-32541/195124676_zpid/,195124676,,TOWNHOUSE,"$439,000",995 Airport Rd UNIT 37,Destin,FL,32541,3,3,2044,1306.8 sqft,
+https://www.zillow.com/homedetails/1010-Highway-98-E-UNIT-303-Destin-FL-32541/45965858_zpid/,45965858,,CONDO,"$1,199,750",1010 Highway 98 E UNIT 303,Destin,FL,32541,3,2,1453, ,2646
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-208-Destin-FL-32541/45976885_zpid/,45976885,,CONDO,"$525,000",502 Gulf Shore Dr UNIT 208,Destin,FL,32541,2,2,987, ,
+https://www.zillow.com/homedetails/224-Talquin-Cv-Destin-FL-32541/67850369_zpid/,67850369,,SINGLE FAMILY,"$550,000",224 Talquin Cv,Destin,FL,32541,3,2,1943,10454.4 sqft,
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-304B-Destin-FL-32541/81820041_zpid/,81820041,,CONDO,"$599,000",725 Gulf Shore Dr UNIT 304B,Destin,FL,32541,2,2,1531, ,3281
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-122-Destin-FL-32541/45968997_zpid/,45968997,,CONDO,"$300,000",4000 Gulf Terrace Dr UNIT 122,Destin,FL,32541,2,1,1050, ,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-108-Destin-FL-32541/87653650_zpid/,87653650,,CONDO,"$875,000",10 Harbor Blvd #108,Destin,FL,32541,3,3,1566, ,
+https://www.zillow.com/homedetails/970-Highway-98-901-Destin-FL-32541/446060632_zpid/,446060632,,CONDO,"$650,000",970 Highway 98 #901,Destin,FL,32541,3,3,1400, ,
+https://www.zillow.com/homedetails/1751-Scenic-Highway-98-E-508-Destin-FL-32541/60188030_zpid/,60188030,,CONDO,"$915,000",1751 Scenic Highway 98 E #508,Destin,FL,32541,3,2,1453,8.37 acres,2532
+https://www.zillow.com/homedetails/1002-Highway-98-UNIT-2003-Destin-FL-32541/45970963_zpid/,45970963,,CONDO,"$595,000",1002 Highway 98 UNIT 2003,Destin,FL,32541,1,2,775, ,
+https://www.zillow.com/homedetails/502-Gulf-Shore-Dr-UNIT-715-Destin-FL-32541/45976991_zpid/,45976991,,CONDO,"$484,000",502 Gulf Shore Dr UNIT 715,Destin,FL,32541,2,2,987, ,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-C5-Destin-FL-32541/383909176_zpid/,383909176,,LOT,"$177,700",770 Harbor Blvd #C5,Destin,FL,32541,,,,1045 sqft,
+https://www.zillow.com/homedetails/4596-Paradise-Isle-Destin-FL-32541/103476774_zpid/,103476774,,SINGLE FAMILY,"$1,499,000",4596 Paradise Isle,Destin,FL,32541,6,7,2756,0.32999999999999996 acres,7353
+https://www.zillow.com/homedetails/125-Crystal-Beach-Dr-UNIT-103-Destin-FL-32541/245910104_zpid/,245910104,,TOWNHOUSE,"$698,000",125 Crystal Beach Dr UNIT 103,Destin,FL,32541,3,3,1661, ,
+https://www.zillow.com/homedetails/4207-Indian-Bayou-Trl-2316-Destin-FL-32541/81818640_zpid/,81818640,,CONDO,"$379,000",4207 Indian Bayou Trl #2316,Destin,FL,32541,2,2,1150, ,
+https://www.zillow.com/homedetails/30-Moreno-Point-Rd-UNIT-401A-Destin-FL-32541/45975063_zpid/,45975063,,CONDO,"$424,900",30 Moreno Point Rd UNIT 401A,Destin,FL,32541,2,2,1169, ,
+https://www.zillow.com/homedetails/4485-Luke-Ave-B-Destin-FL-32541/45967544_zpid/,45967544,,SINGLE FAMILY,"$1,100,000",4485 Luke Ave #B,Destin,FL,32541,3,2,1500,6534 sqft,
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-104B-Destin-FL-32541/81816292_zpid/,81816292,,CONDO,"$679,000",725 Gulf Shore Dr UNIT 104B,Destin,FL,32541,2,2,1531, ,3281
+https://www.zillow.com/homedetails/223-Durango-Rd-UNIT-2D-Destin-FL-32541/45975552_zpid/,45975552,,CONDO,"$749,000",223 Durango Rd UNIT 2D,Destin,FL,32541,2,2,1300, ,
+https://www.zillow.com/homedetails/725-Gulf-Shore-Dr-UNIT-303A-Destin-FL-32541/81815626_zpid/,81815626,,CONDO,"$1,124,000",725 Gulf Shore Dr UNIT 303A,Destin,FL,32541,3,4,2377, ,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1306-Destin-FL-32541/81817705_zpid/,81817705,,CONDO,"$329,000",4203 Indian Bayou Trl #1306,Destin,FL,32541,2,2,970, ,2018
+https://www.zillow.com/homedetails/400-Kelly-Plantation-Dr-UNIT-303-Destin-FL-32541/81944969_zpid/,81944969,,CONDO,"$1,495,000",400 Kelly Plantation Dr UNIT 303,Destin,FL,32541,3,3,3200, ,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-UNIT-7E-Destin-FL-32541/71357091_zpid/,71357091,,CONDO,"$999,000",770 Harbor Blvd UNIT 7E,Destin,FL,32541,3,3,2192, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-9116-Destin-FL-32541/45971707_zpid/,45971707,,CONDO,"$384,000",775 Gulf Shore Dr UNIT 9116,Destin,FL,32541,1,1,794, ,1963
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1602-Destin-FL-32541/81820828_zpid/,81820828,,CONDO,"$379,000",4203 Indian Bayou Trl #1602,Destin,FL,32541,2,2,1175, ,
+https://www.zillow.com/homedetails/206-Henderson-Resort-Way-5401-Destin-FL-32541/2054311856_zpid/,2054311856,,CONDO,"$1,500,000",206 Henderson Resort Way #5401,Destin,FL,32541,3,2,1460, ,
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-502-Destin-FL-32541/45975646_zpid/,45975646,,CONDO,"$610,000",100 Gulf Shore Dr UNIT 502,Destin,FL,32541,2,2,1050, ,
+https://www.zillow.com/homedetails/710-Legion-Dr-UNIT-O4-Destin-FL-32541/45969607_zpid/,45969607,,TOWNHOUSE,"$235,000",710 Legion Dr UNIT O4,Destin,FL,32541,2,1,850,1306.8 sqft,
+https://www.zillow.com/homedetails/287-Ketch-Ct-Destin-FL-32541/87661304_zpid/,87661304,,SINGLE FAMILY,"$1,555,000",287 Ketch Ct,Destin,FL,32541,4,3,2679, ,4540
+https://www.zillow.com/homedetails/480-Gulf-Shore-Dr-UNIT-502-Destin-FL-32541/45975510_zpid/,45975510,,CONDO,"$625,000",480 Gulf Shore Dr UNIT 502,Destin,FL,32541,2,2,895, ,
+https://www.zillow.com/homedetails/100-Matthew-Blvd-210-Destin-FL-32541/251988557_zpid/,251988557,,CONDO,"$897,000",100 Matthew Blvd #210,Destin,FL,32541,2,2,1050, ,2254
+https://www.zillow.com/homedetails/232-Kono-Way-Destin-FL-32541/87651401_zpid/,87651401,,SINGLE FAMILY,"$1,100,000",232 Kono Way,Destin,FL,32541,6,4,2600,1125 sqft,
+https://www.zillow.com/homedetails/4000-Gulf-Terrace-Dr-UNIT-179-Destin-FL-32541/45968886_zpid/,45968886,,CONDO,"$295,000",4000 Gulf Terrace Dr UNIT 179,Destin,FL,32541,2,1,880, ,
+https://www.zillow.com/homedetails/970-Highway-98-1107-Destin-FL-32541/445758924_zpid/,445758924,,CONDO,"$729,900",970 Highway 98 #1107,Destin,FL,32541,3,3,1400, ,
+https://www.zillow.com/homedetails/130-Calhoun-Ave-Destin-FL-32541/45966422_zpid/,45966422,,SINGLE FAMILY,"$972,500",130 Calhoun Ave,Destin,FL,32541,3,2,2536,0.48 acres,
+https://www.zillow.com/homedetails/4000-Dancing-Cloud-Ct-UNIT-9-Destin-FL-32541/71357109_zpid/,71357109,,CONDO,"$273,000",4000 Dancing Cloud Ct UNIT 9,Destin,FL,32541,2,2,1013, ,
+https://www.zillow.com/homedetails/900-Gulf-Shore-Dr-UNIT-3042-Destin-FL-32541/45972007_zpid/,45972007,,CONDO,"$634,900",900 Gulf Shore Dr UNIT 3042,Destin,FL,32541,2,2,1430, ,
+https://www.zillow.com/homedetails/775-Gulf-Shore-Dr-UNIT-1002-Destin-FL-32541/45971195_zpid/,45971195,,CONDO,"$298,000",775 Gulf Shore Dr UNIT 1002,Destin,FL,32541,1,1,628, ,
+https://www.zillow.com/homedetails/1050-Highway-98-UNIT-605E-Destin-FL-32541/445860882_zpid/,445860882,,CONDO,"$1,189,000",1050 Highway 98 UNIT 605E,Destin,FL,32541,2,2,1362, ,
+https://www.zillow.com/homedetails/520-Gulf-Shore-Dr-FL-209-Destin-FL-32541/45974854_zpid/,45974854,,CONDO,"$869,000",520 Gulf Shore Dr FL 209,Destin,FL,32541,2,3,1173, ,
+https://www.zillow.com/homedetails/4203-Indian-Bayou-Trl-1112-Destin-FL-32541/81818445_zpid/,81818445,,CONDO,"$344,900",4203 Indian Bayou Trl #1112,Destin,FL,32541,2,2,970, ,
+https://www.zillow.com/homedetails/1751-Scenic-Highway-98-UNIT-302-Destin-FL-32541/447563515_zpid/,447563515,,CONDO,"$775,000",1751 Scenic Highway 98 UNIT 302,Destin,FL,32541,3,2,1429, ,
+https://www.zillow.com/homedetails/1048-Us-Highway-98-UNIT-1502-Destin-FL-32541/448258536_zpid/,448258536,,CONDO,"$1,190,000",1048 Us Highway 98 UNIT 1502,Destin,FL,32541,2,2,1362, ,
+https://www.zillow.com/homedetails/1050-Highway-98-502E-Destin-FL-32541/446050221_zpid/,446050221,,CONDO,"$1,125,000",1050 Highway 98 #502E,Destin,FL,32541,2,2,1362, ,
+https://www.zillow.com/homedetails/400-Kelly-Plantation-Dr-UNIT-402-Destin-FL-32541/81817774_zpid/,81817774,,CONDO,"$1,375,000",400 Kelly Plantation Dr UNIT 402,Destin,FL,32541,3,3,2649, ,
+https://www.zillow.com/homedetails/100-Matthew-Blvd-UNIT-209-Destin-FL-32541/251988445_zpid/,251988445,,CONDO,"$719,000",100 Matthew Blvd UNIT 209,Destin,FL,32541,1,2,750, ,1907
+https://www.zillow.com/homedetails/1044-Highway-98-E-UNIT-101-Destin-FL-32541/45968524_zpid/,45968524,,CONDO,"$1,390,000",1044 Highway 98 E UNIT 101,Destin,FL,32541,3,3,1701, ,3037
+https://www.zillow.com/homedetails/204-Henderson-Resort-Way-3104-Destin-FL-32541/446893365_zpid/,446893365,,CONDO,"$1,315,000",204 Henderson Resort Way #3104,Destin,FL,32541,3,3,1459, ,
+https://www.zillow.com/homedetails/1080-Highway-98-E-UNIT-110-Destin-FL-32541/45972590_zpid/,45972590,,CONDO,"$929,000",1080 Highway 98 E UNIT 110,Destin,FL,32541,2,2,1200, ,2312
+https://www.zillow.com/homedetails/3695-Scenic-Highway-98-UNIT-903-Destin-FL-32541/67853786_zpid/,67853786,,TOWNHOUSE,"$839,000",3695 Scenic Highway 98 UNIT 903,Destin,FL,32541,3,3,1850,871.2 sqft,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-324-Destin-FL-32541/2062761948_zpid/,2062761948,,CONDO,"$760,000",10 Harbor Blvd #324,Destin,FL,32541,2,2,1300, ,
+https://www.zillow.com/homedetails/408-Kelly-Plantation-Dr-UNIT-910-Destin-FL-32541/87652122_zpid/,87652122,,CONDO,"$1,125,000",408 Kelly Plantation Dr UNIT 910,Destin,FL,32541,3,3,2649, ,4516
+https://www.zillow.com/homedetails/15100-Emerald-Coast-Pkwy-UNIT-703-Destin-FL-32541/67855410_zpid/,67855410,,CONDO,"$809,500",15100 Emerald Coast Pkwy UNIT 703,Destin,FL,32541,2,2,1369, ,2337
+https://www.zillow.com/homedetails/4720-Amhurst-Cir-Destin-FL-32541/103471838_zpid/,103471838,,SINGLE FAMILY,"$767,040",4720 Amhurst Cir,Destin,FL,32541,3,4,2256,3049.2 sqft,
+https://www.zillow.com/homedetails/1751-Scenic-Hwy-409-Destin-FL-32541/449572891_zpid/,449572891,,CONDO,"$739,000",1751 Scenic Hwy #409,Destin,FL,32541,2,2,1374, ,
+https://www.zillow.com/homedetails/4205-Indian-Bayou-Trl-3103-Destin-FL-32541/450770439_zpid/,450770439,,CONDO,"$600,000",4205 Indian Bayou Trl #3103,Destin,FL,32541,2,2,1473, ,
+https://www.zillow.com/homedetails/1048-Us-Highway-98-106W-Destin-FL-32541/440704126_zpid/,440704126,,CONDO,"$1,199,000",1048 Us Highway 98 #106W,Destin,FL,32541,2,2,1672, ,
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-W1027-Destin-FL-32541/81815557_zpid/,81815557,,CONDO,"$759,900",10 Harbor Blvd UNIT W1027,Destin,FL,32541,3,1,1566,0.5702020202020202 acres,2199
+https://www.zillow.com/homedetails/1002-Highway-98-UNIT-1814-Destin-FL-32541/45970938_zpid/,45970938,,CONDO,"$715,000",1002 Highway 98 UNIT 1814,Destin,FL,32541,2,2,955, ,
+https://www.zillow.com/homedetails/770-Harbor-Blvd-UNIT-1J-Destin-FL-32541/71357046_zpid/,71357046,,CONDO,"$650,000",770 Harbor Blvd UNIT 1J,Destin,FL,32541,2,2,1647, ,3454
+https://www.zillow.com/homedetails/10-Harbor-Blvd-UNIT-W528-Destin-FL-32541/81818314_zpid/,81818314,,CONDO,"$759,900",10 Harbor Blvd UNIT W528,Destin,FL,32541,3,3,1566, ,
+https://www.zillow.com/homedetails/3450-Highway-98-B405-Destin-FL-32541/445860761_zpid/,445860761,,CONDO,"$680,000",3450 Highway 98 #B405,Destin,FL,32541,1,2,1110, ,
+https://www.zillow.com/homedetails/4765-Calatrava-Ct-Destin-FL-32541/45972791_zpid/,45972791,,SINGLE FAMILY,"$749,000",4765 Calatrava Ct,Destin,FL,32541,3,2,1302, ,2950
+https://www.zillow.com/homedetails/206-Henderson-Resort-Way-5202-Destin-FL-32541/443493909_zpid/,443493909,,CONDO,"$1,225,000",206 Henderson Resort Way #5202,Destin,FL,32541,2,3,1248, ,
+https://www.zillow.com/homedetails/206-Henderson-Resort-Way-5103-Destin-FL-32541/448956051_zpid/,448956051,,CONDO,"$1,100,000",206 Henderson Resort Way #5103,Destin,FL,32541,2,3,1248, ,
+https://www.zillow.com/homedetails/520-Gulf-Shore-Dr-UNIT-208-Destin-FL-32541/45974853_zpid/,45974853,,CONDO,"$895,000",520 Gulf Shore Dr UNIT 208,Destin,FL,32541,2,2,1173, ,
+https://www.zillow.com/homedetails/1044-Highway-98-E-UNIT-803-Destin-FL-32541/45968566_zpid/,45968566,,CONDO,"$925,000",1044 Highway 98 E UNIT 803,Destin,FL,32541,2,2,1126, ,2124
+https://www.zillow.com/homedetails/202-Henderson-Resort-Way-UNIT-1204-Destin-FL-32541/450152389_zpid/,450152389,,CONDO,"$1,399,000",202 Henderson Resort Way UNIT 1204,Destin,FL,32541,3,3,1459, ,
+https://www.zillow.com/homedetails/15600-Emerald-Coast-Pkwy-105-Destin-FL-32541/2080478638_zpid/,2080478638,,CONDO,"$1,595,800",15600 Emerald Coast Pkwy #105,Destin,FL,32541,3,3,2380, ,4849
+https://www.zillow.com/homedetails/201-Henderson-Resort-Way-UNIT-2204-Destin-FL-32541/450784026_zpid/,450784026,,CONDO,"$979,000",201 Henderson Resort Way UNIT 2204,Destin,FL,32541,2,2,1233, ,
+https://www.zillow.com/homedetails/1008-Highway-98-E-UNIT-31-Destin-FL-32541/45967740_zpid/,45967740,,CONDO,"$1,050,000",1008 Highway 98 E UNIT 31,Destin,FL,32541,2,2,1306, ,2210
+https://www.zillow.com/homedetails/506-Vera-Cruz-Dr-Destin-FL-32541/103475124_zpid/,103475124,,LOT,"$1,225,000",506 Vera Cruz Dr,Destin,FL,32541,,,,0.27 acres,
+https://www.zillow.com/homedetails/3605-Melrose-Ave-Destin-FL-32541/455119034_zpid/,455119034,,LOT,"$995,000",3605 Melrose Ave,Destin,FL,32541,,,,6098.4 sqft,
+https://www.zillow.com/homedetails/4601-Legendary-Marina-Dr-A3-145-Destin-FL-32541/446956684_zpid/,446956684,,LOT,"$110,000",4601 Legendary Marina Dr #A3-145,Destin,FL,32541,,,, ,
+https://www.zillow.com/homedetails/4641-Destiny-Way-Destin-FL-32541/195037314_zpid/,195037314,,LOT,"$1,100,000",4641 Destiny Way,Destin,FL,32541,,,,7840.8 sqft,2086
+https://www.zillow.com/homedetails/4601-Legendary-Marina-Dr-C-022-Destin-FL-32541/450159243_zpid/,450159243,,LOT,"$140,000",4601 Legendary Marina Dr #C-022,Destin,FL,32541,,,, ,
+https://www.zillow.com/homedetails/0-Gulf-Breeze-Ct-Destin-FL-32541/2053537052_zpid/,2053537052,,LOT,"$1,200,000",0 Gulf Breeze Ct,Destin,FL,32541,,,,8712 sqft,
+https://www.zillow.com/homedetails/426-Commodore-Point-Rd-Destin-FL-32541/2065122015_zpid/,2065122015,,LOT,"$979,000",426 Commodore Point Rd,Destin,FL,32541,,,,0.61 acres,2779
+https://www.zillow.com/homedetails/807-809-Airport-Rd-Destin-FL-32541/453821035_zpid/,453821035,,LOT,"$849,900",807 & 809 Airport Rd,Destin,FL,32541,,,,0.8400000000000001 acres,
+https://www.zillow.com/homedetails/910-Emerald-Bay-Dr-Destin-FL-32541/45968681_zpid/,45968681,,SINGLE FAMILY,"$1,395,000",910 Emerald Bay Dr,Destin,FL,32541,4,4,3775, ,6044
+https://www.zillow.com/homedetails/298-Ketch-Ct-Destin-FL-32541/83891271_zpid/,83891271,,SINGLE FAMILY,"$1,150,000",298 Ketch Ct,Destin,FL,32541,3,3,2660,9583.2 sqft,3818
+https://www.zillow.com/homedetails/121-Country-Club-Dr-W-Destin-FL-32541/45969440_zpid/,45969440,,SINGLE FAMILY,"$1,149,900",121 Country Club Dr W,Destin,FL,32541,4,3,3489,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-602-Destin-FL-32541/45975654_zpid/,45975654,,CONDO,"$1,450,000",100 Gulf Shore Dr UNIT 602,Destin,FL,32541,3,3,2100, ,
+https://www.zillow.com/homedetails/225-Wekiva-Cv-Destin-FL-32541/45968412_zpid/,45968412,,SINGLE FAMILY,"$1,125,000",225 Wekiva Cv,Destin,FL,32541,4,3,2498,9583.2 sqft,
+https://www.zillow.com/homedetails/284-Ketch-Ct-Destin-FL-32541/52954500_zpid/,52954500,,SINGLE FAMILY,"$950,000",284 Ketch Ct,Destin,FL,32541,3,3,2127,0.27999999999999997 acres,3855
+https://www.zillow.com/homedetails/910-Emerald-Bay-Dr-Destin-FL-32541/45968681_zpid/,45968681,,SINGLE FAMILY,"$1,395,000",910 Emerald Bay Dr,Destin,FL,32541,4,4,3775, ,6044
+https://www.zillow.com/homedetails/298-Ketch-Ct-Destin-FL-32541/83891271_zpid/,83891271,,SINGLE FAMILY,"$1,150,000",298 Ketch Ct,Destin,FL,32541,3,3,2660,9583.2 sqft,3818
+https://www.zillow.com/homedetails/121-Country-Club-Dr-W-Destin-FL-32541/45969440_zpid/,45969440,,SINGLE FAMILY,"$1,149,900",121 Country Club Dr W,Destin,FL,32541,4,3,3489,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-602-Destin-FL-32541/45975654_zpid/,45975654,,CONDO,"$1,450,000",100 Gulf Shore Dr UNIT 602,Destin,FL,32541,3,3,2100, ,
+https://www.zillow.com/homedetails/225-Wekiva-Cv-Destin-FL-32541/45968412_zpid/,45968412,,SINGLE FAMILY,"$1,125,000",225 Wekiva Cv,Destin,FL,32541,4,3,2498,9583.2 sqft,
+https://www.zillow.com/homedetails/284-Ketch-Ct-Destin-FL-32541/52954500_zpid/,52954500,,SINGLE FAMILY,"$950,000",284 Ketch Ct,Destin,FL,32541,3,3,2127,0.27999999999999997 acres,3855
+https://www.zillow.com/homedetails/910-Emerald-Bay-Dr-Destin-FL-32541/45968681_zpid/,45968681,,SINGLE FAMILY,"$1,395,000",910 Emerald Bay Dr,Destin,FL,32541,4,4,3775, ,6044
+https://www.zillow.com/homedetails/298-Ketch-Ct-Destin-FL-32541/83891271_zpid/,83891271,,SINGLE FAMILY,"$1,150,000",298 Ketch Ct,Destin,FL,32541,3,3,2660,9583.2 sqft,3818
+https://www.zillow.com/homedetails/121-Country-Club-Dr-W-Destin-FL-32541/45969440_zpid/,45969440,,SINGLE FAMILY,"$1,149,900",121 Country Club Dr W,Destin,FL,32541,4,3,3489,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/100-Gulf-Shore-Dr-UNIT-602-Destin-FL-32541/45975654_zpid/,45975654,,CONDO,"$1,450,000",100 Gulf Shore Dr UNIT 602,Destin,FL,32541,3,3,2100, ,
+https://www.zillow.com/homedetails/225-Wekiva-Cv-Destin-FL-32541/45968412_zpid/,45968412,,SINGLE FAMILY,"$1,125,000",225 Wekiva Cv,Destin,FL,32541,4,3,2498,9583.2 sqft,
+https://www.zillow.com/homedetails/284-Ketch-Ct-Destin-FL-32541/52954500_zpid/,52954500,,SINGLE FAMILY,"$950,000",284 Ketch Ct,Destin,FL,32541,3,3,2127,0.27999999999999997 acres,3855

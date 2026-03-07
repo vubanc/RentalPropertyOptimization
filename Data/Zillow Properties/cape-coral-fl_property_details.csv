@@ -1,0 +1,462 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/229-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45441645_zpid/,45441645,,SINGLE FAMILY,"$650,000",229 El Dorado Pkwy W,Cape Coral,FL,33914,3,2,1698,10018.8 sqft,
+https://www.zillow.com/homedetails/421-NW-31st-Pl-Cape-Coral-FL-33993/103331784_zpid/,103331784,,SINGLE FAMILY,"$548,000",421 NW 31st Pl,Cape Coral,FL,33993,4,3,1886,10018.8 sqft,2716
+https://www.zillow.com/homedetails/1107-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45445578_zpid/,45445578,,SINGLE FAMILY,"$530,000",1107 El Dorado Pkwy W,Cape Coral,FL,33914,4,3,2242,10018.8 sqft,
+https://www.zillow.com/homedetails/5510-Lancelot-Ln-Cape-Coral-FL-33914/45478399_zpid/,45478399,,SINGLE FAMILY,"$1,250,000",5510 Lancelot Ln,Cape Coral,FL,33914,4,3,2272,0.33999999999999997 acres,5215
+https://www.zillow.com/homedetails/143-SE-30th-Ter-Cape-Coral-FL-33904/45558166_zpid/,45558166,,SINGLE FAMILY,"$250,000",143 SE 30th Ter,Cape Coral,FL,33904,3,2,1248,10018.8 sqft,2534
+https://www.zillow.com/homedetails/2540-SW-28th-Place-Cape-Coral-FL-33914/97295490_zpid/,97295490,,SINGLE FAMILY,"$1,299,700",2540 SW 28th Place,Cape Coral,FL,33914,3,3,2531,10018.8 sqft,4983
+https://www.zillow.com/homedetails/1410-NE-14th-St-Cape-Coral-FL-33909/45399573_zpid/,45399573,,SINGLE FAMILY,"$245,000",1410 NE 14th St,Cape Coral,FL,33909,3,2,1276,10018.8 sqft,
+https://www.zillow.com/community/pascal-construction-inc/2079659264_zpid/,2079659264,,SINGLE FAMILY,"$350,000+","Valencia Model Plan, Pascal Construction, Inc.",Cape Coral,FL,33990,3,2,1829, ,2406
+https://www.zillow.com/homedetails/2733-NW-46th-Ave-Cape-Coral-FL-33993/103393233_zpid/,103393233,,SINGLE FAMILY,"$259,900",2733 NW 46th Ave,Cape Coral,FL,33993,3,2,1777,10628.64 sqft,2116
+https://www.zillow.com/homedetails/2713-NW-2nd-Ave-Cape-Coral-FL-33993/45500688_zpid/,45500688,,SINGLE FAMILY,"$299,000",2713 NW 2nd Ave,Cape Coral,FL,33993,3,2,1184,0.256 acres,
+https://www.zillow.com/homedetails/1928-SW-8th-Pl-Cape-Coral-FL-33991/66156677_zpid/,66156677,,SINGLE FAMILY,"$585,000",1928 SW 8th Pl,Cape Coral,FL,33991,4,3,1912,10497.96 sqft,2779
+https://www.zillow.com/homedetails/1118-NE-3rd-Ave-Cape-Coral-FL-33909/45371857_zpid/,45371857,,SINGLE FAMILY,"$319,900",1118 NE 3rd Ave,Cape Coral,FL,33909,3,2,1798,10628.64 sqft,2517
+https://www.zillow.com/homedetails/4501-SE-1st-Ave-Cape-Coral-FL-33904/45431093_zpid/,45431093,,SINGLE FAMILY,"$340,000",4501 SE 1st Ave,Cape Coral,FL,33904,2,2,1123,10018.8 sqft,
+https://www.zillow.com/homedetails/1441-SE-19th-Ter-Cape-Coral-FL-33990/45525779_zpid/,45525779,,SINGLE FAMILY,"$299,999",1441 SE 19th Ter,Cape Coral,FL,33990,4,2,1823,10018.8 sqft,
+https://www.zillow.com/homedetails/2524-SW-22nd-Pl-Cape-Coral-FL-33914/45540130_zpid/,45540130,,SINGLE FAMILY,"$320,000",2524 SW 22nd Pl,Cape Coral,FL,33914,3,2,1631,9975.24 sqft,
+https://www.zillow.com/homedetails/1524-NE-18th-Pl-Cape-Coral-FL-33909/89560914_zpid/,89560914,,SINGLE FAMILY,"$320,000",1524 NE 18th Pl,Cape Coral,FL,33909,3,2,1785,10585.08 sqft,2974
+https://www.zillow.com/homedetails/2549-Caslotti-Way-Cpe-Cape-Coral-FL-33909/247776857_zpid/,247776857,,SINGLE FAMILY,"$425,000",2549 Caslotti Way Cpe,Cape Coral,FL,33909,4,3,2032,10018.8 sqft,
+https://www.zillow.com/homedetails/118-SW-59th-St-Cape-Coral-FL-33914/45489398_zpid/,45489398,,SINGLE FAMILY,"$285,000",118 SW 59th St,Cape Coral,FL,33914,2,2,1273,10018.8 sqft,
+https://www.zillow.com/homedetails/1509-NE-17th-Ave-Cape-Coral-FL-33909/81874624_zpid/,81874624,,SINGLE FAMILY,"$279,000",1509 NE 17th Ave,Cape Coral,FL,33909,4,2,1720,10018.8 sqft,1979
+https://www.zillow.com/homedetails/3102-SE-8th-Ave-Cape-Coral-FL-33904/45557854_zpid/,45557854,,SINGLE FAMILY,"$299,900",3102 SE 8th Ave,Cape Coral,FL,33904,3,2,1212,10018.8 sqft,2301
+https://www.zillow.com/homedetails/2048-NE-18th-St-Cape-Coral-FL-33909/103284437_zpid/,103284437,,SINGLE FAMILY,"$209,900",2048 NE 18th St,Cape Coral,FL,33909,4,3,1683,10628.64 sqft,
+https://www.zillow.com/homedetails/926-SW-37th-St-Cape-Coral-FL-33914/45383854_zpid/,45383854,,SINGLE FAMILY,"$355,000",926 SW 37th St,Cape Coral,FL,33914,3,2,1549,10018.8 sqft,3085
+https://www.zillow.com/homedetails/3717-Agualinda-Blvd-Cape-Coral-FL-33914/68086885_zpid/,68086885,,SINGLE FAMILY,"$539,999",3717 Agualinda Blvd,Cape Coral,FL,33914,4,2,2331,10628.64 sqft,5142
+https://www.zillow.com/homedetails/4344-Agualinda-Blvd-Cape-Coral-FL-33914/54921804_zpid/,54921804,,SINGLE FAMILY,"$374,900",4344 Agualinda Blvd,Cape Coral,FL,33914,3,2,1688,10019 sqft,
+https://www.zillow.com/homedetails/1220-Hancock-Bridge-Pkwy-Cape-Coral-FL-33990/45461833_zpid/,45461833,,SINGLE FAMILY,"$395,000",1220 Hancock Bridge Pkwy,Cape Coral,FL,33990,3,3,1761,10018.8 sqft,
+https://www.zillow.com/homedetails/5412-SW-22nd-Pl-Cape-Coral-FL-33914/66151775_zpid/,66151775,,SINGLE FAMILY,"$849,700",5412 SW 22nd Pl,Cape Coral,FL,33914,4,2,2342,10280.16 sqft,
+https://www.zillow.com/homedetails/4722-SE-1st-Pl-APT-12-Cape-Coral-FL-33904/45431376_zpid/,45431376,,CONDO,"$150,000",4722 SE 1st Pl APT 12,Cape Coral,FL,33904,2,2,1161,8886.24 sqft,
+https://www.zillow.com/homedetails/3911-SW-11th-Pl-Cape-Coral-FL-33914/45383826_zpid/,45383826,,SINGLE FAMILY,"$249,900",3911 SW 11th Pl,Cape Coral,FL,33914,3,2,1232,10018.8 sqft,
+https://www.zillow.com/homedetails/2142-NE-27th-Ter-Cape-Coral-FL-33909/81886453_zpid/,81886453,,SINGLE FAMILY,"$449,000",2142 NE 27th Ter,Cape Coral,FL,33909,4,2,1712,10672.2 sqft,2809
+https://www.zillow.com/homedetails/1503-NW-33rd-Ave-Cape-Coral-FL-33993/68097176_zpid/,68097176,,SINGLE FAMILY,"$269,900",1503 NW 33rd Ave,Cape Coral,FL,33993,3,2,1422,10628.64 sqft,
+https://www.zillow.com/homedetails/1930-NE-28th-St-Cape-Coral-FL-33909/103328411_zpid/,103328411,,SINGLE FAMILY,"$270,000",1930 NE 28th St,Cape Coral,FL,33909,4,2,,10019 sqft,
+https://www.zillow.com/homedetails/1136-NW-9th-Ter-Cape-Coral-FL-33993/103292082_zpid/,103292082,,SINGLE FAMILY,"$429,990",1136 NW 9th Ter,Cape Coral,FL,33993,4,3,1767,0.25500459136822773 acres,2361
+https://www.zillow.com/homedetails/1118-NE-Pine-Island-Ln-Cape-Coral-FL-33909/45405292_zpid/,45405292,,SINGLE FAMILY,"$364,900",1118 NE Pine Island Ln,Cape Coral,FL,33909,3,3,1186,0.281 acres,2070
+https://www.zillow.com/homedetails/4969-Vincennes-St-Cape-Coral-FL-33904/295067174_zpid/,295067174,,MULTI FAMILY,"$475,000",4969 Vincennes St,Cape Coral,FL,33904,4,4,1638,10001.376 sqft,1715
+https://www.zillow.com/homedetails/2819-SW-33rd-St-Cape-Coral-FL-33914/66147805_zpid/,66147805,,SINGLE FAMILY,"$875,000",2819 SW 33rd St,Cape Coral,FL,33914,3,3,2335,10018.8 sqft,
+https://www.zillow.com/homedetails/606-Mohawk-Pkwy-Cape-Coral-FL-33914/81879373_zpid/,81879373,,SINGLE FAMILY,"$599,000",606 Mohawk Pkwy,Cape Coral,FL,33914,3,2,2056,10018.8 sqft,
+https://www.zillow.com/homedetails/5210-Coronado-Pkwy-APT-1-Cape-Coral-FL-33904/45436878_zpid/,45436878,,CONDO,"$101,000",5210 Coronado Pkwy APT 1,Cape Coral,FL,33904,2,2,896,6098 sqft,1501
+https://www.zillow.com/homedetails/325-NW-12th-Pl-Cape-Coral-FL-33993/103215819_zpid/,103215819,,SINGLE FAMILY,"$374,900",325 NW 12th Pl,Cape Coral,FL,33993,3,2,1718,10001.376 sqft,
+https://www.zillow.com/homedetails/930-SW-28th-St-Cape-Coral-FL-33914/45544930_zpid/,45544930,,SINGLE FAMILY,"$355,000",930 SW 28th St,Cape Coral,FL,33914,3,2,1960,10628.64 sqft,
+https://www.zillow.com/homedetails/1212-SE-6th-Ter-APT-83-Cape-Coral-FL-33990/45462513_zpid/,45462513,,TOWNHOUSE,"$199,000",1212 SE 6th Ter APT 83,Cape Coral,FL,33990,2,2,982,3432.528 sqft,1716
+https://www.zillow.com/homedetails/1023-SE-6th-St-Cape-Coral-FL-33990/45462820_zpid/,45462820,,SINGLE FAMILY,"$500,000",1023 SE 6th St,Cape Coral,FL,33990,4,2,2232,10018.8 sqft,3201
+https://www.zillow.com/homedetails/5702-Cape-Harbour-Dr-APT-204-Cape-Coral-FL-33914/66171694_zpid/,66171694,,CONDO,"$848,000",5702 Cape Harbour Dr APT 204,Cape Coral,FL,33914,3,2,2054,0.9683 acres,
+https://www.zillow.com/homedetails/421-SW-51st-Ter-Cape-Coral-FL-33914/45440880_zpid/,45440880,,SINGLE FAMILY,"$750,000",421 SW 51st Ter,Cape Coral,FL,33914,3,3,2514,10018.8 sqft,
+https://www.zillow.com/homedetails/4136-SW-9th-Pl-Cape-Coral-FL-33914/45423552_zpid/,45423552,,SINGLE FAMILY,"$289,999",4136 SW 9th Pl,Cape Coral,FL,33914,3,2,1277,10018.8 sqft,
+https://www.zillow.com/homedetails/1329-NE-21st-Ave-Cape-Coral-FL-33909/45394393_zpid/,45394393,,SINGLE FAMILY,"$242,400",1329 NE 21st Ave,Cape Coral,FL,33909,3,2,1116,10628.64 sqft,1804
+https://www.zillow.com/homedetails/2029-SE-27th-Ter-Cape-Coral-FL-33904/45536079_zpid/,45536079,,SINGLE FAMILY,"$647,000",2029 SE 27th Ter,Cape Coral,FL,33904,4,2,2304,10018.8 sqft,4052
+https://www.zillow.com/homedetails/1336-SW-1st-Pl-Cape-Coral-FL-33991/103331289_zpid/,103331289,,SINGLE FAMILY,"$730,000",1336 SW 1st Pl,Cape Coral,FL,33991,4,3,2170,10018.8 sqft,2671
+https://www.zillow.com/homedetails/2701-Bruce-St-Matlacha-FL-33993/45492434_zpid/,45492434,,SINGLE FAMILY,"$749,900",2701 Bruce St,Matlacha,FL,33993,3,2,1596,8189.28 sqft,2673
+https://www.zillow.com/homedetails/3514-SE-17th-Pl-Cape-Coral-FL-33904/45395788_zpid/,45395788,,SINGLE FAMILY,"$774,900",3514 SE 17th Pl,Cape Coral,FL,33904,3,2,2136,10018.8 sqft,5938
+https://www.zillow.com/homedetails/401-NE-14th-Pl-Cape-Coral-FL-33909/45405525_zpid/,45405525,,SINGLE FAMILY,"$299,000",401 NE 14th Pl,Cape Coral,FL,33909,3,2,1300,10497.96 sqft,
+https://www.zillow.com/homedetails/2042-NE-26th-St-Cape-Coral-FL-33909/68094302_zpid/,68094302,,SINGLE FAMILY,"$398,000",2042 NE 26th St,Cape Coral,FL,33909,3,2,1997,10628.64 sqft,2656
+https://www.zillow.com/homedetails/109-NE-11th-St-Cape-Coral-FL-33909/68085418_zpid/,68085418,,SINGLE FAMILY,"$259,900",109 NE 11th St,Cape Coral,FL,33909,3,2,1269,10018.8 sqft,2057
+https://www.zillow.com/homedetails/521-SW-26th-St-Cape-Coral-FL-33914/45549658_zpid/,45549658,,SINGLE FAMILY,"$269,000",521 SW 26th St,Cape Coral,FL,33914,3,2,1307,10018.8 sqft,
+https://www.zillow.com/homedetails/910-SW-10th-Pl-Cape-Coral-FL-33991/45482721_zpid/,45482721,,SINGLE FAMILY,"$245,000",910 SW 10th Pl,Cape Coral,FL,33991,3,2,1232,10367.28 sqft,
+https://www.zillow.com/homedetails/1425-SW-11th-Ct-Cape-Coral-FL-33991/103188968_zpid/,103188968,,SINGLE FAMILY,"$565,000",1425 SW 11th Ct,Cape Coral,FL,33991,4,3,1734, ,
+https://www.zillow.com/homedetails/402-SW-46th-Ter-Cape-Coral-FL-33914/306010909_zpid/,306010909,,SINGLE FAMILY,"$429,900",402 SW 46th Ter,Cape Coral,FL,33914,4,2,2236,0.28800000000000003 acres,4613
+https://www.zillow.com/homedetails/3275-Sand-Rd-Cape-Coral-FL-33993/45466248_zpid/,45466248,,SINGLE FAMILY,"$985,000",3275 Sand Rd,Cape Coral,FL,33993,4,2,1879,4.823 acres,
+https://www.zillow.com/homedetails/5406-SW-3rd-Ave-Cape-Coral-FL-33914/45441601_zpid/,45441601,,SINGLE FAMILY,"$499,000",5406 SW 3rd Ave,Cape Coral,FL,33914,3,2,1563,10018.8 sqft,
+https://www.zillow.com/homedetails/1842-Concordia-Lake-Cir-UNIT-1102-Cape-Coral-FL-33909/89570122_zpid/,89570122,,CONDO,"$225,000",1842 Concordia Lake Cir UNIT 1102,Cape Coral,FL,33909,2,2,1223,9517.86 sqft,
+https://www.zillow.com/homedetails/1827-SW-6th-Ave-Cape-Coral-FL-33991/45501541_zpid/,45501541,,SINGLE FAMILY,"$429,000",1827 SW 6th Ave,Cape Coral,FL,33991,3,2,2090,10628.64 sqft,
+https://www.zillow.com/homedetails/511-NE-5th-Ave-Cape-Coral-FL-33909/103404866_zpid/,103404866,,SINGLE FAMILY,"$549,900",511 NE 5th Ave,Cape Coral,FL,33909,4,3,2324,10454.4 sqft,2810
+https://www.zillow.com/homedetails/1903-Cornwallis-Pkwy-Cape-Coral-FL-33904/45536784_zpid/,45536784,,SINGLE FAMILY,"$385,000",1903 Cornwallis Pkwy,Cape Coral,FL,33904,4,3,1773,10018.8 sqft,
+https://www.zillow.com/homedetails/928-NE-1st-Ave-Cape-Coral-FL-33909/45371890_zpid/,45371890,,SINGLE FAMILY,"$289,900",928 NE 1st Ave,Cape Coral,FL,33909,3,2,1176,10018.8 sqft,
+https://www.zillow.com/homedetails/1345-SE-40th-Ter-APT-1A-Cape-Coral-FL-33904/45407045_zpid/,45407045,,CONDO,"$249,990",1345 SE 40th Ter APT 1A,Cape Coral,FL,33904,3,2,1541,7261.452 sqft,2320
+https://www.zillow.com/homedetails/4969-Viceroy-St-APT-104-Cape-Coral-FL-33904/120109367_zpid/,120109367,,CONDO,"$294,900",4969 Viceroy St APT 104,Cape Coral,FL,33904,2,3,1174,9199.872 sqft,
+https://www.zillow.com/homedetails/172-SE-23rd-St-Cape-Coral-FL-33990/81874361_zpid/,81874361,,SINGLE FAMILY,"$459,000",172 SE 23rd St,Cape Coral,FL,33990,3,2,2309,10018.8 sqft,
+https://www.zillow.com/homedetails/5717-SW-9th-Ct-Cape-Coral-FL-33914/89862834_zpid/,89862834,,SINGLE FAMILY,"$1,099,000",5717 SW 9th Ct,Cape Coral,FL,33914,3,3,2407,10018.8 sqft,4449
+https://www.zillow.com/homedetails/1005-NE-2nd-Ave-Cape-Coral-FL-33909/89559664_zpid/,89559664,,SINGLE FAMILY,"$325,000",1005 NE 2nd Ave,Cape Coral,FL,33909,3,2,1785,10018.8 sqft,
+https://www.zillow.com/homedetails/5205-Wilmington-Ct-Cape-Coral-FL-33904/45464966_zpid/,45464966,,SINGLE FAMILY,"$190,000",5205 Wilmington Ct,Cape Coral,FL,33904,2,1,942,10018.8 sqft,
+https://www.zillow.com/homedetails/2933-NW-25th-Ter-Cape-Coral-FL-33993/82231581_zpid/,82231581,,SINGLE FAMILY,"$375,000",2933 NW 25th Ter,Cape Coral,FL,33993,3,3,2045,10018.8 sqft,
+https://www.zillow.com/homedetails/3304-Acapulco-Cir-Cape-Coral-FL-33909/103220774_zpid/,103220774,,SINGLE FAMILY,"$265,000",3304 Acapulco Cir,Cape Coral,FL,33909,3,2,1671,6490.44 sqft,
+https://www.zillow.com/homedetails/127-SE-15th-Ave-Cape-Coral-FL-33990/45462101_zpid/,45462101,,SINGLE FAMILY,"$499,900",127 SE 15th Ave,Cape Coral,FL,33990,3,2,2183,10018.8 sqft,
+https://www.zillow.com/homedetails/912-SW-54th-Ln-Cape-Coral-FL-33914/45445586_zpid/,45445586,,SINGLE FAMILY,"$389,900",912 SW 54th Ln,Cape Coral,FL,33914,3,2,1680,10018.8 sqft,
+https://www.zillow.com/homedetails/3612-SW-6th-Pl-Cape-Coral-FL-33914/45378505_zpid/,45378505,,SINGLE FAMILY,"$325,000",3612 SW 6th Pl,Cape Coral,FL,33914,3,2,1640,10018.8 sqft,
+https://www.zillow.com/homedetails/2711-Blue-Cypress-Lake-Ct-Cape-Coral-FL-33909/81881577_zpid/,81881577,,SINGLE FAMILY,"$359,500",2711 Blue Cypress Lake Ct,Cape Coral,FL,33909,3,2,1838,7396.488 sqft,2430
+https://www.zillow.com/homedetails/3611-SE-21st-Pl-Cape-Coral-FL-33904/45396393_zpid/,45396393,,SINGLE FAMILY,"$1,510,000",3611 SE 21st Pl,Cape Coral,FL,33904,4,3,3697,0.351 acres,5590
+https://www.zillow.com/homedetails/1901-SE-5th-Ct-Cape-Coral-FL-33990/45497249_zpid/,45497249,,SINGLE FAMILY,"$374,900",1901 SE 5th Ct,Cape Coral,FL,33990,3,2,2175,0.26599999999999996 acres,1889
+https://www.zillow.com/homedetails/206-SE-34th-Ter-Cape-Coral-FL-33904/45372513_zpid/,45372513,,SINGLE FAMILY,"$493,000",206 SE 34th Ter,Cape Coral,FL,33904,3,2,1790,10018.8 sqft,
+https://www.zillow.com/homedetails/2228-SE-15th-Pl-Cape-Coral-FL-33990/45526017_zpid/,45526017,,SINGLE FAMILY,"$249,900",2228 SE 15th Pl,Cape Coral,FL,33990,2,2,1495,10062.36 sqft,
+https://www.zillow.com/homedetails/4716-SW-23rd-Ave-Cape-Coral-FL-33914/81868817_zpid/,81868817,,SINGLE FAMILY,"$699,000",4716 SW 23rd Ave,Cape Coral,FL,33914,4,4,3485,0.344 acres,
+https://www.zillow.com/homedetails/1207-SE-29th-Ter-Cape-Coral-FL-33904/45531288_zpid/,45531288,,SINGLE FAMILY,"$450,000",1207 SE 29th Ter,Cape Coral,FL,33904,3,2,2092,10410.84 sqft,3559
+https://www.zillow.com/homedetails/4803-Triton-Ct-W-APT-4-Cape-Coral-FL-33904/45435973_zpid/,45435973,,CONDO,"$146,500",4803 Triton Ct W APT 4,Cape Coral,FL,33904,2,2,1146,5558.256 sqft,
+https://www.zillow.com/homedetails/3514-SE-22nd-Pl-Cape-Coral-FL-33904/45396159_zpid/,45396159,,SINGLE FAMILY,"$625,000",3514 SE 22nd Pl,Cape Coral,FL,33904,3,2,1546,10080 sqft,3723
+https://www.zillow.com/homedetails/2303-NE-7th-Ave-Cape-Coral-FL-33909/45555009_zpid/,45555009,,SINGLE FAMILY,"$263,000",2303 NE 7th Ave,Cape Coral,FL,33909,3,2,1148,10018.8 sqft,1766
+https://www.zillow.com/homedetails/4742-Pine-Island-Rd-NW-Matlacha-FL-33993/45492143_zpid/,45492143,,SINGLE FAMILY,"$319,900",4742 Pine Island Rd NW,Matlacha,FL,33993,2,2,1110,4399.56 sqft,
+https://www.zillow.com/homedetails/2211-SW-12th-Ln-Cape-Coral-FL-33991/103209447_zpid/,103209447,,SINGLE FAMILY,"$349,900",2211 SW 12th Ln,Cape Coral,FL,33991,5,3,2201,0.25 acres,2414
+https://www.zillow.com/homedetails/4404-SW-15th-Pl-Cape-Coral-FL-33914/126326585_zpid/,126326585,,SINGLE FAMILY,"$689,000",4404 SW 15th Pl,Cape Coral,FL,33914,3,3,2256,0.3563 acres,6031
+https://www.zillow.com/homedetails/5816-SW-1st-Pl-Cape-Coral-FL-33914/45489365_zpid/,45489365,,SINGLE FAMILY,"$399,000",5816 SW 1st Pl,Cape Coral,FL,33914,3,2,1431,10018.8 sqft,
+https://www.zillow.com/homedetails/2728-SE-8th-Ave-Cape-Coral-FL-33904/45557441_zpid/,45557441,,SINGLE FAMILY,"$285,000",2728 SE 8th Ave,Cape Coral,FL,33904,4,2,2023,10019 sqft,2887
+https://www.zillow.com/homedetails/4925-Del-Prado-Blvd-S-Cape-Coral-FL-33904/45464326_zpid/,45464326,,SINGLE FAMILY,"$485,000",4925 Del Prado Blvd S,Cape Coral,FL,33904,3,2,1966,9975.24 sqft,
+https://www.zillow.com/homedetails/2616-SW-15th-Pl-Cape-Coral-FL-33914/103318810_zpid/,103318810,,SINGLE FAMILY,"$699,900",2616 SW 15th Pl,Cape Coral,FL,33914,4,3,2338,0.344 acres,
+https://www.zillow.com/homedetails/2123-NE-6th-Pl-Cape-Coral-FL-33909/45555014_zpid/,45555014,,SINGLE FAMILY,"$225,000",2123 NE 6th Pl,Cape Coral,FL,33909,3,2,1203,10628.64 sqft,
+https://www.zillow.com/homedetails/4902-SW-17th-Pl-UNIT-4A-Cape-Coral-FL-33914/455259746_zpid/,455259746,,CONDO,"$250,000",4902 SW 17th Pl UNIT 4A,Cape Coral,FL,33914,2,2,1142,7657.848 sqft,
+https://www.zillow.com/homedetails/3805-SE-10th-Ave-Cape-Coral-FL-33904/45401081_zpid/,45401081,,SINGLE FAMILY,"$305,000",3805 SE 10th Ave,Cape Coral,FL,33904,3,2,1986,10018.8 sqft,2413
+https://www.zillow.com/homedetails/404-NE-9th-St-Cape-Coral-FL-33909/81877837_zpid/,81877837,,SINGLE FAMILY,"$548,000",404 NE 9th St,Cape Coral,FL,33909,3,2,2048,10018.8 sqft,
+https://www.zillow.com/homedetails/608-SE-20th-Pl-Cape-Coral-FL-33990/45457593_zpid/,45457593,,SINGLE FAMILY,"$450,000",608 SE 20th Pl,Cape Coral,FL,33990,3,2,1936,10018.8 sqft,4087
+https://www.zillow.com/homedetails/1303-SE-20th-Ct-Cape-Coral-FL-33990/45472608_zpid/,45472608,,SINGLE FAMILY,"$750,000",1303 SE 20th Ct,Cape Coral,FL,33990,4,3,2880,10672.2 sqft,
+https://www.zillow.com/homedetails/713-NW-8th-Ter-Cape-Coral-FL-33993/103387622_zpid/,103387622,,SINGLE FAMILY,"$559,000",713 NW 8th Ter,Cape Coral,FL,33993,4,3,1931,10018.8 sqft,2538
+https://www.zillow.com/homedetails/1101-SE-37th-St-Cape-Coral-FL-33904/45401186_zpid/,45401186,,SINGLE FAMILY,"$335,000",1101 SE 37th St,Cape Coral,FL,33904,3,2,1317,10018.8 sqft,2577
+https://www.zillow.com/homedetails/4026-SE-3rd-Ave-Cape-Coral-FL-33904/103396206_zpid/,103396206,,SINGLE FAMILY,"$599,999",4026 SE 3rd Ave,Cape Coral,FL,33904,3,3,1837,10585.08 sqft,2436
+https://www.zillow.com/homedetails/1714-Bikini-Ct-APT-105-Cape-Coral-FL-33904/45459535_zpid/,45459535,,CONDO,"$249,900",1714 Bikini Ct APT 105,Cape Coral,FL,33904,2,2,1050,7174.332 sqft,
+https://www.zillow.com/homedetails/2692-Clyde-St-Matlacha-FL-33993/45492385_zpid/,45492385,,SINGLE FAMILY,"$376,420",2692 Clyde St,Matlacha,FL,33993,2,3,1076,3920.4 sqft,5350
+https://www.zillow.com/homedetails/1154-SE-32nd-St-Cape-Coral-FL-33904/45400630_zpid/,45400630,,SINGLE FAMILY,"$400,000",1154 SE 32nd St,Cape Coral,FL,33904,3,2,1538,0.26599999999999996 acres,
+https://www.zillow.com/homedetails/3517-SE-18th-Ave-Cape-Coral-FL-33904/45395818_zpid/,45395818,,SINGLE FAMILY,"$969,000",3517 SE 18th Ave,Cape Coral,FL,33904,4,3,2523,10018.8 sqft,
+https://www.zillow.com/homedetails/1233-SW-18th-Ct-Cape-Coral-FL-33991/66154226_zpid/,66154226,,SINGLE FAMILY,"$499,000",1233 SW 18th Ct,Cape Coral,FL,33991,5,3,2201,0.26 acres,
+https://www.zillow.com/homedetails/1316-SW-8th-Ct-Cape-Coral-FL-33991/45482895_zpid/,45482895,,SINGLE FAMILY,"$359,900",1316 SW 8th Ct,Cape Coral,FL,33991,3,2,1667,10018.8 sqft,
+https://www.zillow.com/homedetails/511-SW-8th-Pl-Cape-Coral-FL-33991/45444280_zpid/,45444280,,SINGLE FAMILY,"$265,000",511 SW 8th Pl,Cape Coral,FL,33991,3,2,1232,10105.92 sqft,
+https://www.zillow.com/homedetails/2244-SE-27th-Ter-Cape-Coral-FL-33904/45540560_zpid/,45540560,,SINGLE FAMILY,"$374,900",2244 SE 27th Ter,Cape Coral,FL,33904,3,2,1860,10105.92 sqft,
+https://www.zillow.com/homedetails/221-SW-47th-St-Cape-Coral-FL-33914/45427767_zpid/,45427767,,SINGLE FAMILY,"$377,700",221 SW 47th St,Cape Coral,FL,33914,3,2,1421,10018.8 sqft,
+https://www.zillow.com/homedetails/719-SW-47th-Ter-APT-101-Cape-Coral-FL-33914/45428032_zpid/,45428032,,CONDO,"$189,999",719 SW 47th Ter APT 101,Cape Coral,FL,33914,3,2,1086,4443.12 sqft,
+https://www.zillow.com/homedetails/1719-SW-32nd-Ter-Cape-Coral-FL-33914/455245242_zpid/,455245242,,MULTI FAMILY,"$450,000",1719 SW 32nd Ter,Cape Coral,FL,33914,6,4,2600,0.27599999999999997 acres,
+https://www.zillow.com/homedetails/4113-SE-9th-Ct-Cape-Coral-FL-33904/45406569_zpid/,45406569,,SINGLE FAMILY,"$650,000",4113 SE 9th Ct,Cape Coral,FL,33904,4,3,2065,10018.8 sqft,
+https://www.zillow.com/homedetails/1002-SE-13th-Ave-Cape-Coral-FL-33990/81888936_zpid/,81888936,,MULTI FAMILY,"$370,000",1002 SE 13th Ave,Cape Coral,FL,33990,3,2,1419,5401.44 sqft,2458
+https://www.zillow.com/homedetails/5158-Santa-Rosa-Ct-Cape-Coral-FL-33904/45436114_zpid/,45436114,,SINGLE FAMILY,"$664,000",5158 Santa Rosa Ct,Cape Coral,FL,33904,4,2,2150,0.263 acres,3820
+https://www.zillow.com/homedetails/223-SW-31st-Ter-Cape-Coral-FL-33914/45549874_zpid/,45549874,,SINGLE FAMILY,"$289,000",223 SW 31st Ter,Cape Coral,FL,33914,3,2,1168,0.344 acres,1883
+https://www.zillow.com/homedetails/2006-NW-11th-Ct-Cape-Coral-FL-33993/45543705_zpid/,45543705,,SINGLE FAMILY,"$199,900",2006 NW 11th Ct,Cape Coral,FL,33993,3,2,1173,10019 sqft,1757
+https://www.zillow.com/homedetails/5305-Darby-Ct-Cape-Coral-FL-33904/45436776_zpid/,45436776,,SINGLE FAMILY,"$599,000",5305 Darby Ct,Cape Coral,FL,33904,3,2,1768,10018.8 sqft,
+https://www.zillow.com/homedetails/5111-Manor-Ct-APT-2-Cape-Coral-FL-33904/45436342_zpid/,45436342,,CONDO,"$249,900",5111 Manor Ct APT 2,Cape Coral,FL,33904,2,2,1050,4843.872 sqft,
+https://www.zillow.com/homedetails/4416-NE-22nd-Ct-Cape-Coral-FL-33909/103340308_zpid/,103340308,,SINGLE FAMILY,"$289,000",4416 NE 22nd Ct,Cape Coral,FL,33909,3,2,1378,0.2530073461891644 acres,
+https://www.zillow.com/homedetails/3313-Acapulco-Cir-Cape-Coral-FL-33909/103333711_zpid/,103333711,,SINGLE FAMILY,"$350,000",3313 Acapulco Cir,Cape Coral,FL,33909,3,2,1747,7623 sqft,2306
+https://www.zillow.com/homedetails/619-SW-26th-Ter-Cape-Coral-FL-33914/45549664_zpid/,45549664,,SINGLE FAMILY,"$599,999",619 SW 26th Ter,Cape Coral,FL,33914,4,2,2242,10018.8 sqft,3613
+https://www.zillow.com/homedetails/4627-SW-5th-Pl-Cape-Coral-FL-33914/45428201_zpid/,45428201,,SINGLE FAMILY,"$589,900",4627 SW 5th Pl,Cape Coral,FL,33914,3,2,2041,10018.8 sqft,
+https://www.zillow.com/homedetails/4741-4743-Pine-Island-Rd-NW-Matlacha-FL-33993/295068435_zpid/,295068435,,SINGLE FAMILY,"$599,999",4741/4743 Pine Island Rd NW,Matlacha,FL,33993,3,4,2896,10149.48 sqft,
+https://www.zillow.com/homedetails/1220-SW-33rd-Ter-Cape-Coral-FL-33914/45383408_zpid/,45383408,,SINGLE FAMILY,"$217,000",1220 SW 33rd Ter,Cape Coral,FL,33914,3,2,1334,9975.24 sqft,2766
+https://www.zillow.com/homedetails/5313-Cocoa-Ct-Cape-Coral-FL-33904/45437203_zpid/,45437203,,SINGLE FAMILY,"$589,000",5313 Cocoa Ct,Cape Coral,FL,33904,3,2,1724,10402.128 sqft,3462
+https://www.zillow.com/homedetails/3573-Malagrotta-Cir-Cape-Coral-FL-33909/81876666_zpid/,81876666,,SINGLE FAMILY,"$499,000",3573 Malagrotta Cir,Cape Coral,FL,33909,4,3,2631,7535.88 sqft,2611
+https://www.zillow.com/homedetails/1318-SE-14th-St-Cape-Coral-FL-33990/45466893_zpid/,45466893,,SINGLE FAMILY,"$259,900",1318 SE 14th St,Cape Coral,FL,33990,3,2,1295,10018.8 sqft,
+https://www.zillow.com/homedetails/1901-NE-22nd-Ave-Cape-Coral-FL-33909/309246603_zpid/,309246603,,SINGLE FAMILY,"$315,999",1901 NE 22nd Ave,Cape Coral,FL,33909,3,2,1586,10019 sqft,2098
+https://www.zillow.com/homedetails/2524-SW-31st-St-Cape-Coral-FL-33914/45535409_zpid/,45535409,,SINGLE FAMILY,"$399,000",2524 SW 31st St,Cape Coral,FL,33914,3,2,1476,10628.64 sqft,
+https://www.zillow.com/homedetails/2300-SW-49th-Ter-Cape-Coral-FL-33914/45451752_zpid/,45451752,,SINGLE FAMILY,"$675,000",2300 SW 49th Ter,Cape Coral,FL,33914,3,3,2031,0.28200000000000003 acres,
+https://www.zillow.com/homedetails/1424-NE-19th-Ave-Cape-Coral-FL-33909/68087077_zpid/,68087077,,SINGLE FAMILY,"$399,000",1424 NE 19th Ave,Cape Coral,FL,33909,3,2,1998,0.5599999999999999 acres,3253
+https://www.zillow.com/homedetails/1315-Diplomat-Pkwy-E-Cape-Coral-FL-33909/103281434_zpid/,103281434,,MULTI FAMILY,"$499,999",1315 Diplomat Pkwy E,Cape Coral,FL,33909,6,4,2400, ,
+https://www.zillow.com/homedetails/926-SW-8th-Pl-Cape-Coral-FL-33991/68092176_zpid/,68092176,,SINGLE FAMILY,"$459,000",926 SW 8th Pl,Cape Coral,FL,33991,4,2,2268,10062.36 sqft,3157
+https://www.zillow.com/homedetails/2200-NE-Juanita-Place-Cpe-Cape-Coral-FL-33909/455171319_zpid/,455171319,,SINGLE FAMILY,"$359,000",2200 NE Juanita Place Cpe,Cape Coral,FL,33909,3,3,1709,10497.96 sqft,
+https://www.zillow.com/homedetails/1817-SW-21st-Ln-Cape-Coral-FL-33991/103282739_zpid/,103282739,,SINGLE FAMILY,"$575,000",1817 SW 21st Ln,Cape Coral,FL,33991,4,3,2021,0.373 acres,
+https://www.zillow.com/homedetails/1436-SE-17th-Ter-Cape-Coral-FL-33990/45525606_zpid/,45525606,,SINGLE FAMILY,"$365,000",1436 SE 17th Ter,Cape Coral,FL,33990,3,3,1808,10018.8 sqft,3383
+https://www.zillow.com/homedetails/4327-SW-19th-Ave-Cape-Coral-FL-33914/81885278_zpid/,81885278,,SINGLE FAMILY,"$549,800",4327 SW 19th Ave,Cape Coral,FL,33914,4,3,2132,0.344 acres,
+https://www.zillow.com/homedetails/1434-NE-33rd-Ln-Cape-Coral-FL-33909/103197263_zpid/,103197263,,SINGLE FAMILY,"$264,000",1434 NE 33rd Ln,Cape Coral,FL,33909,4,2,1499,10018.8 sqft,2162
+https://www.zillow.com/homedetails/613-SW-49th-Ln-Cape-Coral-FL-33914/45440944_zpid/,45440944,,SINGLE FAMILY,"$550,000",613 SW 49th Ln,Cape Coral,FL,33914,3,2,1678,10018.8 sqft,3126
+https://www.zillow.com/homedetails/2718-NW-5th-St-Cape-Coral-FL-33993/45410346_zpid/,45410346,,SINGLE FAMILY,"$294,900",2718 NW 5th St,Cape Coral,FL,33993,3,2,1422,10018.8 sqft,2436
+https://www.zillow.com/homedetails/4959-Viceroy-St-UNIT-103-Cape-Coral-FL-33904/45464198_zpid/,45464198,,CONDO,"$209,900",4959 Viceroy St UNIT 103,Cape Coral,FL,33904,2,2,1090,2613 sqft,1654
+https://www.zillow.com/homedetails/4241-NW-26th-St-Cape-Coral-FL-33993/66155882_zpid/,66155882,,SINGLE FAMILY,"$1,599,000",4241 NW 26th St,Cape Coral,FL,33993,3,3,2535,10585.08 sqft,
+https://www.zillow.com/homedetails/3403-SE-22nd-Pl-Cape-Coral-FL-33904/45396179_zpid/,45396179,,SINGLE FAMILY,"$1,500,000",3403 SE 22nd Pl,Cape Coral,FL,33904,4,4,2664,0.315 acres,
+https://www.zillow.com/homedetails/709-SW-27th-St-Cape-Coral-FL-33914/45549686_zpid/,45549686,,SINGLE FAMILY,"$394,900",709 SW 27th St,Cape Coral,FL,33914,3,2,1455,0.255 acres,
+https://www.zillow.com/homedetails/104-NW-7th-Ter-Cape-Coral-FL-33993/81883105_zpid/,81883105,,SINGLE FAMILY,"$500,000",104 NW 7th Ter,Cape Coral,FL,33993,4,3,2746,10628.64 sqft,5883
+https://www.zillow.com/homedetails/3911-Country-Club-Blvd-APT-102-Cape-Coral-FL-33904/45401388_zpid/,45401388,,CONDO,"$109,999",3911 Country Club Blvd APT 102,Cape Coral,FL,33904,2,2,1026,4486.68 sqft,
+https://www.zillow.com/homedetails/538-SE-32nd-Ter-Cape-Coral-FL-33904/45372760_zpid/,45372760,,SINGLE FAMILY,"$400,000",538 SE 32nd Ter,Cape Coral,FL,33904,3,2,1630,10018.8 sqft,3241
+https://www.zillow.com/homedetails/4635-NW-34th-St-Cape-Coral-FL-33993/66155300_zpid/,66155300,,SINGLE FAMILY,"$319,000",4635 NW 34th St,Cape Coral,FL,33993,4,2,2143,9975.24 sqft,2215
+https://www.zillow.com/homedetails/4418-SW-1st-Ave-Cape-Coral-FL-33914/45427953_zpid/,45427953,,SINGLE FAMILY,"$259,000",4418 SW 1st Ave,Cape Coral,FL,33914,3,2,1622,10019 sqft,3830
+https://www.zillow.com/homedetails/3812-SE-10th-Ave-Cape-Coral-FL-33904/45401134_zpid/,45401134,,SINGLE FAMILY,"$372,000",3812 SE 10th Ave,Cape Coral,FL,33904,4,3,2094,0.34099999999999997 acres,
+https://www.zillow.com/homedetails/2843-NW-47th-Ave-Cape-Coral-FL-33993/103286459_zpid/,103286459,,SINGLE FAMILY,"$269,900",2843 NW 47th Ave,Cape Coral,FL,33993,3,2,1777,10018.8 sqft,
+https://www.zillow.com/homedetails/2652-SW-29th-Ave-Cape-Coral-FL-33914/45535148_zpid/,45535148,,SINGLE FAMILY,"$350,000",2652 SW 29th Ave,Cape Coral,FL,33914,3,2,1698,10497.96 sqft,2127
+https://www.zillow.com/homedetails/2721-Foralesca-Ct-Cape-Coral-FL-33909/103336405_zpid/,103336405,,SINGLE FAMILY,"$335,000",2721 Foralesca Ct,Cape Coral,FL,33909,4,2,1828,7318.08 sqft,
+https://www.zillow.com/homedetails/1127-SE-16th-St-Cape-Coral-FL-33990/45466864_zpid/,45466864,,SINGLE FAMILY,"$500,000",1127 SE 16th St,Cape Coral,FL,33990,3,2,1568,10018.8 sqft,
+https://www.zillow.com/homedetails/4113-NW-22nd-St-Cape-Coral-FL-33993/66160576_zpid/,66160576,,SINGLE FAMILY,"$465,000",4113 NW 22nd St,Cape Coral,FL,33993,4,3,1886,10018.8 sqft,2484
+https://www.zillow.com/homedetails/1202-Flamingo-Dr-Cape-Coral-FL-33904/45468556_zpid/,45468556,,SINGLE FAMILY,"$1,550,000",1202 Flamingo Dr,Cape Coral,FL,33904,4,3,3106,0.27899999999999997 acres,
+https://www.zillow.com/homedetails/1214-SW-8th-Ct-Cape-Coral-FL-33991/45482908_zpid/,45482908,,SINGLE FAMILY,"$282,888",1214 SW 8th Ct,Cape Coral,FL,33991,4,2,1356,10018.8 sqft,
+https://www.zillow.com/homedetails/18150-Morning-Star-Ln-Cape-Coral-FL-33993/247775971_zpid/,247775971,,SINGLE FAMILY,"$889,900",18150 Morning Star Ln,Cape Coral,FL,33993,5,5,3322,2.66 acres,
+https://www.zillow.com/homedetails/2410-SW-50th-Ln-Cape-Coral-FL-33914/63395712_zpid/,63395712,,SINGLE FAMILY,"$299,000",2410 SW 50th Ln,Cape Coral,FL,33914,3,2,1243,10497.96 sqft,
+https://www.zillow.com/homedetails/2218-SW-12th-Pl-Cape-Coral-FL-33991/45506394_zpid/,45506394,,SINGLE FAMILY,"$450,000",2218 SW 12th Pl,Cape Coral,FL,33991,3,2,2006,10018.8 sqft,3243
+https://www.zillow.com/homedetails/3214-SW-11th-Pl-Cape-Coral-FL-33914/247777365_zpid/,247777365,,SINGLE FAMILY,"$615,000",3214 SW 11th Pl,Cape Coral,FL,33914,3,3,2398,10628.64 sqft,3440
+https://www.zillow.com/homedetails/610-Victoria-Dr-101C-Cape-Coral-FL-33904/45436421_zpid/,45436421,,CONDO,"$284,900",610 Victoria Dr #101C,Cape Coral,FL,33904,2,2,1504,3362.832 sqft,
+https://www.zillow.com/homedetails/2310-SW-53rd-St-Cape-Coral-FL-33914/45452472_zpid/,45452472,,SINGLE FAMILY,"$575,000",2310 SW 53rd St,Cape Coral,FL,33914,3,2,2466,0.344 acres,6007
+https://www.zillow.com/homedetails/4322-NW-32nd-Ter-Cape-Coral-FL-33993/89564011_zpid/,89564011,,SINGLE FAMILY,"$325,000",4322 NW 32nd Ter,Cape Coral,FL,33993,3,2,2081,10497.96 sqft,
+https://www.zillow.com/homedetails/5334-Cobalt-Ct-Cape-Coral-FL-33904/45436842_zpid/,45436842,,SINGLE FAMILY,"$475,000",5334 Cobalt Ct,Cape Coral,FL,33904,3,2,1288,10018.8 sqft,2109
+https://www.zillow.com/community/bahnam-builders-custom-builders/342092375_zpid/,342092375,,SINGLE FAMILY,"$549,000+","Collin's Plan, Bahnam Builders | Custom Builders",Cape Coral,FL,33993,4,3,2614, ,3518
+https://www.zillow.com/homedetails/1731-SW-3rd-Ter-Cape-Coral-FL-33991/45449370_zpid/,45449370,,SINGLE FAMILY,"$304,900",1731 SW 3rd Ter,Cape Coral,FL,33991,4,2,1712,10018.8 sqft,2126
+https://www.zillow.com/homedetails/3922-SE-12th-Ave-Cape-Coral-FL-33904/299261683_zpid/,299261683,,MULTI FAMILY,"$515,001",3922 SE 12th Ave,Cape Coral,FL,33904,4,4,3987, ,
+https://www.zillow.com/homedetails/1407-SE-17th-Ter-Cape-Coral-FL-33990/68094630_zpid/,68094630,,SINGLE FAMILY,"$340,000",1407 SE 17th Ter,Cape Coral,FL,33990,3,2,1891,10018.8 sqft,2295
+https://www.zillow.com/homedetails/4011-Agualinda-Blvd-Cape-Coral-FL-33914/45418106_zpid/,45418106,,SINGLE FAMILY,"$375,000",4011 Agualinda Blvd,Cape Coral,FL,33914,3,2,1883,0.255 acres,
+https://www.zillow.com/homedetails/509-SE-8th-Pl-Cape-Coral-FL-33990/45462787_zpid/,45462787,,SINGLE FAMILY,"$239,900",509 SE 8th Pl,Cape Coral,FL,33990,3,2,1184,10105.92 sqft,1822
+https://www.zillow.com/homedetails/491-Spring-Hill-Lake-Loop-Cape-Coral-FL-33993/448764839_zpid/,448764839,,SINGLE FAMILY,"$447,665",491 Spring Hill Lake Loop,Cape Coral,FL,33993,3,3,2221,6534 sqft,
+https://www.zillow.com/homedetails/320-NW-13th-St-Cape-Coral-FL-33993/89559971_zpid/,89559971,,SINGLE FAMILY,"$495,000",320 NW 13th St,Cape Coral,FL,33993,3,2,1922,10323.72 sqft,
+https://www.zillow.com/homedetails/2516-SW-52nd-Ter-Cape-Coral-FL-33914/45459152_zpid/,45459152,,SINGLE FAMILY,"$529,900",2516 SW 52nd Ter,Cape Coral,FL,33914,3,2,2178,10018.8 sqft,
+https://www.zillow.com/homedetails/2416-SW-10th-Ave-Cape-Coral-FL-33914/103336611_zpid/,103336611,,SINGLE FAMILY,"$949,000",2416 SW 10th Ave,Cape Coral,FL,33914,4,4,2510,10018.8 sqft,4206
+https://www.zillow.com/homedetails/1826-SE-6th-Ave-Cape-Coral-FL-33990/45497208_zpid/,45497208,,SINGLE FAMILY,"$459,000",1826 SE 6th Ave,Cape Coral,FL,33990,3,2,1854,10018.8 sqft,2734
+https://www.zillow.com/homedetails/516-NW-3rd-Ter-Cape-Coral-FL-33993/103281508_zpid/,103281508,,SINGLE FAMILY,"$589,990",516 NW 3rd Ter,Cape Coral,FL,33993,4,3,1853,0.344 acres,3048
+https://www.zillow.com/homedetails/540-NW-14th-St-Cape-Coral-FL-33993/97857363_zpid/,97857363,,SINGLE FAMILY,"$489,990",540 NW 14th St,Cape Coral,FL,33993,4,3,2127,10019 sqft,2303
+https://www.zillow.com/homedetails/1942-SE-8th-Pl-Cape-Coral-FL-33990/45525487_zpid/,45525487,,SINGLE FAMILY,"$329,900",1942 SE 8th Pl,Cape Coral,FL,33990,3,2,1700,10236.6 sqft,
+https://www.zillow.com/homedetails/2913-Tuscan-Dr-UNIT-203-Cape-Coral-FL-33909/89571334_zpid/,89571334,,CONDO,"$179,900",2913 Tuscan Dr UNIT 203,Cape Coral,FL,33909,2,2,1270,9012.564 sqft,1653
+https://www.zillow.com/homedetails/3705-NE-15th-Place-Cpe-Cape-Coral-FL-33909/455193340_zpid/,455193340,,SINGLE FAMILY,"$300,000",3705 NE 15th Place Cpe,Cape Coral,FL,33909,4,3,1811,10018.8 sqft,
+https://www.zillow.com/homedetails/322-SE-31st-St-Cape-Coral-FL-33904/45558051_zpid/,45558051,,SINGLE FAMILY,"$310,000",322 SE 31st St,Cape Coral,FL,33904,3,2,1461,10018.8 sqft,1954
+https://www.zillow.com/homedetails/1102-SE-28th-Ter-Cape-Coral-FL-33904/45531537_zpid/,45531537,,SINGLE FAMILY,"$300,000",1102 SE 28th Ter,Cape Coral,FL,33904,3,3,1609,0.261 acres,
+https://www.zillow.com/homedetails/1413-SE-36th-St-Cape-Coral-FL-33904/45400373_zpid/,45400373,,SINGLE FAMILY,"$399,700",1413 SE 36th St,Cape Coral,FL,33904,3,2,1569,10018.8 sqft,4176
+https://www.zillow.com/homedetails/2804-NW-6th-St-Cape-Coral-FL-33993/103362596_zpid/,103362596,,SINGLE FAMILY,"$344,900",2804 NW 6th St,Cape Coral,FL,33993,4,2,1830,10018.8 sqft,2432
+https://www.zillow.com/homedetails/132-SW-34th-Ln-Cape-Coral-FL-33914/45377891_zpid/,45377891,,SINGLE FAMILY,"$425,000",132 SW 34th Ln,Cape Coral,FL,33914,3,2,1555,10018.8 sqft,
+https://www.zillow.com/homedetails/1433-SE-19th-Ter-Cape-Coral-FL-33990/45525781_zpid/,45525781,,SINGLE FAMILY,"$349,900",1433 SE 19th Ter,Cape Coral,FL,33990,3,2,1257,10018.8 sqft,2404
+https://www.zillow.com/homedetails/2906-SE-10th-Ave-Cape-Coral-FL-33904/45531740_zpid/,45531740,,SINGLE FAMILY,"$419,000",2906 SE 10th Ave,Cape Coral,FL,33904,3,2,1380,0.27 acres,
+https://www.zillow.com/homedetails/5223-Glade-Ct-Cape-Coral-FL-33904/45464938_zpid/,45464938,,SINGLE FAMILY,"$349,900",5223 Glade Ct,Cape Coral,FL,33904,3,2,1942,10018.8 sqft,4100
+https://www.zillow.com/homedetails/507-NE-31st-St-Cape-Coral-FL-33909/45495566_zpid/,45495566,,SINGLE FAMILY,"$375,000",507 NE 31st St,Cape Coral,FL,33909,3,2,1437,10018.8 sqft,2251
+https://www.zillow.com/homedetails/3498-Acapulco-Cir-Cape-Coral-FL-33909/103229627_zpid/,103229627,,SINGLE FAMILY,"$439,500",3498 Acapulco Cir,Cape Coral,FL,33909,3,2,1747,6229.08 sqft,
+https://www.zillow.com/homedetails/315-Gleason-Pkwy-Cape-Coral-FL-33914/45549839_zpid/,45549839,,SINGLE FAMILY,"$360,000",315 Gleason Pkwy,Cape Coral,FL,33914,3,2,1729,10018.8 sqft,1890
+https://www.zillow.com/homedetails/2505-NW-19th-Pl-Cape-Coral-FL-33993/103321348_zpid/,103321348,,SINGLE FAMILY,"$499,900",2505 NW 19th Pl,Cape Coral,FL,33993,4,2,1800,0.4592 acres,2899
+https://www.zillow.com/homedetails/519-Spring-Hill-Lake-Loop-Cape-Coral-FL-33993/448766276_zpid/,448766276,,SINGLE FAMILY,"$412,165",519 Spring Hill Lake Loop,Cape Coral,FL,33993,3,3,2221,6534 sqft,
+https://www.zillow.com/homedetails/2569-Keystone-Lake-Dr-Cape-Coral-FL-33909/89566951_zpid/,89566951,,SINGLE FAMILY,"$325,000",2569 Keystone Lake Dr,Cape Coral,FL,33909,3,2,1838,7013.16 sqft,
+https://www.zillow.com/homedetails/4538-SE-6th-Ct-Cape-Coral-FL-33904/45430429_zpid/,45430429,,SINGLE FAMILY,"$549,000",4538 SE 6th Ct,Cape Coral,FL,33904,3,2,2068,10280.16 sqft,3542
+https://www.zillow.com/homedetails/1503-Hancock-Bridge-Pkwy-Cape-Coral-FL-33990/45462320_zpid/,45462320,,SINGLE FAMILY,"$300,000",1503 Hancock Bridge Pkwy,Cape Coral,FL,33990,3,2,1758,10410.84 sqft,2278
+https://www.zillow.com/homedetails/1754-Cape-Coral-Pkwy-E-APT-108-Cape-Coral-FL-33904/45459571_zpid/,45459571,,CONDO,"$190,000",1754 Cape Coral Pkwy E APT 108,Cape Coral,FL,33904,2,2,1027, ,1803
+https://www.zillow.com/homedetails/1525-SW-43rd-Ter-Cape-Coral-FL-33914/45423486_zpid/,45423486,,SINGLE FAMILY,"$639,000",1525 SW 43rd Ter,Cape Coral,FL,33914,3,3,1952,0.34600000000000003 acres,5917
+https://www.zillow.com/homedetails/2602-Pine-St-Matlacha-FL-33993/45492223_zpid/,45492223,,SINGLE FAMILY,"$199,900",2602 Pine St,Matlacha,FL,33993,1,1,828,4007.52 sqft,1595
+https://www.zillow.com/homedetails/3110-SE-19th-Ave-Cape-Coral-FL-33904/45536738_zpid/,45536738,,SINGLE FAMILY,"$550,000",3110 SE 19th Ave,Cape Coral,FL,33904,3,2,1972,10018.8 sqft,3272
+https://www.zillow.com/homedetails/4009-Jacaranda-Pkwy-W-Cape-Coral-FL-33993/66155164_zpid/,66155164,,SINGLE FAMILY,"$875,000",4009 Jacaranda Pkwy W,Cape Coral,FL,33993,4,3,2295,0.27299999999999996 acres,2680
+https://www.zillow.com/homedetails/5309-Baypoint-Ct-Cape-Coral-FL-33904/45437245_zpid/,45437245,,SINGLE FAMILY,"$615,000",5309 Baypoint Ct,Cape Coral,FL,33904,3,2,1748,10018.8 sqft,
+https://www.zillow.com/homedetails/3715-NW-9th-Ter-Cape-Coral-FL-33993/66148403_zpid/,66148403,,SINGLE FAMILY,"$1,095,000",3715 NW 9th Ter,Cape Coral,FL,33993,3,3,3080,0.293 acres,
+https://www.zillow.com/homedetails/3624-NW-38th-Ter-Cape-Coral-FL-33993/103217923_zpid/,103217923,,SINGLE FAMILY,"$584,999",3624 NW 38th Ter,Cape Coral,FL,33993,4,2,2013,0.265 acres,2407
+https://www.zillow.com/homedetails/3206-SW-4th-Ln-Cape-Coral-FL-33991/45461686_zpid/,45461686,,SINGLE FAMILY,"$625,000",3206 SW 4th Ln,Cape Coral,FL,33991,3,2,2094,0.258 acres,
+https://www.zillow.com/homedetails/2115-Old-Burnt-Store-Rd-N-Cape-Coral-FL-33993/68094721_zpid/,68094721,,SINGLE FAMILY,"$1,290,000",2115 Old Burnt Store Rd N,Cape Coral,FL,33993,4,3,2889,0.344 acres,
+https://www.zillow.com/homedetails/5249-Nautilus-Dr-Cape-Coral-FL-33904/45464530_zpid/,45464530,,SINGLE FAMILY,"$1,485,000",5249 Nautilus Dr,Cape Coral,FL,33904,4,3,3408,0.536 acres,
+https://www.zillow.com/homedetails/608-SW-43rd-Ter-Cape-Coral-FL-33914/45427052_zpid/,45427052,,SINGLE FAMILY,"$529,900",608 SW 43rd Ter,Cape Coral,FL,33914,3,2,1500,10018.8 sqft,
+https://www.zillow.com/homedetails/2915-Beach-Pkwy-W-Cape-Coral-FL-33914/66149458_zpid/,66149458,,SINGLE FAMILY,"$870,000",2915 Beach Pkwy W,Cape Coral,FL,33914,4,3,2265,10105.92 sqft,
+https://www.zillow.com/homedetails/5359-Del-Monte-Ct-Cape-Coral-FL-33904/45436709_zpid/,45436709,,SINGLE FAMILY,"$585,000",5359 Del Monte Ct,Cape Coral,FL,33904,3,2,1658,10018.8 sqft,
+https://www.zillow.com/homedetails/2105-SW-53rd-Ter-Cape-Coral-FL-33914/45452405_zpid/,45452405,,SINGLE FAMILY,"$599,900",2105 SW 53rd Ter,Cape Coral,FL,33914,3,2,2210,0.461 acres,5344
+https://www.zillow.com/homedetails/834-NE-Van-Loon-Lane-Cpe-Coral-FL-33909/455171452_zpid/,455171452,,SINGLE FAMILY,"$429,000",834 NE Van Loon Lane Cpe,Coral,FL,33909,4,2,1830,10018.8 sqft,
+https://www.zillow.com/homedetails/1913-SW-51st-Ter-Cape-Coral-FL-33914/45452095_zpid/,45452095,,SINGLE FAMILY,"$429,980",1913 SW 51st Ter,Cape Coral,FL,33914,3,2,1314,10018.8 sqft,
+https://www.zillow.com/homedetails/1117-Amber-Lake-Ct-Cape-Coral-FL-33909/81949026_zpid/,81949026,,SINGLE FAMILY,"$500,000",1117 Amber Lake Ct,Cape Coral,FL,33909,6,5,3443,9892.476 sqft,3895
+https://www.zillow.com/homedetails/5218-SW-24th-Ave-Cape-Coral-FL-33914/45452457_zpid/,45452457,,SINGLE FAMILY,"$518,500",5218 SW 24th Ave,Cape Coral,FL,33914,4,3,2416,10018.8 sqft,6436
+https://www.zillow.com/homedetails/2724-SW-1st-Ter-Cape-Coral-FL-33991/45456882_zpid/,45456882,,SINGLE FAMILY,"$470,000",2724 SW 1st Ter,Cape Coral,FL,33991,3,2,2040, ,3704
+https://www.zillow.com/homedetails/5706-Cape-Harbour-Dr-APT-110-Cape-Coral-FL-33914/67405412_zpid/,67405412,,CONDO,"$650,000",5706 Cape Harbour Dr APT 110,Cape Coral,FL,33914,2,2,1702,0.9683 acres,3341
+https://www.zillow.com/homedetails/3819-SE-2nd-Ave-Cape-Coral-FL-33904/45373509_zpid/,45373509,,SINGLE FAMILY,"$420,000",3819 SE 2nd Ave,Cape Coral,FL,33904,3,2,1894,10497.96 sqft,
+https://www.zillow.com/homedetails/1211-SW-49th-St-Cape-Coral-FL-33914/45444989_zpid/,45444989,,SINGLE FAMILY,"$739,900",1211 SW 49th St,Cape Coral,FL,33914,3,2,1833,10018.8 sqft,3977
+https://www.zillow.com/homedetails/2716-SW-13th-Ave-Cape-Coral-FL-33914/66159785_zpid/,66159785,,SINGLE FAMILY,"$834,900",2716 SW 13th Ave,Cape Coral,FL,33914,4,3,2619,0.2585 acres,4519
+https://www.zillow.com/homedetails/Cape-Coral-FL-33909/66158528_zpid/,66158528,,SINGLE FAMILY,"$576,900",(undisclosed Address),Cape Coral,FL,33909,4,3,1782,0.304 acres,
+https://www.zillow.com/homedetails/234-SW-45th-St-Cape-Coral-FL-33914/45427850_zpid/,45427850,,SINGLE FAMILY,"$525,000",234 SW 45th St,Cape Coral,FL,33914,3,2,1912,10018.8 sqft,
+https://www.zillow.com/homedetails/603-SW-53rd-Ter-Cape-Coral-FL-33914/45441728_zpid/,45441728,,SINGLE FAMILY,"$1,350,000",603 SW 53rd Ter,Cape Coral,FL,33914,3,4,3249,0.311 acres,
+https://www.zillow.com/homedetails/2915-SW-39th-Ter-Cape-Coral-FL-33914/45395694_zpid/,45395694,,SINGLE FAMILY,"$620,000",2915 SW 39th Ter,Cape Coral,FL,33914,3,2,1804,10105.92 sqft,3427
+https://www.zillow.com/homedetails/2521-Cape-Coral-Pkwy-W-Cape-Coral-FL-33914/66668430_zpid/,66668430,,SINGLE FAMILY,"$1,040,000",2521 Cape Coral Pkwy W,Cape Coral,FL,33914,4,3,2394,9975.24 sqft,6568
+https://www.zillow.com/homedetails/4910-Sorrento-Ct-Cape-Coral-FL-33904/45435824_zpid/,45435824,,SINGLE FAMILY,"$569,000",4910 Sorrento Ct,Cape Coral,FL,33904,3,2,3575,10019 sqft,
+https://www.zillow.com/homedetails/2511-NW-1st-St-Cape-Coral-FL-33993/103340296_zpid/,103340296,,SINGLE FAMILY,"$560,000",2511 NW 1st St,Cape Coral,FL,33993,4,3,1918,10018.8 sqft,
+https://www.zillow.com/homedetails/3913-SE-19th-Ave-Cape-Coral-FL-33904/45396647_zpid/,45396647,,SINGLE FAMILY,"$658,000",3913 SE 19th Ave,Cape Coral,FL,33904,4,2,2238,10018.8 sqft,3565
+https://www.zillow.com/homedetails/4904-SW-10th-Ave-Cape-Coral-FL-33914/45445369_zpid/,45445369,,SINGLE FAMILY,"$850,000",4904 SW 10th Ave,Cape Coral,FL,33914,3,2,2015,10846.44 sqft,3185
+https://www.zillow.com/homedetails/5228-SW-8th-Ct-Cape-Coral-FL-33914/45445722_zpid/,45445722,,SINGLE FAMILY,"$1,125,000",5228 SW 8th Ct,Cape Coral,FL,33914,3,3,2312,10018.8 sqft,
+https://www.zillow.com/homedetails/2033-Embers-Pkwy-Cape-Coral-FL-33993/453153207_zpid/,453153207,,SINGLE FAMILY,"$884,000",2033 Embers Pkwy,Cape Coral,FL,33993,4,4,4176, ,
+https://www.zillow.com/homedetails/4007-Palm-Tree-Blvd-APT-105-Cape-Coral-FL-33904/62840267_zpid/,62840267,,CONDO,"$199,900",4007 Palm Tree Blvd APT 105,Cape Coral,FL,33904,2,2,1220,0.2596 acres,1734
+https://www.zillow.com/homedetails/815-Victoria-Dr-APT-207-Cape-Coral-FL-33904/45464166_zpid/,45464166,,CONDO,"$146,500",815 Victoria Dr APT 207,Cape Coral,FL,33904,2,2,782,4338.576 sqft,
+https://www.zillow.com/homedetails/2339-SE-27th-St-Cape-Coral-FL-33904/45540584_zpid/,45540584,,SINGLE FAMILY,"$489,990",2339 SE 27th St,Cape Coral,FL,33904,3,2,1960,10454.4 sqft,
+https://www.zillow.com/homedetails/1773-Four-Mile-Cove-Pkwy-APT-1123-Cape-Coral-FL-33990/71051327_zpid/,71051327,,CONDO,"$190,000",1773 Four Mile Cove Pkwy APT 1123,Cape Coral,FL,33990,2,2,968,9583 sqft,1558
+https://www.zillow.com/homedetails/2302-SE-15th-Ter-Cape-Coral-FL-33990/45472906_zpid/,45472906,,SINGLE FAMILY,"$489,900",2302 SE 15th Ter,Cape Coral,FL,33990,3,2,1725,10018.8 sqft,2923
+https://www.zillow.com/homedetails/3742-SE-3rd-Pl-Cape-Coral-FL-33904/45373618_zpid/,45373618,,SINGLE FAMILY,"$419,900",3742 SE 3rd Pl,Cape Coral,FL,33904,3,2,1564,10018.8 sqft,2674
+https://www.zillow.com/homedetails/1442-Wellington-Ct-Cape-Coral-FL-33904/45464554_zpid/,45464554,,SINGLE FAMILY,"$579,900",1442 Wellington Ct,Cape Coral,FL,33904,3,2,1882,10018.8 sqft,
+https://www.zillow.com/homedetails/2032-Coral-Point-Dr-Cape-Coral-FL-33990/45518734_zpid/,45518734,,SINGLE FAMILY,"$440,000",2032 Coral Point Dr,Cape Coral,FL,33990,2,2,1244,10410.84 sqft,
+https://www.zillow.com/homedetails/3416-SW-5th-Ave-Cape-Coral-FL-33914/45377554_zpid/,45377554,,SINGLE FAMILY,"$488,000",3416 SW 5th Ave,Cape Coral,FL,33914,3,2,2308,10018.8 sqft,
+https://www.zillow.com/homedetails/113-SE-28th-Ter-Cape-Coral-FL-33904/89566059_zpid/,89566059,,SINGLE FAMILY,"$775,000",113 SE 28th Ter,Cape Coral,FL,33904,3,3,2281,0.26599999999999996 acres,
+https://www.zillow.com/homedetails/2600-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45459036_zpid/,45459036,,SINGLE FAMILY,"$1,389,000",2600 El Dorado Pkwy W,Cape Coral,FL,33914,3,2,2452,0.291 acres,
+https://www.zillow.com/homedetails/213-SW-19th-Ter-Cape-Coral-FL-33991/103315304_zpid/,103315304,,SINGLE FAMILY,"$400,000",213 SW 19th Ter,Cape Coral,FL,33991,5,3,2172,0.255 acres,4168
+https://www.zillow.com/homedetails/1069-SW-57th-St-Cape-Coral-FL-33914/45483773_zpid/,45483773,,SINGLE FAMILY,"$950,000",1069 SW 57th St,Cape Coral,FL,33914,3,3,2440,10628.64 sqft,6703
+https://www.zillow.com/homedetails/4909-Normandy-Ct-Cape-Coral-FL-33904/45464348_zpid/,45464348,,SINGLE FAMILY,"$620,000",4909 Normandy Ct,Cape Coral,FL,33904,4,3,2714,10018.8 sqft,6789
+https://www.zillow.com/homedetails/1626-SE-28th-St-Cape-Coral-FL-33904/45535829_zpid/,45535829,,SINGLE FAMILY,"$599,000",1626 SE 28th St,Cape Coral,FL,33904,3,2,1317,10018.8 sqft,
+https://www.zillow.com/homedetails/1766-Cape-Coral-Pkwy-E-APT-410-Cape-Coral-FL-33904/45459494_zpid/,45459494,,CONDO,"$189,000",1766 Cape Coral Pkwy E APT 410,Cape Coral,FL,33904,2,2,1082,0.2998 acres,
+https://www.zillow.com/homedetails/5246-Tower-Dr-Cape-Coral-FL-33904/45436608_zpid/,45436608,,SINGLE FAMILY,"$459,900",5246 Tower Dr,Cape Coral,FL,33904,2,2,1428,10018.8 sqft,2475
+https://www.zillow.com/homedetails/406-SW-28th-St-Cape-Coral-FL-33914/99337433_zpid/,99337433,,SINGLE FAMILY,"$680,000",406 SW 28th St,Cape Coral,FL,33914,3,2,1964,10018.8 sqft,
+https://www.zillow.com/homedetails/910-SE-23rd-Pl-Cape-Coral-FL-33990/45472439_zpid/,45472439,,SINGLE FAMILY,"$424,900",910 SE 23rd Pl,Cape Coral,FL,33990,3,2,1663,0.2890036730945822 acres,3361
+https://www.zillow.com/homedetails/927-NW-12th-Ter-Cape-Coral-FL-33993/81881425_zpid/,81881425,,SINGLE FAMILY,"$424,900",927 NW 12th Ter,Cape Coral,FL,33993,4,2,1712,10018.8 sqft,
+https://www.zillow.com/homedetails/617-SW-51st-Ter-Cape-Coral-FL-33914/45440910_zpid/,45440910,,SINGLE FAMILY,"$699,000",617 SW 51st Ter,Cape Coral,FL,33914,2,2,1645,10018.8 sqft,3224
+https://www.zillow.com/homedetails/1105-Lenox-Ct-Cape-Coral-FL-33904/45468216_zpid/,45468216,,SINGLE FAMILY,"$650,000",1105 Lenox Ct,Cape Coral,FL,33904,3,2,1554,10018.8 sqft,3109
+https://www.zillow.com/homedetails/501-SE-16th-St-Cape-Coral-FL-33990/103343872_zpid/,103343872,,SINGLE FAMILY,"$485,000",501 SE 16th St,Cape Coral,FL,33990,4,3,2116,0.251 acres,4527
+https://www.zillow.com/homedetails/1722-NE-24th-Ave-Cape-Coral-FL-33909/103190025_zpid/,103190025,,SINGLE FAMILY,"$599,000",1722 NE 24th Ave,Cape Coral,FL,33909,4,2,2126,10628.64 sqft,3238
+https://www.zillow.com/homedetails/1113-NE-32nd-St-Cape-Coral-FL-33909/81886906_zpid/,81886906,,SINGLE FAMILY,"$419,999",1113 NE 32nd St,Cape Coral,FL,33909,3,2,2010,10019 sqft,2995
+https://www.zillow.com/homedetails/2107-SW-39th-St-Cape-Coral-FL-33914/66147138_zpid/,66147138,,SINGLE FAMILY,"$1,200,000",2107 SW 39th St,Cape Coral,FL,33914,5,3,2234,0.258 acres,
+https://www.zillow.com/homedetails/506-SW-33rd-Ave-Cape-Coral-FL-33991/45461697_zpid/,45461697,,SINGLE FAMILY,"$1,250,000",506 SW 33rd Ave,Cape Coral,FL,33991,3,3,2773,10062.36 sqft,
+https://www.zillow.com/homedetails/1442-SE-15th-Ter-Cape-Coral-FL-33990/45466883_zpid/,45466883,,SINGLE FAMILY,"$569,000",1442 SE 15th Ter,Cape Coral,FL,33990,3,2,1658,10018.8 sqft,
+https://www.zillow.com/homedetails/605-SW-51st-Ter-Cape-Coral-FL-33914/45440907_zpid/,45440907,,SINGLE FAMILY,"$735,000",605 SW 51st Ter,Cape Coral,FL,33914,3,3,2385,10018.8 sqft,
+https://www.zillow.com/homedetails/1423-SW-40th-Ter-Cape-Coral-FL-33914/103295184_zpid/,103295184,,SINGLE FAMILY,"$1,099,000",1423 SW 40th Ter,Cape Coral,FL,33914,4,3,2140,10018.8 sqft,
+https://www.zillow.com/homedetails/3528-SE-1st-Pl-Cape-Coral-FL-33904/45372557_zpid/,45372557,,SINGLE FAMILY,"$604,999",3528 SE 1st Pl,Cape Coral,FL,33904,3,2,1698,10323.72 sqft,
+https://www.zillow.com/homedetails/3711-Del-Prado-Blvd-S-APT-2-Cape-Coral-FL-33904/45400981_zpid/,45400981,,CONDO,"$169,900",3711 Del Prado Blvd S APT 2,Cape Coral,FL,33904,2,2,998,5314.32 sqft,
+https://www.zillow.com/homedetails/3322-SW-29th-Ave-Cape-Coral-FL-33914/164201216_zpid/,164201216,,SINGLE FAMILY,"$425,000",3322 SW 29th Ave,Cape Coral,FL,33914,3,2,2006,10018.8 sqft,
+https://www.zillow.com/homedetails/3042-SW-10th-Pl-Cape-Coral-FL-33914/45545120_zpid/,45545120,,SINGLE FAMILY,"$419,000",3042 SW 10th Pl,Cape Coral,FL,33914,4,3,1765,10846.44 sqft,
+https://www.zillow.com/homedetails/1008-SW-21st-Ln-Cape-Coral-FL-33991/45506213_zpid/,45506213,,SINGLE FAMILY,"$400,000",1008 SW 21st Ln,Cape Coral,FL,33991,3,2,2394,0.3440082644628099 acres,3059
+https://www.zillow.com/homedetails/1619-NW-31st-Ave-Cape-Coral-FL-33993/89565245_zpid/,89565245,,SINGLE FAMILY,"$500,000",1619 NW 31st Ave,Cape Coral,FL,33993,4,3,2572,10018.8 sqft,4105
+https://www.zillow.com/homedetails/2516-SW-35th-Ter-Cape-Coral-FL-33914/68087176_zpid/,68087176,,SINGLE FAMILY,"$1,250,000",2516 SW 35th Ter,Cape Coral,FL,33914,4,4,4111,0.44300000000000006 acres,5572
+https://www.zillow.com/homedetails/106-NE-23rd-St-Cape-Coral-FL-33909/66160680_zpid/,66160680,,SINGLE FAMILY,"$650,000",106 NE 23rd St,Cape Coral,FL,33909,4,3,1991,0.287 acres,2906
+https://www.zillow.com/homedetails/2606-SW-38th-St-Cape-Coral-FL-33914/103262246_zpid/,103262246,,SINGLE FAMILY,"$534,999",2606 SW 38th St,Cape Coral,FL,33914,3,3,2361,10018.8 sqft,
+https://www.zillow.com/homedetails/5701-Riverside-Dr-Cape-Coral-FL-33904/45468516_zpid/,45468516,,SINGLE FAMILY,"$1,450,000",5701 Riverside Dr,Cape Coral,FL,33904,3,2,1826,0.26 acres,
+https://www.zillow.com/homedetails/2003-SE-26th-Ter-Cape-Coral-FL-33904/45535993_zpid/,45535993,,SINGLE FAMILY,"$545,000",2003 SE 26th Ter,Cape Coral,FL,33904,3,2,1493,0.258 acres,
+https://www.zillow.com/homedetails/2620-Stonyhill-Ct-Cape-Coral-FL-33991/103332466_zpid/,103332466,,SINGLE FAMILY,"$499,000",2620 Stonyhill Ct,Cape Coral,FL,33991,3,3,2583,0.334 acres,
+https://www.zillow.com/homedetails/1911-Lagoon-Ln-Cape-Coral-FL-33914/45478480_zpid/,45478480,,SINGLE FAMILY,"$549,800",1911 Lagoon Ln,Cape Coral,FL,33914,4,3,2809,0.456 acres,6153
+https://www.zillow.com/homedetails/4222-NW-24th-Ter-Cape-Coral-FL-33993/103348883_zpid/,103348883,,SINGLE FAMILY,"$424,000",4222 NW 24th Ter,Cape Coral,FL,33993,3,3,1931,10018.8 sqft,
+https://www.zillow.com/community/cape-coral-sales-office/446081018_zpid/,446081018,,SINGLE FAMILY,"$564,900+","Magnolia - Build on Your Lot Plan, Cape Coral - Sales Office",Cape Coral,FL,33914,4,3,2438, ,
+https://www.zillow.com/homedetails/3824-SW-11th-Pl-Cape-Coral-FL-33914/103291637_zpid/,103291637,,SINGLE FAMILY,"$659,900",3824 SW 11th Pl,Cape Coral,FL,33914,3,3,2409,10628.64 sqft,
+https://www.zillow.com/homedetails/5514-SW-9th-Ave-Cape-Coral-FL-33914/45483852_zpid/,45483852,,SINGLE FAMILY,"$649,900",5514 SW 9th Ave,Cape Coral,FL,33914,3,3,1890,0.34600000000000003 acres,3001
+https://www.zillow.com/homedetails/3628-NW-3rd-Ter-Cape-Coral-FL-33993/68087855_zpid/,68087855,,SINGLE FAMILY,"$519,900",3628 NW 3rd Ter,Cape Coral,FL,33993,4,3,2264,10018.8 sqft,
+https://www.zillow.com/homedetails/5210-Sands-Blvd-Cape-Coral-FL-33914/45459260_zpid/,45459260,,SINGLE FAMILY,"$890,000",5210 Sands Blvd,Cape Coral,FL,33914,3,3,2237,10018.8 sqft,
+https://www.zillow.com/homedetails/5330-SW-11th-Ct-Cape-Coral-FL-33914/45446183_zpid/,45446183,,SINGLE FAMILY,"$1,499,999",5330 SW 11th Ct,Cape Coral,FL,33914,6,6,4798,0.303 acres,8264
+https://www.zillow.com/homedetails/607-SE-47th-St-APT-6-Cape-Coral-FL-33904/45430836_zpid/,45430836,,CONDO,"$139,000",607 SE 47th St APT 6,Cape Coral,FL,33904,2,2,1092, ,
+https://www.zillow.com/homedetails/1222-SW-54th-St-Cape-Coral-FL-33914/45446195_zpid/,45446195,,SINGLE FAMILY,"$849,000",1222 SW 54th St,Cape Coral,FL,33914,3,3,2074,9975.24 sqft,
+https://www.zillow.com/homedetails/821-SW-11th-Ct-Cape-Coral-FL-33991/103285488_zpid/,103285488,,SINGLE FAMILY,"$795,000",821 SW 11th Ct,Cape Coral,FL,33991,4,4,2416,0.348 acres,
+https://www.zillow.com/homedetails/4832-SW-18th-Ave-Cape-Coral-FL-33914/45452024_zpid/,45452024,,SINGLE FAMILY,"$925,000",4832 SW 18th Ave,Cape Coral,FL,33914,4,3,3210,0.604 acres,
+https://www.zillow.com/homedetails/2807-Country-Club-Blvd-Cape-Coral-FL-33904/45531791_zpid/,45531791,,SINGLE FAMILY,"$600,000",2807 Country Club Blvd,Cape Coral,FL,33904,3,2,2073,0.3157 acres,3650
+https://www.zillow.com/homedetails/800-NW-36th-Ave-Cape-Coral-FL-33993/66148410_zpid/,66148410,,SINGLE FAMILY,"$1,010,000",800 NW 36th Ave,Cape Coral,FL,33993,5,5,3692,0.4730027548209366 acres,5383
+https://www.zillow.com/homedetails/719-SW-51st-Ter-Cape-Coral-FL-33914/45440914_zpid/,45440914,,SINGLE FAMILY,"$750,000",719 SW 51st Ter,Cape Coral,FL,33914,4,3,3009,10454.4 sqft,8099
+https://www.zillow.com/homedetails/5316-SW-9th-Pl-Cape-Coral-FL-33914/45445753_zpid/,45445753,,SINGLE FAMILY,"$640,000",5316 SW 9th Pl,Cape Coral,FL,33914,3,2,1932,10018.8 sqft,3419
+https://www.zillow.com/homedetails/1528-SW-52nd-Ln-Cape-Coral-FL-33914/45446094_zpid/,45446094,,SINGLE FAMILY,"$759,000",1528 SW 52nd Ln,Cape Coral,FL,33914,3,2,2092,10018.8 sqft,
+https://www.zillow.com/homedetails/405-Mohawk-Pkwy-Cape-Coral-FL-33914/103337416_zpid/,103337416,,SINGLE FAMILY,"$689,900",405 Mohawk Pkwy,Cape Coral,FL,33914,4,3,2002,10018.8 sqft,
+https://www.zillow.com/homedetails/403-SW-53rd-Ter-Cape-Coral-FL-33914/45441787_zpid/,45441787,,SINGLE FAMILY,"$999,000",403 SW 53rd Ter,Cape Coral,FL,33914,5,4,2945,0.36 acres,
+https://www.zillow.com/homedetails/3619-SE-16th-Pl-Cape-Coral-FL-33904/103274985_zpid/,103274985,,SINGLE FAMILY,"$1,399,000",3619 SE 16th Pl,Cape Coral,FL,33904,4,3,2096,10018.8 sqft,5219
+https://www.zillow.com/homedetails/4581-Redfish-Point-Rd-Matlacha-FL-33993/295094165_zpid/,295094165,,TOWNHOUSE,"$699,000",4581 Redfish Point Rd,Matlacha,FL,33993,3,4,1926,2404.512 sqft,
+https://www.zillow.com/homedetails/2502-SW-45th-St-Cape-Coral-FL-33914/45412708_zpid/,45412708,,SINGLE FAMILY,"$989,000",2502 SW 45th St,Cape Coral,FL,33914,4,3,3208,0.44300000000000006 acres,6326
+https://www.zillow.com/homedetails/5327-SW-28th-Pl-Cape-Coral-FL-33914/66152242_zpid/,66152242,,SINGLE FAMILY,"$1,500,000",5327 SW 28th Pl,Cape Coral,FL,33914,4,5,4401,10018.8 sqft,12362
+https://www.zillow.com/homedetails/3917-La-Vida-Way-Cape-Coral-FL-33993/66664881_zpid/,66664881,,SINGLE FAMILY,"$1,295,000",3917 La Vida Way,Cape Coral,FL,33993,5,4,4093,1.84 acres,
+https://www.zillow.com/homedetails/632-SE-12th-Ct-APT-11-Cape-Coral-FL-33990/45462441_zpid/,45462441,,TOWNHOUSE,"$199,888",632 SE 12th Ct APT 11,Cape Coral,FL,33990,3,3,1475,3349.764 sqft,
+https://www.zillow.com/community/cape-coral-fl-build-on-your-lot/440152556_zpid/,440152556,,SINGLE FAMILY,"$999,999+","The Bayshore: Build On Your Lot Plan, Cape Coral, FL - Build On Your Lot",Cape Coral,FL,33904,4,6,3200, ,
+https://www.zillow.com/homedetails/1006-Dolphin-Dr-Cape-Coral-FL-33904/45468354_zpid/,45468354,,SINGLE FAMILY,"$1,450,000",1006 Dolphin Dr,Cape Coral,FL,33904,4,3,2732,0.272 acres,
+https://www.zillow.com/homedetails/6081-Silver-King-Blvd-UNIT-701-Cape-Coral-FL-33914/81888170_zpid/,81888170,,CONDO,"$1,350,000",6081 Silver King Blvd UNIT 701,Cape Coral,FL,33914,3,4,3048,0.5281 acres,8065
+https://www.zillow.com/homedetails/1929-SW-38th-St-Cape-Coral-FL-33914/103314990_zpid/,103314990,,SINGLE FAMILY,"$720,000",1929 SW 38th St,Cape Coral,FL,33914,4,3,2413,10637.352 sqft,
+https://www.zillow.com/homedetails/149-Bayshore-Dr-Cape-Coral-FL-33904/45493728_zpid/,45493728,,SINGLE FAMILY,"$875,000",149 Bayshore Dr,Cape Coral,FL,33904,2,2,1775,0.252 acres,4171
+https://www.zillow.com/homedetails/2124-Cornwallis-Parkway-Cpe-Cape-Coral-FL-33904/454920969_zpid/,454920969,,SINGLE FAMILY,"$900,000",2124 Cornwallis Parkway Cpe,Cape Coral,FL,33904,4,3,3101,0.32699724517906337 acres,
+https://www.zillow.com/homedetails/4508-Santa-Barbara-Blvd-APT-103-Cape-Coral-FL-33914/45427626_zpid/,45427626,,CONDO,"$109,900",4508 Santa Barbara Blvd APT 103,Cape Coral,FL,33914,2,2,1098,5580.036 sqft,
+https://www.zillow.com/homedetails/3605-Tropicana-Pkwy-W-Cape-Coral-FL-33993/66148409_zpid/,66148409,,SINGLE FAMILY,"$1,090,000",3605 Tropicana Pkwy W,Cape Coral,FL,33993,3,3,2249,10323.72 sqft,2917
+https://www.zillow.com/homedetails/909-SE-46th-Ln-APT-104-Cape-Coral-FL-33904/45407718_zpid/,45407718,,CONDO,"$187,000",909 SE 46th Ln APT 104,Cape Coral,FL,33904,2,1,942,7705.764 sqft,
+https://www.zillow.com/homedetails/3621-NW-14th-St-Cape-Coral-FL-33993/103277352_zpid/,103277352,,SINGLE FAMILY,"$1,099,000",3621 NW 14th St,Cape Coral,FL,33993,5,3,2612,0.344 acres,
+https://www.zillow.com/homedetails/1457-SE-16th-St-Cape-Coral-FL-33990/103208290_zpid/,103208290,,SINGLE FAMILY,"$600,000",1457 SE 16th St,Cape Coral,FL,33990,4,3,2295,10018.8 sqft,4328
+https://www.zillow.com/homedetails/2729-SW-28th-Pl-Cape-Coral-FL-33914/295079954_zpid/,295079954,,LOT,"$137,000",2729 SW 28th Pl,Cape Coral,FL,33914,,,,10018.8 sqft,
+https://www.zillow.com/homedetails/13-NW-14th-Ave-Cape-Coral-FL-33993/103350810_zpid/,103350810,,SINGLE FAMILY,"$949,500",13 NW 14th Ave,Cape Coral,FL,33993,4,5,2732,10628.64 sqft,3538
+https://www.zillow.com/homedetails/2122-Coral-Point-Dr-Cape-Coral-FL-33990/66157778_zpid/,66157778,,SINGLE FAMILY,"$1,298,000",2122 Coral Point Dr,Cape Coral,FL,33990,3,3,2189,9583.2 sqft,
+https://www.zillow.com/homedetails/412-NW-32nd-Pl-Cape-Coral-FL-33993/103197101_zpid/,103197101,,SINGLE FAMILY,"$839,000",412 NW 32nd Pl,Cape Coral,FL,33993,4,3,2084,10454.4 sqft,
+https://www.zillow.com/homedetails/1815-SW-13th-Ln-Cape-Coral-FL-33991/66154201_zpid/,66154201,,SINGLE FAMILY,"$809,000",1815 SW 13th Ln,Cape Coral,FL,33991,4,4,2416,0.258 acres,
+https://www.zillow.com/homedetails/5956-Tarpon-Gardens-Cir-APT-201-Cape-Coral-FL-33914/67463276_zpid/,67463276,,CONDO,"$680,000",5956 Tarpon Gardens Cir APT 201,Cape Coral,FL,33914,2,3,2675,0.2909 acres,
+https://www.zillow.com/homedetails/1206-SE-46th-St-APT-1F-Cape-Coral-FL-33904/45407253_zpid/,45407253,,CONDO,"$134,100",1206 SE 46th St APT 1F,Cape Coral,FL,33904,2,2,1211, ,
+https://www.zillow.com/homedetails/2022-Four-Mile-Cove-Pkwy-Cape-Coral-FL-33990/45518752_zpid/,45518752,,SINGLE FAMILY,"$670,000",2022 Four Mile Cove Pkwy,Cape Coral,FL,33990,3,2,2047,10018.8 sqft,3205
+https://www.zillow.com/homedetails/728-SW-8th-Ter-Cape-Coral-FL-33991/103268057_zpid/,103268057,,SINGLE FAMILY,"$625,000",728 SW 8th Ter,Cape Coral,FL,33991,4,3,1931,10149.48 sqft,
+https://www.zillow.com/homedetails/826-Monticello-Ct-Cape-Coral-FL-33904/45464693_zpid/,45464693,,SINGLE FAMILY,"$600,000",826 Monticello Ct,Cape Coral,FL,33904,4,3,1770,10018.8 sqft,
+https://www.zillow.com/homedetails/5330-Nautilus-Dr-Cape-Coral-FL-33904/45464503_zpid/,45464503,,SINGLE FAMILY,"$750,000",5330 Nautilus Dr,Cape Coral,FL,33904,3,2,1798,0.376 acres,3272
+https://www.zillow.com/homedetails/2628-Fairmont-Cove-Ct-Cape-Coral-FL-33991/89566507_zpid/,89566507,,SINGLE FAMILY,"$649,900",2628 Fairmont Cove Ct,Cape Coral,FL,33991,5,4,3624,9452.52 sqft,
+https://www.zillow.com/homedetails/4006-SW-26th-Ct-Cape-Coral-FL-33914/103189308_zpid/,103189308,,SINGLE FAMILY,"$629,800",4006 SW 26th Ct,Cape Coral,FL,33914,4,3,2361,10018.8 sqft,4744
+https://www.zillow.com/homedetails/2849-SW-50th-Ter-Cape-Coral-FL-33914/45458791_zpid/,45458791,,SINGLE FAMILY,"$995,000",2849 SW 50th Ter,Cape Coral,FL,33914,3,2,1840,0.307 acres,4227
+https://www.zillow.com/homedetails/4608-SE-4th-Pl-APT-9-Cape-Coral-FL-33904/45430717_zpid/,45430717,,CONDO,"$149,900",4608 SE 4th Pl APT 9,Cape Coral,FL,33904,2,2,1025,9147 sqft,1772
+https://www.zillow.com/homedetails/5301-SW-8th-Pl-Cape-Coral-FL-33914/45445665_zpid/,45445665,,SINGLE FAMILY,"$649,000",5301 SW 8th Pl,Cape Coral,FL,33914,3,2,2057,10018.8 sqft,
+https://www.zillow.com/homedetails/1600-Edith-Esplanade-Cpe-Cape-Coral-FL-33904/45464361_zpid/,45464361,,SINGLE FAMILY,"$1,400,000",1600 Edith Esplanade Cpe,Cape Coral,FL,33904,4,3,2071,0.34100091827364554 acres,
+https://www.zillow.com/homedetails/4002-Coronado-Pkwy-APT-101-Cape-Coral-FL-33904/45407025_zpid/,45407025,,CONDO,"$170,000",4002 Coronado Pkwy APT 101,Cape Coral,FL,33904,2,2,1270,5283.828 sqft,
+https://www.zillow.com/homedetails/4406-SW-16th-Pl-Cape-Coral-FL-33914/66150028_zpid/,66150028,,SINGLE FAMILY,"$1,299,999",4406 SW 16th Pl,Cape Coral,FL,33914,3,3,2697,0.35 acres,3436
+https://www.zillow.com/homedetails/2467-Ashbury-Cir-Cape-Coral-FL-33991/103411085_zpid/,103411085,,SINGLE FAMILY,"$649,000",2467 Ashbury Cir,Cape Coral,FL,33991,4,3,2641,0.272 acres,3368
+https://www.zillow.com/homedetails/5236-SW-18th-Ave-Cape-Coral-FL-33914/103355709_zpid/,103355709,,SINGLE FAMILY,"$999,000",5236 SW 18th Ave,Cape Coral,FL,33914,4,4,3053,10018.8 sqft,5880
+https://www.zillow.com/homedetails/3624-SW-3rd-Ter-Cape-Coral-FL-33991/45461523_zpid/,45461523,,SINGLE FAMILY,"$819,000",3624 SW 3rd Ter,Cape Coral,FL,33991,3,3,2989,0.25 acres,3002
+https://www.zillow.com/homedetails/4012-SW-28th-Pl-Cape-Coral-FL-33914/45412442_zpid/,45412442,,SINGLE FAMILY,"$675,000",4012 SW 28th Pl,Cape Coral,FL,33914,3,2,1742,10062.36 sqft,
+https://www.zillow.com/homedetails/1628-SW-52nd-Ter-Cape-Coral-FL-33914/45452219_zpid/,45452219,,SINGLE FAMILY,"$799,000",1628 SW 52nd Ter,Cape Coral,FL,33914,3,3,2100,0.265 acres,4771
+https://www.zillow.com/homedetails/104-NE-6th-St-Cape-Coral-FL-33909/103247018_zpid/,103247018,,SINGLE FAMILY,"$860,000",104 NE 6th St,Cape Coral,FL,33909,3,3,2124,10018.8 sqft,
+https://www.zillow.com/homedetails/119-SW-54th-St-Cape-Coral-FL-33914/45441495_zpid/,45441495,,SINGLE FAMILY,"$649,000",119 SW 54th St,Cape Coral,FL,33914,3,2,1715,10018.8 sqft,3201
+https://www.zillow.com/homedetails/839-NW-28th-Pl-Cape-Coral-FL-33993/103356413_zpid/,103356413,,SINGLE FAMILY,"$799,900",839 NW 28th Pl,Cape Coral,FL,33993,4,4,2849,0.32999999999999996 acres,3444
+https://www.zillow.com/homedetails/2016-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45452361_zpid/,45452361,,SINGLE FAMILY,"$1,225,000",2016 El Dorado Pkwy W,Cape Coral,FL,33914,3,3,2859,0.289 acres,
+https://www.zillow.com/homedetails/1201-SW-21st-Ave-Cape-Coral-FL-33991/66154298_zpid/,66154298,,SINGLE FAMILY,"$649,900",1201 SW 21st Ave,Cape Coral,FL,33991,4,3,2040,0.36 acres,
+https://www.zillow.com/homedetails/5347-Malibu-Ct-Cape-Coral-FL-33904/45464820_zpid/,45464820,,SINGLE FAMILY,"$1,199,000",5347 Malibu Ct,Cape Coral,FL,33904,4,3,2379,0.27899999999999997 acres,4170
+https://www.zillow.com/homedetails/4930-Edith-Esplanade-Cpe-Cape-Coral-FL-33904/45464364_zpid/,45464364,,SINGLE FAMILY,"$1,088,888",4930 Edith Esplanade Cpe,Cape Coral,FL,33904,4,3,1759,0.344 acres,
+https://www.zillow.com/homedetails/1751-SE-46th-St-Cape-Coral-FL-33904/116088445_zpid/,116088445,,SINGLE FAMILY,"$1,575,000",1751 SE 46th St,Cape Coral,FL,33904,3,3,2659,10018.8 sqft,3712
+https://www.zillow.com/homedetails/1108-NW-43rd-Ave-Cape-Coral-FL-33993/66146128_zpid/,66146128,,SINGLE FAMILY,"$850,000",1108 NW 43rd Ave,Cape Coral,FL,33993,4,3,2267,10018.8 sqft,2978
+https://www.zillow.com/homedetails/4607-SW-5th-Pl-Cape-Coral-FL-33914/45428203_zpid/,45428203,,SINGLE FAMILY,"$825,000",4607 SW 5th Pl,Cape Coral,FL,33914,3,3,2860,10018.8 sqft,6795
+https://www.zillow.com/homedetails/605-SW-39th-Ave-Cape-Coral-FL-33991/103353972_zpid/,103353972,,SINGLE FAMILY,"$799,000",605 SW 39th Ave,Cape Coral,FL,33991,3,3,2578,10367.28 sqft,
+https://www.zillow.com/homedetails/3113-SW-22nd-Pl-Cape-Coral-FL-33914/89862349_zpid/,89862349,,SINGLE FAMILY,"$615,000",3113 SW 22nd Pl,Cape Coral,FL,33914,3,3,2124,10018.8 sqft,5180
+https://www.zillow.com/homedetails/2709-SW-4th-Ln-Cape-Coral-FL-33991/103378199_zpid/,103378199,,SINGLE FAMILY,"$689,900",2709 SW 4th Ln,Cape Coral,FL,33991,4,3,2002,10018.8 sqft,
+https://www.zillow.com/homedetails/4316-NW-31st-St-Cape-Coral-FL-33993/66155674_zpid/,66155674,,SINGLE FAMILY,"$1,450,000",4316 NW 31st St,Cape Coral,FL,33993,4,3,2710,10018.8 sqft,
+https://www.zillow.com/homedetails/928-SE-46th-St-APT-2C-Cape-Coral-FL-33904/45407690_zpid/,45407690,,CONDO,"$195,000",928 SE 46th St APT 2C,Cape Coral,FL,33904,2,2,1135,3641.616 sqft,
+https://www.zillow.com/homedetails/5364-Delano-Ct-Cape-Coral-FL-33904/45493784_zpid/,45493784,,SINGLE FAMILY,"$1,249,000",5364 Delano Ct,Cape Coral,FL,33904,3,3,2576,10018.8 sqft,7651
+https://www.zillow.com/homedetails/864-SW-18th-Ter-Cape-Coral-FL-33991/45506053_zpid/,45506053,,SINGLE FAMILY,"$699,000",864 SW 18th Ter,Cape Coral,FL,33991,3,3,3033,10018.8 sqft,
+https://www.zillow.com/homedetails/3209-SE-1st-Ct-Cape-Coral-FL-33904/45372597_zpid/,45372597,,SINGLE FAMILY,"$610,000",3209 SE 1st Ct,Cape Coral,FL,33904,4,2,2236,9975.24 sqft,
+https://www.zillow.com/homedetails/4213-Palm-Tree-Blvd-9-Cape-Coral-FL-33904/45430160_zpid/,45430160,,CONDO,"$135,000",4213 Palm Tree Blvd #9,Cape Coral,FL,33904,2,2,1094,7322.436 sqft,1791
+https://www.zillow.com/homedetails/4611-SE-20th-Pl-Cape-Coral-FL-33904/45414057_zpid/,45414057,,SINGLE FAMILY,"$1,299,000",4611 SE 20th Pl,Cape Coral,FL,33904,3,3,2219,0.316 acres,4304
+https://www.zillow.com/homedetails/4906-Victoria-Dr-APT-107-Cape-Coral-FL-33904/45463953_zpid/,45463953,,CONDO,"$112,500",4906 Victoria Dr APT 107,Cape Coral,FL,33904,2,2,947,0.3174 acres,
+https://www.zillow.com/homedetails/5220-SW-22nd-Ave-Cape-Coral-FL-33914/82239052_zpid/,82239052,,SINGLE FAMILY,"$675,000",5220 SW 22nd Ave,Cape Coral,FL,33914,5,4,3582,0.265 acres,
+https://www.zillow.com/homedetails/149-SE-21st-St-Cape-Coral-FL-33990/103348095_zpid/,103348095,,SINGLE FAMILY,"$799,000",149 SE 21st St,Cape Coral,FL,33990,4,3,2236,0.26599999999999996 acres,3289
+https://www.zillow.com/homedetails/1511-SE-21st-St-Cape-Coral-FL-33990/66158142_zpid/,66158142,,SINGLE FAMILY,"$929,999",1511 SE 21st St,Cape Coral,FL,33990,4,3,2420,10802.88 sqft,
+https://www.zillow.com/homedetails/4630-SE-20th-Ave-Cape-Coral-FL-33904/45414044_zpid/,45414044,,SINGLE FAMILY,"$1,500,000",4630 SE 20th Ave,Cape Coral,FL,33904,4,5,4370,0.27999999999999997 acres,7143
+https://www.zillow.com/homedetails/1915-Ottersrest-Lane-Cpe-Coral-FL-33990/443169754_zpid/,443169754,,SINGLE FAMILY,"$735,000",1915 Ottersrest Lane Cpe,Coral,FL,33990,3,2,1925,9713.88 sqft,
+https://www.zillow.com/homedetails/4320-SW-26th-Ave-Cape-Coral-FL-33914/45412629_zpid/,45412629,,SINGLE FAMILY,"$625,000",4320 SW 26th Ave,Cape Coral,FL,33914,3,2,1932,10018.8 sqft,7299
+https://www.zillow.com/homedetails/1020-SW-56th-St-Cape-Coral-FL-33914/45483884_zpid/,45483884,,SINGLE FAMILY,"$1,199,900",1020 SW 56th St,Cape Coral,FL,33914,4,3,2423,0.36 acres,6811
+https://www.zillow.com/homedetails/4906-Victoria-Dr-APT-313-Cape-Coral-FL-33904/45463995_zpid/,45463995,,CONDO,"$115,000",4906 Victoria Dr APT 313,Cape Coral,FL,33904,2,2,917,0.3174 acres,1515
+https://www.zillow.com/homedetails/2544-SW-37th-Ter-Cape-Coral-FL-33914/45395468_zpid/,45395468,,SINGLE FAMILY,"$800,000",2544 SW 37th Ter,Cape Coral,FL,33914,4,3,2566,10018.8 sqft,
+https://www.zillow.com/homedetails/619-SW-43rd-Ln-Cape-Coral-FL-33914/66150404_zpid/,66150404,,SINGLE FAMILY,"$750,000",619 SW 43rd Ln,Cape Coral,FL,33914,3,4,2952,0.40199999999999997 acres,
+https://www.zillow.com/homedetails/2670-Windwood-Pl-Cape-Coral-FL-33991/81866496_zpid/,81866496,,SINGLE FAMILY,"$652,000",2670 Windwood Pl,Cape Coral,FL,33991,5,4,3330,0.35600000000000004 acres,
+https://www.zillow.com/homedetails/804-Mohawk-Pkwy-APT-105-Cape-Coral-FL-33914/45423504_zpid/,45423504,,TOWNHOUSE,"$119,900",804 Mohawk Pkwy APT 105,Cape Coral,FL,33914,2,3,939,6141.96 sqft,
+https://www.zillow.com/homedetails/134-SW-51st-St-Cape-Coral-FL-33914/45441239_zpid/,45441239,,SINGLE FAMILY,"$1,374,000",134 SW 51st St,Cape Coral,FL,33914,5,4,3455,10018.8 sqft,
+https://www.zillow.com/homedetails/2835-SW-33rd-St-Cape-Coral-FL-33914/66147802_zpid/,66147802,,SINGLE FAMILY,"$1,269,000",2835 SW 33rd St,Cape Coral,FL,33914,3,3,2479,0.267 acres,
+https://www.zillow.com/homedetails/4346-SW-24th-Ave-Cape-Coral-FL-33914/45418531_zpid/,45418531,,SINGLE FAMILY,"$649,900",4346 SW 24th Ave,Cape Coral,FL,33914,3,2,2216,0.293 acres,7066
+https://www.zillow.com/homedetails/12206-Boat-Shell-Dr-Matlacha-Isles-FL-33991/45461376_zpid/,45461376,,SINGLE FAMILY,"$624,900",12206 Boat Shell Dr,Matlacha Isles,FL,33991,2,1,1352,0.258 acres,
+https://www.zillow.com/homedetails/4928-Vincennes-St-APT-A2-Cape-Coral-FL-33904/45464020_zpid/,45464020,,CONDO,"$199,000",4928 Vincennes St APT A2,Cape Coral,FL,33904,2,2,1011,5505.984 sqft,
+https://www.zillow.com/homedetails/307-Old-Burnt-Store-Rd-N-Cape-Coral-FL-33993/103350077_zpid/,103350077,,SINGLE FAMILY,"$1,299,000",307 Old Burnt Store Rd N,Cape Coral,FL,33993,4,3,2611,10018.8 sqft,
+https://www.zillow.com/homedetails/2702-Old-Burnt-Store-Rd-N-Cape-Coral-FL-33993/66171236_zpid/,66171236,,SINGLE FAMILY,"$898,970",2702 Old Burnt Store Rd N,Cape Coral,FL,33993,4,3,2207,10628.64 sqft,2629
+https://www.zillow.com/homedetails/2601-SW-37th-St-Cape-Coral-FL-33914/45395488_zpid/,45395488,,SINGLE FAMILY,"$649,000",2601 SW 37th St,Cape Coral,FL,33914,3,2,2045,10018.8 sqft,3995
+https://www.zillow.com/homedetails/1319-NW-40th-Pl-Cape-Coral-FL-33993/103303172_zpid/,103303172,,SINGLE FAMILY,"$699,999",1319 NW 40th Pl,Cape Coral,FL,33993,4,3,2226,0.25 acres,
+https://www.zillow.com/homedetails/2108-SW-38th-Ter-Cape-Coral-FL-33914/66147140_zpid/,66147140,,SINGLE FAMILY,"$779,900",2108 SW 38th Ter,Cape Coral,FL,33914,3,3,2078,10053.648 sqft,
+https://www.zillow.com/homedetails/3726-Ceitus-Pkwy-Cape-Coral-FL-33991/103312775_zpid/,103312775,,SINGLE FAMILY,"$625,999",3726 Ceitus Pkwy,Cape Coral,FL,33991,3,3,2287,10018.8 sqft,
+https://www.zillow.com/homedetails/5811-SW-1st-Pl-Cape-Coral-FL-33914/45489382_zpid/,45489382,,SINGLE FAMILY,"$1,475,000",5811 SW 1st Pl,Cape Coral,FL,33914,5,3,3314,0.35 acres,6135
+https://www.zillow.com/homedetails/4217-SE-19th-Ave-APT-110-Cape-Coral-FL-33904/45413521_zpid/,45413521,,CONDO,"$169,900",4217 SE 19th Ave APT 110,Cape Coral,FL,33904,2,2,958,1990.692 sqft,
+https://www.zillow.com/homedetails/1019-SW-1st-Ter-Cape-Coral-FL-33991/98960603_zpid/,98960603,,SINGLE FAMILY,"$869,900",1019 SW 1st Ter,Cape Coral,FL,33991,4,4,2416,10018.8 sqft,4013
+https://www.zillow.com/homedetails/2519-SW-15th-Ave-Cape-Coral-FL-33914/103359996_zpid/,103359996,,SINGLE FAMILY,"$795,000",2519 SW 15th Ave,Cape Coral,FL,33914,3,2,2323,10018.8 sqft,
+https://www.zillow.com/homedetails/3211-SE-4th-Place-Cpe-Cape-Coral-FL-33904/454921124_zpid/,454921124,,SINGLE FAMILY,"$649,900",3211 SE 4th Place Cpe,Cape Coral,FL,33904,3,2,1949,10018.8 sqft,
+https://www.zillow.com/homedetails/1417-SE-24th-Ave-APT-D-Cape-Coral-FL-33990/45472535_zpid/,45472535,,CONDO,"$155,000",1417 SE 24th Ave APT D,Cape Coral,FL,33990,2,2,1024,6629.832 sqft,1798
+https://www.zillow.com/homedetails/108-SE-47th-St-APT-103-Cape-Coral-FL-33904/45431327_zpid/,45431327,,CONDO,"$184,000",108 SE 47th St APT 103,Cape Coral,FL,33904,2,2,1266,2735.568 sqft,2265
+https://www.zillow.com/homedetails/3113-SW-18th-Ave-Cape-Coral-FL-33914/103202575_zpid/,103202575,,SINGLE FAMILY,"$1,049,000",3113 SW 18th Ave,Cape Coral,FL,33914,4,3,2123,0.261 acres,4202
+https://www.zillow.com/homedetails/1206-NW-18th-Ter-Cape-Coral-FL-33993/68095826_zpid/,68095826,,SINGLE FAMILY,"$649,900",1206 NW 18th Ter,Cape Coral,FL,33993,4,3,3090,10018.8 sqft,4186
+https://www.zillow.com/homedetails/5233-SW-11th-Ct-Cape-Coral-FL-33914/45445930_zpid/,45445930,,SINGLE FAMILY,"$930,000",5233 SW 11th Ct,Cape Coral,FL,33914,5,3,2470,10018.8 sqft,
+https://www.zillow.com/homedetails/1702-NW-17th-Ter-Cape-Coral-FL-33993/103383219_zpid/,103383219,,SINGLE FAMILY,"$799,000",1702 NW 17th Ter,Cape Coral,FL,33993,4,3,2753,10018.8 sqft,
+https://www.zillow.com/homedetails/5243-Willow-Ct-Cape-Coral-FL-33904/45464856_zpid/,45464856,,SINGLE FAMILY,"$625,000",5243 Willow Ct,Cape Coral,FL,33904,3,2,1782,10018.8 sqft,
+https://www.zillow.com/homedetails/909-SE-46th-Ln-APT-202-Cape-Coral-FL-33904/45407729_zpid/,45407729,,CONDO,"$189,000",909 SE 46th Ln APT 202,Cape Coral,FL,33904,2,2,1006,7707 sqft,
+https://www.zillow.com/homedetails/1403-SW-52nd-Ter-Cape-Coral-FL-33914/45446111_zpid/,45446111,,SINGLE FAMILY,"$999,900",1403 SW 52nd Ter,Cape Coral,FL,33914,4,3,2796,0.264 acres,5648
+https://www.zillow.com/homedetails/2523-SE-22nd-Pl-Cape-Coral-FL-33904/45536221_zpid/,45536221,,SINGLE FAMILY,"$725,000",2523 SE 22nd Pl,Cape Coral,FL,33904,3,3,2146,0.312 acres,
+https://www.zillow.com/homedetails/4411-Pelican-Blvd-Cape-Coral-FL-33914/103365586_zpid/,103365586,,SINGLE FAMILY,"$1,289,000",4411 Pelican Blvd,Cape Coral,FL,33914,3,3,2213,10018.8 sqft,3071
+https://www.zillow.com/homedetails/1041-Embers-Pkwy-W-Cape-Coral-FL-33993/103252072_zpid/,103252072,,SINGLE FAMILY,"$720,000",1041 Embers Pkwy W,Cape Coral,FL,33993,4,3,2249,0.344 acres,
+https://www.zillow.com/homedetails/5839-SW-1st-Court-Cpe-Coral-FL-33914/383671541_zpid/,383671541,,SINGLE FAMILY,"$725,000",5839 SW 1st Court Cpe,Coral,FL,33914,3,2,2016,10018.8 sqft,2982
+https://www.zillow.com/homedetails/401-SW-38th-Pl-Cape-Coral-FL-33991/45461719_zpid/,45461719,,SINGLE FAMILY,"$895,000",401 SW 38th Pl,Cape Coral,FL,33991,3,2,1865,0.27 acres,3725
+https://www.zillow.com/homedetails/1637-SE-41st-St-Cape-Coral-FL-33904/45413044_zpid/,45413044,,SINGLE FAMILY,"$729,000",1637 SE 41st St,Cape Coral,FL,33904,2,2,1820,9975.24 sqft,2893
+https://www.zillow.com/homedetails/5324-SW-3rd-Ave-Cape-Coral-FL-33914/45441605_zpid/,45441605,,SINGLE FAMILY,"$749,900",5324 SW 3rd Ave,Cape Coral,FL,33914,3,2,1876,10018.8 sqft,2941
+https://www.zillow.com/homedetails/3511-SW-5th-Pl-Cape-Coral-FL-33914/45377323_zpid/,45377323,,SINGLE FAMILY,"$664,999",3511 SW 5th Pl,Cape Coral,FL,33914,4,4,2629,0.2969926538108356 acres,3760
+https://www.zillow.com/community/cape-coral-sales-office/446081024_zpid/,446081024,,SINGLE FAMILY,"$617,900+","Savannah Flex - Build on Your Lot Plan, Cape Coral - Sales Office",Cape Coral,FL,33914,3,3,2538, ,
+https://www.zillow.com/homedetails/2509-SW-25th-Ave-Cape-Coral-FL-33914/97847205_zpid/,97847205,,SINGLE FAMILY,"$815,000",2509 SW 25th Ave,Cape Coral,FL,33914,4,4,2692,10018.8 sqft,
+https://www.zillow.com/homedetails/334-NW-25th-Ter-Cape-Coral-FL-33993/103231682_zpid/,103231682,,SINGLE FAMILY,"$768,900",334 NW 25th Ter,Cape Coral,FL,33993,3,2,2133,10410.84 sqft,
+https://www.zillow.com/homedetails/833-SW-16th-Ter-Cape-Coral-FL-33991/103194870_zpid/,103194870,,SINGLE FAMILY,"$649,900",833 SW 16th Ter,Cape Coral,FL,33991,4,3,1742,0.344 acres,3389
+https://www.zillow.com/homedetails/805-Miramar-Ct-Cape-Coral-FL-33904/45464659_zpid/,45464659,,SINGLE FAMILY,"$649,999",805 Miramar Ct,Cape Coral,FL,33904,4,3,2217,10018.8 sqft,
+https://www.zillow.com/homedetails/609-NW-38th-Ave-Cape-Coral-FL-33993/103389090_zpid/,103389090,,SINGLE FAMILY,"$1,449,000",609 NW 38th Ave,Cape Coral,FL,33993,4,3,2614,10018.8 sqft,
+https://www.zillow.com/homedetails/2301-SE-15th-St-Cape-Coral-FL-33990/66153843_zpid/,66153843,,SINGLE FAMILY,"$725,000",2301 SE 15th St,Cape Coral,FL,33990,4,3,2118,0.27899999999999997 acres,3688
+https://www.zillow.com/homedetails/2310-SW-43rd-Ter-Cape-Coral-FL-33914/45418020_zpid/,45418020,,SINGLE FAMILY,"$930,000",2310 SW 43rd Ter,Cape Coral,FL,33914,3,2,2243,10018.8 sqft,
+https://www.zillow.com/homedetails/208-SW-15th-St-Cape-Coral-FL-33991/103352115_zpid/,103352115,,SINGLE FAMILY,"$699,999",208 SW 15th St,Cape Coral,FL,33991,3,3,2595,10018.8 sqft,
+https://www.zillow.com/homedetails/2410-Kismet-Lakes-Ln-Cape-Coral-FL-33993/119978598_zpid/,119978598,,SINGLE FAMILY,"$974,900",2410 Kismet Lakes Ln,Cape Coral,FL,33993,3,4,2679,0.519 acres,
+https://www.zillow.com/homedetails/4113-NW-36th-Ter-Cape-Coral-FL-33993/66155035_zpid/,66155035,,SINGLE FAMILY,"$874,900",4113 NW 36th Ter,Cape Coral,FL,33993,4,3,2220,10018.8 sqft,3184
+https://www.zillow.com/homedetails/1763-Four-Mile-Cove-Pkwy-APT-611-Cape-Coral-FL-33990/71051199_zpid/,71051199,,CONDO,"$149,900",1763 Four Mile Cove Pkwy APT 611,Cape Coral,FL,33990,2,2,968,9282.636 sqft,
+https://www.zillow.com/homedetails/1204-NW-21st-Pl-Cape-Coral-FL-33993/103215688_zpid/,103215688,,SINGLE FAMILY,"$619,900",1204 NW 21st Pl,Cape Coral,FL,33993,4,3,2000,10018.8 sqft,2678
+https://www.zillow.com/homedetails/4234-NW-24th-Ter-Cape-Coral-FL-33993/103396877_zpid/,103396877,,SINGLE FAMILY,"$625,000",4234 NW 24th Ter,Cape Coral,FL,33993,4,3,2220,10018.8 sqft,3960
+https://www.zillow.com/homedetails/4406-SW-16th-Place-Cpe-Coral-FL-33914/344770376_zpid/,344770376,,SINGLE FAMILY,"$1,199,999",4406 SW 16th Place Cpe,Coral,FL,33914,3,3,2697,0.34600000000000003 acres,
+https://www.zillow.com/homedetails/1117-SE-20th-Ct-Cape-Coral-FL-33990/66153833_zpid/,66153833,,SINGLE FAMILY,"$750,000",1117 SE 20th Ct,Cape Coral,FL,33990,3,2,2281,10018 sqft,3313
+https://www.zillow.com/homedetails/233-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45441644_zpid/,45441644,,SINGLE FAMILY,"$995,000",233 El Dorado Pkwy W,Cape Coral,FL,33914,3,3,2583,10240.956 sqft,5507
+https://www.zillow.com/homedetails/3006-SE-6th-Ave-Cape-Coral-FL-33904/45557988_zpid/,45557988,,SINGLE FAMILY,"$725,000",3006 SE 6th Ave,Cape Coral,FL,33904,3,2,1949,10018.8 sqft,1980
+https://www.zillow.com/homedetails/2512-SW-51st-St-Cape-Coral-FL-33914/45458875_zpid/,45458875,,SINGLE FAMILY,"$899,000",2512 SW 51st St,Cape Coral,FL,33914,3,3,2314,10018.8 sqft,5023
+https://www.zillow.com/homedetails/4514-SW-8th-Pl-11-Cape-Coral-FL-33914/45423652_zpid/,45423652,,TOWNHOUSE,"$169,500",4514 SW 8th Pl #11,Cape Coral,FL,33914,2,2,886,3049.2 sqft,1751
+https://www.zillow.com/homedetails/1504-SW-51st-Ln-Cape-Coral-FL-33914/45446133_zpid/,45446133,,SINGLE FAMILY,"$850,000",1504 SW 51st Ln,Cape Coral,FL,33914,3,2,2044,10018.8 sqft,
+https://www.zillow.com/homedetails/4115-SW-19th-Pl-Cape-Coral-FL-33914/66149993_zpid/,66149993,,SINGLE FAMILY,"$929,000",4115 SW 19th Pl,Cape Coral,FL,33914,3,3,2568,0.344 acres,
+https://www.zillow.com/homedetails/2624-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45459031_zpid/,45459031,,SINGLE FAMILY,"$1,395,000",2624 El Dorado Pkwy W,Cape Coral,FL,33914,5,5,2857,0.29 acres,6771
+https://www.zillow.com/homedetails/221-Old-Burnt-Store-Rd-S-Cape-Coral-FL-33991/45461514_zpid/,45461514,,SINGLE FAMILY,"$1,549,000",221 Old Burnt Store Rd S,Cape Coral,FL,33991,4,5,3208,10018.8 sqft,5394
+https://www.zillow.com/homedetails/3229-SE-1st-Ct-Cape-Coral-FL-33904/45372600_zpid/,45372600,,SINGLE FAMILY,"$720,000",3229 SE 1st Ct,Cape Coral,FL,33904,3,2,1996,10018.8 sqft,
+https://www.zillow.com/homedetails/5622-Deauville-Ct-Cape-Coral-FL-33904/45468419_zpid/,45468419,,SINGLE FAMILY,"$799,900",5622 Deauville Ct,Cape Coral,FL,33904,3,3,2238,10018.8 sqft,3423
+https://www.zillow.com/homedetails/2819-SW-37th-Ter-Cape-Coral-FL-33914/45395627_zpid/,45395627,,SINGLE FAMILY,"$724,900",2819 SW 37th Ter,Cape Coral,FL,33914,3,2,1772,10018.8 sqft,3903
+https://www.zillow.com/homedetails/1740-Savona-Pkwy-Cape-Coral-FL-33904/45396601_zpid/,45396601,,SINGLE FAMILY,"$699,999",1740 Savona Pkwy,Cape Coral,FL,33904,3,2,1919,10018.8 sqft,
+https://www.zillow.com/community/pascal-construction-inc/2075254551_zpid/,2075254551,,SINGLE FAMILY,"$680,000+","Stephane Model Plan, Pascal Construction, Inc.",Cape Coral,FL,33990,3,3,2446, ,3140
+https://www.zillow.com/homedetails/609-NW-39th-Ave-Cape-Coral-FL-33993/66148939_zpid/,66148939,,SINGLE FAMILY,"$1,175,000",609 NW 39th Ave,Cape Coral,FL,33993,4,3,2614,10018.8 sqft,3170
+https://www.zillow.com/homedetails/2419-Cape-Coral-Pkwy-W-Cape-Coral-FL-33914/66152172_zpid/,66152172,,SINGLE FAMILY,"$1,499,000",2419 Cape Coral Pkwy W,Cape Coral,FL,33914,3,3,3193,0.376 acres,7713
+https://www.zillow.com/homedetails/2906-SW-29th-Ter-Cape-Coral-FL-33914/66158970_zpid/,66158970,,SINGLE FAMILY,"$1,490,000",2906 SW 29th Ter,Cape Coral,FL,33914,4,3,2474,0.363 acres,5127
+https://www.zillow.com/homedetails/5213-SW-25th-Pl-Cape-Coral-FL-33914/89861678_zpid/,89861678,,SINGLE FAMILY,"$929,900",5213 SW 25th Pl,Cape Coral,FL,33914,3,3,2603,10018.8 sqft,
+https://www.zillow.com/homedetails/5314-Del-Monte-Ct-Cape-Coral-FL-33904/68089934_zpid/,68089934,,SINGLE FAMILY,"$1,500,000",5314 Del Monte Ct,Cape Coral,FL,33904,3,3,2697,10018.8 sqft,7072
+https://www.zillow.com/homedetails/2608-Stonyhill-Ct-Cape-Coral-FL-33991/103262136_zpid/,103262136,,SINGLE FAMILY,"$749,900",2608 Stonyhill Ct,Cape Coral,FL,33991,5,5,3715,9496.08 sqft,4606
+https://www.zillow.com/homedetails/2605-Beach-Pkwy-W-Cape-Coral-FL-33914/61258604_zpid/,61258604,,SINGLE FAMILY,"$750,000",2605 Beach Pkwy W,Cape Coral,FL,33914,3,2,2597,10018.8 sqft,
+https://www.zillow.com/homedetails/4907-Pelican-Blvd-Cape-Coral-FL-33914/155448193_zpid/,155448193,,SINGLE FAMILY,"$1,390,000",4907 Pelican Blvd,Cape Coral,FL,33914,3,4,3057,10062.36 sqft,6378
+https://www.zillow.com/homedetails/1223-SW-51st-St-Cape-Coral-FL-33914/45445016_zpid/,45445016,,SINGLE FAMILY,"$1,099,000",1223 SW 51st St,Cape Coral,FL,33914,4,3,2856,10193.04 sqft,5523
+https://www.zillow.com/homedetails/4017-Palm-Tree-Blvd-APT-308-Cape-Coral-FL-33904/67466233_zpid/,67466233,,CONDO,"$189,900",4017 Palm Tree Blvd APT 308,Cape Coral,FL,33904,2,2,1162,0.3281 acres,1703
+https://www.zillow.com/homedetails/1803-NE-41st-St-Cape-Coral-FL-33909/66151867_zpid/,66151867,,SINGLE FAMILY,"$1,399,000",1803 NE 41st St,Cape Coral,FL,33909,5,6,4195,0.4591 acres,4911
+https://www.zillow.com/homedetails/1857-NW-36th-Pl-Cape-Coral-FL-33993/103247227_zpid/,103247227,,SINGLE FAMILY,"$869,900",1857 NW 36th Pl,Cape Coral,FL,33993,4,4,2200,10018.8 sqft,
+https://www.zillow.com/homedetails/1504-El-Dorado-Pkwy-W-Cape-Coral-FL-33914/45445953_zpid/,45445953,,SINGLE FAMILY,"$899,900",1504 El Dorado Pkwy W,Cape Coral,FL,33914,3,2,1741,10018.8 sqft,
+https://www.zillow.com/homedetails/4116-SE-19th-Ave-102-Cape-Coral-FL-33904/45413176_zpid/,45413176,,CONDO,"$193,000",4116 SE 19th Ave #102,Cape Coral,FL,33904,2,2,1117, ,
+https://www.zillow.com/homedetails/3521-Ceitus-Pkwy-Cape-Coral-FL-33991/66153034_zpid/,66153034,,SINGLE FAMILY,"$1,295,000",3521 Ceitus Pkwy,Cape Coral,FL,33991,4,2,2548,0.258 acres,
+https://www.zillow.com/homedetails/4411-SW-11th-Ave-Cape-Coral-FL-33914/66150191_zpid/,66150191,,SINGLE FAMILY,"$1,350,000",4411 SW 11th Ave,Cape Coral,FL,33914,4,5,2500,10628.64 sqft,3238
+https://www.zillow.com/homedetails/1769-Four-Mile-Cove-Pkwy-APT-915-Cape-Coral-FL-33990/71051274_zpid/,71051274,,CONDO,"$169,800",1769 Four Mile Cove Pkwy APT 915,Cape Coral,FL,33990,2,2,968,9282.636 sqft,1558
+https://www.zillow.com/homedetails/2531-SW-27th-Ave-Cape-Coral-FL-33914/81876615_zpid/,81876615,,SINGLE FAMILY,"$882,500",2531 SW 27th Ave,Cape Coral,FL,33914,4,4,3170,10018.8 sqft,5291
+https://www.zillow.com/homedetails/3406-SE-17th-Ave-Cape-Coral-FL-33904/164201219_zpid/,164201219,,SINGLE FAMILY,"$879,900",3406 SE 17th Ave,Cape Coral,FL,33904,4,4,2615,0.344 acres,6832
+https://www.zillow.com/homedetails/5408-SW-26th-Ct-Cape-Coral-FL-33914/54924131_zpid/,54924131,,SINGLE FAMILY,"$844,900",5408 SW 26th Ct,Cape Coral,FL,33914,4,3,2906,10628.64 sqft,
+https://www.zillow.com/homedetails/2743-Janet-St-Matlacha-FL-33993/45492469_zpid/,45492469,,SINGLE FAMILY,"$997,500",2743 Janet St,Matlacha,FL,33993,4,3,2235,8276.4 sqft,
+https://www.zillow.com/homedetails/4204-NW-39th-Ln-Cape-Coral-FL-33993/337581742_zpid/,337581742,,SINGLE FAMILY,"$850,000",4204 NW 39th Ln,Cape Coral,FL,33993,4,3,2669,10084.14 sqft,
+https://www.zillow.com/homedetails/1438-SW-54th-Ter-Cape-Coral-FL-33914/45445992_zpid/,45445992,,SINGLE FAMILY,"$1,200,000",1438 SW 54th Ter,Cape Coral,FL,33914,3,3,2484,9975.24 sqft,
+https://www.zillow.com/homedetails/6-NW-32nd-Pl-Cape-Coral-FL-33993/96789986_zpid/,96789986,,SINGLE FAMILY,"$1,295,000",6 NW 32nd Pl,Cape Coral,FL,33993,4,3,2749,10454.4 sqft,
+https://www.zillow.com/homedetails/3617-Embers-Pkwy-W-Cape-Coral-FL-33993/103350991_zpid/,103350991,,SINGLE FAMILY,"$1,300,000",3617 Embers Pkwy W,Cape Coral,FL,33993,3,3,2434,10018.8 sqft,3145
+https://www.zillow.com/homedetails/1138-Lucerne-Ave-Cape-Coral-FL-33904/45468554_zpid/,45468554,,SINGLE FAMILY,"$849,999",1138 Lucerne Ave,Cape Coral,FL,33904,3,2,1641,0.2584 acres,
+https://www.zillow.com/homedetails/2406-SW-54th-Ln-Cape-Coral-FL-33914/103360105_zpid/,103360105,,SINGLE FAMILY,"$995,000",2406 SW 54th Ln,Cape Coral,FL,33914,4,3,2567,10018.8 sqft,4094
+https://www.zillow.com/homedetails/6061-Silver-King-Blvd-UNIT-302-Cape-Coral-FL-33914/89569904_zpid/,89569904,,CONDO,"$800,000",6061 Silver King Blvd UNIT 302,Cape Coral,FL,33914,3,4,2970,0.528 acres,7321
+https://www.zillow.com/homedetails/5101-Coronado-Pkwy-APT-102-Cape-Coral-FL-33904/45464171_zpid/,45464171,,CONDO,"$194,500",5101 Coronado Pkwy APT 102,Cape Coral,FL,33904,2,2,1014,2256.408 sqft,1583
+https://www.zillow.com/homedetails/4600-NW-33rd-Ter-Cape-Coral-FL-33993/66155270_zpid/,66155270,,SINGLE FAMILY,"$1,599,999",4600 NW 33rd Ter,Cape Coral,FL,33993,4,3,3022,0.308 acres,
+https://www.zillow.com/homedetails/4007-Surfside-Blvd-Cape-Coral-FL-33914/66149513_zpid/,66149513,,SINGLE FAMILY,"$1,100,000",4007 Surfside Blvd,Cape Coral,FL,33914,3,3,2909,0.277 acres,
+https://www.zillow.com/homedetails/2828-NW-46th-Ave-Cape-Coral-FL-33993/66155642_zpid/,66155642,,SINGLE FAMILY,"$899,500",2828 NW 46th Ave,Cape Coral,FL,33993,3,3,2435,10018.8 sqft,

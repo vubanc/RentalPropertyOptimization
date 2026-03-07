@@ -1,0 +1,493 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/530-E-9th-St-Charlotte-NC-28202/54492707_zpid/,54492707,,TOWNHOUSE,"$375,000",530 E 9th St,Charlotte,NC,28202,2,3,1250,0.026 acres,
+https://www.zillow.com/homedetails/9051-Lowfalls-Ln-Charlotte-NC-28216/2058064262_zpid/,2058064262,,TOWNHOUSE,"$299,900",9051 Lowfalls Ln,Charlotte,NC,28216,3,3,1429,0.04 acres,2005
+https://www.zillow.com/homedetails/2236-Lyndhurst-Ave-Charlotte-NC-28203/108861547_zpid/,108861547,,CONDO,"$700,000",2236 Lyndhurst Ave,Charlotte,NC,28203,3,3,1525, ,3245
+https://www.zillow.com/homedetails/5531-Doverstone-Ct-Charlotte-NC-28208/6173853_zpid/,6173853,,SINGLE FAMILY,"$269,999",5531 Doverstone Ct,Charlotte,NC,28208,3,2,1467,0.29 acres,1886
+https://www.zillow.com/homedetails/8424-Spirea-Ct-Charlotte-NC-28215/65024543_zpid/,65024543,,SINGLE FAMILY,"$322,000",8424 Spirea Ct,Charlotte,NC,28215,3,2,1520,0.07 acres,2039
+https://www.zillow.com/homedetails/201-S-Hoskins-Rd-APT-136-Charlotte-NC-28208/69571626_zpid/,69571626,,CONDO,"$189,900",201 S Hoskins Rd APT 136,Charlotte,NC,28208,2,1,1018, ,1686
+https://www.zillow.com/homedetails/6907-Spandril-Ln-Charlotte-NC-28215/6216985_zpid/,6216985,,SINGLE FAMILY,"$389,900",6907 Spandril Ln,Charlotte,NC,28215,4,3,2104,0.23 acres,2194
+https://www.zillow.com/homedetails/17637-Snug-Harbor-Rd-Charlotte-NC-28278/336917305_zpid/,336917305,,SINGLE FAMILY,"$599,000",17637 Snug Harbor Rd,Charlotte,NC,28278,5,4,3543,0.26 acres,3463
+https://www.zillow.com/homedetails/726-Pennsylvania-Ave-Charlotte-NC-28216/6179834_zpid/,6179834,,SINGLE FAMILY,"$315,000",726 Pennsylvania Ave,Charlotte,NC,28216,4,2,1347,0.16 acres,1948
+https://www.zillow.com/homedetails/6724-Riverfront-Dr-Charlotte-NC-28216/6137665_zpid/,6137665,,SINGLE FAMILY,"$675,000",6724 Riverfront Dr,Charlotte,NC,28216,3,3,3050,2.89 acres,3005
+https://www.zillow.com/homedetails/1134-Plaza-Walk-Dr-Charlotte-NC-28215/65051042_zpid/,65051042,,CONDO,"$165,000",1134 Plaza Walk Dr,Charlotte,NC,28215,3,2,1231, ,1656
+https://www.zillow.com/homedetails/7139-Powder-Mill-Pl-Charlotte-NC-28277/6327744_zpid/,6327744,,SINGLE FAMILY,"$509,900",7139 Powder Mill Pl,Charlotte,NC,28277,3,2,1603,0.459 acres,2321
+https://www.zillow.com/homedetails/7960-Tiburon-Cir-Charlotte-NC-28215/2068896440_zpid/,2068896440,,SINGLE FAMILY,"$300,000",7960 Tiburon Cir,Charlotte,NC,28215,3,2,1298,0.25 acres,1861
+https://www.zillow.com/homedetails/10426-Kempsford-Dr-Charlotte-NC-28262/124269123_zpid/,124269123,,SINGLE FAMILY,"$390,000",10426 Kempsford Dr,Charlotte,NC,28262,3,3,2065,0.18 acres,2266
+https://www.zillow.com/homedetails/215-Eastway-Dr-Charlotte-NC-28213/65000470_zpid/,65000470,,SINGLE FAMILY,"$275,000",215 W Eastway Drive,Charlotte,NC,28213,5,3,3776,1.01 acres,3570
+https://www.zillow.com/homedetails/4013-Jenison-Valley-Ln-Charlotte-NC-28214/455086701_zpid/,455086701,,SINGLE FAMILY,"$433,990",4013 Jenison Valley Ln,Charlotte,NC,28214,4,4,2172,0.16 acres,
+https://www.zillow.com/homedetails/7213-Baniff-Cir-Charlotte-NC-28277/2074792559_zpid/,2074792559,,SINGLE FAMILY,"$799,500",7213 Baniff Cir,Charlotte,NC,28277,5,3,3082,0.24 acres,3606
+https://www.zillow.com/homedetails/7410-Derby-Meadows-Ct-Charlotte-NC-28216/6152185_zpid/,6152185,,SINGLE FAMILY,"$437,000",7410 Derby Meadows Ct,Charlotte,NC,28216,4,4,2696,0.46 acres,2289
+https://www.zillow.com/homedetails/5631-Graypark-Dr-Charlotte-NC-28269/89695553_zpid/,89695553,,SINGLE FAMILY,"$389,500",5631 Graypark Dr,Charlotte,NC,28269,4,3,2220,0.21 acres,2184
+https://www.zillow.com/homedetails/6020-Running-Deer-Rd-Charlotte-NC-28214/6169792_zpid/,6169792,,SINGLE FAMILY,"$290,000",6020 Running Deer Rd,Charlotte,NC,28214,3,3,1520,0.202 acres,2162
+https://www.zillow.com/homedetails/846-Northwood-Dr-Charlotte-NC-28216/6155854_zpid/,6155854,,SINGLE FAMILY,"$395,000",846 Northwood Dr,Charlotte,NC,28216,4,3,1958,0.26 acres,3007
+https://www.zillow.com/homedetails/2717-Arnold-Dr-Charlotte-NC-28205/6202129_zpid/,6202129,,SINGLE FAMILY,"$575,000",2717 Arnold Dr,Charlotte,NC,28205,3,3,1573,0.54 acres,
+https://www.zillow.com/homedetails/3920-Tilley-Morris-Rd-Matthews-NC-28105/6329826_zpid/,6329826,,SINGLE FAMILY,"$675,000",3920 Tilley Morris Rd,Matthews,NC,28105,4,3,2805,1.027 acres,3311
+https://www.zillow.com/homedetails/8432-Spirea-Ct-Charlotte-NC-28215/65024541_zpid/,65024541,,SINGLE FAMILY,"$269,900",8432 Spirea Ct,Charlotte,NC,28215,3,3,1599,0.06 acres,1838
+https://www.zillow.com/homedetails/2909-Park-Rd-Charlotte-NC-28209/6244109_zpid/,6244109,,SINGLE FAMILY,"$774,000",2909 Park Rd,Charlotte,NC,28209,4,3,2111,0.27 acres,4260
+https://www.zillow.com/homedetails/7014-Walton-Heath-Ln-Charlotte-NC-28277/6319688_zpid/,6319688,,SINGLE FAMILY,"$675,000",7014 Walton Heath Ln,Charlotte,NC,28277,4,3,2678,0.21 acres,3229
+https://www.zillow.com/homedetails/715-N-Graham-St-201-Charlotte-NC-28202/2141200077_zpid/,2141200077,,CONDO,"$599,500",715 N Graham St #201,Charlotte,NC,28202,2,2,1752, ,4322
+https://www.zillow.com/homedetails/1901-Gemway-Dr-Charlotte-NC-28216/51531255_zpid/,51531255,,SINGLE FAMILY,"$325,000",1901 Gemway Dr,Charlotte,NC,28216,3,2,1611,0.56 acres,1937
+https://www.zillow.com/homedetails/2212-Pinebrook-Cir-Charlotte-NC-28208/2074779598_zpid/,2074779598,,SINGLE FAMILY,"$375,000",2212 Pinebrook Cir,Charlotte,NC,28208,3,2,1312,0.54 acres,1792
+https://www.zillow.com/homedetails/2121-Milton-Rd-Charlotte-NC-28215/6206463_zpid/,6206463,,SINGLE FAMILY,"$289,900",2121 Milton Rd,Charlotte,NC,28215,3,2,1345,0.29 acres,1753
+https://www.zillow.com/homedetails/6411-Glenn-Teague-Rd-Charlotte-NC-28216/51528158_zpid/,51528158,,SINGLE FAMILY,"$600,000",6411 Glenn Teague Rd,Charlotte,NC,28216,3,2,1420,4 acres,2024
+https://www.zillow.com/homedetails/11100-Painted-Tree-Rd-Charlotte-NC-28226/6310088_zpid/,6310088,,SINGLE FAMILY,"$400,000",11100 Painted Tree Rd,Charlotte,NC,28226,4,3,1920,0.34 acres,2476
+https://www.zillow.com/homedetails/3509-Joel-Turner-Dr-Charlotte-NC-28216/65019950_zpid/,65019950,,SINGLE FAMILY,"$295,000",3509 Joel Turner Dr,Charlotte,NC,28216,3,3,2120,0.18 acres,2195
+https://www.zillow.com/homedetails/4831-Belmar-Place-Rd-Charlotte-NC-28269/110013185_zpid/,110013185,,SINGLE FAMILY,"$299,999",4831 Belmar Place Rd,Charlotte,NC,28269,3,3,1828,0.14 acres,2261
+https://www.zillow.com/homedetails/279-McDonald-Ave-Charlotte-NC-28203/83958467_zpid/,83958467,,CONDO,"$450,000",279 McDonald Ave,Charlotte,NC,28203,2,2,1208,0.05 acres,2956
+https://www.zillow.com/homedetails/15617-Eagleview-Dr-Charlotte-NC-28278/6283181_zpid/,6283181,,SINGLE FAMILY,"$1,450,000",15617 Eagleview Dr,Charlotte,NC,28278,5,6,5462,0.49 acres,5072
+https://www.zillow.com/homedetails/10700-Summitt-Tree-Ct-Charlotte-NC-28277/6315536_zpid/,6315536,,SINGLE FAMILY,"$550,000",10700 Summitt Tree Ct,Charlotte,NC,28277,4,3,3105,0.35 acres,3574
+https://www.zillow.com/homedetails/4019-Munson-Dr-Charlotte-NC-28215/336916208_zpid/,336916208,,SINGLE FAMILY,"$339,900",4019 Munson Dr,Charlotte,NC,28215,3,2,1352,0.19 acres,1931
+https://www.zillow.com/homedetails/9517-Silverdale-Ln-Charlotte-NC-28269/246651335_zpid/,246651335,,SINGLE FAMILY,"$495,000",9517 Silverdale Ln,Charlotte,NC,28269,5,3,2897,0.27 acres,2884
+https://www.zillow.com/homedetails/12802-Hedgeway-Dr-Charlotte-NC-28278/6283066_zpid/,6283066,,SINGLE FAMILY,"$375,000",12802 Hedgeway Dr,Charlotte,NC,28278,3,3,1830,0.252 acres,2159
+https://www.zillow.com/homedetails/1832-J-Julian-Ln-APT-D-Charlotte-NC-28208/6174995_zpid/,6174995,,CONDO,"$135,000",1832 J Julian Ln APT D,Charlotte,NC,28208,2,2,972, ,1367
+https://www.zillow.com/homedetails/5717-Fairchase-Ave-Charlotte-NC-28269/65006777_zpid/,65006777,,SINGLE FAMILY,"$284,900",5717 Fairchase Ave,Charlotte,NC,28269,3,2,1271,0.12 acres,1766
+https://www.zillow.com/homedetails/716-Coy-Ct-Charlotte-NC-28216/65019710_zpid/,65019710,,SINGLE FAMILY,"$295,000",716 Coy Ct,Charlotte,NC,28216,4,3,1921,0.2 acres,2137
+https://www.zillow.com/homedetails/1517-Summerville-Rd-Charlotte-NC-28214/51530959_zpid/,51530959,,SINGLE FAMILY,"$189,995",1517 Summerville Rd,Charlotte,NC,28214,3,1,1076,1.19 acres,1578
+https://www.zillow.com/homedetails/4208-Black-Sycamore-Dr-Charlotte-NC-28226/6295421_zpid/,6295421,,SINGLE FAMILY,"$1,575,000",4208 Black Sycamore Dr,Charlotte,NC,28226,4,5,3748,0.525 acres,5114
+https://www.zillow.com/homedetails/4201-Tyndale-Ave-Charlotte-NC-28210/6266340_zpid/,6266340,,SINGLE FAMILY,"$950,000",4201 Tyndale Ave,Charlotte,NC,28210,3,3,2355,0.41 acres,2064
+https://www.zillow.com/homedetails/5331-Beam-Lake-Dr-Charlotte-NC-28216/6156040_zpid/,6156040,,SINGLE FAMILY,"$310,000",5331 Beam Lake Dr,Charlotte,NC,28216,3,3,1511,0.45 acres,1508
+https://www.zillow.com/homedetails/14053-Queens-Harbor-Rd-Charlotte-NC-28278/6282872_zpid/,6282872,,TOWNHOUSE,"$450,000",14053 Queens Harbor Rd,Charlotte,NC,28278,3,4,1771,0.02 acres,2201
+https://www.zillow.com/homedetails/2928-Park-Rd-Charlotte-NC-28209/6240783_zpid/,6240783,,SINGLE FAMILY,"$779,000",2928 Park Rd,Charlotte,NC,28209,3,1,1563,0.25 acres,2552
+https://www.zillow.com/homedetails/7731-Batavia-Ln-Charlotte-NC-28213/6163768_zpid/,6163768,,SINGLE FAMILY,"$350,000",7731 Batavia Ln,Charlotte,NC,28213,3,3,1742,1.09 acres,2178
+https://www.zillow.com/homedetails/222-Ventner-Ct-Charlotte-NC-28214/6168694_zpid/,6168694,,SINGLE FAMILY,"$385,000",222 Ventner Ct,Charlotte,NC,28214,4,3,1929,0.203 acres,2395
+https://www.zillow.com/homedetails/16009-Stuarts-Draft-Ct-Charlotte-NC-28278/65026501_zpid/,65026501,,SINGLE FAMILY,"$404,000",16009 Stuarts Draft Ct,Charlotte,NC,28278,3,2,1828,0.25 acres,2266
+https://www.zillow.com/homedetails/4317-Springhaven-Dr-Charlotte-NC-28269/65036633_zpid/,65036633,,SINGLE FAMILY,"$350,000",4317 Springhaven Dr,Charlotte,NC,28269,5,3,2169,0.16 acres,
+https://www.zillow.com/homedetails/2707-Cochrane-Dr-Charlotte-NC-28269/65053301_zpid/,65053301,,SINGLE FAMILY,"$328,000",2707 Cochrane Dr,Charlotte,NC,28269,3,3,1543,0.09 acres,1850
+https://www.zillow.com/homedetails/508-Billingsley-Rd-Charlotte-NC-28211/6248179_zpid/,6248179,,TOWNHOUSE,"$459,000",508 Billingsley Rd,Charlotte,NC,28211,3,4,1626,0.027 acres,2522
+https://www.zillow.com/homedetails/8120-Vermilion-Dr-Charlotte-NC-28215/6209636_zpid/,6209636,,SINGLE FAMILY,"$384,900",8120 Vermilion Dr,Charlotte,NC,28215,4,3,1760,0.32 acres,2076
+https://www.zillow.com/homedetails/2836-Providence-Spring-Ln-Charlotte-NC-28270/65011622_zpid/,65011622,,SINGLE FAMILY,"$795,000",2836 Providence Spring Ln,Charlotte,NC,28270,4,3,3284,0.27 acres,
+https://www.zillow.com/homedetails/12803-Matisse-Ln-Charlotte-NC-28215/54493730_zpid/,54493730,,SINGLE FAMILY,"$315,000",12803 Matisse Ln,Charlotte,NC,28215,3,3,1766,0.26 acres,2073
+https://www.zillow.com/homedetails/3932-Rounding-Run-Rd-Charlotte-NC-28277/6317930_zpid/,6317930,,SINGLE FAMILY,"$900,000",3932 Rounding Run Rd,Charlotte,NC,28277,4,4,3227,0.44 acres,
+https://www.zillow.com/homedetails/2938-Hillside-Springs-Dr-Charlotte-NC-28209/299908416_zpid/,299908416,,TOWNHOUSE,"$1,050,000",2938 Hillside Springs Dr,Charlotte,NC,28209,3,4,2885,0.044 acres,
+https://www.zillow.com/homedetails/10009-Patrick-Springs-Ct-Matthews-NC-28105/6279554_zpid/,6279554,,SINGLE FAMILY,"$390,000",10009 Patrick Springs Ct,Matthews,NC,28105,4,2,1846,0.19 acres,2298
+https://www.zillow.com/homedetails/4586-Antelope-Ln-Charlotte-NC-28269/51531772_zpid/,51531772,,TOWNHOUSE,"$250,000",4586 Antelope Ln,Charlotte,NC,28269,2,3,1252, ,1627
+https://www.zillow.com/homedetails/5823-Rupert-Ln-Charlotte-NC-28215/6197068_zpid/,6197068,,SINGLE FAMILY,"$320,000",5823 Rupert Ln,Charlotte,NC,28215,5,3,1880,0.295 acres,2401
+https://www.zillow.com/homedetails/5104-Timbertop-Ln-Charlotte-NC-28215/6217488_zpid/,6217488,,SINGLE FAMILY,"$378,000",5104 Timbertop Ln,Charlotte,NC,28215,4,3,1877,0.25 acres,1966
+https://www.zillow.com/homedetails/1713-Mount-Isle-Harbor-Dr-Charlotte-NC-28214/80470768_zpid/,80470768,,SINGLE FAMILY,"$825,000",1713 Mount Isle Harbor Dr,Charlotte,NC,28214,4,4,3830,0.75 acres,3494
+https://www.zillow.com/homedetails/10500-N-Canyon-Rd-Charlotte-NC-28214/51530209_zpid/,51530209,,SINGLE FAMILY,"$354,900",10500 N Canyon Rd,Charlotte,NC,28214,3,2,1786,0.36 acres,2140
+https://www.zillow.com/homedetails/9401-Elvis-Dr-Charlotte-NC-28215/6214894_zpid/,6214894,,SINGLE FAMILY,"$485,000",9401 Elvis Dr,Charlotte,NC,28215,3,2,1871,0.48 acres,2051
+https://www.zillow.com/homedetails/7407-Mystic-Ln-Charlotte-NC-28227/6213326_zpid/,6213326,,TOWNHOUSE,"$209,000",7407 Mystic Ln,Charlotte,NC,28227,3,2,1254,0.025 acres,1718
+https://www.zillow.com/homedetails/3931-Belshire-Ln-Charlotte-NC-28205/338426538_zpid/,338426538,,SINGLE FAMILY,"$649,900",3931 Belshire Ln,Charlotte,NC,28205,3,2,1879,0.31 acres,2404
+https://www.zillow.com/homedetails/8027-Sherington-Way-Charlotte-NC-28227/6211749_zpid/,6211749,,SINGLE FAMILY,"$289,999",8027 Sherington Way,Charlotte,NC,28227,3,2,1184,0.207 acres,2087
+https://www.zillow.com/homedetails/7714-Albemarle-Rd-Charlotte-NC-28227/6211657_zpid/,6211657,,MULTI FAMILY,"$450,000",7714 Albemarle Rd,Charlotte,NC,28227,4,4,2050,0.292 acres,2346
+https://www.zillow.com/homedetails/528-Goodloe-Dr-Charlotte-NC-28262/65034902_zpid/,65034902,,SINGLE FAMILY,"$410,000",528 Goodloe Dr,Charlotte,NC,28262,4,3,2527,0.18 acres,2347
+https://www.zillow.com/homedetails/618-Olmsted-Park-Pl-Charlotte-NC-28203/6220949_zpid/,6220949,,SINGLE FAMILY,"$999,999",618 Olmsted Park Pl,Charlotte,NC,28203,3,3,1632,0.07 acres,3183
+https://www.zillow.com/homedetails/3629-Warp-St-Charlotte-NC-28205/65053527_zpid/,65053527,,CONDO,"$324,900",3629 Warp St,Charlotte,NC,28205,2,2,1008, ,1765
+https://www.zillow.com/homedetails/1253-Iverleigh-Trl-Charlotte-NC-28270/452110794_zpid/,452110794,,SINGLE FAMILY,"$825,000",1253 Iverleigh Trl,Charlotte,NC,28270,5,4,3237,0.38 acres,
+https://www.zillow.com/homedetails/4001-Carmel-Acres-Dr-Charlotte-NC-28226/6291330_zpid/,6291330,,SINGLE FAMILY,"$1,375,000",4001 Carmel Acres Dr,Charlotte,NC,28226,5,4,4686,2.01 acres,5838
+https://www.zillow.com/homedetails/609-Bilmark-Ave-Charlotte-NC-28213/6190704_zpid/,6190704,,SINGLE FAMILY,"$314,900",609 Bilmark Ave,Charlotte,NC,28213,3,2,1537,0.22 acres,1851
+https://www.zillow.com/homedetails/5807-McTaggart-Ln-Charlotte-NC-28269/64940768_zpid/,64940768,,SINGLE FAMILY,"$600,900",5807 McTaggart Ln,Charlotte,NC,28269,5,5,4423,0.2 acres,3565
+https://www.zillow.com/homedetails/1126-E-Woodlawn-Rd-Charlotte-NC-28209/6257019_zpid/,6257019,,SINGLE FAMILY,"$499,000",1126 E Woodlawn Rd,Charlotte,NC,28209,3,2,1338,0.34 acres,3002
+https://www.zillow.com/homedetails/2922-Phillips-Fairway-Dr-Charlotte-NC-28216/65019659_zpid/,65019659,,SINGLE FAMILY,"$595,000",2922 Phillips Fairway Dr,Charlotte,NC,28216,5,4,2925,0.46 acres,3089
+https://www.zillow.com/homedetails/10807-Summitt-Tree-Ct-Charlotte-NC-28277/6315524_zpid/,6315524,,SINGLE FAMILY,"$725,000",10807 Summitt Tree Ct,Charlotte,NC,28277,4,3,2766,0.28 acres,3409
+https://www.zillow.com/homedetails/2501-Handley-Pl-Charlotte-NC-28226/6269605_zpid/,6269605,,SINGLE FAMILY,"$875,000",2501 Handley Pl,Charlotte,NC,28226,5,3,3014,0.51 acres,3904
+https://www.zillow.com/homedetails/6208-Colchester-Pl-Charlotte-NC-28210/6259698_zpid/,6259698,,SINGLE FAMILY,"$609,000",6208 Colchester Pl,Charlotte,NC,28210,4,2,1735,0.35 acres,2587
+https://www.zillow.com/homedetails/4194-La-Crema-Dr-Charlotte-NC-28214/167039137_zpid/,167039137,,TOWNHOUSE,"$490,000",4194 La Crema Dr,Charlotte,NC,28214,3,3,2285,0.09 acres,2351
+https://www.zillow.com/homedetails/5832-Amity-Springs-Dr-Charlotte-NC-28212/6227265_zpid/,6227265,,CONDO,"$190,000",5832 Amity Springs Dr,Charlotte,NC,28212,2,2,1331, ,1615
+https://www.zillow.com/homedetails/13843-Poppleton-Ct-Charlotte-NC-28273/6308060_zpid/,6308060,,SINGLE FAMILY,"$425,000",13843 Poppleton Ct,Charlotte,NC,28273,4,3,2300,0.254 acres,2548
+https://www.zillow.com/homedetails/6103-Breckfield-Ct-Charlotte-NC-28278/80469423_zpid/,80469423,,SINGLE FAMILY,"$475,000",6103 Breckfield Ct,Charlotte,NC,28278,3,2,2300,0.26 acres,2491
+https://www.zillow.com/homedetails/4721-Hekate-Dr-Charlotte-NC-28227/454879050_zpid/,454879050,,MANUFACTURED,"$150,000",4721 Hekate Dr,Charlotte,NC,28227,3,2,1456, ,
+https://www.zillow.com/homedetails/8038-Pawtuckett-Rd-Charlotte-NC-28214/338430539_zpid/,338430539,,SINGLE FAMILY,"$550,000",8038 Pawtuckett Rd,Charlotte,NC,28214,4,4,5206,0.33 acres,3795
+https://www.zillow.com/homedetails/1075-Triece-Ln-Charlotte-NC-28215/65023987_zpid/,65023987,,CONDO,"$175,000",1075 Triece Ln,Charlotte,NC,28215,2,1,857, ,1423
+https://www.zillow.com/homedetails/306-Nance-Rd-Charlotte-NC-28214/6169140_zpid/,6169140,,SINGLE FAMILY,"$600,000",306 Nance Rd,Charlotte,NC,28214,8,6,3475,3.033 acres,3716
+https://www.zillow.com/homedetails/12834-English-Walnut-Ln-Charlotte-NC-28215/6215585_zpid/,6215585,,SINGLE FAMILY,"$380,000",12834 English Walnut Ln,Charlotte,NC,28215,4,3,1934,0.23 acres,2226
+https://www.zillow.com/homedetails/15038-Jockeys-Ridge-Dr-Charlotte-NC-28277/54498467_zpid/,54498467,,SINGLE FAMILY,"$1,595,000",15038 Jockeys Ridge Dr,Charlotte,NC,28277,5,5,4662,0.737 acres,5124
+https://www.zillow.com/homedetails/2003-Ashley-Rd-Charlotte-NC-28208/6178570_zpid/,6178570,,MULTI FAMILY,"$750,000",2003 Ashley Rd,Charlotte,NC,28208,6,6,3764,0.16 acres,2481
+https://www.zillow.com/homedetails/301-Honeywood-Ave-Charlotte-NC-28216/299902952_zpid/,299902952,,SINGLE FAMILY,"$235,000",301 Honeywood Ave,Charlotte,NC,28216,3,2,1054,0.52 acres,1749
+https://www.zillow.com/homedetails/508-McAlway-Rd-Charlotte-NC-28211/249019051_zpid/,249019051,,SINGLE FAMILY,"$1,325,000",508 McAlway Rd,Charlotte,NC,28211,5,3,2901,0.18 acres,4631
+https://www.zillow.com/homedetails/511-Greenwood-Dr-Charlotte-NC-28217/454933455_zpid/,454933455,,TOWNHOUSE,"$345,000",511 Greenwood Dr,Charlotte,NC,28217,3,3,1700,0.134 acres,
+https://www.zillow.com/homedetails/7130-Founders-Club-Ct-Charlotte-NC-28269/80453106_zpid/,80453106,,CONDO,"$294,000",7130 Founders Club Ct,Charlotte,NC,28269,4,3,1631, ,
+https://www.zillow.com/homedetails/9121-Swallow-Tail-Ln-Charlotte-NC-28269/54490715_zpid/,54490715,,SINGLE FAMILY,"$350,000",9121 Swallow Tail Ln,Charlotte,NC,28269,4,2,1914,0.25 acres,
+https://www.zillow.com/homedetails/5027-American-Bittern-Ln-Charlotte-NC-28214/442958015_zpid/,442958015,,TOWNHOUSE,"$399,000",5027 American Bittern Ln,Charlotte,NC,28214,3,3,1972, ,
+https://www.zillow.com/homedetails/8060-Knights-Bridge-Rd-Charlotte-NC-28210/6287104_zpid/,6287104,,TOWNHOUSE,"$260,000",8060 Knights Bridge Rd,Charlotte,NC,28210,3,3,1490,0.02 acres,1885
+https://www.zillow.com/homedetails/5206-Dunrobin-Ln-Charlotte-NC-28226/6298487_zpid/,6298487,,SINGLE FAMILY,"$749,900",5206 Dunrobin Ln,Charlotte,NC,28226,4,3,2757,0.2 acres,3277
+https://www.zillow.com/homedetails/513-Stillgreen-Ln-Charlotte-NC-28214/65018795_zpid/,65018795,,SINGLE FAMILY,"$200,000",513 Stillgreen Ln,Charlotte,NC,28214,3,2,1265,0.19 acres,1790
+https://www.zillow.com/homedetails/1615-Grovewood-Dr-Charlotte-NC-28208/6171896_zpid/,6171896,,SINGLE FAMILY,"$330,000",1615 Grovewood Dr,Charlotte,NC,28208,4,2,1606,0.24 acres,2073
+https://www.zillow.com/homedetails/243-Skyland-Ave-Charlotte-NC-28205/336916179_zpid/,336916179,,SINGLE FAMILY,"$385,000",243 Skyland Ave,Charlotte,NC,28205,3,3,1687,0.17 acres,2977
+https://www.zillow.com/homedetails/5536-Piper-Glen-Dr-Charlotte-NC-28277/6320450_zpid/,6320450,,SINGLE FAMILY,"$995,000",5536 Piper Glen Dr,Charlotte,NC,28277,4,5,3818,0.6 acres,4593
+https://www.zillow.com/homedetails/3921-Bon-Rea-Dr-Charlotte-NC-28226/6296554_zpid/,6296554,,SINGLE FAMILY,"$499,900",3921 Bon Rea Dr,Charlotte,NC,28226,3,2,1560,0.45 acres,2337
+https://www.zillow.com/homedetails/7309-Leesburg-Rd-Charlotte-NC-28215/6208144_zpid/,6208144,,SINGLE FAMILY,"$435,000",7309 Leesburg Rd,Charlotte,NC,28215,4,3,2420,0.45 acres,2547
+https://www.zillow.com/homedetails/6225-Ash-Cove-Ln-Charlotte-NC-28269/6146132_zpid/,6146132,,SINGLE FAMILY,"$500,000",6225 Ash Cove Ln,Charlotte,NC,28269,4,3,2784,0.24 acres,2692
+https://www.zillow.com/homedetails/6411-Windsor-Gate-Ln-Charlotte-NC-28215/6208766_zpid/,6208766,,CONDO,"$224,000",6411 Windsor Gate Ln,Charlotte,NC,28215,3,2,1330,0.1 acres,1752
+https://www.zillow.com/homedetails/6304-Kennard-Dr-Charlotte-NC-28216/83964563_zpid/,83964563,,SINGLE FAMILY,"$435,000",6304 Kennard Dr,Charlotte,NC,28216,3,3,2250,0.14 acres,2245
+https://www.zillow.com/homedetails/4824-Spring-Lake-Dr-APT-E-Charlotte-NC-28212/6203852_zpid/,6203852,,CONDO,"$129,500",4824 Spring Lake Dr APT E,Charlotte,NC,28212,2,2,918, ,1401
+https://www.zillow.com/homedetails/16108-Woolwine-Rd-Charlotte-NC-28278/6282391_zpid/,6282391,,SINGLE FAMILY,"$1,425,000",16108 Woolwine Rd,Charlotte,NC,28278,4,5,4389,0.42 acres,4620
+https://www.zillow.com/homedetails/8218-Houston-Ridge-Rd-Charlotte-NC-28277/6313983_zpid/,6313983,,SINGLE FAMILY,"$800,000",8218 Houston Ridge Rd,Charlotte,NC,28277,4,4,3179,0.57 acres,4033
+https://www.zillow.com/homedetails/230-S-Tryon-St-UNIT-605-Charlotte-NC-28202/80452917_zpid/,80452917,,CONDO,"$435,000",230 S Tryon St UNIT 605,Charlotte,NC,28202,2,1,892, ,1995
+https://www.zillow.com/homedetails/424-Mather-Green-Ave-APT-M-Charlotte-NC-28203/69568903_zpid/,69568903,,CONDO,"$400,000",424 Mather Green Ave APT M,Charlotte,NC,28203,2,2,877, ,1793
+https://www.zillow.com/homedetails/10121-Halkirk-Manor-Ln-Charlotte-NC-28278/69572994_zpid/,69572994,,SINGLE FAMILY,"$485,000",10121 Halkirk Manor Ln,Charlotte,NC,28278,3,3,2752,0.19 acres,2611
+https://www.zillow.com/homedetails/13101-Kensworth-Ct-Charlotte-NC-28277/6329279_zpid/,6329279,,SINGLE FAMILY,"$925,000",13101 Kensworth Ct,Charlotte,NC,28277,5,4,3221,0.62 acres,4048
+https://www.zillow.com/homedetails/4317-Commonwealth-Ave-Charlotte-NC-28205/6250396_zpid/,6250396,,SINGLE FAMILY,"$510,000",4317 Commonwealth Ave,Charlotte,NC,28205,3,2,1476,0.29 acres,2454
+https://www.zillow.com/homedetails/229-N-Dotger-Ave-APT-E16-Charlotte-NC-28207/80463671_zpid/,80463671,,CONDO,"$350,000",229 N Dotger Ave APT E16,Charlotte,NC,28207,2,2,936, ,1832
+https://www.zillow.com/homedetails/10638-Moss-Mill-Ln-Charlotte-NC-28277/6313252_zpid/,6313252,,SINGLE FAMILY,"$740,000",10638 Moss Mill Ln,Charlotte,NC,28277,4,3,2693,0.83 acres,3445
+https://www.zillow.com/homedetails/2558-Carya-Pond-Ln-Charlotte-NC-28212/65024201_zpid/,65024201,,CONDO,"$205,000",2558 Carya Pond Ln,Charlotte,NC,28212,2,2,1277,0.1 acres,1694
+https://www.zillow.com/homedetails/14922-Rolling-Sky-Dr-Charlotte-NC-28273/6308809_zpid/,6308809,,SINGLE FAMILY,"$370,500",14922 Rolling Sky Dr,Charlotte,NC,28273,3,3,1716,0.46 acres,2205
+https://www.zillow.com/homedetails/6009-Brace-Rd-Charlotte-NC-28211/6273678_zpid/,6273678,,SINGLE FAMILY,"$595,000",6009 Brace Rd,Charlotte,NC,28211,3,2,1756,0.4 acres,2576
+https://www.zillow.com/homedetails/8115-Tremaine-Ct-Charlotte-NC-28227/2070101042_zpid/,2070101042,,CONDO,"$139,900",8115 Tremaine Ct,Charlotte,NC,28227,2,2,935, ,1484
+https://www.zillow.com/homedetails/3329-Winnipeg-Cir-Charlotte-NC-28210/2075465214_zpid/,2075465214,,SINGLE FAMILY,"$755,000",3329 Winnipeg Cir,Charlotte,NC,28210,4,3,2321,0.42 acres,3302
+https://www.zillow.com/homedetails/1121-S-Wendover-Rd-Charlotte-NC-28211/6266922_zpid/,6266922,,SINGLE FAMILY,"$1,199,000",1121 S Wendover Rd,Charlotte,NC,28211,4,4,4148,0.42 acres,5687
+https://www.zillow.com/homedetails/5238-Downing-Creek-Dr-Charlotte-NC-28269/6142568_zpid/,6142568,,SINGLE FAMILY,"$435,000",5238 Downing Creek Dr,Charlotte,NC,28269,4,3,2650,0.29 acres,2588
+https://www.zillow.com/homedetails/4021-Redwood-Ave-Charlotte-NC-28205/6192231_zpid/,6192231,,SINGLE FAMILY,"$1,285,000",4021 Redwood Ave,Charlotte,NC,28205,4,4,3184,0.25 acres,5697
+https://www.zillow.com/homedetails/3200-Spring-Valley-Rd-Charlotte-NC-28210/6260644_zpid/,6260644,,SINGLE FAMILY,"$595,000",3200 Spring Valley Rd,Charlotte,NC,28210,4,3,1957,0.341 acres,3116
+https://www.zillow.com/homedetails/5115-Carriage-Drive-Cres-Charlotte-NC-28205/6203342_zpid/,6203342,,SINGLE FAMILY,"$395,000",5115 Carriage Drive Cres,Charlotte,NC,28205,3,2,1767,0.36 acres,2163
+https://www.zillow.com/homedetails/188-Gum-Branch-Rd-3-Charlotte-NC-28214/453841872_zpid/,453841872,,SINGLE FAMILY,"$550,000",188 Gum Branch Rd #3,Charlotte,NC,28214,3,2,2281,1.48 acres,
+https://www.zillow.com/homedetails/3850-Oakdale-Rd-Charlotte-NC-28216/51530702_zpid/,51530702,,SINGLE FAMILY,"$865,000",3850 Oakdale Rd,Charlotte,NC,28216,5,4,4406,2 acres,
+https://www.zillow.com/homedetails/3218-Sam-Wilson-Rd-Charlotte-NC-28214/455185606_zpid/,455185606,,MULTI FAMILY,"$649,800",3218 Sam Wilson Rd,Charlotte,NC,28214,6,6,2791,0.24 acres,
+https://www.zillow.com/homedetails/1700-Old-Towne-Ct-Charlotte-NC-28217/6255163_zpid/,6255163,,SINGLE FAMILY,"$199,900",1700 Old Towne Ct,Charlotte,NC,28217,3,1,1113,0.297 acres,1616
+https://www.zillow.com/homedetails/11305-Erwin-Ridge-Ave-Charlotte-NC-28213/65044919_zpid/,65044919,,SINGLE FAMILY,"$399,000",11305 Erwin Ridge Ave,Charlotte,NC,28213,4,3,2352,0.23 acres,2297
+https://www.zillow.com/homedetails/805-Old-Little-Rock-Rd-Charlotte-NC-28214/338431278_zpid/,338431278,,SINGLE FAMILY,"$395,000",805 Old Little Rock Rd,Charlotte,NC,28214,4,4,2725,0.14 acres,2912
+https://www.zillow.com/homedetails/7324-Leharne-Dr-Charlotte-NC-28270/6300508_zpid/,6300508,,SINGLE FAMILY,"$750,000",7324 Leharne Dr,Charlotte,NC,28270,4,4,2778,0.46 acres,3347
+https://www.zillow.com/homedetails/12357-Copper-Mountain-Blvd-Charlotte-NC-28277/65057777_zpid/,65057777,,CONDO,"$305,000",12357 Copper Mountain Blvd,Charlotte,NC,28277,3,2,1328, ,2012
+https://www.zillow.com/homedetails/2515-Danforth-Ln-Charlotte-NC-28208/6174713_zpid/,6174713,,SINGLE FAMILY,"$265,000",2515 Danforth Ln,Charlotte,NC,28208,3,1,1014,8276 sqft,1563
+https://www.zillow.com/homedetails/1018-Shady-Bluff-Dr-Charlotte-NC-28211/6251319_zpid/,6251319,,SINGLE FAMILY,"$850,000",1018 Shady Bluff Dr,Charlotte,NC,28211,3,2,1827,0.43 acres,2705
+https://www.zillow.com/homedetails/4821-Victoria-Ave-Charlotte-NC-28269/449952513_zpid/,449952513,,TOWNHOUSE,"$295,000",4821 Victoria Ave,Charlotte,NC,28269,3,2,1212,0.17 acres,
+https://www.zillow.com/homedetails/6932-Curlee-Ct-Charlotte-NC-28277/6320538_zpid/,6320538,,SINGLE FAMILY,"$800,000",6932 Curlee Ct,Charlotte,NC,28277,4,3,3418,0.503 acres,3875
+https://www.zillow.com/homedetails/3600-Stoneglen-Path-Charlotte-NC-28269/6141243_zpid/,6141243,,SINGLE FAMILY,"$489,000",3600 Stoneglen Path,Charlotte,NC,28269,4,3,2669,0.5 acres,2726
+https://www.zillow.com/homedetails/1220-Elrond-Dr-NW-Charlotte-NC-28269/61653044_zpid/,61653044,,SINGLE FAMILY,"$600,000",1220 Elrond Dr NW,Charlotte,NC,28269,4,3,3354,0.22 acres,2856
+https://www.zillow.com/homedetails/3401-Cresta-Ct-Charlotte-NC-28269/6140204_zpid/,6140204,,SINGLE FAMILY,"$575,000",3401 Cresta Ct,Charlotte,NC,28269,4,3,2574,0.55 acres,2622
+https://www.zillow.com/homedetails/2011-E-Barden-Rd-Charlotte-NC-28226/6273104_zpid/,6273104,,SINGLE FAMILY,"$700,000",2011 E Barden Rd,Charlotte,NC,28226,5,4,2813,0.91 acres,3645
+https://www.zillow.com/homedetails/5932-Vernedale-Rd-Charlotte-NC-28212/6203596_zpid/,6203596,,SINGLE FAMILY,"$339,000",5932 Vernedale Rd,Charlotte,NC,28212,3,2,1617,0.28 acres,2005
+https://www.zillow.com/homedetails/10511-Pullengreen-Dr-Charlotte-NC-28277/6319678_zpid/,6319678,,SINGLE FAMILY,"$539,900",10511 Pullengreen Dr,Charlotte,NC,28277,3,3,2121,0.21 acres,2763
+https://www.zillow.com/homedetails/4201-Amber-Leigh-Way-Dr-Charlotte-NC-28269/96787131_zpid/,96787131,,SINGLE FAMILY,"$850,000",4201 Amber Leigh Way Dr,Charlotte,NC,28269,7,7,7014,0.598 acres,
+https://www.zillow.com/homedetails/6132-Sharon-Rd-Charlotte-NC-28210/80467500_zpid/,80467500,,SINGLE FAMILY,"$1,275,000",6132 Sharon Rd,Charlotte,NC,28210,5,4,3840,0.38 acres,4683
+https://www.zillow.com/homedetails/8605-Sawleaf-Ct-Charlotte-NC-28215/65024586_zpid/,65024586,,SINGLE FAMILY,"$300,000",8605 Sawleaf Ct,Charlotte,NC,28215,3,2,1519,0.07 acres,2039
+https://www.zillow.com/homedetails/427-Lansdowne-Rd-Charlotte-NC-28270/6271745_zpid/,6271745,,SINGLE FAMILY,"$998,000",427 Lansdowne Rd,Charlotte,NC,28270,5,3,3130,0.44 acres,3384
+https://www.zillow.com/homedetails/8500-Peyton-Randolph-Dr-Charlotte-NC-28277/6318257_zpid/,6318257,,SINGLE FAMILY,"$895,000",8500 Peyton Randolph Dr,Charlotte,NC,28277,5,4,3848,0.4 acres,4367
+https://www.zillow.com/homedetails/6542-Cross-Field-Ln-Charlotte-NC-28226/6298633_zpid/,6298633,,SINGLE FAMILY,"$930,000",6542 Cross Field Ln,Charlotte,NC,28226,4,3,2946,0.44 acres,3353
+https://www.zillow.com/homedetails/10933-Sedgemoor-Ln-E-Charlotte-NC-28277/450006673_zpid/,450006673,,SINGLE FAMILY,"$647,000",10933 Sedgemoor Ln E,Charlotte,NC,28277,4,3,2668,0.165 acres,
+https://www.zillow.com/homedetails/12411-Herdon-Ct-Charlotte-NC-28277/6328389_zpid/,6328389,,SINGLE FAMILY,"$730,000",12411 Herdon Ct,Charlotte,NC,28277,5,3,2619,0.31 acres,3347
+https://www.zillow.com/homedetails/3015-Howell-Mill-Rd-Charlotte-NC-28208/452280082_zpid/,452280082,,TOWNHOUSE,"$284,900",3015 Howell Mill Rd,Charlotte,NC,28208,3,3,1338,0.034 acres,
+https://www.zillow.com/homedetails/4913-Seacroft-Rd-Charlotte-NC-28210/6258003_zpid/,6258003,,SINGLE FAMILY,"$685,000",4913 Seacroft Rd,Charlotte,NC,28210,3,2,1808,0.31 acres,2548
+https://www.zillow.com/homedetails/451-W-Worthington-Ave-Charlotte-NC-28203/166881478_zpid/,166881478,,CONDO,"$495,000",451 W Worthington Ave,Charlotte,NC,28203,2,3,1100, ,2251
+https://www.zillow.com/homedetails/824-Kentberry-Dr-Charlotte-NC-28214/6148937_zpid/,6148937,,SINGLE FAMILY,"$299,900",824 Kentberry Dr,Charlotte,NC,28214,3,2,1320,0.556 acres,1787
+https://www.zillow.com/homedetails/10452-Quiet-Bay-Ct-Charlotte-NC-28278/6282723_zpid/,6282723,,SINGLE FAMILY,"$1,150,000",10452 Quiet Bay Ct,Charlotte,NC,28278,5,4,4071,0.441 acres,3929
+https://www.zillow.com/homedetails/430-Edgegreen-Dr-Charlotte-NC-28217/6254155_zpid/,6254155,,SINGLE FAMILY,"$358,000",430 Edgegreen Dr,Charlotte,NC,28217,3,3,1889,0.31 acres,2184
+https://www.zillow.com/homedetails/14027-Grand-Traverse-Dr-Charlotte-NC-28278/65057637_zpid/,65057637,,SINGLE FAMILY,"$698,000",14027 Grand Traverse Dr,Charlotte,NC,28278,6,4,4053,0.28 acres,3778
+https://www.zillow.com/homedetails/1040-Goshen-Pl-Charlotte-NC-28211/6249035_zpid/,6249035,,SINGLE FAMILY,"$659,000",1040 Goshen Pl,Charlotte,NC,28211,4,2,1593,0.35 acres,2400
+https://www.zillow.com/homedetails/5417-Timbertop-Ln-Charlotte-NC-28215/6217517_zpid/,6217517,,SINGLE FAMILY,"$334,900",5417 Timbertop Ln,Charlotte,NC,28215,3,3,1568,0.187 acres,1914
+https://www.zillow.com/homedetails/4025-Ivystone-Ct-Charlotte-NC-28277/6317266_zpid/,6317266,,TOWNHOUSE,"$379,000",4025 Ivystone Ct,Charlotte,NC,28277,3,3,1990, ,2540
+https://www.zillow.com/homedetails/7113-Amberly-Hills-Rd-Charlotte-NC-28215/336917012_zpid/,336917012,,SINGLE FAMILY,"$362,000",7113 Amberly Hills Rd,Charlotte,NC,28215,3,3,1915,0.19 acres,2135
+https://www.zillow.com/homedetails/505-E-6th-St-UNIT-908-Charlotte-NC-28202/69571951_zpid/,69571951,,CONDO,"$354,900",505 E 6th St UNIT 908,Charlotte,NC,28202,2,2,1174, ,2446
+https://www.zillow.com/homedetails/5303-Shasta-Hill-Ct-Charlotte-NC-28211/6270806_zpid/,6270806,,SINGLE FAMILY,"$900,000",5303 Shasta Hill Ct,Charlotte,NC,28211,4,3,2862,0.304 acres,3952
+https://www.zillow.com/homedetails/525-E-6th-St-Charlotte-NC-28202/2146950277_zpid/,2146950277,,CONDO,"$220,000",525 E 6th St,Charlotte,NC,28202,1,1,502,1.89 acres,1507
+https://www.zillow.com/homedetails/8605-Tamarron-Dr-Charlotte-NC-28277/6328214_zpid/,6328214,,SINGLE FAMILY,"$587,000",8605 Tamarron Dr,Charlotte,NC,28277,3,3,2021,0.21 acres,2478
+https://www.zillow.com/homedetails/3009-Commonwealth-Ave-Charlotte-NC-28205/338430223_zpid/,338430223,,SINGLE FAMILY,"$1,190,000",3009 Commonwealth Ave,Charlotte,NC,28205,4,4,3000,0.48 acres,4581
+https://www.zillow.com/homedetails/1811-Tufnell-Ct-Charlotte-NC-28262/6167354_zpid/,6167354,,SINGLE FAMILY,"$350,000",1811 Tufnell Ct,Charlotte,NC,28262,3,2,1330,0.32 acres,
+https://www.zillow.com/homedetails/1330-Dean-St-Charlotte-NC-28216/6183497_zpid/,6183497,,SINGLE FAMILY,"$350,000",1330 Dean St,Charlotte,NC,28216,3,2,1366,0.19 acres,1851
+https://www.zillow.com/homedetails/3500-Colony-Rd-APT-B-Charlotte-NC-28211/6265546_zpid/,6265546,,CONDO,"$350,000",3500 Colony Rd APT B,Charlotte,NC,28211,3,4,1926, ,3121
+https://www.zillow.com/homedetails/4533-Cades-Cove-Dr-Charlotte-NC-28273/65026557_zpid/,65026557,,SINGLE FAMILY,"$498,000",4533 Cades Cove Dr,Charlotte,NC,28273,4,3,2342,0.2 acres,2458
+https://www.zillow.com/homedetails/16749-Hammock-Creek-Pl-Charlotte-NC-28278/69569443_zpid/,69569443,,SINGLE FAMILY,"$665,000",16749 Hammock Creek Pl,Charlotte,NC,28278,4,3,3255,0.43 acres,2996
+https://www.zillow.com/homedetails/8016-Pemswood-St-Charlotte-NC-28277/64940663_zpid/,64940663,,SINGLE FAMILY,"$1,599,900",8016 Pemswood St,Charlotte,NC,28277,5,5,4354,0.33 acres,4296
+https://www.zillow.com/homedetails/8834-Meadowmont-View-Dr-Charlotte-NC-28269/64999405_zpid/,64999405,,SINGLE FAMILY,"$330,000",8834 Meadowmont View Dr,Charlotte,NC,28269,3,3,1286,0.069 acres,2007
+https://www.zillow.com/homedetails/9664-Littleleaf-Dr-Charlotte-NC-28215/65024750_zpid/,65024750,,CONDO,"$225,000",9664 Littleleaf Dr,Charlotte,NC,28215,3,2,1336, ,1800
+https://www.zillow.com/homedetails/2239-Blue-Hampton-Ln-Charlotte-NC-28213/80446797_zpid/,80446797,,SINGLE FAMILY,"$235,000",2239 Blue Hampton Ln,Charlotte,NC,28213,2,1,950,0.158 acres,1332
+https://www.zillow.com/homedetails/10806-Cove-Point-Dr-Charlotte-NC-28278/116224326_zpid/,116224326,,SINGLE FAMILY,"$485,000",10806 Cove Point Dr,Charlotte,NC,28278,4,4,2606,0.2 acres,2892
+https://www.zillow.com/homedetails/1419-Jules-Ct-Charlotte-NC-28226/6273164_zpid/,6273164,,SINGLE FAMILY,"$575,000",1419 Jules Ct,Charlotte,NC,28226,3,3,1993,0.37 acres,2486
+https://www.zillow.com/homedetails/8208-Doverdale-Ln-Charlotte-NC-28217/6256316_zpid/,6256316,,SINGLE FAMILY,"$360,000",8208 Doverdale Ln,Charlotte,NC,28217,4,2,1655,0.23 acres,2086
+https://www.zillow.com/homedetails/10401-Andiron-Dr-Matthews-NC-28105/6329864_zpid/,6329864,,SINGLE FAMILY,"$699,948",10401 Andiron Dr,Matthews,NC,28105,4,4,3372,0.74 acres,3336
+https://www.zillow.com/homedetails/4300-Old-Course-Dr-Charlotte-NC-28277/6320009_zpid/,6320009,,SINGLE FAMILY,"$1,599,000",4300 Old Course Dr,Charlotte,NC,28277,6,7,6023,1.15 acres,7201
+https://www.zillow.com/homedetails/11219-Kempsford-Dr-Charlotte-NC-28262/6167102_zpid/,6167102,,SINGLE FAMILY,"$379,000",11219 Kempsford Dr,Charlotte,NC,28262,4,3,2176,0.39 acres,2297
+https://www.zillow.com/homedetails/9836-Coatbridge-Dr-Charlotte-NC-28269/80206916_zpid/,80206916,,SINGLE FAMILY,"$479,999",9836 Coatbridge Dr,Charlotte,NC,28269,4,3,2527,0.23 acres,2537
+https://www.zillow.com/homedetails/6005-Trailwater-Rd-Charlotte-NC-28278/83969283_zpid/,83969283,,SINGLE FAMILY,"$449,950",6005 Trailwater Rd,Charlotte,NC,28278,4,3,2778,0.19 acres,2877
+https://www.zillow.com/homedetails/1620-Arnold-Dr-Charlotte-NC-28205/239887069_zpid/,239887069,,SINGLE FAMILY,"$899,000",1620 Arnold Dr,Charlotte,NC,28205,4,4,2533,0.2 acres,4673
+https://www.zillow.com/homedetails/501-River-Oaks-Ln-Charlotte-NC-28226/6273139_zpid/,6273139,,SINGLE FAMILY,"$585,000",501 River Oaks Ln,Charlotte,NC,28226,3,3,1960,0.3 acres,2460
+https://www.zillow.com/homedetails/3333-Cole-Mill-Rd-Charlotte-NC-28270/65031337_zpid/,65031337,,SINGLE FAMILY,"$475,000",3333 Cole Mill Rd,Charlotte,NC,28270,4,3,1933,0.143 acres,2390
+https://www.zillow.com/homedetails/3105-Amay-James-Ave-Charlotte-NC-28208/453510436_zpid/,453510436,,SINGLE FAMILY,"$400,000",3105 Amay James Ave,Charlotte,NC,28208,4,3,1939,0.08 acres,
+https://www.zillow.com/homedetails/713-715-Walnut-Dr-Charlotte-NC-28208/2057004771_zpid/,2057004771,,MULTI FAMILY,"$877,000",713/715 Walnut Dr,Charlotte,NC,28208,4,4,3189,0.25 acres,2670
+https://www.zillow.com/homedetails/6715-Olde-Savannah-Rd-Charlotte-NC-28227/6212291_zpid/,6212291,,SINGLE FAMILY,"$415,000",6715 Olde Savannah Rd,Charlotte,NC,28227,4,3,1700,0.43 acres,1946
+https://www.zillow.com/homedetails/14019-Fountain-Ln-Charlotte-NC-28278/6282041_zpid/,6282041,,SINGLE FAMILY,"$630,000",14019 Fountain Ln,Charlotte,NC,28278,4,4,2856,2.86 acres,3178
+https://www.zillow.com/homedetails/2321-Oberwood-Dr-Charlotte-NC-28270/6300372_zpid/,6300372,,SINGLE FAMILY,"$585,000",2321 Oberwood Dr,Charlotte,NC,28270,5,3,2919,0.191 acres,3749
+https://www.zillow.com/homedetails/823-Yuma-St-Charlotte-NC-28213/6190015_zpid/,6190015,,SINGLE FAMILY,"$227,000",823 Yuma St,Charlotte,NC,28213,3,1,1004,0.21 acres,1656
+https://www.zillow.com/homedetails/10717-Dapple-Grey-Ln-Charlotte-NC-28213/89690233_zpid/,89690233,,SINGLE FAMILY,"$525,000",10717 Dapple Grey Ln,Charlotte,NC,28213,4,3,3652,0.212 acres,2839
+https://www.zillow.com/homedetails/5728-Mantario-Dr-Charlotte-NC-28269/65017918_zpid/,65017918,,SINGLE FAMILY,"$675,000",5728 Mantario Dr,Charlotte,NC,28269,4,4,3043,0.19 acres,
+https://www.zillow.com/homedetails/2314-Westerly-Hills-Dr-Charlotte-NC-28208/6174520_zpid/,6174520,,SINGLE FAMILY,"$315,000",2314 Westerly Hills Dr,Charlotte,NC,28208,3,2,1080,0.3 acres,1991
+https://www.zillow.com/homedetails/660-Ideal-Way-Charlotte-NC-28203/6240716_zpid/,6240716,,SINGLE FAMILY,"$915,000",660 Ideal Way,Charlotte,NC,28203,4,3,1985,0.22 acres,
+https://www.zillow.com/homedetails/1830-Alden-Oaks-Ln-Charlotte-NC-28270/2104047668_zpid/,2104047668,,SINGLE FAMILY,"$950,000",1830 Alden Oaks Ln,Charlotte,NC,28270,5,4,4514,0.203 acres,4497
+https://www.zillow.com/homedetails/804-Bradford-Woods-Dr-Charlotte-NC-28209/6241168_zpid/,6241168,,CONDO,"$475,000",804 Bradford Woods Dr,Charlotte,NC,28209,3,2,1297, ,2445
+https://www.zillow.com/homedetails/6614-Old-Providence-Rd-Charlotte-NC-28226/6294424_zpid/,6294424,,SINGLE FAMILY,"$699,999",6614 Old Providence Rd,Charlotte,NC,28226,5,4,2672,0.51 acres,3407
+https://www.zillow.com/homedetails/2008-Bantry-Ln-Charlotte-NC-28262/6165629_zpid/,6165629,,SINGLE FAMILY,"$395,000",2008 Bantry Ln,Charlotte,NC,28262,4,3,2402,0.33 acres,2455
+https://www.zillow.com/homedetails/14512-Brotherly-Ln-Charlotte-NC-28278/108861716_zpid/,108861716,,SINGLE FAMILY,"$424,900",14512 Brotherly Ln,Charlotte,NC,28278,3,3,2145,0.2 acres,2430
+https://www.zillow.com/homedetails/9426-Greyson-Ridge-Dr-Charlotte-NC-28277/83959345_zpid/,83959345,,SINGLE FAMILY,"$1,295,000",9426 Greyson Ridge Dr,Charlotte,NC,28277,4,4,4023,0.51 acres,5262
+https://www.zillow.com/homedetails/12250-Wallace-Ridge-Dr-Charlotte-NC-28269/65004853_zpid/,65004853,,SINGLE FAMILY,"$400,000",12250 Wallace Ridge Dr,Charlotte,NC,28269,4,3,1943,0.257 acres,2362
+https://www.zillow.com/homedetails/906-Mount-Holly-Huntersville-Rd-Charlotte-NC-28214/6150962_zpid/,6150962,,SINGLE FAMILY,"$420,000",906 Mount Holly Huntersville Rd,Charlotte,NC,28214,4,3,2290,0.36 acres,2637
+https://www.zillow.com/homedetails/2411-Calais-Pl-Charlotte-NC-28211/6267366_zpid/,6267366,,SINGLE FAMILY,"$1,495,000",2411 Calais Pl,Charlotte,NC,28211,3,4,3723,0.47 acres,4508
+https://www.zillow.com/homedetails/10620-S-Ford-Rd-Charlotte-NC-28214/6149271_zpid/,6149271,,SINGLE FAMILY,"$489,000",10620 S Ford Rd,Charlotte,NC,28214,4,3,2074,0.7 acres,2244
+https://www.zillow.com/homedetails/6323-Woodleigh-Oaks-Dr-Charlotte-NC-28226/6299813_zpid/,6299813,,SINGLE FAMILY,"$1,250,000",6323 Woodleigh Oaks Dr,Charlotte,NC,28226,5,4,4116,0.321 acres,4421
+https://www.zillow.com/homedetails/4231-Mackinnon-Dr-Charlotte-NC-28214/338425679_zpid/,338425679,,SINGLE FAMILY,"$375,000",4231 Mackinnon Dr,Charlotte,NC,28214,3,2,1335,0.144 acres,1952
+https://www.zillow.com/homedetails/2509-Kilborne-Dr-APT-J-Charlotte-NC-28205/6202251_zpid/,6202251,,CONDO,"$199,999",2509 Kilborne Dr APT J,Charlotte,NC,28205,2,2,958, ,1564
+https://www.zillow.com/homedetails/6807-Woodfield-Dr-Charlotte-NC-28215/6197784_zpid/,6197784,,SINGLE FAMILY,"$325,000",6807 Woodfield Dr,Charlotte,NC,28215,3,3,1877,0.27 acres,2113
+https://www.zillow.com/homedetails/2437-Remount-Rd-Charlotte-NC-28208/6177955_zpid/,6177955,,SINGLE FAMILY,"$355,000",2437 Remount Rd,Charlotte,NC,28208,2,2,983,0.34 acres,2141
+https://www.zillow.com/homedetails/615-Welker-St-Charlotte-NC-28204/6222968_zpid/,6222968,,SINGLE FAMILY,"$1,150,000",615 Welker St,Charlotte,NC,28204,5,4,3577,0.11 acres,6988
+https://www.zillow.com/homedetails/16525-Tulloch-Rd-Charlotte-NC-28278/118202548_zpid/,118202548,,SINGLE FAMILY,"$1,250,000",16525 Tulloch Rd,Charlotte,NC,28278,2,3,2768,0.57 acres,
+https://www.zillow.com/homedetails/10428-Landon-St-Charlotte-NC-28215/5653677_zpid/,5653677,,SINGLE FAMILY,"$275,000",10428 Landon St,Charlotte,NC,28215,3,2,1499,0.29 acres,1857
+https://www.zillow.com/homedetails/3409-Pondview-Ln-Charlotte-NC-28210/6293709_zpid/,6293709,,SINGLE FAMILY,"$725,000",3409 Pondview Ln,Charlotte,NC,28210,4,3,3191,0.32 acres,3247
+https://www.zillow.com/homedetails/3107-Falling-Rock-Ct-Charlotte-NC-28213/65037145_zpid/,65037145,,TOWNHOUSE,"$300,000",3107 Falling Rock Ct,Charlotte,NC,28213,4,4,1935,0.0339 acres,
+https://www.zillow.com/homedetails/1134-Riverside-Dr-Charlotte-NC-28214/6149542_zpid/,6149542,,SINGLE FAMILY,"$315,000",1134 Riverside Dr,Charlotte,NC,28214,3,2,1874,0.35 acres,2007
+https://www.zillow.com/homedetails/2234-Hamilton-Mill-Rd-Charlotte-NC-28270/6300235_zpid/,6300235,,SINGLE FAMILY,"$692,500",2234 Hamilton Mill Rd,Charlotte,NC,28270,4,2,2229,0.55 acres,2770
+https://www.zillow.com/homedetails/5742-Murrayhill-Rd-Charlotte-NC-28210/6257731_zpid/,6257731,,SINGLE FAMILY,"$675,000",5742 Murrayhill Rd,Charlotte,NC,28210,3,2,1986,0.31 acres,2672
+https://www.zillow.com/homedetails/18028-Broken-Woods-Rd-Charlotte-NC-28278/6306918_zpid/,6306918,,SINGLE FAMILY,"$1,295,000",18028 Broken Woods Rd,Charlotte,NC,28278,4,4,2845,0.66 acres,3330
+https://www.zillow.com/homedetails/4635-Thornwood-Rd-Charlotte-NC-28213/6190596_zpid/,6190596,,SINGLE FAMILY,"$334,900",4635 Thornwood Rd,Charlotte,NC,28213,4,3,1936,0.29 acres,2165
+https://www.zillow.com/homedetails/8516-Denbur-Dr-Charlotte-NC-28215/2059550924_zpid/,2059550924,,SINGLE FAMILY,"$598,000",8516 Denbur Dr,Charlotte,NC,28215,4,4,2562,0.65 acres,2654
+https://www.zillow.com/homedetails/7101-Signer-Rd-Charlotte-NC-28278/6282566_zpid/,6282566,,SINGLE FAMILY,"$579,000",7101 Signer Rd,Charlotte,NC,28278,3,2,1314,0.84 acres,2024
+https://www.zillow.com/homedetails/12029-Five-Cedars-Rd-Charlotte-NC-28226/6310271_zpid/,6310271,,SINGLE FAMILY,"$599,999",12029 Five Cedars Rd,Charlotte,NC,28226,3,3,1542,0.26 acres,2151
+https://www.zillow.com/homedetails/2525-Lumina-Ave-Charlotte-NC-28208/6178485_zpid/,6178485,,SINGLE FAMILY,"$749,500",2525 Lumina Ave,Charlotte,NC,28208,4,2,2300,0.269 acres,1900
+https://www.zillow.com/homedetails/12529-Old-Timber-Rd-Charlotte-NC-28269/6142045_zpid/,6142045,,SINGLE FAMILY,"$400,000",12529 Old Timber Rd,Charlotte,NC,28269,4,3,2017,0.29 acres,2273
+https://www.zillow.com/homedetails/6602-Fawn-View-Dr-Charlotte-NC-28216/69222983_zpid/,69222983,,SINGLE FAMILY,"$435,000",6602 Fawn View Dr,Charlotte,NC,28216,5,3,3495,0.219 acres,2824
+https://www.zillow.com/homedetails/14739-Cane-Field-Dr-Charlotte-NC-28273/6308827_zpid/,6308827,,SINGLE FAMILY,"$399,900",14739 Cane Field Dr,Charlotte,NC,28273,3,3,1828,0.23 acres,2262
+https://www.zillow.com/homedetails/1101-Plaza-Walk-Dr-Charlotte-NC-28215/339867056_zpid/,339867056,,TOWNHOUSE,"$299,500",1101 Plaza Walk Dr,Charlotte,NC,28215,3,3,1336, ,1907
+https://www.zillow.com/homedetails/1500-Pecan-Ave-Charlotte-NC-28205/6187725_zpid/,6187725,,SINGLE FAMILY,"$850,000",1500 Pecan Ave,Charlotte,NC,28205,3,3,2098,0.15 acres,4747
+https://www.zillow.com/homedetails/10700-Chestnut-Hill-Dr-Matthews-NC-28105/6330098_zpid/,6330098,,SINGLE FAMILY,"$975,000",10700 Chestnut Hill Dr,Matthews,NC,28105,4,3,2786,2 acres,3095
+https://www.zillow.com/homedetails/703-Sainte-Rose-Ln-Charlotte-NC-28226/69572616_zpid/,69572616,,SINGLE FAMILY,"$1,350,000",703 Sainte Rose Ln,Charlotte,NC,28226,4,4,4373,0.21 acres,3892
+https://www.zillow.com/homedetails/1224-E-Woodlawn-Rd-Charlotte-NC-28209/6257083_zpid/,6257083,,SINGLE FAMILY,"$574,900",1224 E Woodlawn Rd,Charlotte,NC,28209,3,3,2343,0.3 acres,4186
+https://www.zillow.com/homedetails/10527-Breamore-Dr-Charlotte-NC-28270/6330504_zpid/,6330504,,SINGLE FAMILY,"$825,000",10527 Breamore Dr,Charlotte,NC,28270,4,3,2890,0.36 acres,3262
+https://www.zillow.com/homedetails/3637-Glenville-Ave-Charlotte-NC-28215/6198820_zpid/,6198820,,SINGLE FAMILY,"$288,800",3637 Glenville Ave,Charlotte,NC,28215,3,2,1036,0.29 acres,1755
+https://www.zillow.com/homedetails/2119-Archdale-Dr-Charlotte-NC-28210/6259403_zpid/,6259403,,SINGLE FAMILY,"$640,000",2119 Archdale Dr,Charlotte,NC,28210,4,2,1919,0.23 acres,2641
+https://www.zillow.com/homedetails/8814-Beaver-Creek-Dr-Charlotte-NC-28269/65055494_zpid/,65055494,,SINGLE FAMILY,"$589,900",8814 Beaver Creek Dr,Charlotte,NC,28269,5,3,3147,0.35 acres,2712
+https://www.zillow.com/homedetails/4032-Cambridge-Hill-Ln-Charlotte-NC-28270/51534230_zpid/,51534230,,SINGLE FAMILY,"$850,000",4032 Cambridge Hill Ln,Charlotte,NC,28270,5,4,3083,0.24 acres,3337
+https://www.zillow.com/homedetails/1013-Park-West-Dr-5-Charlotte-NC-28209/2082333484_zpid/,2082333484,,CONDO,"$575,000",1013 Park West Dr #5,Charlotte,NC,28209,3,3,1353, ,2567
+https://www.zillow.com/homedetails/1009-Leigh-Ave-Charlotte-NC-28205/6188464_zpid/,6188464,,SINGLE FAMILY,"$925,000",1009 Leigh Ave,Charlotte,NC,28205,3,3,2485,0.27 acres,4274
+https://www.zillow.com/homedetails/7009-Rockledge-Dr-Charlotte-NC-28210/6261200_zpid/,6261200,,SINGLE FAMILY,"$525,000",7009 Rockledge Dr,Charlotte,NC,28210,4,3,1975,0.43 acres,2595
+https://www.zillow.com/homedetails/10805-Winterbourne-Ct-Charlotte-NC-28277/6319306_zpid/,6319306,,TOWNHOUSE,"$382,000",10805 Winterbourne Ct,Charlotte,NC,28277,4,4,2416,1 acres,3137
+https://www.zillow.com/homedetails/8513-Garden-View-Dr-Charlotte-NC-28277/167055820_zpid/,167055820,,SINGLE FAMILY,"$699,900",8513 Garden View Dr,Charlotte,NC,28277,4,3,2641,0.11 acres,2999
+https://www.zillow.com/homedetails/6708-W-Sugar-Creek-Rd-Charlotte-NC-28269/453458978_zpid/,453458978,,MULTI FAMILY,"$755,980",6708 W Sugar Creek Rd,Charlotte,NC,28269,6,6,3938,0.6 acres,
+https://www.zillow.com/homedetails/5914-Mount-Holly-Huntersville-Rd-Charlotte-NC-28216/51530806_zpid/,51530806,,SINGLE FAMILY,"$339,500",5914 Mount Holly Huntersville Rd,Charlotte,NC,28216,2,2,1075,1.29 acres,1785
+https://www.zillow.com/homedetails/3318-Providence-Hills-Dr-Matthews-NC-28105/6330654_zpid/,6330654,,SINGLE FAMILY,"$798,000",3318 Providence Hills Dr,Matthews,NC,28105,4,4,3461,0.52 acres,
+https://www.zillow.com/homedetails/842-E-Woodlawn-Rd-Charlotte-NC-28209/6257030_zpid/,6257030,,SINGLE FAMILY,"$594,000",842 E Woodlawn Rd,Charlotte,NC,28209,3,2,1763,0.26 acres,3369
+https://www.zillow.com/homedetails/526-Campus-St-Charlotte-NC-28216/6179023_zpid/,6179023,,MULTI FAMILY,"$400,000",526 Campus St,Charlotte,NC,28216,6,3,1869,0.18 acres,2407
+https://www.zillow.com/homedetails/5125-Belicourt-Dr-Charlotte-NC-28277/6328589_zpid/,6328589,,SINGLE FAMILY,"$800,000",5125 Belicourt Dr,Charlotte,NC,28277,4,5,3540,0.49 acres,4707
+https://www.zillow.com/homedetails/9913-Hazelview-Dr-Charlotte-NC-28277/65030227_zpid/,65030227,,SINGLE FAMILY,"$985,050",9913 Hazelview Dr,Charlotte,NC,28277,5,5,4736,0.3 acres,4670
+https://www.zillow.com/homedetails/7215-Connan-Ln-Charlotte-NC-28226/6297059_zpid/,6297059,,SINGLE FAMILY,"$600,000",7215 Connan Ln,Charlotte,NC,28226,4,3,2587,0.5 acres,2667
+https://www.zillow.com/homedetails/201-S-Hoskins-Rd-APT-313-Charlotte-NC-28208/69571658_zpid/,69571658,,CONDO,"$175,000",201 S Hoskins Rd APT 313,Charlotte,NC,28208,2,1,938, ,1629
+https://www.zillow.com/homedetails/5329-Valley-Forge-Rd-Charlotte-NC-28210/6258356_zpid/,6258356,,SINGLE FAMILY,"$605,000",5329 Valley Forge Rd,Charlotte,NC,28210,3,2,1501,0.25 acres,2607
+https://www.zillow.com/homedetails/1517-E-Barden-Rd-Charlotte-NC-28226/6273064_zpid/,6273064,,SINGLE FAMILY,"$625,000",1517 E Barden Rd,Charlotte,NC,28226,4,3,2151,0.37 acres,2788
+https://www.zillow.com/homedetails/5633-Mallard-Dr-S-Charlotte-NC-28227/448504918_zpid/,448504918,,SINGLE FAMILY,"$460,000",5633 Mallard Dr S,Charlotte,NC,28227,5,3,3048,0.46 acres,
+https://www.zillow.com/homedetails/1801-Wilmore-Dr-Charlotte-NC-28203/6220031_zpid/,6220031,,SINGLE FAMILY,"$739,000",1801 Wilmore Dr,Charlotte,NC,28203,3,2,1664,0.19 acres,3713
+https://www.zillow.com/homedetails/3661-Annlin-Ave-Charlotte-NC-28209/6241827_zpid/,6241827,,SINGLE FAMILY,"$784,995",3661 Annlin Ave,Charlotte,NC,28209,4,3,1948,0.37 acres,3517
+https://www.zillow.com/homedetails/3133-Amay-James-Ave-Charlotte-NC-28208/6239559_zpid/,6239559,,SINGLE FAMILY,"$289,000",3133 Amay James Ave,Charlotte,NC,28208,3,2,1087,0.16 acres,1808
+https://www.zillow.com/homedetails/6401-Montpelier-Rd-Charlotte-NC-28210/6259668_zpid/,6259668,,SINGLE FAMILY,"$465,000",6401 Montpelier Rd,Charlotte,NC,28210,3,2,1356,0.26 acres,2299
+https://www.zillow.com/homedetails/11008-Round-Rock-Rd-Charlotte-NC-28277/80445781_zpid/,80445781,,SINGLE FAMILY,"$764,900",11008 Round Rock Rd,Charlotte,NC,28277,3,3,2946,0.17 acres,3530
+https://www.zillow.com/homedetails/2128-Senior-Dr-Charlotte-NC-28216/6180767_zpid/,6180767,,SINGLE FAMILY,"$350,000",2128 Senior Dr,Charlotte,NC,28216,3,3,1867,0.49 acres,2939
+https://www.zillow.com/homedetails/6414-Goldenblush-Cres-Charlotte-NC-28269/51528776_zpid/,51528776,,SINGLE FAMILY,"$399,900",6414 Goldenblush Cres,Charlotte,NC,28269,4,2,1939,0.24 acres,2126
+https://www.zillow.com/homedetails/363-Doughton-Ln-153-Charlotte-NC-28217/2094472117_zpid/,2094472117,,TOWNHOUSE,"$275,000",363 Doughton Ln #153,Charlotte,NC,28217,3,3,1524,0.037 acres,2012
+https://www.zillow.com/homedetails/2917-Rustic-Ln-Charlotte-NC-28210/299901523_zpid/,299901523,,SINGLE FAMILY,"$945,000",2917 Rustic Ln,Charlotte,NC,28210,4,3,3491,0.63 acres,4364
+https://www.zillow.com/homedetails/12711-Duncourtney-Ln-Charlotte-NC-28277/6328567_zpid/,6328567,,SINGLE FAMILY,"$895,000",12711 Duncourtney Ln,Charlotte,NC,28277,5,3,2902,0.79 acres,3599
+https://www.zillow.com/homedetails/5955-Mountain-Point-Ln-Charlotte-NC-28216/65004139_zpid/,65004139,,SINGLE FAMILY,"$1,199,000",5955 Mountain Point Ln,Charlotte,NC,28216,4,4,4016,2.771 acres,4526
+https://www.zillow.com/homedetails/539-Marsh-Rd-Charlotte-NC-28209/299900760_zpid/,299900760,,SINGLE FAMILY,"$775,000",539 Marsh Rd,Charlotte,NC,28209,2,2,1715,0.446 acres,2841
+https://www.zillow.com/homedetails/1509-Harrill-St-Charlotte-NC-28205/6187309_zpid/,6187309,,SINGLE FAMILY,"$455,000",1509 Harrill St,Charlotte,NC,28205,3,2,1039,0.16 acres,1867
+https://www.zillow.com/homedetails/1600-Onslow-Dr-Charlotte-NC-28205/6195313_zpid/,6195313,,SINGLE FAMILY,"$725,000",1600 Onslow Dr,Charlotte,NC,28205,3,2,1309,0.125 acres,3070
+https://www.zillow.com/homedetails/8005-Stevie-Oaks-Ln-Charlotte-NC-28215/239885275_zpid/,239885275,,SINGLE FAMILY,"$300,000",8005 Stevie Oaks Ln,Charlotte,NC,28215,4,3,1693,0.06 acres,2025
+https://www.zillow.com/homedetails/6412-Old-Meadow-Rd-Charlotte-NC-28227/6212971_zpid/,6212971,,SINGLE FAMILY,"$323,000",6412 Old Meadow Rd,Charlotte,NC,28227,3,2,1227,0.29 acres,1898
+https://www.zillow.com/homedetails/6619-Bittinger-Ct-Charlotte-NC-28216/65036128_zpid/,65036128,,SINGLE FAMILY,"$370,000",6619 Bittinger Ct,Charlotte,NC,28216,4,3,2731,0.143 acres,2266
+https://www.zillow.com/homedetails/11100-Scrimshaw-Ln-Charlotte-NC-28215/6216994_zpid/,6216994,,SINGLE FAMILY,"$310,000",11100 Scrimshaw Ln,Charlotte,NC,28215,3,2,1401,0.24 acres,1970
+https://www.zillow.com/homedetails/8000-Greencastle-Dr-Charlotte-NC-28210/6266687_zpid/,6266687,,SINGLE FAMILY,"$945,000",8000 Greencastle Dr,Charlotte,NC,28210,4,4,3515,0.5 acres,4171
+https://www.zillow.com/homedetails/4205-Springhaven-Dr-Charlotte-NC-28269/63812718_zpid/,63812718,,SINGLE FAMILY,"$410,000",4205 Springhaven Dr,Charlotte,NC,28269,5,3,2718,0.21 acres,2518
+https://www.zillow.com/homedetails/1144-Thayer-Glen-Ct-Charlotte-NC-28213/450006839_zpid/,450006839,,SINGLE FAMILY,"$390,425",1144 Thayer Glen Ct,Charlotte,NC,28213,4,3,1929,0.156 acres,
+https://www.zillow.com/homedetails/1830-Wickford-Pl-Charlotte-NC-28203/299910659_zpid/,299910659,,SINGLE FAMILY,"$850,000",1830 Wickford Pl,Charlotte,NC,28203,3,3,1950,0.07 acres,4102
+https://www.zillow.com/homedetails/326-Orchard-Trace-Ln-APT-3-Charlotte-NC-28213/6191903_zpid/,6191903,,CONDO,"$118,000",326 Orchard Trace Ln APT 3,Charlotte,NC,28213,1,1,598, ,984
+https://www.zillow.com/homedetails/1019-Wesley-Terrace-Ave-Charlotte-NC-28208/339864876_zpid/,339864876,,TOWNHOUSE,"$625,000",1019 Wesley Terrace Ave,Charlotte,NC,28208,3,4,1720, ,2581
+https://www.zillow.com/homedetails/215-Wyanoke-Ave-Charlotte-NC-28205/6224164_zpid/,6224164,,SINGLE FAMILY,"$1,099,999",215 Wyanoke Ave,Charlotte,NC,28205,4,3,2815,0.28 acres,4043
+https://www.zillow.com/homedetails/14836-Brotherly-Ln-Charlotte-NC-28278/98973187_zpid/,98973187,,SINGLE FAMILY,"$490,000",14836 Brotherly Ln,Charlotte,NC,28278,4,3,2551,0.2 acres,2670
+https://www.zillow.com/homedetails/1928-Providence-Rd-Charlotte-NC-28211/6267028_zpid/,6267028,,SINGLE FAMILY,"$1,445,000",1928 Providence Rd,Charlotte,NC,28211,5,4,3677,0.7 acres,5517
+https://www.zillow.com/homedetails/15494-Donnington-Dr-Charlotte-NC-28277/6313125_zpid/,6313125,,SINGLE FAMILY,"$849,000",15494 Donnington Dr,Charlotte,NC,28277,6,4,3650,0.29 acres,3733
+https://www.zillow.com/homedetails/10418-Pullengreen-Dr-Charlotte-NC-28277/6319667_zpid/,6319667,,SINGLE FAMILY,"$675,000",10418 Pullengreen Dr,Charlotte,NC,28277,4,3,2115,0.198 acres,2835
+https://www.zillow.com/homedetails/6908-Evanton-Loch-Rd-Charlotte-NC-28278/69573038_zpid/,69573038,,SINGLE FAMILY,"$527,500",6908 Evanton Loch Rd,Charlotte,NC,28278,5,3,3688,0.19 acres,2785
+https://www.zillow.com/homedetails/5948-Deveron-Dr-Charlotte-NC-28211/249019967_zpid/,249019967,,MULTI FAMILY,"$675,000",5948 Deveron Dr,Charlotte,NC,28211,6,6,2734,0.5 acres,
+https://www.zillow.com/homedetails/1701-Dilworth-Rd-Charlotte-NC-28203/6222529_zpid/,6222529,,SINGLE FAMILY,"$765,000",1701 Dilworth Rd,Charlotte,NC,28203,3,1,1510,0.2 acres,3360
+https://www.zillow.com/homedetails/6612-Saunton-Ct-Charlotte-NC-28277/51534509_zpid/,51534509,,SINGLE FAMILY,"$1,150,000",6612 Saunton Ct,Charlotte,NC,28277,4,4,3664,0.33 acres,4310
+https://www.zillow.com/homedetails/15964-Cumnor-Ln-Charlotte-NC-28277/6313101_zpid/,6313101,,SINGLE FAMILY,"$799,999",15964 Cumnor Ln,Charlotte,NC,28277,5,3,3319,0.32 acres,3244
+https://www.zillow.com/homedetails/402-W-8th-St-Charlotte-NC-28202/6185054_zpid/,6185054,,TOWNHOUSE,"$695,000",402 W 8th St,Charlotte,NC,28202,3,3,2244,0.05 acres,3226
+https://www.zillow.com/homedetails/5630-Cambridge-Bay-Dr-Charlotte-NC-28269/51529881_zpid/,51529881,,SINGLE FAMILY,"$450,000",5630 Cambridge Bay Dr,Charlotte,NC,28269,4,3,2413,0.305 acres,2463
+https://www.zillow.com/homedetails/7645-Buckland-Rd-Charlotte-NC-28278/6218667_zpid/,6218667,,SINGLE FAMILY,"$800,000",7645 Buckland Rd,Charlotte,NC,28278,2,2,1512,0.496 acres,2263
+https://www.zillow.com/homedetails/7321-Mapleridge-Dr-Charlotte-NC-28210/6261134_zpid/,6261134,,SINGLE FAMILY,"$440,000",7321 Mapleridge Dr,Charlotte,NC,28210,3,3,1527,0.17 acres,2401
+https://www.zillow.com/homedetails/115-Boyce-Rd-Charlotte-NC-28211/89695966_zpid/,89695966,,SINGLE FAMILY,"$850,000",115 Boyce Rd,Charlotte,NC,28211,3,3,2964,0.1 acres,4396
+https://www.zillow.com/homedetails/9533-Silverdale-Ln-Charlotte-NC-28269/247645960_zpid/,247645960,,SINGLE FAMILY,"$479,416",9533 Silverdale Ln,Charlotte,NC,28269,4,3,2693,0.29 acres,2830
+https://www.zillow.com/homedetails/5828-Eleanor-Rigby-Rd-Charlotte-NC-28278/167055595_zpid/,167055595,,SINGLE FAMILY,"$475,000",5828 Eleanor Rigby Rd,Charlotte,NC,28278,4,2,2222,0.19 acres,2448
+https://www.zillow.com/homedetails/4442-Coventry-Row-Ct-Charlotte-NC-28270/64939818_zpid/,64939818,,TOWNHOUSE,"$479,000",4442 Coventry Row Ct,Charlotte,NC,28270,3,3,1828,0.043 acres,2496
+https://www.zillow.com/homedetails/3041-Shallowood-Ln-Charlotte-NC-28277/6317748_zpid/,6317748,,SINGLE FAMILY,"$875,000",3041 Shallowood Ln,Charlotte,NC,28277,4,3,3291,0.71 acres,3738
+https://www.zillow.com/homedetails/8217-Saddlehorse-Ln-Charlotte-NC-28215/6214538_zpid/,6214538,,SINGLE FAMILY,"$449,000",8217 Saddlehorse Ln,Charlotte,NC,28215,3,2,1666,1.03 acres,2022
+https://www.zillow.com/homedetails/3730-Monique-Ln-Charlotte-NC-28210/6266648_zpid/,6266648,,SINGLE FAMILY,"$890,000",3730 Monique Ln,Charlotte,NC,28210,4,3,3260,0.41 acres,4100
+https://www.zillow.com/homedetails/5205-Tedorill-Ln-Charlotte-NC-28226/6298519_zpid/,6298519,,SINGLE FAMILY,"$675,000",5205 Tedorill Ln,Charlotte,NC,28226,3,3,2843,0.199 acres,3643
+https://www.zillow.com/homedetails/505-E-6th-St-UNIT-804-Charlotte-NC-28202/69571932_zpid/,69571932,,CONDO,"$499,000",505 E 6th St UNIT 804,Charlotte,NC,28202,2,2,1640, ,3618
+https://www.zillow.com/homedetails/7169-Pleasant-Grove-Rd-Charlotte-NC-28216/6152840_zpid/,6152840,,SINGLE FAMILY,"$775,000",7169 Pleasant Grove Rd,Charlotte,NC,28216,3,3,2735,1.54 acres,2718
+https://www.zillow.com/homedetails/10329-Hollybrook-Dr-Charlotte-NC-28277/6319582_zpid/,6319582,,SINGLE FAMILY,"$875,000",10329 Hollybrook Dr,Charlotte,NC,28277,4,3,2808,0.34 acres,3523
+https://www.zillow.com/homedetails/2716-Rea-Rd-Charlotte-NC-28226/299901544_zpid/,299901544,,SINGLE FAMILY,"$499,000",2716 Rea Rd,Charlotte,NC,28226,3,3,1390,0.7 acres,2712
+https://www.zillow.com/homedetails/5726-Cactus-Valley-Rd-UNIT-238-Charlotte-NC-28277/2074711769_zpid/,2074711769,,SINGLE FAMILY,"$699,000",5726 Cactus Valley Rd UNIT 238,Charlotte,NC,28277,5,3,3174,0.164 acres,3224
+https://www.zillow.com/homedetails/4716-Heatherton-Pl-Charlotte-NC-28270/6330414_zpid/,6330414,,SINGLE FAMILY,"$725,000",4716 Heatherton Pl,Charlotte,NC,28270,4,3,3342,0.67 acres,3210
+https://www.zillow.com/homedetails/5024-Ardenwoods-Dr-Charlotte-NC-28215/6206251_zpid/,6206251,,SINGLE FAMILY,"$595,000",5024 Ardenwoods Dr,Charlotte,NC,28215,4,3,2849,1.37 acres,2775
+https://www.zillow.com/homedetails/3316-McKee-Rd-Charlotte-NC-28270/6323034_zpid/,6323034,,SINGLE FAMILY,"$475,000",3316 McKee Rd,Charlotte,NC,28270,3,2,2289,0.841 acres,2647
+https://www.zillow.com/homedetails/2734-Dunlavin-Way-Charlotte-NC-28205/6194317_zpid/,6194317,,SINGLE FAMILY,"$565,000",2734 Dunlavin Way,Charlotte,NC,28205,3,2,1838,0.4 acres,2581
+https://www.zillow.com/homedetails/10836-Fox-Hedge-Rd-Matthews-NC-28105/80461796_zpid/,80461796,,SINGLE FAMILY,"$942,400",10836 Fox Hedge Rd,Matthews,NC,28105,4,4,4316,0.58 acres,4350
+https://www.zillow.com/homedetails/4020-Barclay-Downs-Dr-Charlotte-NC-28209/65000750_zpid/,65000750,,CONDO,"$995,000",4020 Barclay Downs Dr,Charlotte,NC,28209,3,3,2396, ,3918
+https://www.zillow.com/homedetails/2146-E-5th-St-Charlotte-NC-28204/6223970_zpid/,6223970,,MULTI FAMILY,"$1,125,000",2146 E 5th St,Charlotte,NC,28204,4,2,3239,0.2 acres,2457
+https://www.zillow.com/homedetails/3009-Shenandoah-Ave-Charlotte-NC-28205/6225254_zpid/,6225254,,SINGLE FAMILY,"$519,000",3009 Shenandoah Ave,Charlotte,NC,28205,2,2,1060,0.608 acres,2247
+https://www.zillow.com/homedetails/5229-Tarrywood-Ln-Charlotte-NC-28205/80466612_zpid/,80466612,,SINGLE FAMILY,"$450,000",5229 Tarrywood Ln,Charlotte,NC,28205,5,3,1970,0.24 acres,
+https://www.zillow.com/homedetails/3804-Bellingham-Ln-Charlotte-NC-28215/6205762_zpid/,6205762,,SINGLE FAMILY,"$609,500",3804 Bellingham Ln,Charlotte,NC,28215,5,3,3453,0.59 acres,3168
+https://www.zillow.com/homedetails/8017-Prince-George-Rd-Charlotte-NC-28210/6291798_zpid/,6291798,,SINGLE FAMILY,"$799,000",8017 Prince George Rd,Charlotte,NC,28210,4,3,2482,0.36 acres,3772
+https://www.zillow.com/homedetails/10607-Newberry-Park-Ln-Charlotte-NC-28277/6315182_zpid/,6315182,,SINGLE FAMILY,"$700,000",10607 Newberry Park Ln,Charlotte,NC,28277,4,3,2359,0.11 acres,2989
+https://www.zillow.com/homedetails/435-S-Tryon-St-Charlotte-NC-28202/2071168306_zpid/,2071168306,,CONDO,"$1,500,000",435 S Tryon St,Charlotte,NC,28202,3,3,2489, ,5366
+https://www.zillow.com/homedetails/1727-Seifert-Cir-Charlotte-NC-28205/442634377_zpid/,442634377,,SINGLE FAMILY,"$1,350,000",1727 Seifert Cir,Charlotte,NC,28205,4,4,3378,0.3 acres,
+https://www.zillow.com/homedetails/1940-Tyvola-Rd-Charlotte-NC-28210/6258317_zpid/,6258317,,SINGLE FAMILY,"$465,000",1940 Tyvola Rd,Charlotte,NC,28210,3,2,1350,0.25 acres,1924
+https://www.zillow.com/homedetails/715-Gentry-Pl-Charlotte-NC-28210/6257517_zpid/,6257517,,SINGLE FAMILY,"$749,000",715 Gentry Pl,Charlotte,NC,28210,4,4,2756,0.3 acres,4507
+https://www.zillow.com/homedetails/11052-Preservation-Park-Dr-Charlotte-NC-28214/65055107_zpid/,65055107,,SINGLE FAMILY,"$810,000",11052 Preservation Park Dr,Charlotte,NC,28214,4,4,3922,0.519 acres,3306
+https://www.zillow.com/homedetails/12029-Brooklyn-Ave-Charlotte-NC-28204/299910411_zpid/,299910411,,TOWNHOUSE,"$600,000",12029 Brooklyn Ave,Charlotte,NC,28204,3,4,2272,0.02 acres,3091
+https://www.zillow.com/homedetails/1830-Laveta-Rd-Charlotte-NC-28269/83968701_zpid/,83968701,,SINGLE FAMILY,"$749,900",1830 Laveta Rd,Charlotte,NC,28269,5,5,4469,0.37 acres,4026
+https://www.zillow.com/homedetails/2314-Wolfe-St-Charlotte-NC-28205/6195608_zpid/,6195608,,SINGLE FAMILY,"$699,900",2314 Wolfe St,Charlotte,NC,28205,3,2,1425,0.1 acres,2535
+https://www.zillow.com/homedetails/6311-Red-Maple-Dr-Charlotte-NC-28277/6316080_zpid/,6316080,,SINGLE FAMILY,"$799,000",6311 Red Maple Dr,Charlotte,NC,28277,5,5,4712,0.27 acres,4577
+https://www.zillow.com/homedetails/2927-Clemson-Ave-Charlotte-NC-28205/6188950_zpid/,6188950,,SINGLE FAMILY,"$745,000",2927 Clemson Ave,Charlotte,NC,28205,3,3,2237,0.19 acres,
+https://www.zillow.com/homedetails/9527-Scotland-Hall-Ct-Charlotte-NC-28277/65001396_zpid/,65001396,,SINGLE FAMILY,"$536,000",9527 Scotland Hall Ct,Charlotte,NC,28277,4,3,2339,0.172 acres,
+https://www.zillow.com/homedetails/300-E-Park-Ave-Charlotte-NC-28203/448518583_zpid/,448518583,,CONDO,"$415,000",300 E Park Ave,Charlotte,NC,28203,2,2,997, ,
+https://www.zillow.com/homedetails/2100-Chesterfield-Ave-Charlotte-NC-28205/6223264_zpid/,6223264,,SINGLE FAMILY,"$1,499,999",2100 Chesterfield Ave,Charlotte,NC,28205,4,5,3634,0.28 acres,5930
+https://www.zillow.com/homedetails/10223-Kelso-Ct-Charlotte-NC-28278/69572912_zpid/,69572912,,SINGLE FAMILY,"$522,000",10223 Kelso Ct,Charlotte,NC,28278,5,4,2822,0.228 acres,2881
+https://www.zillow.com/homedetails/1626-S-Wendover-Rd-Charlotte-NC-28211/6267116_zpid/,6267116,,SINGLE FAMILY,"$1,100,000",1626 S Wendover Rd,Charlotte,NC,28211,4,3,2952,0.413 acres,4124
+https://www.zillow.com/homedetails/934-Herrin-Ave-Charlotte-NC-28205/6192375_zpid/,6192375,,SINGLE FAMILY,"$560,000",934 Herrin Ave,Charlotte,NC,28205,2,2,1138,0.25 acres,1670
+https://www.zillow.com/homedetails/6620-Amos-Smith-Rd-Charlotte-NC-28214/6217779_zpid/,6217779,,SINGLE FAMILY,"$1,299,900",6620 Amos Smith Rd,Charlotte,NC,28214,4,4,3662,2.21 acres,3770
+https://www.zillow.com/homedetails/5027-Milford-Rd-Charlotte-NC-28210/6257154_zpid/,6257154,,SINGLE FAMILY,"$750,000",5027 Milford Rd,Charlotte,NC,28210,3,2,1913,0.27 acres,2698
+https://www.zillow.com/homedetails/2324-Amesbury-Ave-Charlotte-NC-28205/6201593_zpid/,6201593,,SINGLE FAMILY,"$435,000",2324 Amesbury Ave,Charlotte,NC,28205,3,2,1348,0.22 acres,2120
+https://www.zillow.com/homedetails/15708-Eagleview-Dr-Charlotte-NC-28278/6283102_zpid/,6283102,,SINGLE FAMILY,"$899,900",15708 Eagleview Dr,Charlotte,NC,28278,4,4,4000,0.38 acres,3856
+https://www.zillow.com/homedetails/3321-Treble-Ct-Charlotte-NC-28262/336918149_zpid/,336918149,,TOWNHOUSE,"$499,000",3321 Treble Ct,Charlotte,NC,28262,4,4,2542,0.054 acres,3095
+https://www.zillow.com/homedetails/2217-Goldwood-Dr-Charlotte-NC-28215/339867169_zpid/,339867169,,SINGLE FAMILY,"$405,000",2217 Goldwood Dr,Charlotte,NC,28215,3,2,1677,0.18 acres,2179
+https://www.zillow.com/homedetails/11720-Riverhaven-Dr-Charlotte-NC-28214/6149734_zpid/,6149734,,LOT,"$175,000",11720 Riverhaven Dr,Charlotte,NC,28214,,,,1.49 acres,1763
+https://www.zillow.com/homedetails/3016-Heathcroft-Ct-Charlotte-NC-28269/6140135_zpid/,6140135,,SINGLE FAMILY,"$420,000",3016 Heathcroft Ct,Charlotte,NC,28269,3,3,1693,0.41 acres,2074
+https://www.zillow.com/homedetails/1401-Scotland-Ave-Charlotte-NC-28207/2136803901_zpid/,2136803901,,SINGLE FAMILY,"$1,595,000",1401 Scotland Ave,Charlotte,NC,28207,2,3,2607,0.29 acres,4507
+https://www.zillow.com/homedetails/9954-Mitchell-Glen-Dr-Charlotte-NC-28277/54500149_zpid/,54500149,,SINGLE FAMILY,"$695,000",9954 Mitchell Glen Dr,Charlotte,NC,28277,4,3,2789,0.31 acres,2860
+https://www.zillow.com/homedetails/2203-Whitford-Ln-Charlotte-NC-28210/124028334_zpid/,124028334,,TOWNHOUSE,"$470,000",2203 Whitford Ln,Charlotte,NC,28210,3,3,1960, ,2546
+https://www.zillow.com/homedetails/9131-Bonnie-Briar-Cir-Charlotte-NC-28277/2075518737_zpid/,2075518737,,TOWNHOUSE,"$625,000",9131 Bonnie Briar Cir,Charlotte,NC,28277,3,3,2512,0.06 acres,3742
+https://www.zillow.com/homedetails/11538-Ardrey-Crest-Dr-Charlotte-NC-28277/83971941_zpid/,83971941,,SINGLE FAMILY,"$699,000",11538 Ardrey Crest Dr,Charlotte,NC,28277,4,3,2954,0.12 acres,3239
+https://www.zillow.com/homedetails/1417-The-Plz-Charlotte-NC-28205/6187625_zpid/,6187625,,SINGLE FAMILY,"$995,000",1417 The Plz,Charlotte,NC,28205,3,3,1947,0.15 acres,4481
+https://www.zillow.com/homedetails/516-Northgate-Ave-Charlotte-NC-28209/6242500_zpid/,6242500,,SINGLE FAMILY,"$485,000",516 Northgate Ave,Charlotte,NC,28209,3,2,1135,0.28 acres,2795
+https://www.zillow.com/homedetails/3035-Florida-Ave-Charlotte-NC-28205/6193730_zpid/,6193730,,SINGLE FAMILY,"$495,000",3035 Florida Ave,Charlotte,NC,28205,2,1,1050,0.17 acres,2092
+https://www.zillow.com/homedetails/910-Everett-Pl-Charlotte-NC-28205/6188452_zpid/,6188452,,SINGLE FAMILY,"$1,399,900",910 Everett Pl,Charlotte,NC,28205,4,4,3504,0.17 acres,5340
+https://www.zillow.com/homedetails/8731-Sheltonham-Way-Charlotte-NC-28216/6138889_zpid/,6138889,,SINGLE FAMILY,"$454,000",8731 Sheltonham Way,Charlotte,NC,28216,4,3,2532,0.36 acres,2511
+https://www.zillow.com/homedetails/11144-Limehurst-Pl-Charlotte-NC-28278/338426789_zpid/,338426789,,SINGLE FAMILY,"$800,000",11144 Limehurst Pl,Charlotte,NC,28278,5,4,3911,0.239 acres,3893
+https://www.zillow.com/homedetails/716-N-Alexander-St-Charlotte-NC-28202/65056284_zpid/,65056284,,TOWNHOUSE,"$430,000",716 N Alexander St,Charlotte,NC,28202,3,2,1413,0.154 acres,2540
+https://www.zillow.com/homedetails/984-Park-Slope-Dr-Charlotte-NC-28209/54494846_zpid/,54494846,,TOWNHOUSE,"$589,000",984 Park Slope Dr,Charlotte,NC,28209,3,3,1612, ,3186
+https://www.zillow.com/homedetails/10940-Wild-Dove-Ln-Charlotte-NC-28277/6315927_zpid/,6315927,,SINGLE FAMILY,"$714,000",10940 Wild Dove Ln,Charlotte,NC,28277,5,4,3536,0.3562 acres,
+https://www.zillow.com/homedetails/1921-Kenilworth-Ave-Charlotte-NC-28203/6243532_zpid/,6243532,,SINGLE FAMILY,"$755,000",1921 Kenilworth Ave,Charlotte,NC,28203,3,3,1787,0.14 acres,3621
+https://www.zillow.com/homedetails/1712-Umstead-St-Charlotte-NC-28205/6187573_zpid/,6187573,,SINGLE FAMILY,"$650,000",1712 Umstead St,Charlotte,NC,28205,2,2,1518,0.21 acres,2217
+https://www.zillow.com/homedetails/5805-Copperleaf-Commons-Ct-Charlotte-NC-28277/120870018_zpid/,120870018,,SINGLE FAMILY,"$1,599,000",5805 Copperleaf Commons Ct,Charlotte,NC,28277,5,5,5976,0.31 acres,6015
+https://www.zillow.com/homedetails/14007-Point-Lookout-Rd-Charlotte-NC-28278/6282818_zpid/,6282818,,SINGLE FAMILY,"$1,490,000",14007 Point Lookout Rd,Charlotte,NC,28278,5,6,5135,0.371 acres,4887
+https://www.zillow.com/homedetails/16455-Harbor-View-Rd-Charlotte-NC-28278/6306876_zpid/,6306876,,SINGLE FAMILY,"$1,570,000",16455 Harbor View Rd,Charlotte,NC,28278,5,5,5549,4.283 acres,4930
+https://www.zillow.com/homedetails/10904-Kilkenny-Dr-Charlotte-NC-28105/304709012_zpid/,304709012,,SINGLE FAMILY,"$1,295,000",10904 Kilkenny Dr,Charlotte,NC,28105,6,5,5017,0.26 acres,5172
+https://www.zillow.com/homedetails/3210-Marlborough-Rd-Charlotte-NC-28208/54492500_zpid/,54492500,,CONDO,"$150,000",3210 Marlborough Rd,Charlotte,NC,28208,2,1,672, ,1289
+https://www.zillow.com/homedetails/16515-Governors-Club-Ct-Charlotte-NC-28278/99373709_zpid/,99373709,,SINGLE FAMILY,"$1,095,000",16515 Governors Club Ct,Charlotte,NC,28278,5,4,4646,0.45 acres,4122
+https://www.zillow.com/homedetails/3801-Rea-Rd-Charlotte-NC-28226/6296613_zpid/,6296613,,SINGLE FAMILY,"$615,000",3801 Rea Rd,Charlotte,NC,28226,3,2,1778,0.44 acres,2338
+https://www.zillow.com/homedetails/8109-Hawk-Crest-Ct-Charlotte-NC-28270/6304728_zpid/,6304728,,SINGLE FAMILY,"$800,000",8109 Hawk Crest Ct,Charlotte,NC,28270,4,3,2476,0.15 acres,2644
+https://www.zillow.com/homedetails/1134-Blueberry-Ln-Charlotte-NC-28226/6272655_zpid/,6272655,,SINGLE FAMILY,"$820,000",1134 Blueberry Ln,Charlotte,NC,28226,4,4,2464,0.4 acres,4198
+https://www.zillow.com/homedetails/3524-Rhett-Butler-Pl-Charlotte-NC-28270/6322035_zpid/,6322035,,SINGLE FAMILY,"$829,000",3524 Rhett Butler Pl,Charlotte,NC,28270,5,3,3433,0.331 acres,3379
+https://www.zillow.com/homedetails/11202-Mountain-Pine-Dr-Charlotte-NC-28214/80449484_zpid/,80449484,,SINGLE FAMILY,"$725,000",11202 Mountain Pine Dr,Charlotte,NC,28214,4,3,3091,0.5 acres,2726
+https://www.zillow.com/homedetails/5104-Top-Seed-Ct-Charlotte-NC-28226/6298428_zpid/,6298428,,SINGLE FAMILY,"$650,000",5104 Top Seed Ct,Charlotte,NC,28226,3,3,2667,0.18 acres,3153
+https://www.zillow.com/homedetails/4901-Pine-Ridge-Rd-Charlotte-NC-28226/6272944_zpid/,6272944,,SINGLE FAMILY,"$1,149,900",4901 Pine Ridge Rd,Charlotte,NC,28226,4,3,2777,0.377 acres,3382
+https://www.zillow.com/homedetails/317-E-Tremont-Ave-APT-102-Charlotte-NC-28203/239884313_zpid/,239884313,,CONDO,"$625,000",317 E Tremont Ave APT 102,Charlotte,NC,28203,2,3,1106, ,2795
+https://www.zillow.com/homedetails/15724-Eagleview-Dr-Charlotte-NC-28278/6283100_zpid/,6283100,,SINGLE FAMILY,"$950,000",15724 Eagleview Dr,Charlotte,NC,28278,5,5,4070,0.41 acres,4287
+https://www.zillow.com/homedetails/10928-Knight-Castle-Dr-Charlotte-NC-28277/65012135_zpid/,65012135,,SINGLE FAMILY,"$799,000",10928 Knight Castle Dr,Charlotte,NC,28277,4,3,3032,0.28 acres,3685
+https://www.zillow.com/homedetails/5611-Robinhood-Rd-Charlotte-NC-28211/6271013_zpid/,6271013,,SINGLE FAMILY,"$1,399,000",5611 Robinhood Rd,Charlotte,NC,28211,5,5,3377,0.46 acres,5164
+https://www.zillow.com/homedetails/1751-Merriman-Ave-Charlotte-NC-28203/6220510_zpid/,6220510,,SINGLE FAMILY,"$1,225,000",1751 Merriman Ave,Charlotte,NC,28203,5,5,3231,0.19 acres,5867
+https://www.zillow.com/homedetails/2217-Yadkin-Ave-Charlotte-NC-28205/6188042_zpid/,6188042,,SINGLE FAMILY,"$890,000",2217 Yadkin Ave,Charlotte,NC,28205,4,3,2088,0.19 acres,3712
+https://www.zillow.com/homedetails/2825-Redfield-Dr-Charlotte-NC-28270/6326158_zpid/,6326158,,SINGLE FAMILY,"$600,000",2825 Redfield Dr,Charlotte,NC,28270,4,3,2302,0.23 acres,2704
+https://www.zillow.com/homedetails/805-19th-St-Charlotte-NC-28205/445799954_zpid/,445799954,,SINGLE FAMILY,"$1,339,000",805 19th St,Charlotte,NC,28205,4,4,3664,0.17 acres,
+https://www.zillow.com/homedetails/11209-Flenniken-Ct-Charlotte-NC-28277/299844908_zpid/,299844908,,SINGLE FAMILY,"$1,030,000",11209 Flenniken Ct,Charlotte,NC,28277,5,5,3496,0.18 acres,3913
+https://www.zillow.com/homedetails/10024-Hazelview-Dr-Charlotte-NC-28277/65030311_zpid/,65030311,,SINGLE FAMILY,"$975,000",10024 Hazelview Dr,Charlotte,NC,28277,4,4,3880,0.3 acres,3758
+https://www.zillow.com/homedetails/2021-Sablewood-Dr-Charlotte-NC-28205/6195828_zpid/,6195828,,SINGLE FAMILY,"$769,000",2021 Sablewood Dr,Charlotte,NC,28205,3,3,1776,0.13 acres,2729
+https://www.zillow.com/homedetails/2838-Candleberry-Ct-Charlotte-NC-28210/6293479_zpid/,6293479,,SINGLE FAMILY,"$669,900",2838 Candleberry Ct,Charlotte,NC,28210,4,3,2040,0.265 acres,2905
+https://www.zillow.com/homedetails/6800-Augustine-Way-Charlotte-NC-28270/65057873_zpid/,65057873,,SINGLE FAMILY,"$1,499,000",6800 Augustine Way,Charlotte,NC,28270,5,6,5494,0.45 acres,6055
+https://www.zillow.com/homedetails/1500-Lynway-Dr-Charlotte-NC-28203/6243454_zpid/,6243454,,SINGLE FAMILY,"$1,559,000",1500 Lynway Dr,Charlotte,NC,28203,5,3,2684,0.278 acres,5391
+https://www.zillow.com/homedetails/6510-Honeymeade-Cir-Charlotte-NC-28277/446070180_zpid/,446070180,,SINGLE FAMILY,"$1,099,000",6510 Honeymeade Cir,Charlotte,NC,28277,4,5,3453,7318 sqft,
+https://www.zillow.com/homedetails/622-Mattie-Rose-Ln-Charlotte-NC-28204/333033804_zpid/,333033804,,TOWNHOUSE,"$1,100,000",622 Mattie Rose Ln,Charlotte,NC,28204,4,5,2803,0.04 acres,5758
+https://www.zillow.com/homedetails/12214-Provincetowne-Dr-Charlotte-NC-28277/6329011_zpid/,6329011,,SINGLE FAMILY,"$779,000",12214 Provincetowne Dr,Charlotte,NC,28277,5,3,2981,0.36 acres,3484
+https://www.zillow.com/homedetails/3011-McKee-Rd-Charlotte-NC-28270/6329734_zpid/,6329734,,SINGLE FAMILY,"$920,000",3011 McKee Rd,Charlotte,NC,28270,4,3,3004,1.59 acres,3056
+https://www.zillow.com/homedetails/17333-Saranita-Ln-Charlotte-NC-28278/6306792_zpid/,6306792,,SINGLE FAMILY,"$1,350,000",17333 Saranita Ln,Charlotte,NC,28278,5,6,4697,0.73 acres,4902
+https://www.zillow.com/homedetails/9401-Feldbank-Dr-Charlotte-NC-28216/6153684_zpid/,6153684,,SINGLE FAMILY,"$195,000",9401 Feldbank Dr,Charlotte,NC,28216,3,1,991,0.2 acres,1574
+https://www.zillow.com/homedetails/4226-Raney-Way-Charlotte-NC-28205/6250070_zpid/,6250070,,SINGLE FAMILY,"$625,000",4226 Raney Way,Charlotte,NC,28205,3,2,1529,0.25 acres,2270
+https://www.zillow.com/homedetails/5217-Hillingdon-Rd-Charlotte-NC-28226/6297736_zpid/,6297736,,SINGLE FAMILY,"$1,050,000",5217 Hillingdon Rd,Charlotte,NC,28226,3,3,4050,0.4132231404958678 acres,3868
+https://www.zillow.com/homedetails/5706-Sardis-Hall-Ct-Charlotte-NC-28270/125832011_zpid/,125832011,,SINGLE FAMILY,"$1,265,000",5706 Sardis Hall Ct,Charlotte,NC,28270,4,4,4247,0.354 acres,
+https://www.zillow.com/homedetails/2125-Chatham-Ave-Charlotte-NC-28205/6194911_zpid/,6194911,,SINGLE FAMILY,"$675,000",2125 Chatham Ave,Charlotte,NC,28205,2,2,1439,0.16 acres,
+https://www.zillow.com/homedetails/5510-Sardis-Rd-Charlotte-NC-28270/6271257_zpid/,6271257,,SINGLE FAMILY,"$800,000",5510 Sardis Rd,Charlotte,NC,28270,4,3,2588,0.425 acres,3302
+https://www.zillow.com/homedetails/1831-J-Julian-Ln-APT-A-Charlotte-NC-28208/6175040_zpid/,6175040,,CONDO,"$130,000",1831 J Julian Ln APT A,Charlotte,NC,28208,2,2,975, ,1369
+https://www.zillow.com/homedetails/6908-Lancer-Dr-Charlotte-NC-28226/6294695_zpid/,6294695,,SINGLE FAMILY,"$655,000",6908 Lancer Dr,Charlotte,NC,28226,4,3,2087,0.6 acres,2983
+https://www.zillow.com/homedetails/8069-Cedar-Glen-Dr-Charlotte-NC-28212/6276446_zpid/,6276446,,CONDO,"$167,000",8069 Cedar Glen Dr,Charlotte,NC,28212,2,2,883, ,
+https://www.zillow.com/homedetails/315-Arlington-Ave-UNIT-1104-Charlotte-NC-28203/63813576_zpid/,63813576,,CONDO,"$629,500",315 Arlington Ave UNIT 1104,Charlotte,NC,28203,2,2,1685, ,3462
+https://www.zillow.com/homedetails/2017-Wood-Dale-Ter-Charlotte-NC-28203/2075445773_zpid/,2075445773,,SINGLE FAMILY,"$725,000",2017 Wood Dale Ter,Charlotte,NC,28203,3,3,1678,0.3 acres,4043
+https://www.zillow.com/homedetails/10518-Fairway-Ridge-Rd-Charlotte-NC-28277/6319060_zpid/,6319060,,SINGLE FAMILY,"$612,000",10518 Fairway Ridge Rd,Charlotte,NC,28277,4,3,2299,0.28 acres,3097
+https://www.zillow.com/homedetails/1226-Tarrington-Ave-Charlotte-NC-28205/6226405_zpid/,6226405,,SINGLE FAMILY,"$689,500",1226 Tarrington Ave,Charlotte,NC,28205,4,2,2292,0.31 acres,3094
+https://www.zillow.com/homedetails/6242-Creola-Rd-Charlotte-NC-28270/336916096_zpid/,336916096,,CONDO,"$1,500,000",6242 Creola Rd,Charlotte,NC,28270,5,4,3562, ,4097
+https://www.zillow.com/homedetails/1025-N-Sharon-Amity-Rd-Charlotte-NC-28211/167044233_zpid/,167044233,,SINGLE FAMILY,"$998,000",1025 N Sharon Amity Rd,Charlotte,NC,28211,5,5,3337,0.206 acres,5229
+https://www.zillow.com/homedetails/4562-Rockford-Ct-Charlotte-NC-28209/6242634_zpid/,6242634,,SINGLE FAMILY,"$925,000",4562 Rockford Ct,Charlotte,NC,28209,4,3,2601,0.23 acres,3693
+https://www.zillow.com/homedetails/5825-Greene-St-Charlotte-NC-28269/6158024_zpid/,6158024,,SINGLE FAMILY,"$199,000",5825 Greene St,Charlotte,NC,28269,2,1,761,0.11 acres,1347
+https://www.zillow.com/homedetails/4918-Buckingham-Dr-Charlotte-NC-28209/6258162_zpid/,6258162,,SINGLE FAMILY,"$1,525,000",4918 Buckingham Dr,Charlotte,NC,28209,4,4,3171,0.233 acres,4851
+https://www.zillow.com/homedetails/17835-Terryglass-Ln-Charlotte-NC-28278/6306831_zpid/,6306831,,SINGLE FAMILY,"$994,000",17835 Terryglass Ln,Charlotte,NC,28278,2,1,768,0.88 acres,1500
+https://www.zillow.com/homedetails/8217-Lansford-Rd-Charlotte-NC-28277/6313994_zpid/,6313994,,SINGLE FAMILY,"$785,000",8217 Lansford Rd,Charlotte,NC,28277,4,4,3207,0.42 acres,4011
+https://www.zillow.com/homedetails/4350-Old-Saybrook-Ct-Charlotte-NC-28211/6268753_zpid/,6268753,,SINGLE FAMILY,"$1,099,000",4350 Old Saybrook Ct,Charlotte,NC,28211,4,3,2668,0.37 acres,3963
+https://www.zillow.com/homedetails/741-McAlway-Rd-Charlotte-NC-28211/6248411_zpid/,6248411,,SINGLE FAMILY,"$725,000",741 McAlway Rd,Charlotte,NC,28211,4,3,2335,0.177 acres,3581
+https://www.zillow.com/homedetails/2112-Kirkwood-Ave-Charlotte-NC-28203/299900293_zpid/,299900293,,TOWNHOUSE,"$924,950",2112 Kirkwood Ave,Charlotte,NC,28203,4,4,2561,0.101 acres,5381
+https://www.zillow.com/homedetails/6935-Woodstock-Dr-Charlotte-NC-28210/6260832_zpid/,6260832,,SINGLE FAMILY,"$614,900",6935 Woodstock Dr,Charlotte,NC,28210,4,3,2287,0.37 acres,
+https://www.zillow.com/homedetails/629-Wingrave-Dr-Charlotte-NC-28270/6272184_zpid/,6272184,,SINGLE FAMILY,"$1,399,000",629 Wingrave Dr,Charlotte,NC,28270,5,4,3829,0.59 acres,4197
+https://www.zillow.com/homedetails/1409-Kenilworth-Ave-Charlotte-NC-28203/450133043_zpid/,450133043,,TOWNHOUSE,"$750,000",1409 Kenilworth Ave,Charlotte,NC,28203,3,5,1813,0.025 acres,
+https://www.zillow.com/homedetails/1240-Worcaster-Pl-Charlotte-NC-28211/6251271_zpid/,6251271,,SINGLE FAMILY,"$610,000",1240 Worcaster Pl,Charlotte,NC,28211,4,2,1628,0.34997704315886136 acres,2599
+https://www.zillow.com/homedetails/4905-Montibello-Dr-Charlotte-NC-28226/6295520_zpid/,6295520,,SINGLE FAMILY,"$1,100,000",4905 Montibello Dr,Charlotte,NC,28226,4,3,3222,0.65 acres,3875
+https://www.zillow.com/homedetails/7008-Wannamaker-Ln-Charlotte-NC-28226/6297268_zpid/,6297268,,SINGLE FAMILY,"$625,000",7008 Wannamaker Ln,Charlotte,NC,28226,4,3,2885,0.36 acres,3073
+https://www.zillow.com/homedetails/6803-Augustine-Way-Charlotte-NC-28270/80444530_zpid/,80444530,,SINGLE FAMILY,"$819,000",6803 Augustine Way,Charlotte,NC,28270,4,3,3005,0.294 acres,3302
+https://www.zillow.com/homedetails/215-N-Pine-St-UNIT-3705-Charlotte-NC-28202/113502431_zpid/,113502431,,CONDO,"$1,350,000",215 N Pine St UNIT 3705,Charlotte,NC,28202,3,3,1918, ,4165
+https://www.zillow.com/homedetails/1422-Morningside-Dr-Charlotte-NC-28205/6224962_zpid/,6224962,,SINGLE FAMILY,"$750,000",1422 Morningside Dr,Charlotte,NC,28205,4,2,1662,0.25 acres,2759
+https://www.zillow.com/homedetails/103-Samuel-Guilford-Ct-Charlotte-NC-28270/6301554_zpid/,6301554,,SINGLE FAMILY,"$845,000",103 Samuel Guilford Ct,Charlotte,NC,28270,4,4,3631,0.36 acres,3534
+https://www.zillow.com/homedetails/5812-Hunting-Ridge-Ln-APT-A-Charlotte-NC-28212/6227807_zpid/,6227807,,CONDO,"$164,900",5812 Hunting Ridge Ln APT A,Charlotte,NC,28212,2,2,1020,2.87 acres,1381
+https://www.zillow.com/homedetails/6531-Hazelton-Dr-Charlotte-NC-28210/299909343_zpid/,299909343,,TOWNHOUSE,"$1,450,000",6531 Hazelton Dr,Charlotte,NC,28210,3,4,3376,0.05 acres,5793
+https://www.zillow.com/homedetails/3800-Lovett-Cir-Charlotte-NC-28210/2075547917_zpid/,2075547917,,SINGLE FAMILY,"$975,000",3800 Lovett Cir,Charlotte,NC,28210,5,3,3283,0.33 acres,3466
+https://www.zillow.com/homedetails/6117-Yellowood-Rd-Charlotte-NC-28210/6291064_zpid/,6291064,,SINGLE FAMILY,"$755,000",6117 Yellowood Rd,Charlotte,NC,28210,4,3,2178,0.35 acres,2864
+https://www.zillow.com/homedetails/525-Queens-Rd-Charlotte-NC-28207/64939645_zpid/,64939645,,CONDO,"$1,295,000",525 Queens Rd,Charlotte,NC,28207,3,5,3038, ,6097
+https://www.zillow.com/homedetails/4389-Enchantment-Cove-Ln-Charlotte-NC-28216/6138309_zpid/,6138309,,SINGLE FAMILY,"$800,000",4389 Enchantment Cove Ln,Charlotte,NC,28216,5,3,3404,0.53 acres,
+https://www.zillow.com/homedetails/8311-Adrian-Ct-Charlotte-NC-28270/454198128_zpid/,454198128,,MULTI FAMILY,"$1,387,800",8311 Adrian Ct,Charlotte,NC,28270,8,6,5344,0.65 acres,
+https://www.zillow.com/homedetails/4026-Chevington-Rd-102-Charlotte-NC-28226/443200377_zpid/,443200377,,TOWNHOUSE,"$999,999",4026 Chevington Rd #102,Charlotte,NC,28226,3,3,2274, ,
+https://www.zillow.com/homedetails/1315-Charles-Ave-Charlotte-NC-28205/239886539_zpid/,239886539,,SINGLE FAMILY,"$1,250,000",1315 Charles Ave,Charlotte,NC,28205,4,3,2944,0.17 acres,4766
+https://www.zillow.com/homedetails/2747-Olympus-Dr-Charlotte-NC-28214/65005390_zpid/,65005390,,SINGLE FAMILY,"$736,500",2747 Olympus Dr,Charlotte,NC,28214,5,4,3629,0.562 acres,3351
+https://www.zillow.com/homedetails/571-Lyttleton-Dr-Charlotte-NC-28211/339868244_zpid/,339868244,,SINGLE FAMILY,"$1,345,000",571 Lyttleton Dr,Charlotte,NC,28211,5,4,3671,0.293 acres,5628
+https://www.zillow.com/homedetails/3026-Kalex-Ct-Charlotte-NC-28204/2058941968_zpid/,2058941968,,TOWNHOUSE,"$750,000",3026 Kalex Ct,Charlotte,NC,28204,3,4,2166, ,3753
+https://www.zillow.com/homedetails/8534-Headford-Rd-Charlotte-NC-28277/6313618_zpid/,6313618,,SINGLE FAMILY,"$979,990",8534 Headford Rd,Charlotte,NC,28277,4,3,3246,0.66 acres,3704
+https://www.zillow.com/homedetails/3245-Minnesota-Rd-Charlotte-NC-28208/6178532_zpid/,6178532,,CONDO,"$145,000",3245 Minnesota Rd,Charlotte,NC,28208,2,1,696, ,1290
+https://www.zillow.com/homedetails/4742-Emory-Ln-Charlotte-NC-28211/6251076_zpid/,6251076,,SINGLE FAMILY,"$824,000",4742 Emory Ln,Charlotte,NC,28211,3,2,2160,0.445 acres,3314
+https://www.zillow.com/homedetails/715-N-Graham-St-SUITE-603-Charlotte-NC-28202/108861534_zpid/,108861534,,CONDO,"$1,375,000",715 N Graham St SUITE 603,Charlotte,NC,28202,3,3,2904, ,5544
+https://www.zillow.com/homedetails/12708-Hamilton-Rd-Charlotte-NC-28273/65051892_zpid/,65051892,,SINGLE FAMILY,"$900,000",12708 Hamilton Rd,Charlotte,NC,28273,4,4,4298,2.5 acres,4012
+https://www.zillow.com/homedetails/6224-Rosecroft-Dr-Charlotte-NC-28215/6207532_zpid/,6207532,,CONDO,"$175,000",6224 Rosecroft Dr,Charlotte,NC,28215,2,2,1006, ,1468
+https://www.zillow.com/homedetails/13731-Petworth-Ct-Charlotte-NC-28278/443554859_zpid/,443554859,,SINGLE FAMILY,"$1,549,752",13731 Petworth Ct,Charlotte,NC,28278,4,5,4567,0.61 acres,
+https://www.zillow.com/homedetails/1446-Downs-Ave-Charlotte-NC-28205/6193755_zpid/,6193755,,SINGLE FAMILY,"$919,000",1446 Downs Ave,Charlotte,NC,28205,4,3,2746,0.19 acres,3564
+https://www.zillow.com/homedetails/13716-Glen-Abbey-Dr-Charlotte-NC-28278/80448313_zpid/,80448313,,SINGLE FAMILY,"$1,050,000",13716 Glen Abbey Dr,Charlotte,NC,28278,5,6,5382,0.31 acres,4576
+https://www.zillow.com/homedetails/1245-Paddock-Cir-Charlotte-NC-28209/2077610265_zpid/,2077610265,,SINGLE FAMILY,"$849,900",1245 Paddock Cir,Charlotte,NC,28209,5,3,2602,0.3 acres,5387
+https://www.zillow.com/homedetails/7124-Ridge-Lane-Rd-Charlotte-NC-28262/6161635_zpid/,6161635,,SINGLE FAMILY,"$1,250,000",7124 Ridge Lane Rd,Charlotte,NC,28262,4,4,4162,6.129981634527089 acres,4253
+https://www.zillow.com/homedetails/423-Manning-Dr-Charlotte-NC-28209/6263840_zpid/,6263840,,SINGLE FAMILY,"$1,400,000",423 Manning Dr,Charlotte,NC,28209,4,4,3457,0.52 acres,4024
+https://www.zillow.com/homedetails/1421-Lyon-Ct-Charlotte-NC-28205/6224818_zpid/,6224818,,SINGLE FAMILY,"$950,000",1421 Lyon Ct,Charlotte,NC,28205,3,3,2360,0.2 acres,3631
+https://www.zillow.com/homedetails/4207-Walker-Rd-Charlotte-NC-28211/447756728_zpid/,447756728,,TOWNHOUSE,"$850,000",4207 Walker Rd,Charlotte,NC,28211,4,5,3126,0.04 acres,
+https://www.zillow.com/homedetails/18027-Wilbanks-Dr-Charlotte-NC-28278/447934277_zpid/,447934277,,SINGLE FAMILY,"$825,000",18027 Wilbanks Dr,Charlotte,NC,28278,4,4,3445,0.14 acres,
+https://www.zillow.com/homedetails/7977-Shady-Oak-Trl-Charlotte-NC-28210/452159907_zpid/,452159907,,CONDO,"$129,900",7977 Shady Oak Trl,Charlotte,NC,28210,2,1,804, ,
+https://www.zillow.com/homedetails/6320-Tilley-Way-Matthews-NC-28105/239887593_zpid/,239887593,,SINGLE FAMILY,"$1,290,000",6320 Tilley Way,Matthews,NC,28105,6,5,5578,0.19 acres,5278
+https://www.zillow.com/homedetails/15818-Sparrowridge-Ct-Charlotte-NC-28278/6282415_zpid/,6282415,,SINGLE FAMILY,"$1,159,000",15818 Sparrowridge Ct,Charlotte,NC,28278,5,5,4326,0.323 acres,4892
+https://www.zillow.com/homedetails/1511-Landis-Ave-Charlotte-NC-28205/249020476_zpid/,249020476,,SINGLE FAMILY,"$1,045,000",1511 Landis Ave,Charlotte,NC,28205,4,4,2672,0.11 acres,5773
+https://www.zillow.com/homedetails/8514-Ellington-Park-Dr-Charlotte-NC-28277/167053613_zpid/,167053613,,SINGLE FAMILY,"$1,120,000",8514 Ellington Park Dr,Charlotte,NC,28277,4,4,3865,0.21 acres,4430
+https://www.zillow.com/homedetails/5672-Wrenfield-Ct-Charlotte-NC-28277/65040127_zpid/,65040127,,SINGLE FAMILY,"$810,000",5672 Wrenfield Ct,Charlotte,NC,28277,4,3,2963,0.31 acres,3514
+https://www.zillow.com/homedetails/7716-Seton-House-Ln-Charlotte-NC-28277/6319233_zpid/,6319233,,SINGLE FAMILY,"$1,295,000",7716 Seton House Ln,Charlotte,NC,28277,5,4,3651,0.542 acres,4259
+https://www.zillow.com/homedetails/9750-Briarwick-Ln-Charlotte-NC-28277/250325381_zpid/,250325381,,SINGLE FAMILY,"$1,150,000",9750 Briarwick Ln,Charlotte,NC,28277,4,5,3479,0.17 acres,4578
+https://www.zillow.com/homedetails/2125-Shenandoah-Ave-Charlotte-NC-28205/6223321_zpid/,6223321,,SINGLE FAMILY,"$840,000",2125 Shenandoah Ave,Charlotte,NC,28205,3,2,2069,0.16 acres,3303
+https://www.zillow.com/homedetails/2114-Thurmond-Pl-Charlotte-NC-28205/6194781_zpid/,6194781,,SINGLE FAMILY,"$889,000",2114 Thurmond Pl,Charlotte,NC,28205,3,2,1500,0.206 acres,3254
+https://www.zillow.com/homedetails/1310-Bershire-Ln-Charlotte-NC-28262/65004567_zpid/,65004567,,SINGLE FAMILY,"$995,000",1310 Bershire Ln,Charlotte,NC,28262,4,4,3907,0.38 acres,4101
+https://www.zillow.com/homedetails/1816-Parson-St-Charlotte-NC-28205/6188768_zpid/,6188768,,SINGLE FAMILY,"$1,550,000",1816 Parson St,Charlotte,NC,28205,5,4,4184,0.17 acres,7404
+https://www.zillow.com/homedetails/6322-Old-Pineville-Rd-APT-B-Charlotte-NC-28217/6256054_zpid/,6256054,,CONDO,"$190,000",6322 Old Pineville Rd APT B,Charlotte,NC,28217,2,2,992, ,1419
+https://www.zillow.com/homedetails/5727-Dockside-Dr-Charlotte-NC-28227/6211449_zpid/,6211449,,CONDO,"$150,000",5727 Dockside Dr,Charlotte,NC,28227,2,2,1131, ,1366
+https://www.zillow.com/homedetails/1111-Parkside-Greenway-Dr-Charlotte-NC-28209/338432127_zpid/,338432127,,TOWNHOUSE,"$1,200,000",1111 Parkside Greenway Dr,Charlotte,NC,28209,4,5,2896, ,5505
+https://www.zillow.com/homedetails/3721-Providence-Plantation-Ln-Charlotte-NC-28270/54499683_zpid/,54499683,,SINGLE FAMILY,"$884,900",3721 Providence Plantation Ln,Charlotte,NC,28270,4,3,3225,0.29 acres,3291
+https://www.zillow.com/homedetails/1614-Lombardy-Cir-Charlotte-NC-28203/445808942_zpid/,445808942,,TOWNHOUSE,"$1,295,000",1614 Lombardy Cir,Charlotte,NC,28203,3,4,2222,0.15 acres,
+https://www.zillow.com/homedetails/12644-Lahinch-Ct-Charlotte-NC-28277/51534524_zpid/,51534524,,SINGLE FAMILY,"$1,185,000",12644 Lahinch Ct,Charlotte,NC,28277,4,3,3802,0.29 acres,4015
+https://www.zillow.com/homedetails/3505-Trent-St-Charlotte-NC-28209/6241430_zpid/,6241430,,TOWNHOUSE,"$1,249,000",3505 Trent St,Charlotte,NC,28209,3,3,3190,0.14 acres,4451
+https://www.zillow.com/homedetails/913-Van-Every-St-Charlotte-NC-28205/65056286_zpid/,65056286,,SINGLE FAMILY,"$1,000,000",913 Van Every St,Charlotte,NC,28205,4,4,3109,0.08 acres,5183
+https://www.zillow.com/homedetails/7539-Holly-Grove-Ct-Charlotte-NC-28227/6210512_zpid/,6210512,,TOWNHOUSE,"$185,000",7539 Holly Grove Ct,Charlotte,NC,28227,3,2,1159, ,1734
+https://www.zillow.com/homedetails/232-Perrin-Pl-Charlotte-NC-28207/6247233_zpid/,6247233,,TOWNHOUSE,"$1,295,000",232 Perrin Pl,Charlotte,NC,28207,3,4,3199,0.08 acres,4927
+https://www.zillow.com/homedetails/5024-Victoria-Ave-Charlotte-NC-28269/299898300_zpid/,299898300,,MANUFACTURED,"$199,500",5024 Victoria Ave,Charlotte,NC,28269,2,1,676,0.21 acres,1242
+https://www.zillow.com/homedetails/3953-Plainview-Rd-Charlotte-NC-28208/316665689_zpid/,316665689,,SINGLE FAMILY,"$870,000",3953 Plainview Rd,Charlotte,NC,28208,4,3,2752,0.22 acres,3390
+https://www.zillow.com/homedetails/1300-Reece-Rd-APT-402-Charlotte-NC-28209/2089118806_zpid/,2089118806,,CONDO,"$199,500",1300 Reece Rd APT 402,Charlotte,NC,28209,1,1,822, ,1584
+https://www.zillow.com/homedetails/460-E-33rd-St-Charlotte-NC-28205/249020647_zpid/,249020647,,TOWNHOUSE,"$899,000",460 E 33rd St,Charlotte,NC,28205,3,4,2200,0.03 acres,3424
+https://www.zillow.com/homedetails/2417-Laburnum-Ave-Charlotte-NC-28205/6223805_zpid/,6223805,,MULTI FAMILY,"$899,000",2417 Laburnum Ave,Charlotte,NC,28205,5,4,3133,0.219 acres,2887
+https://www.zillow.com/homedetails/1160-S-Kings-Dr-Charlotte-NC-28207/6245277_zpid/,6245277,,CONDO,"$1,495,000",1160 S Kings Dr,Charlotte,NC,28207,3,5,2956, ,6004
+https://www.zillow.com/homedetails/1839-J-Julian-Ln-APT-D-Charlotte-NC-28208/6175035_zpid/,6175035,,CONDO,"$132,000",1839 J Julian Ln APT D,Charlotte,NC,28208,2,2,968, ,
+https://www.zillow.com/homedetails/5610-Farmbrook-Dr-Charlotte-NC-28210/339868378_zpid/,339868378,,TOWNHOUSE,"$1,099,000",5610 Farmbrook Dr,Charlotte,NC,28210,3,4,3618,0.23 acres,4640
+https://www.zillow.com/homedetails/2224-Highland-St-Charlotte-NC-28208/299898836_zpid/,299898836,,SINGLE FAMILY,"$1,125,000",2224 Highland St,Charlotte,NC,28208,4,5,3694,0.17 acres,4203
+https://www.zillow.com/homedetails/331-Glen-Oaks-Rd-Charlotte-NC-28270/6271360_zpid/,6271360,,SINGLE FAMILY,"$899,900",331 Glen Oaks Rd,Charlotte,NC,28270,4,3,2637,0.48 acres,3005
+https://www.zillow.com/homedetails/6203-Rosecroft-Dr-Charlotte-NC-28215/6207521_zpid/,6207521,,CONDO,"$160,000",6203 Rosecroft Dr,Charlotte,NC,28215,2,2,1191,0.01 acres,1534
+https://www.zillow.com/homedetails/514-W-10th-St-UNIT-403-Charlotte-NC-28202/63813171_zpid/,63813171,,CONDO,"$199,900",514 W 10th St UNIT 403,Charlotte,NC,28202,0,1,486,0.459 acres,1381
+https://www.zillow.com/homedetails/3124-Riley-Ave-Charlotte-NC-28269/6156593_zpid/,6156593,,LOT,"$100,000",3124 Riley Ave,Charlotte,NC,28269,,,,1.2 acres,1443

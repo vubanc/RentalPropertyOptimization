@@ -1,0 +1,419 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/8191-Nekton-Ln-Indianapolis-IN-46236/1160312_zpid/,1160312,,CONDO,"$235,000",8191 Nekton Ln,Indianapolis,IN,46236,2,2,1324,2178 sqft,
+https://www.zillow.com/homedetails/1130-N-Keystone-Ave-Indianapolis-IN-46201/1106936_zpid/,1106936,,SINGLE FAMILY,"$759,900",1130 N Keystone Ave,Indianapolis,IN,46201,4,5,3558,6534 sqft,
+https://www.zillow.com/homedetails/6239-Bramshaw-Rd-Indianapolis-IN-46220/1266786_zpid/,1266786,,SINGLE FAMILY,"$350,000",6239 Bramshaw Rd,Indianapolis,IN,46220,4,3,3262,0.54 acres,2686
+https://www.zillow.com/homedetails/2822-E-19th-St-Indianapolis-IN-46218/1074988_zpid/,1074988,,SINGLE FAMILY,"$154,900",2822 E 19th St,Indianapolis,IN,46218,3,2,1946,3484.8 sqft,1649
+https://www.zillow.com/homedetails/1429-E-Banta-Rd-Indianapolis-IN-46227/1170343_zpid/,1170343,,SINGLE FAMILY,"$399,000",1429 E Banta Rd,Indianapolis,IN,46227,2,3,2604,0.32 acres,
+https://www.zillow.com/homedetails/7231-Wooden-Grange-Dr-Indianapolis-IN-46259/308925184_zpid/,308925184,,SINGLE FAMILY,"$425,000",7231 Wooden Grange Dr,Indianapolis,IN,46259,3,3,2335,7840.8 sqft,
+https://www.zillow.com/homedetails/6622-Stanley-Rd-Camby-IN-46113/1124549_zpid/,1124549,,SINGLE FAMILY,"$237,500",6622 Stanley Rd,Camby,IN,46113,5,3,2410,0.4 acres,
+https://www.zillow.com/homedetails/3118-E-Fall-Creek-Pkwy-N-Indianapolis-IN-46205/455216530_zpid/,455216530,,SINGLE FAMILY,"$649,900",3118 E Fall Creek Pkwy N,Indianapolis,IN,46205,3,4,3356,0.27 acres,
+https://www.zillow.com/homedetails/8808-Skippers-Way-Indianapolis-IN-46256/1154717_zpid/,1154717,,SINGLE FAMILY,"$514,900",8808 Skippers Way,Indianapolis,IN,46256,4,4,3615,0.36 acres,
+https://www.zillow.com/homedetails/2050-N-Alabama-St-Indianapolis-IN-46202/1087533_zpid/,1087533,,SINGLE FAMILY,"$1,200,000",2050 N Alabama St,Indianapolis,IN,46202,5,5,5606,6098.4 sqft,
+https://www.zillow.com/homedetails/2849-S-Walcott-St-Indianapolis-IN-46203/1119034_zpid/,1119034,,SINGLE FAMILY,"$150,000",2849 S Walcott St,Indianapolis,IN,46203,2,1,1104,6098.4 sqft,1722
+https://www.zillow.com/homedetails/8249-Burn-Ct-Indianapolis-IN-46217/1180407_zpid/,1180407,,SINGLE FAMILY,"$360,000",8249 Burn Ct,Indianapolis,IN,46217,5,3,2650,0.36 acres,2439
+https://www.zillow.com/homedetails/1825-Weslynn-Dr-Indianapolis-IN-46228/1264073_zpid/,1264073,,SINGLE FAMILY,"$265,000",1825 Weslynn Dr,Indianapolis,IN,46228,3,2,1652,0.73 acres,
+https://www.zillow.com/homedetails/525-N-Concord-St-Indianapolis-IN-46222/1291509_zpid/,1291509,,SINGLE FAMILY,"$164,900",525 N Concord St,Indianapolis,IN,46222,3,2,2026,3920.4 sqft,
+https://www.zillow.com/homedetails/7147-Mars-Dr-Indianapolis-IN-46241/52494247_zpid/,52494247,,SINGLE FAMILY,"$239,900",7147 Mars Dr,Indianapolis,IN,46241,3,3,1696,5662.8 sqft,1853
+https://www.zillow.com/homedetails/4202-Standish-Dr-Indianapolis-IN-46221/1123285_zpid/,1123285,,SINGLE FAMILY,"$212,000",4202 Standish Dr,Indianapolis,IN,46221,3,2,2584,0.3 acres,
+https://www.zillow.com/homedetails/10610-Stillcreek-Dr-Indianapolis-IN-46239/1237769_zpid/,1237769,,SINGLE FAMILY,"$260,000",10610 Stillcreek Dr,Indianapolis,IN,46239,3,3,2196,0.37 acres,1845
+https://www.zillow.com/homedetails/9028-Colgate-St-Indianapolis-IN-46268/1196752_zpid/,1196752,,SINGLE FAMILY,"$299,000",9028 Colgate St,Indianapolis,IN,46268,4,3,2337,0.45 acres,
+https://www.zillow.com/homedetails/8954-Briarclift-Rd-Indianapolis-IN-46256/1146334_zpid/,1146334,,SINGLE FAMILY,"$450,000",8954 Briarclift Rd,Indianapolis,IN,46256,3,3,3695,0.62 acres,
+https://www.zillow.com/homedetails/8425-E-82nd-St-Indianapolis-IN-46256/1151187_zpid/,1151187,,SINGLE FAMILY,"$259,900",8425 E 82nd St,Indianapolis,IN,46256,4,3,2176,0.39 acres,2245
+https://www.zillow.com/homedetails/5639-Kingsley-Dr-Indianapolis-IN-46220/1244277_zpid/,1244277,,SINGLE FAMILY,"$330,000",5639 Kingsley Dr,Indianapolis,IN,46220,2,2,1980,6534 sqft,
+https://www.zillow.com/homedetails/7410-E-Edgewood-Ave-Indianapolis-IN-46239/67859727_zpid/,67859727,,SINGLE FAMILY,"$654,999",7410 E Edgewood Ave,Indianapolis,IN,46239,4,4,5164,1.96 acres,
+https://www.zillow.com/homedetails/7105-Tina-Dr-Indianapolis-IN-46214/1304534_zpid/,1304534,,SINGLE FAMILY,"$167,200",7105 Tina Dr,Indianapolis,IN,46214,3,2,1434,0.3 acres,1764
+https://www.zillow.com/homedetails/6840-Georgetown-Rd-Indianapolis-IN-46268/1198806_zpid/,1198806,,CONDO,"$147,500",6840 Georgetown Rd,Indianapolis,IN,46268,3,2,1106,2613.6 sqft,
+https://www.zillow.com/homedetails/7743-Camelback-Dr-Indianapolis-IN-46250/1149583_zpid/,1149583,,SINGLE FAMILY,"$635,000",7743 Camelback Dr,Indianapolis,IN,46250,5,4,4422,0.35 acres,
+https://www.zillow.com/homedetails/8311-Wemouth-Ct-Indianapolis-IN-46256/1151546_zpid/,1151546,,SINGLE FAMILY,"$340,000",8311 Wemouth Ct,Indianapolis,IN,46256,3,2,1406,0.33999999999999997 acres,1846
+https://www.zillow.com/homedetails/9011-Dunsmuir-Dr-Indianapolis-IN-46260/1259492_zpid/,1259492,,SINGLE FAMILY,"$1,150,000",9011 Dunsmuir Dr,Indianapolis,IN,46260,4,4,3348,1.32 acres,
+https://www.zillow.com/homedetails/3655-Roxburgh-Ct-N-Indianapolis-IN-46234/1312838_zpid/,1312838,,SINGLE FAMILY,"$290,000",3655 Roxburgh Ct N,Indianapolis,IN,46234,3,4,2228,6098.4 sqft,
+https://www.zillow.com/homedetails/4380-Dunsany-Ct-Indianapolis-IN-46254/1201818_zpid/,1201818,,SINGLE FAMILY,"$270,000",4380 Dunsany Ct,Indianapolis,IN,46254,3,2,1508,8276.4 sqft,
+https://www.zillow.com/homedetails/1035-Albany-St-Indianapolis-IN-46203/1108633_zpid/,1108633,,SINGLE FAMILY,"$240,000",1035 Albany St,Indianapolis,IN,46203,2,2,1536,4791.6 sqft,1701
+https://www.zillow.com/homedetails/7248-Tarragon-Ln-Indianapolis-IN-46237/1190221_zpid/,1190221,,SINGLE FAMILY,"$350,000",7248 Tarragon Ln,Indianapolis,IN,46237,4,3,2528,0.3 acres,
+https://www.zillow.com/homedetails/9520-Broadway-St-Indianapolis-IN-46240/167086290_zpid/,167086290,,SINGLE FAMILY,"$239,900",9520 Broadway St,Indianapolis,IN,46240,3,2,988,0.4 acres,
+https://www.zillow.com/homedetails/955-E-Georgia-St-Indianapolis-IN-46202/1093234_zpid/,1093234,,SINGLE FAMILY,"$175,000",955 E Georgia St,Indianapolis,IN,46202,4,2,2688,3484.8 sqft,
+https://www.zillow.com/homedetails/11350-Old-Stone-Dr-Indianapolis-IN-46236/1160559_zpid/,1160559,,SINGLE FAMILY,"$599,900",11350 Old Stone Dr,Indianapolis,IN,46236,5,4,4352,0.54 acres,
+https://www.zillow.com/homedetails/1417-Lansdowne-Rd-Indianapolis-IN-46234/1311893_zpid/,1311893,,SINGLE FAMILY,"$225,000",1417 Lansdowne Rd,Indianapolis,IN,46234,3,3,1563,10454.4 sqft,
+https://www.zillow.com/homedetails/2316-Porter-St-Indianapolis-IN-46231/1285805_zpid/,1285805,,SINGLE FAMILY,"$100,000",2316 Porter St,Indianapolis,IN,46231,2,1,1491,7405.2 sqft,
+https://www.zillow.com/homedetails/7138-Avalon-Trail-Ct-Indianapolis-IN-46250/1149918_zpid/,1149918,,SINGLE FAMILY,"$394,900",7138 Avalon Trail Ct,Indianapolis,IN,46250,5,3,3229,0.33999999999999997 acres,3260
+https://www.zillow.com/homedetails/5330-Sunset-Ave-Indianapolis-IN-46208/1271193_zpid/,1271193,,SINGLE FAMILY,"$216,000",5330 Sunset Ave,Indianapolis,IN,46208,2,1,1172,0.33999999999999997 acres,1810
+https://www.zillow.com/homedetails/820-N-Parker-Ave-Indianapolis-IN-46201/1107319_zpid/,1107319,,SINGLE FAMILY,"$299,000",820 N Parker Ave,Indianapolis,IN,46201,3,4,3461,5227.2 sqft,
+https://www.zillow.com/homedetails/5657-E-Fall-Creek-Parkway-North-Dr-Indianapolis-IN-46226/1137225_zpid/,1137225,,SINGLE FAMILY,"$189,400",5657 E Fall Creek Parkway North Dr,Indianapolis,IN,46226,4,2,3078,1.54 acres,1840
+https://www.zillow.com/homedetails/8809-Haddington-Dr-N-Indianapolis-IN-46256/1158167_zpid/,1158167,,SINGLE FAMILY,"$295,000",8809 Haddington Dr N,Indianapolis,IN,46256,3,2,1559,0.5 acres,2043
+https://www.zillow.com/homedetails/5425-Armstrong-Dr-Indianapolis-IN-46237/1131019_zpid/,1131019,,SINGLE FAMILY,"$245,000",5425 Armstrong Dr,Indianapolis,IN,46237,4,2,1652,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/7674-Harbour-Isle-Indianapolis-IN-46240/1276220_zpid/,1276220,,CONDO,"$179,900",7674 Harbour Isle,Indianapolis,IN,46240,2,2,890,2613.6 sqft,
+https://www.zillow.com/homedetails/1537-Greer-Dell-Rd-Indianapolis-IN-46260/1264164_zpid/,1264164,,SINGLE FAMILY,"$899,900",1537 Greer Dell Rd,Indianapolis,IN,46260,5,3,3540,0.67 acres,2368
+https://www.zillow.com/homedetails/2422-N-Centennial-St-Indianapolis-IN-46222/1298156_zpid/,1298156,,SINGLE FAMILY,"$179,900",2422 N Centennial St,Indianapolis,IN,46222,3,2,1015,5227.2 sqft,1610
+https://www.zillow.com/homedetails/5613-Willowridge-Ct-Indianapolis-IN-46221/1127049_zpid/,1127049,,SINGLE FAMILY,"$260,000",5613 Willowridge Ct,Indianapolis,IN,46221,4,3,3602,8276.4 sqft,2638
+https://www.zillow.com/homedetails/4732-N-Kenwood-Ave-Indianapolis-IN-46208/1248173_zpid/,1248173,,SINGLE FAMILY,"$435,000",4732 N Kenwood Ave,Indianapolis,IN,46208,3,3,3000,5662.8 sqft,2723
+https://www.zillow.com/homedetails/725-Sweet-Creek-Dr-Indianapolis-IN-46239/52492793_zpid/,52492793,,SINGLE FAMILY,"$199,900",725 Sweet Creek Dr,Indianapolis,IN,46239,3,3,1808,9147.6 sqft,1847
+https://www.zillow.com/homedetails/1134-Reid-Pl-Indianapolis-IN-46203/1105979_zpid/,1105979,,SINGLE FAMILY,"$315,000",1134 Reid Pl,Indianapolis,IN,46203,4,2,3086,3484.8 sqft,
+https://www.zillow.com/homedetails/3836-N-Wittfield-St-Indianapolis-IN-46235/1152807_zpid/,1152807,,SINGLE FAMILY,"$169,900",3836 N Wittfield St,Indianapolis,IN,46235,4,2,2080,6098.4 sqft,
+https://www.zillow.com/homedetails/2701-Manker-St-Indianapolis-IN-46203/1095228_zpid/,1095228,,SINGLE FAMILY,"$243,900",2701 Manker St,Indianapolis,IN,46203,3,1,2444,6098.4 sqft,
+https://www.zillow.com/homedetails/5043-Lewiston-Dr-Indianapolis-IN-46254/52491062_zpid/,52491062,,CONDO,"$200,000",5043 Lewiston Dr,Indianapolis,IN,46254,2,3,1395,871.2 sqft,
+https://www.zillow.com/homedetails/8038-Teel-Way-Indianapolis-IN-46256/1151180_zpid/,1151180,,SINGLE FAMILY,"$370,000",8038 Teel Way,Indianapolis,IN,46256,4,3,2343,0.39 acres,
+https://www.zillow.com/homedetails/252-Bangor-Dr-Indianapolis-IN-46227/1178836_zpid/,1178836,,SINGLE FAMILY,"$369,900",252 Bangor Dr,Indianapolis,IN,46227,3,2,1744,0.48 acres,
+https://www.zillow.com/homedetails/3920-Knapsbury-Ln-Indianapolis-IN-46235/1166358_zpid/,1166358,,SINGLE FAMILY,"$205,000",3920 Knapsbury Ln,Indianapolis,IN,46235,3,3,1647,6098.4 sqft,
+https://www.zillow.com/homedetails/1603-E-Market-St-Indianapolis-IN-46201/112834413_zpid/,112834413,,SINGLE FAMILY,"$440,000",1603 E Market St,Indianapolis,IN,46201,5,4,2700,5662.8 sqft,2891
+https://www.zillow.com/homedetails/4522-Ozark-Ln-Indianapolis-IN-46239/336863732_zpid/,336863732,,SINGLE FAMILY,"$389,990",4522 Ozark Ln,Indianapolis,IN,46239,5,3,3162,8712 sqft,
+https://www.zillow.com/homedetails/8514-E-36th-Pl-Indianapolis-IN-46226/1228315_zpid/,1228315,,SINGLE FAMILY,"$225,000",8514 E 36th Pl,Indianapolis,IN,46226,5,3,2132,8276.4 sqft,
+https://www.zillow.com/homedetails/11520-Capistrano-Ct-Indianapolis-IN-46236/1157424_zpid/,1157424,,SINGLE FAMILY,"$399,999",11520 Capistrano Ct,Indianapolis,IN,46236,4,3,2278,10454.4 sqft,
+https://www.zillow.com/homedetails/8155-Chesterhill-Way-Indianapolis-IN-46239/79689206_zpid/,79689206,,SINGLE FAMILY,"$285,000",8155 Chesterhill Way,Indianapolis,IN,46239,3,3,1900,7405.2 sqft,
+https://www.zillow.com/homedetails/8164-Amarillo-Dr-Indianapolis-IN-46237/52484404_zpid/,52484404,,SINGLE FAMILY,"$265,000",8164 Amarillo Dr,Indianapolis,IN,46237,3,3,1776,7405.2 sqft,
+https://www.zillow.com/homedetails/6724-Carlsen-Ave-Indianapolis-IN-46214/1303924_zpid/,1303924,,SINGLE FAMILY,"$249,000",6724 Carlsen Ave,Indianapolis,IN,46214,3,1,1373,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/822-Vanceburg-Dr-Indianapolis-IN-46241/1311604_zpid/,1311604,,SINGLE FAMILY,"$249,900",822 Vanceburg Dr,Indianapolis,IN,46241,3,2,1472,0.259 acres,1816
+https://www.zillow.com/homedetails/8339-Hill-Gail-Dr-Indianapolis-IN-46217/1187159_zpid/,1187159,,SINGLE FAMILY,"$369,000",8339 Hill Gail Dr,Indianapolis,IN,46217,3,3,1761,0.37 acres,
+https://www.zillow.com/homedetails/4305-Five-Points-Rd-Indianapolis-IN-46239/1131150_zpid/,1131150,,SINGLE FAMILY,"$340,000",4305 Five Points Rd,Indianapolis,IN,46239,3,2,2065,1.76 acres,
+https://www.zillow.com/homedetails/3951-N-Audubon-Rd-Indianapolis-IN-46226/1137930_zpid/,1137930,,SINGLE FAMILY,"$165,000",3951 N Audubon Rd,Indianapolis,IN,46226,3,2,2436,7840.8 sqft,
+https://www.zillow.com/homedetails/2346-Hanover-Dr-Indianapolis-IN-46227/1176723_zpid/,1176723,,SINGLE FAMILY,"$215,000",2346 Hanover Dr,Indianapolis,IN,46227,3,2,2000,0.35 acres,
+https://www.zillow.com/homedetails/7316-Lions-Head-Dr-APT-D-Indianapolis-IN-46260/1274610_zpid/,1274610,,CONDO,"$207,000",7316 Lions Head Dr APT D,Indianapolis,IN,46260,2,2,1900,6969.6 sqft,
+https://www.zillow.com/homedetails/8117-Birchfield-Dr-Indianapolis-IN-46268/69389245_zpid/,69389245,,SINGLE FAMILY,"$309,000",8117 Birchfield Dr,Indianapolis,IN,46268,4,3,1704,4356 sqft,
+https://www.zillow.com/homedetails/7556-Gunyon-Ct-Indianapolis-IN-46237/1133694_zpid/,1133694,,SINGLE FAMILY,"$275,000",7556 Gunyon Ct,Indianapolis,IN,46237,3,2,1500,0.32999999999999996 acres,
+https://www.zillow.com/homedetails/3231-Thurston-Dr-Indianapolis-IN-46224/1306271_zpid/,1306271,,SINGLE FAMILY,"$260,000",3231 Thurston Dr,Indianapolis,IN,46224,4,2,1536,6969.6 sqft,
+https://www.zillow.com/homedetails/8795-Rosewood-Ln-Indianapolis-IN-46240/1265810_zpid/,1265810,,SINGLE FAMILY,"$285,000",8795 Rosewood Ln,Indianapolis,IN,46240,3,2,1221,0.61 acres,
+https://www.zillow.com/homedetails/1720-Kessler-Blvd-Indianapolis-IN-46220/2061844153_zpid/,2061844153,,SINGLE FAMILY,"$384,900",1720 Kessler Blvd,Indianapolis,IN,46220,3,2,2304,6098.4 sqft,
+https://www.zillow.com/homedetails/6133-Rosslyn-Ave-Indianapolis-IN-46220/1250108_zpid/,1250108,,SINGLE FAMILY,"$365,000",6133 Rosslyn Ave,Indianapolis,IN,46220,2,2,1672,5227.2 sqft,2013
+https://www.zillow.com/homedetails/4461-Braemar-Dr-Indianapolis-IN-46254/1199998_zpid/,1199998,,SINGLE FAMILY,"$220,000",4461 Braemar Dr,Indianapolis,IN,46254,2,1,1102,10454.4 sqft,
+https://www.zillow.com/homedetails/1005-Buffalo-Run-Way-Indianapolis-IN-46227/1191915_zpid/,1191915,,CONDO,"$209,900",1005 Buffalo Run Way,Indianapolis,IN,46227,3,2,1379,3920.4 sqft,
+https://www.zillow.com/homedetails/6417-Park-Central-Dr-W-APT-D-Indianapolis-IN-46260/1276948_zpid/,1276948,,CONDO,"$109,900",6417 Park Central Dr W APT D,Indianapolis,IN,46260,2,2,1485,6098.4 sqft,
+https://www.zillow.com/homedetails/8719-Log-Run-Dr-S-Indianapolis-IN-46234/454901409_zpid/,454901409,,SINGLE FAMILY,"$499,990",8719 Log Run Dr S,Indianapolis,IN,46234,5,4,5160,0.67 acres,
+https://www.zillow.com/homedetails/8924-Stormhaven-Ct-Indianapolis-IN-46256/1153444_zpid/,1153444,,SINGLE FAMILY,"$749,000",8924 Stormhaven Ct,Indianapolis,IN,46256,5,5,4924,0.35 acres,
+https://www.zillow.com/homedetails/7529-Natchez-Ct-Indianapolis-IN-46217/1187774_zpid/,1187774,,SINGLE FAMILY,"$258,500",7529 Natchez Ct,Indianapolis,IN,46217,4,2,2073,0.32999999999999996 acres,1953
+https://www.zillow.com/homedetails/9451-Lafayette-Rd-Indianapolis-IN-46278/59815360_zpid/,59815360,,SINGLE FAMILY,"$700,000",9451 Lafayette Rd,Indianapolis,IN,46278,3,3,3229,9.44 acres,
+https://www.zillow.com/homedetails/534-S-Lynhurst-Dr-Indianapolis-IN-46241/1295506_zpid/,1295506,,SINGLE FAMILY,"$144,900",534 S Lynhurst Dr,Indianapolis,IN,46241,2,1,1060,9147.6 sqft,
+https://www.zillow.com/homedetails/2445-Guilford-Ave-Indianapolis-IN-46205/1091682_zpid/,1091682,,SINGLE FAMILY,"$139,900",2445 Guilford Ave,Indianapolis,IN,46205,3,1,1104,5662.8 sqft,1875
+https://www.zillow.com/homedetails/1740-Haynes-Ave-Indianapolis-IN-46240/1256319_zpid/,1256319,,SINGLE FAMILY,"$250,000",1740 Haynes Ave,Indianapolis,IN,46240,4,2,1182,0.27 acres,1882
+https://www.zillow.com/homedetails/7910-Islay-Rd-Indianapolis-IN-46217/1191710_zpid/,1191710,,SINGLE FAMILY,"$425,000",7910 Islay Rd,Indianapolis,IN,46217,3,3,2719,0.29 acres,
+https://www.zillow.com/homedetails/3355-Wallace-Ave-Indianapolis-IN-46218/1112721_zpid/,1112721,,SINGLE FAMILY,"$125,000",3355 Wallace Ave,Indianapolis,IN,46218,2,1,768,6534 sqft,
+https://www.zillow.com/homedetails/3505-N-Oxford-St-Indianapolis-IN-46218/1083550_zpid/,1083550,,SINGLE FAMILY,"$110,000",3505 N Oxford St,Indianapolis,IN,46218,2,1,795,6534 sqft,1259
+https://www.zillow.com/homedetails/1231-E-88th-St-Indianapolis-IN-46240/1266151_zpid/,1266151,,SINGLE FAMILY,"$335,000",1231 E 88th St,Indianapolis,IN,46240,3,3,2632,0.61 acres,2698
+https://www.zillow.com/homedetails/6839-Powder-Dr-Indianapolis-IN-46259/92467844_zpid/,92467844,,SINGLE FAMILY,"$414,900",6839 Powder Dr,Indianapolis,IN,46259,4,3,3172,9583.2 sqft,
+https://www.zillow.com/homedetails/6343-Maple-Dr-Indianapolis-IN-46220/1260540_zpid/,1260540,,SINGLE FAMILY,"$349,000",6343 Maple Dr,Indianapolis,IN,46220,4,2,2592,10018.8 sqft,
+https://www.zillow.com/homedetails/4160-Broadway-St-Indianapolis-IN-46205/1248950_zpid/,1248950,,SINGLE FAMILY,"$395,000",4160 Broadway St,Indianapolis,IN,46205,3,2,2697,5662.8 sqft,2372
+https://www.zillow.com/homedetails/3161-Normandy-Rd-Indianapolis-IN-46222/1301998_zpid/,1301998,,SINGLE FAMILY,"$199,000",3161 Normandy Rd,Indianapolis,IN,46222,4,1,1288,6098.4 sqft,
+https://www.zillow.com/homedetails/9222-Golden-Oaks-W-Indianapolis-IN-46260/1276020_zpid/,1276020,,SINGLE FAMILY,"$239,000",9222 Golden Oaks W,Indianapolis,IN,46260,2,2,1441,5418 sqft,1707
+https://www.zillow.com/homedetails/5809-Spruce-Knoll-Ct-Indianapolis-IN-46220/52493807_zpid/,52493807,,CONDO,"$280,000",5809 Spruce Knoll Ct,Indianapolis,IN,46220,3,3,2063,1742.4 sqft,
+https://www.zillow.com/homedetails/5101-Graceland-Ave-Indianapolis-IN-46208/1252869_zpid/,1252869,,SINGLE FAMILY,"$639,900",5101 Graceland Ave,Indianapolis,IN,46208,3,3,3313,7405.2 sqft,
+https://www.zillow.com/homedetails/6618-Cricklewood-Rd-Indianapolis-IN-46220/1146079_zpid/,1146079,,SINGLE FAMILY,"$400,000",6618 Cricklewood Rd,Indianapolis,IN,46220,4,3,2976,0.36 acres,
+https://www.zillow.com/homedetails/4126-Flamingo-West-Dr-Indianapolis-IN-46226/1144664_zpid/,1144664,,SINGLE FAMILY,"$245,000",4126 Flamingo West Dr,Indianapolis,IN,46226,4,2,1520,5662.8 sqft,
+https://www.zillow.com/homedetails/1921-New-Haven-Dr-Indianapolis-IN-46231/1300630_zpid/,1300630,,SINGLE FAMILY,"$235,000",1921 New Haven Dr,Indianapolis,IN,46231,3,2,1008,0.36 acres,
+https://www.zillow.com/homedetails/9218-Doubloon-Rd-Indianapolis-IN-46268/1200379_zpid/,1200379,,CONDO,"$189,900",9218 Doubloon Rd,Indianapolis,IN,46268,2,2,1248,8712 sqft,
+https://www.zillow.com/homedetails/5927-Timber-Lake-Blvd-Indianapolis-IN-46237/1134298_zpid/,1134298,,SINGLE FAMILY,"$250,000",5927 Timber Lake Blvd,Indianapolis,IN,46237,3,2,1709,8712 sqft,
+https://www.zillow.com/homedetails/2701-Sangster-Ave-Indianapolis-IN-46218/1083797_zpid/,1083797,,SINGLE FAMILY,"$185,000",2701 Sangster Ave,Indianapolis,IN,46218,3,1,1064,6969.6 sqft,
+https://www.zillow.com/homedetails/316-S-Ohmer-Ave-Indianapolis-IN-46219/1219840_zpid/,1219840,,SINGLE FAMILY,"$345,000",316 S Ohmer Ave,Indianapolis,IN,46219,4,3,2232,10454.4 sqft,
+https://www.zillow.com/homedetails/8841-Rocky-Ridge-Rd-Indianapolis-IN-46217/1186666_zpid/,1186666,,SINGLE FAMILY,"$375,000",8841 Rocky Ridge Rd,Indianapolis,IN,46217,4,3,3744,0.38 acres,
+https://www.zillow.com/homedetails/4544-N-Meridian-St-Indianapolis-IN-46208/1244917_zpid/,1244917,,SINGLE FAMILY,"$1,350,000",4544 N Meridian St,Indianapolis,IN,46208,4,5,6720,0.32 acres,
+https://www.zillow.com/homedetails/1148-Nanwich-Ct-Indianapolis-IN-46217/61761014_zpid/,61761014,,SINGLE FAMILY,"$219,000",1148 Nanwich Ct,Indianapolis,IN,46217,3,3,1977,0.27999999999999997 acres,1787
+https://www.zillow.com/homedetails/5993-Sycamore-Forge-Ln-Indianapolis-IN-46254/1208063_zpid/,1208063,,SINGLE FAMILY,"$289,999",5993 Sycamore Forge Ln,Indianapolis,IN,46254,3,3,1709,6969.6 sqft,
+https://www.zillow.com/homedetails/9909-E-McGregor-Rd-Indianapolis-IN-46259/1134210_zpid/,1134210,,SINGLE FAMILY,"$709,900",9909 E McGregor Rd,Indianapolis,IN,46259,5,4,3516,5.41 acres,
+https://www.zillow.com/homedetails/4936-E-72nd-Pl-Indianapolis-IN-46250/1272193_zpid/,1272193,,SINGLE FAMILY,"$415,000",4936 E 72nd Pl,Indianapolis,IN,46250,4,2,2488,0.36 acres,
+https://www.zillow.com/homedetails/2115-Napa-Cir-Indianapolis-IN-46214/1316111_zpid/,1316111,,SINGLE FAMILY,"$290,000",2115 Napa Cir,Indianapolis,IN,46214,4,3,2416,0.53 acres,
+https://www.zillow.com/homedetails/40-42-W-56th-St-Indianapolis-IN-46208/455078172_zpid/,455078172,,MULTI FAMILY,"$575,000",40-42 W 56th St,Indianapolis,IN,46208,4,2,,0.27 acres,
+https://www.zillow.com/homedetails/5023-Primrose-Ave-Indianapolis-IN-46205/1255119_zpid/,1255119,,SINGLE FAMILY,"$299,900",5023 Primrose Ave,Indianapolis,IN,46205,2,2,1137,4791.6 sqft,
+https://www.zillow.com/homedetails/8903-Maple-Hill-Dr-Indianapolis-IN-46239/1129404_zpid/,1129404,,SINGLE FAMILY,"$275,000",8903 Maple Hill Dr,Indianapolis,IN,46239,3,2,3120,0.7 acres,2103
+https://www.zillow.com/homedetails/333-Massachusetts-Ave-UNIT-303-Indianapolis-IN-46204/112561287_zpid/,112561287,,CONDO,"$975,000",333 Massachusetts Ave UNIT 303,Indianapolis,IN,46204,3,2,2794, ,5356
+https://www.zillow.com/homedetails/6159-Broadway-St-Indianapolis-IN-46220/1247106_zpid/,1247106,,SINGLE FAMILY,"$325,000",6159 Broadway St,Indianapolis,IN,46220,3,2,1872,8276.4 sqft,1967
+https://www.zillow.com/homedetails/885-E-83rd-St-Indianapolis-IN-46240/1261771_zpid/,1261771,,SINGLE FAMILY,"$390,000",885 E 83rd St,Indianapolis,IN,46240,3,2,1944,0.26 acres,
+https://www.zillow.com/homedetails/1530-E-75th-St-Indianapolis-IN-46240/1280396_zpid/,1280396,,SINGLE FAMILY,"$635,000",1530 E 75th St,Indianapolis,IN,46240,4,4,4884,0.51 acres,
+https://www.zillow.com/homedetails/914-N-Oakland-Ave-Indianapolis-IN-46201/1106469_zpid/,1106469,,MULTI FAMILY,"$149,900",914 N Oakland Ave,Indianapolis,IN,46201,6,2,,5227.2 sqft,1632
+https://www.zillow.com/homedetails/8606-Lepart-Ct-Indianapolis-IN-46278/1206829_zpid/,1206829,,SINGLE FAMILY,"$550,000",8606 Lepart Ct,Indianapolis,IN,46278,5,5,4688,0.5 acres,
+https://www.zillow.com/homedetails/11266-Old-Stone-Dr-Indianapolis-IN-46236/1160561_zpid/,1160561,,SINGLE FAMILY,"$640,000",11266 Old Stone Dr,Indianapolis,IN,46236,4,4,4617,0.37 acres,
+https://www.zillow.com/homedetails/4337-N-Audubon-Rd-Indianapolis-IN-46226/1142585_zpid/,1142585,,SINGLE FAMILY,"$199,990",4337 N Audubon Rd,Indianapolis,IN,46226,3,1,2080,8276.4 sqft,1449
+https://www.zillow.com/homedetails/7118-Estes-Dr-Indianapolis-IN-46239/399147746_zpid/,399147746,,SINGLE FAMILY,"$465,000",7118 Estes Dr,Indianapolis,IN,46239,6,4,3466,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/4219-Mathews-Ave-Indianapolis-IN-46227/1171323_zpid/,1171323,,SINGLE FAMILY,"$169,900",4219 Mathews Ave,Indianapolis,IN,46227,3,2,1469,0.5 acres,1771
+https://www.zillow.com/homedetails/35-E-58th-St-Indianapolis-IN-46220/79612784_zpid/,79612784,,SINGLE FAMILY,"$1,250,000",35 E 58th St,Indianapolis,IN,46220,5,4,4266,9147.6 sqft,
+https://www.zillow.com/homedetails/2003-S-Bolton-Ave-Indianapolis-IN-46203/1224494_zpid/,1224494,,SINGLE FAMILY,"$185,000",2003 S Bolton Ave,Indianapolis,IN,46203,3,3,2587,0.41 acres,
+https://www.zillow.com/homedetails/1738-E-71st-St-Indianapolis-IN-46220/1256292_zpid/,1256292,,SINGLE FAMILY,"$349,900",1738 E 71st St,Indianapolis,IN,46220,3,3,2000,0.35 acres,
+https://www.zillow.com/homedetails/4537-Sugar-Bay-Ln-Indianapolis-IN-46237/66388495_zpid/,66388495,,SINGLE FAMILY,"$360,000",4537 Sugar Bay Ln,Indianapolis,IN,46237,4,3,3793,0.26 acres,
+https://www.zillow.com/homedetails/8421-Gates-Corner-Dr-Camby-IN-46113/95062057_zpid/,95062057,,SINGLE FAMILY,"$299,900",8421 Gates Corner Dr,Camby,IN,46113,4,3,2460,6098.4 sqft,
+https://www.zillow.com/homedetails/8627-Emerald-Ln-Indianapolis-IN-46260/1269498_zpid/,1269498,,SINGLE FAMILY,"$549,000",8627 Emerald Ln,Indianapolis,IN,46260,4,2,2429,0.8099999999999999 acres,
+https://www.zillow.com/homedetails/450-W-93rd-St-Indianapolis-IN-46260/1264171_zpid/,1264171,,SINGLE FAMILY,"$499,900",450 W 93rd St,Indianapolis,IN,46260,3,3,2457,1.02 acres,
+https://www.zillow.com/homedetails/6575-Robin-Hood-Dr-Indianapolis-IN-46227/1189029_zpid/,1189029,,SINGLE FAMILY,"$599,900",6575 Robin Hood Dr,Indianapolis,IN,46227,5,4,4165,0.32999999999999996 acres,
+https://www.zillow.com/homedetails/9459-Wimbledon-Ct-Indianapolis-IN-46250/1160378_zpid/,1160378,,CONDO,"$185,000",9459 Wimbledon Ct,Indianapolis,IN,46250,2,2,1142, ,
+https://www.zillow.com/homedetails/1409-Terrace-Ave-Indianapolis-IN-46203/1102399_zpid/,1102399,,SINGLE FAMILY,"$300,000",1409 Terrace Ave,Indianapolis,IN,46203,3,2,1968,4356 sqft,
+https://www.zillow.com/homedetails/5550-Bay-Colony-Ln-Indianapolis-IN-46234/1198363_zpid/,1198363,,SINGLE FAMILY,"$825,000",5550 Bay Colony Ln,Indianapolis,IN,46234,4,5,5968,0.85 acres,
+https://www.zillow.com/homedetails/1639-N-College-Ave-2-Indianapolis-IN-46205/88923528_zpid/,88923528,,CONDO,"$215,000",1639 N College Ave #2,Indianapolis,IN,46205,1,2,1056,1742.4 sqft,
+https://www.zillow.com/homedetails/9205-Selkirk-Ct-Indianapolis-IN-46260/1273898_zpid/,1273898,,SINGLE FAMILY,"$424,990",9205 Selkirk Ct,Indianapolis,IN,46260,4,3,2660,0.42000000000000004 acres,
+https://www.zillow.com/homedetails/7016-Birchwood-Park-Ct-Indianapolis-IN-46259/2068984670_zpid/,2068984670,,SINGLE FAMILY,"$740,000",7016 Birchwood Park Ct,Indianapolis,IN,46259,4,4,4300,0.38 acres,
+https://www.zillow.com/homedetails/5514-Meckes-Ln-Indianapolis-IN-46237/1130898_zpid/,1130898,,SINGLE FAMILY,"$240,000",5514 Meckes Ln,Indianapolis,IN,46237,3,2,1564,7840.8 sqft,
+https://www.zillow.com/homedetails/6725-Woodmere-Ct-Indianapolis-IN-46260/1271404_zpid/,1271404,,SINGLE FAMILY,"$375,000",6725 Woodmere Ct,Indianapolis,IN,46260,3,3,3469,0.41 acres,
+https://www.zillow.com/homedetails/10308-Stormhaven-Way-Indianapolis-IN-46256/1153495_zpid/,1153495,,SINGLE FAMILY,"$465,000",10308 Stormhaven Way,Indianapolis,IN,46256,4,3,3032,0.43 acres,
+https://www.zillow.com/homedetails/7115-Franklin-Parke-Blvd-Indianapolis-IN-46259/59811997_zpid/,59811997,,SINGLE FAMILY,"$625,000",7115 Franklin Parke Blvd,Indianapolis,IN,46259,4,4,4296,0.41 acres,2905
+https://www.zillow.com/homedetails/5326-Mohican-Rd-Indianapolis-IN-46220/1267226_zpid/,1267226,,SINGLE FAMILY,"$449,500",5326 Mohican Rd,Indianapolis,IN,46220,3,2,4190,0.62 acres,
+https://www.zillow.com/homedetails/6534-Flowstone-Way-Indianapolis-IN-46237/95283065_zpid/,95283065,,SINGLE FAMILY,"$550,000",6534 Flowstone Way,Indianapolis,IN,46237,4,4,3833,7405.2 sqft,
+https://www.zillow.com/homedetails/7914-Trotwood-Cir-Indianapolis-IN-46256/1155487_zpid/,1155487,,SINGLE FAMILY,"$299,900",7914 Trotwood Cir,Indianapolis,IN,46256,3,2,1596,7840.8 sqft,
+https://www.zillow.com/homedetails/450-N-Kealing-Ave-Indianapolis-IN-46201/1085552_zpid/,1085552,,MULTI FAMILY,"$239,900",450 N Kealing Ave,Indianapolis,IN,46201,4,4,,4791.6 sqft,1125
+https://www.zillow.com/homedetails/7222-Harbour-Isle-Indianapolis-IN-46240/1277681_zpid/,1277681,,CONDO,"$195,000",7222 Harbour Isle,Indianapolis,IN,46240,2,1,890,6969.6 sqft,
+https://www.zillow.com/homedetails/1637-Kessler-Blvd-Indianapolis-IN-46222/1290330_zpid/,1290330,,SINGLE FAMILY,"$200,000",1637 Kessler Blvd,Indianapolis,IN,46222,2,2,2016,0.37 acres,
+https://www.zillow.com/homedetails/6302-W-Loretta-Dr-Indianapolis-IN-46221/1124270_zpid/,1124270,,SINGLE FAMILY,"$255,000",6302 W Loretta Dr,Indianapolis,IN,46221,3,2,2816,0.29 acres,
+https://www.zillow.com/homedetails/5905-Dewey-Ave-Indianapolis-IN-46219/444185696_zpid/,444185696,,SINGLE FAMILY,"$369,000",5905 Dewey Ave,Indianapolis,IN,46219,3,3,2120,0.31 acres,
+https://www.zillow.com/homedetails/8750-Twain-Ln-Indianapolis-IN-46239/245127876_zpid/,245127876,,SINGLE FAMILY,"$274,900",8750 Twain Ln,Indianapolis,IN,46239,2,2,1640,6534 sqft,
+https://www.zillow.com/homedetails/3514-Orchard-Ave-Indianapolis-IN-46218/1115723_zpid/,1115723,,SINGLE FAMILY,"$165,000",3514 Orchard Ave,Indianapolis,IN,46218,3,1,1728,6969.6 sqft,
+https://www.zillow.com/homedetails/4707-Guilford-Ave-Indianapolis-IN-46205/1246641_zpid/,1246641,,SINGLE FAMILY,"$250,000",4707 Guilford Ave,Indianapolis,IN,46205,4,3,1873,6534 sqft,2033
+https://www.zillow.com/homedetails/5512-Lunsford-Dr-Indianapolis-IN-46237/1131630_zpid/,1131630,,SINGLE FAMILY,"$229,000",5512 Lunsford Dr,Indianapolis,IN,46237,3,2,1290,7405.2 sqft,
+https://www.zillow.com/homedetails/8553-Broadway-St-Indianapolis-IN-46240/1241150_zpid/,1241150,,SINGLE FAMILY,"$299,900",8553 Broadway St,Indianapolis,IN,46240,6,2,2580,0.32999999999999996 acres,
+https://www.zillow.com/homedetails/1420-Alonzo-Pl-Indianapolis-IN-46217/67858823_zpid/,67858823,,SINGLE FAMILY,"$235,000",1420 Alonzo Pl,Indianapolis,IN,46217,3,3,1494,5227.2 sqft,
+https://www.zillow.com/homedetails/309-N-Riley-Ave-Indianapolis-IN-46201/1086074_zpid/,1086074,,SINGLE FAMILY,"$194,000",309 N Riley Ave,Indianapolis,IN,46201,3,2,2042,3484.8 sqft,
+https://www.zillow.com/homedetails/4123-N-Illinois-St-Indianapolis-IN-46208/1251872_zpid/,1251872,,SINGLE FAMILY,"$525,000",4123 N Illinois St,Indianapolis,IN,46208,3,3,3008,0.29 acres,
+https://www.zillow.com/homedetails/4410-Mountbatten-Ct-Indianapolis-IN-46254/1197017_zpid/,1197017,,CONDO,"$150,000",4410 Mountbatten Ct,Indianapolis,IN,46254,2,2,1349,2178 sqft,
+https://www.zillow.com/homedetails/2060-E-Thompson-Rd-Indianapolis-IN-46227/1176708_zpid/,1176708,,SINGLE FAMILY,"$240,000",2060 E Thompson Rd,Indianapolis,IN,46227,6,3,1422,0.8299816345270891 acres,2108
+https://www.zillow.com/homedetails/5401-Padre-Ln-Indianapolis-IN-46237/1133550_zpid/,1133550,,SINGLE FAMILY,"$194,997",5401 Padre Ln,Indianapolis,IN,46237,3,2,1064,9583.2 sqft,
+https://www.zillow.com/homedetails/206-E-51st-St-Indianapolis-IN-46205/1249384_zpid/,1249384,,SINGLE FAMILY,"$650,000",206 E 51st St,Indianapolis,IN,46205,3,3,3014,5662.8 sqft,
+https://www.zillow.com/homedetails/245-N-Tacoma-Ave-Indianapolis-IN-46201/1084627_zpid/,1084627,,SINGLE FAMILY,"$375,000",245 N Tacoma Ave,Indianapolis,IN,46201,3,2,1510,5227.2 sqft,
+https://www.zillow.com/homedetails/5418-E-19th-St-Indianapolis-IN-46218/1223141_zpid/,1223141,,SINGLE FAMILY,"$100,000",5418 E 19th St,Indianapolis,IN,46218,2,1,768,6360 sqft,986
+https://www.zillow.com/homedetails/7414-Mendenhall-Rd-Camby-IN-46113/1121433_zpid/,1121433,,SINGLE FAMILY,"$239,900",7414 Mendenhall Rd,Camby,IN,46113,3,2,1965,0.25 acres,
+https://www.zillow.com/homedetails/8729-Dorill-Creek-Ln-Indianapolis-IN-46259/2058065786_zpid/,2058065786,,SINGLE FAMILY,"$430,000",8729 Dorill Creek Ln,Indianapolis,IN,46259,5,3,3248,0.29 acres,
+https://www.zillow.com/homedetails/3148-Keswick-Rd-Indianapolis-IN-46222/1301940_zpid/,1301940,,SINGLE FAMILY,"$185,000",3148 Keswick Rd,Indianapolis,IN,46222,3,1,900,5662.8 sqft,1423
+https://www.zillow.com/homedetails/6209-N-Parker-Ave-Indianapolis-IN-46220/454657984_zpid/,454657984,,SINGLE FAMILY,"$325,000",6209 N Parker Ave,Indianapolis,IN,46220,3,2,1755,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/7720-Langwood-Dr-Indianapolis-IN-46268/1205670_zpid/,1205670,,SINGLE FAMILY,"$380,000",7720 Langwood Dr,Indianapolis,IN,46268,4,3,4120,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/8041-Barry-Rd-Indianapolis-IN-46219/444194714_zpid/,444194714,,SINGLE FAMILY,"$249,900",8041 Barry Rd,Indianapolis,IN,46219,4,2,1760,10018.8 sqft,
+https://www.zillow.com/homedetails/10662-E-Lostpine-Ln-Indianapolis-IN-46235/1236116_zpid/,1236116,,SINGLE FAMILY,"$169,000",10662 E Lostpine Ln,Indianapolis,IN,46235,3,2,1154,7840.8 sqft,
+https://www.zillow.com/homedetails/1302-N-Furman-Ave-Indianapolis-IN-46214/1303613_zpid/,1303613,,SINGLE FAMILY,"$234,900",1302 N Furman Ave,Indianapolis,IN,46214,3,2,1404,0.45999999999999996 acres,1758
+https://www.zillow.com/homedetails/1739-Forest-Dr-Indianapolis-IN-46227/1173830_zpid/,1173830,,SINGLE FAMILY,"$290,000",1739 Forest Dr,Indianapolis,IN,46227,4,3,2260,0.43 acres,
+https://www.zillow.com/homedetails/3415-Winchester-Dr-Indianapolis-IN-46227/1185727_zpid/,1185727,,CONDO,"$144,500",3415 Winchester Dr,Indianapolis,IN,46227,2,2,1182,2178 sqft,
+https://www.zillow.com/homedetails/4619-N-Park-Ave-Indianapolis-IN-46205/1248991_zpid/,1248991,,SINGLE FAMILY,"$475,000",4619 N Park Ave,Indianapolis,IN,46205,3,2,2225,5227.2 sqft,
+https://www.zillow.com/homedetails/1141-N-Shadeland-Ave-Indianapolis-IN-46219/1219798_zpid/,1219798,,SINGLE FAMILY,"$193,700",1141 N Shadeland Ave,Indianapolis,IN,46219,4,2,1732,0.38 acres,1867
+https://www.zillow.com/homedetails/214-E-Saint-Joseph-St-Indianapolis-IN-46202/1103328_zpid/,1103328,,SINGLE FAMILY,"$1,250,000",214 E Saint Joseph St,Indianapolis,IN,46202,5,6,5760,6969.6 sqft,
+https://www.zillow.com/homedetails/3225-W-39th-St-Indianapolis-IN-46228/92467164_zpid/,92467164,,SINGLE FAMILY,"$285,000",3225 W 39th St,Indianapolis,IN,46228,3,3,1942,4791.6 sqft,
+https://www.zillow.com/homedetails/1144-W-73rd-St-Indianapolis-IN-46260/1269716_zpid/,1269716,,SINGLE FAMILY,"$375,000",1144 W 73rd St,Indianapolis,IN,46260,3,2,2160,0.72 acres,1803
+https://www.zillow.com/homedetails/2125-N-Pasadena-St-Indianapolis-IN-46219/1213098_zpid/,1213098,,SINGLE FAMILY,"$369,900",2125 N Pasadena St,Indianapolis,IN,46219,4,3,3330,0.39 acres,
+https://www.zillow.com/homedetails/7224-N-Tuxedo-St-Indianapolis-IN-46240/1269397_zpid/,1269397,,SINGLE FAMILY,"$359,900",7224 N Tuxedo St,Indianapolis,IN,46240,3,2,1864,0.38 acres,
+https://www.zillow.com/homedetails/6644-McFarland-Rd-Indianapolis-IN-46227/1184207_zpid/,1184207,,SINGLE FAMILY,"$400,000",6644 McFarland Rd,Indianapolis,IN,46227,3,3,2086,1.05 acres,
+https://www.zillow.com/homedetails/2204-Pamela-Dr-Indianapolis-IN-46220/1260613_zpid/,1260613,,SINGLE FAMILY,"$349,900",2204 Pamela Dr,Indianapolis,IN,46220,3,2,2276,10018.8 sqft,
+https://www.zillow.com/homedetails/4749-Rocky-Knob-Ln-Indianapolis-IN-46254/1204106_zpid/,1204106,,SINGLE FAMILY,"$225,000",4749 Rocky Knob Ln,Indianapolis,IN,46254,3,3,1620,0.51 acres,
+https://www.zillow.com/homedetails/2610-Caroline-Ave-Indianapolis-IN-46218/1110448_zpid/,1110448,,SINGLE FAMILY,"$140,000",2610 Caroline Ave,Indianapolis,IN,46218,4,3,1532,7840.8 sqft,1747
+https://www.zillow.com/homedetails/5681-Carrollton-Ave-Indianapolis-IN-46220/1247141_zpid/,1247141,,SINGLE FAMILY,"$950,000",5681 Carrollton Ave,Indianapolis,IN,46220,4,4,3573,7405.2 sqft,
+https://www.zillow.com/homedetails/250-Koehne-St-Indianapolis-IN-46222/1076777_zpid/,1076777,,SINGLE FAMILY,"$149,999",250 Koehne St,Indianapolis,IN,46222,5,3,3040,4791.6 sqft,
+https://www.zillow.com/homedetails/952-N-Concord-St-Indianapolis-IN-46222/1294403_zpid/,1294403,,SINGLE FAMILY,"$157,500",952 N Concord St,Indianapolis,IN,46222,4,2,2632,3920.4 sqft,1958
+https://www.zillow.com/homedetails/11845-Discovery-Cir-Indianapolis-IN-46236/1158689_zpid/,1158689,,SINGLE FAMILY,"$650,000",11845 Discovery Cir,Indianapolis,IN,46236,4,3,3452,0.42000000000000004 acres,2993
+https://www.zillow.com/homedetails/7722-Shady-Hills-Dr-W-Indianapolis-IN-46278/2058754382_zpid/,2058754382,,SINGLE FAMILY,"$449,900",7722 Shady Hills Dr W,Indianapolis,IN,46278,5,4,3546,1.37 acres,3471
+https://www.zillow.com/homedetails/7113-Lakeside-Woods-Dr-Indianapolis-IN-46278/1206747_zpid/,1206747,,SINGLE FAMILY,"$479,900",7113 Lakeside Woods Dr,Indianapolis,IN,46278,4,3,2487,0.37 acres,
+https://www.zillow.com/homedetails/4101-Ponderosa-Blvd-Indianapolis-IN-46250/1271485_zpid/,1271485,,SINGLE FAMILY,"$730,000",4101 Ponderosa Blvd,Indianapolis,IN,46250,4,4,4344,0.49000000000000005 acres,2231
+https://www.zillow.com/homedetails/3607-N-Graham-Ave-Indianapolis-IN-46218/1226594_zpid/,1226594,,SINGLE FAMILY,"$140,000",3607 N Graham Ave,Indianapolis,IN,46218,3,1,1102,6969.6 sqft,
+https://www.zillow.com/homedetails/9319-Rochelle-Dr-Indianapolis-IN-46235/444163686_zpid/,444163686,,SINGLE FAMILY,"$150,000",9319 Rochelle Dr,Indianapolis,IN,46235,3,1,1107,7405.2 sqft,
+https://www.zillow.com/homedetails/8413-Catamaran-Dr-Indianapolis-IN-46236/1154073_zpid/,1154073,,SINGLE FAMILY,"$554,800",8413 Catamaran Dr,Indianapolis,IN,46236,5,5,3260,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/6164-Afton-Crst-Indianapolis-IN-46220/1142256_zpid/,1142256,,SINGLE FAMILY,"$720,000",6164 Afton Crst,Indianapolis,IN,46220,4,3,3712,1.01 acres,
+https://www.zillow.com/homedetails/6185-Evanston-Ave-Indianapolis-IN-46220/1242647_zpid/,1242647,,SINGLE FAMILY,"$634,000",6185 Evanston Ave,Indianapolis,IN,46220,3,3,2088,0.31 acres,
+https://www.zillow.com/homedetails/8235-Ridge-Valley-Ct-Indianapolis-IN-46278/112077122_zpid/,112077122,,SINGLE FAMILY,"$749,999",8235 Ridge Valley Ct,Indianapolis,IN,46278,5,6,5876,0.89 acres,
+https://www.zillow.com/homedetails/7837-Dean-Rd-Indianapolis-IN-46240/1268298_zpid/,1268298,,SINGLE FAMILY,"$1,175,000",7837 Dean Rd,Indianapolis,IN,46240,3,3,4772,0.9099999999999999 acres,
+https://www.zillow.com/homedetails/5932-Broadway-St-Indianapolis-IN-46220/1253850_zpid/,1253850,,SINGLE FAMILY,"$465,000",5932 Broadway St,Indianapolis,IN,46220,4,3,2281,0.25 acres,2740
+https://www.zillow.com/homedetails/9456-Pepperidge-Dr-Indianapolis-IN-46235/1151476_zpid/,1151476,,SINGLE FAMILY,"$137,000",9456 Pepperidge Dr,Indianapolis,IN,46235,3,2,2068,8276.4 sqft,
+https://www.zillow.com/homedetails/10532-Beacon-Ln-Indianapolis-IN-46256/1163071_zpid/,1163071,,SINGLE FAMILY,"$449,999",10532 Beacon Ln,Indianapolis,IN,46256,4,3,3066,0.38 acres,2894
+https://www.zillow.com/homedetails/140-W-Hampton-Dr-Indianapolis-IN-46208/1253581_zpid/,1253581,,SINGLE FAMILY,"$489,000",140 W Hampton Dr,Indianapolis,IN,46208,4,3,3084,6098.4 sqft,
+https://www.zillow.com/homedetails/8703-Gordonshire-Dr-Indianapolis-IN-46278/69383944_zpid/,69383944,,SINGLE FAMILY,"$838,000",8703 Gordonshire Dr,Indianapolis,IN,46278,4,4,4620,0.6900000000000001 acres,
+https://www.zillow.com/homedetails/2436-Fairhope-Dr-Indianapolis-IN-46227/1178246_zpid/,1178246,,SINGLE FAMILY,"$185,000",2436 Fairhope Dr,Indianapolis,IN,46227,3,2,1600,6969 sqft,1655
+https://www.zillow.com/homedetails/5143-E-Pleasant-Run-Parkway-South-Dr-Indianapolis-IN-46219/454123142_zpid/,454123142,,SINGLE FAMILY,"$479,000",5143 E Pleasant Run Parkway South Dr,Indianapolis,IN,46219,3,4,2550,6926 sqft,
+https://www.zillow.com/homedetails/715-Kessler-Boulevard-East-Dr-Indianapolis-IN-46220/1248075_zpid/,1248075,,SINGLE FAMILY,"$415,000",715 Kessler Boulevard East Dr,Indianapolis,IN,46220,3,2,2448,6534 sqft,
+https://www.zillow.com/homedetails/7029-Kingswood-Cir-Indianapolis-IN-46256/1149774_zpid/,1149774,,SINGLE FAMILY,"$450,000",7029 Kingswood Cir,Indianapolis,IN,46256,3,3,3424,0.6 acres,
+https://www.zillow.com/homedetails/909-E-58th-St-Indianapolis-IN-46220/1245275_zpid/,1245275,,SINGLE FAMILY,"$699,900",909 E 58th St,Indianapolis,IN,46220,4,2,3720,7840.8 sqft,
+https://www.zillow.com/homedetails/3948-N-Delaware-St-Indianapolis-IN-46205/1254039_zpid/,1254039,,SINGLE FAMILY,"$600,000",3948 N Delaware St,Indianapolis,IN,46205,3,4,2917,7840.8 sqft,
+https://www.zillow.com/homedetails/7724-Eagle-Valley-Pass-Indianapolis-IN-46214/1311337_zpid/,1311337,,CONDO,"$168,000",7724 Eagle Valley Pass,Indianapolis,IN,46214,3,2,1500,1742.4 sqft,
+https://www.zillow.com/homedetails/7502-Colony-Cir-Indianapolis-IN-46260/1272576_zpid/,1272576,,SINGLE FAMILY,"$524,900",7502 Colony Cir,Indianapolis,IN,46260,4,3,2375,0.96 acres,2548
+https://www.zillow.com/homedetails/923-E-Epler-Ave-Indianapolis-IN-46227/1172739_zpid/,1172739,,SINGLE FAMILY,"$489,000",923 E Epler Ave,Indianapolis,IN,46227,4,3,3670,0.8 acres,2464
+https://www.zillow.com/homedetails/4130-N-Meridian-St-Indianapolis-IN-46208/1254234_zpid/,1254234,,SINGLE FAMILY,"$825,000",4130 N Meridian St,Indianapolis,IN,46208,4,4,4373,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/6280-N-Chester-Ave-Indianapolis-IN-46220/1241760_zpid/,1241760,,SINGLE FAMILY,"$875,000",6280 N Chester Ave,Indianapolis,IN,46220,4,3,4520,1.27 acres,
+https://www.zillow.com/homedetails/2227-Hidden-Orchard-Ct-Indianapolis-IN-46228/1270884_zpid/,1270884,,SINGLE FAMILY,"$599,000",2227 Hidden Orchard Ct,Indianapolis,IN,46228,7,5,5540,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/361-S-Spencer-Ave-Indianapolis-IN-46219/1216284_zpid/,1216284,,SINGLE FAMILY,"$135,000",361 S Spencer Ave,Indianapolis,IN,46219,2,1,1630,5662.8 sqft,
+https://www.zillow.com/homedetails/11603-Maze-Rd-Indianapolis-IN-46259/1129780_zpid/,1129780,,SINGLE FAMILY,"$524,999",11603 Maze Rd,Indianapolis,IN,46259,4,3,4192,3.38 acres,2053
+https://www.zillow.com/homedetails/115-Jordan-Rd-Indianapolis-IN-46217/1187430_zpid/,1187430,,SINGLE FAMILY,"$1,250,000",115 Jordan Rd,Indianapolis,IN,46217,4,5,5978,1.7 acres,
+https://www.zillow.com/homedetails/625-N-Grant-Ave-Indianapolis-IN-46201/1070818_zpid/,1070818,,SINGLE FAMILY,"$164,900",625 N Grant Ave,Indianapolis,IN,46201,3,1,1520,5662.8 sqft,
+https://www.zillow.com/homedetails/4110-N-Drexel-Ave-Indianapolis-IN-46226/1261714_zpid/,1261714,,SINGLE FAMILY,"$180,000",4110 N Drexel Ave,Indianapolis,IN,46226,2,1,1120,0.37 acres,1222
+https://www.zillow.com/homedetails/5678-N-College-Ave-Indianapolis-IN-46220/339153902_zpid/,339153902,,SINGLE FAMILY,"$685,000",5678 N College Ave,Indianapolis,IN,46220,4,4,3071,4791.6 sqft,
+https://www.zillow.com/homedetails/3315-N-Euclid-Ave-Indianapolis-IN-46218/1112013_zpid/,1112013,,SINGLE FAMILY,"$162,500",3315 N Euclid Ave,Indianapolis,IN,46218,2,1,1560,7405.2 sqft,
+https://www.zillow.com/homedetails/419-N-College-Ave-Indianapolis-IN-46202/1116638_zpid/,1116638,,SINGLE FAMILY,"$595,000",419 N College Ave,Indianapolis,IN,46202,4,3,3048,3049.2 sqft,
+https://www.zillow.com/homedetails/6470-Around-The-Hills-Rd-Indianapolis-IN-46226/1137817_zpid/,1137817,,SINGLE FAMILY,"$959,000",6470 Around The Hills Rd,Indianapolis,IN,46226,4,5,5104,3.26 acres,
+https://www.zillow.com/homedetails/7304-E-Stop-11-Rd-Indianapolis-IN-46259/1134626_zpid/,1134626,,SINGLE FAMILY,"$699,900",7304 E Stop 11 Rd,Indianapolis,IN,46259,4,3,2549,3 acres,2447
+https://www.zillow.com/homedetails/501-Fletcher-Ave-D-Indianapolis-IN-46203/125980167_zpid/,125980167,,CONDO,"$1,250,000",501 Fletcher Ave #D,Indianapolis,IN,46203,3,4,4070, ,
+https://www.zillow.com/homedetails/8310-Fall-Creek-Rd-Indianapolis-IN-46256/1140100_zpid/,1140100,,SINGLE FAMILY,"$493,000",8310 Fall Creek Rd,Indianapolis,IN,46256,4,4,2817,0.74 acres,
+https://www.zillow.com/homedetails/4247-Central-Ave-Indianapolis-IN-46205/1251382_zpid/,1251382,,SINGLE FAMILY,"$549,900",4247 Central Ave,Indianapolis,IN,46205,4,3,2601,7840.8 sqft,
+https://www.zillow.com/homedetails/7360-N-Layman-Ave-Indianapolis-IN-46250/1270623_zpid/,1270623,,SINGLE FAMILY,"$599,000",7360 N Layman Ave,Indianapolis,IN,46250,5,3,3395,0.48 acres,
+https://www.zillow.com/homedetails/5417-Kerns-Ln-Indianapolis-IN-46268/52491671_zpid/,52491671,,CONDO,"$109,000",5417 Kerns Ln,Indianapolis,IN,46268,2,2,1367,3049.2 sqft,
+https://www.zillow.com/homedetails/5622-Guilford-Ave-Indianapolis-IN-46220/1252599_zpid/,1252599,,SINGLE FAMILY,"$450,000",5622 Guilford Ave,Indianapolis,IN,46220,3,2,2094,6534 sqft,
+https://www.zillow.com/homedetails/1510-Spruce-St-Indianapolis-IN-46203/1107862_zpid/,1107862,,SINGLE FAMILY,"$160,000",1510 Spruce St,Indianapolis,IN,46203,3,2,2040,5662.8 sqft,
+https://www.zillow.com/homedetails/3265-Tulip-Dr-Indianapolis-IN-46227/1178567_zpid/,1178567,,SINGLE FAMILY,"$510,000",3265 Tulip Dr,Indianapolis,IN,46227,6,4,3612,0.65 acres,
+https://www.zillow.com/homedetails/7135-Huntington-Rd-Indianapolis-IN-46240/1267181_zpid/,1267181,,SINGLE FAMILY,"$459,900",7135 Huntington Rd,Indianapolis,IN,46240,3,2,3962,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/126-Berkley-Rd-Indianapolis-IN-46208/1253848_zpid/,1253848,,SINGLE FAMILY,"$649,000",126 Berkley Rd,Indianapolis,IN,46208,3,3,2822,10018.8 sqft,
+https://www.zillow.com/homedetails/9111-Sand-Key-Ln-Indianapolis-IN-46256/1153721_zpid/,1153721,,SINGLE FAMILY,"$625,000",9111 Sand Key Ln,Indianapolis,IN,46256,4,4,3756,0.54 acres,
+https://www.zillow.com/homedetails/4726-Ellery-Ln-Indianapolis-IN-46250/61762019_zpid/,61762019,,SINGLE FAMILY,"$1,359,500",4726 Ellery Ln,Indianapolis,IN,46250,5,6,6980,0.51 acres,
+https://www.zillow.com/homedetails/9024-W-Mooresville-Rd-Camby-IN-46113/1121432_zpid/,1121432,,SINGLE FAMILY,"$199,000",9024 W Mooresville Rd,Camby,IN,46113,3,1,2136,0.8 acres,1535
+https://www.zillow.com/homedetails/3959-Central-Ave-Indianapolis-IN-46205/303785946_zpid/,303785946,,MULTI FAMILY,"$1,450,000",3959 Central Ave,Indianapolis,IN,46205,5,5,,10018.8 sqft,
+https://www.zillow.com/homedetails/4732-Ferguson-Rd-Indianapolis-IN-46239/1134588_zpid/,1134588,,SINGLE FAMILY,"$495,000",4732 Ferguson Rd,Indianapolis,IN,46239,3,2,2732,2.19 acres,
+https://www.zillow.com/homedetails/1065-E-76th-St-Indianapolis-IN-46240/1257592_zpid/,1257592,,SINGLE FAMILY,"$1,030,000",1065 E 76th St,Indianapolis,IN,46240,3,4,4483,0.86 acres,4005
+https://www.zillow.com/homedetails/6139-Robinwood-Dr-Indianapolis-IN-46237/52485091_zpid/,52485091,,CONDO,"$199,900",6139 Robinwood Dr,Indianapolis,IN,46237,3,3,1950,1742.4 sqft,1778
+https://www.zillow.com/homedetails/7105-Sylvan-Ridge-Rd-Indianapolis-IN-46240/1267157_zpid/,1267157,,SINGLE FAMILY,"$1,100,000",7105 Sylvan Ridge Rd,Indianapolis,IN,46240,5,4,4410,0.65 acres,
+https://www.zillow.com/homedetails/5190-Potters-Pike-Indianapolis-IN-46234/1193885_zpid/,1193885,,SINGLE FAMILY,"$1,085,000",5190 Potters Pike,Indianapolis,IN,46234,5,5,4532,4.81 acres,4375
+https://www.zillow.com/homedetails/6030-Evanston-Ave-Indianapolis-IN-46220/1246998_zpid/,1246998,,SINGLE FAMILY,"$424,900",6030 Evanston Ave,Indianapolis,IN,46220,3,2,2448,0.25 acres,
+https://www.zillow.com/homedetails/3534-Carr-Ave-Indianapolis-IN-46221/1123121_zpid/,1123121,,SINGLE FAMILY,"$199,999",3534 Carr Ave,Indianapolis,IN,46221,3,1,1247,10018.8 sqft,
+https://www.zillow.com/homedetails/8020-N-Meridian-St-Indianapolis-IN-46260/1257607_zpid/,1257607,,SINGLE FAMILY,"$849,000",8020 N Meridian St,Indianapolis,IN,46260,4,4,3316,1.48 acres,3878
+https://www.zillow.com/homedetails/334-S-Hamilton-Ave-Indianapolis-IN-46201/1082329_zpid/,1082329,,SINGLE FAMILY,"$184,900",334 S Hamilton Ave,Indianapolis,IN,46201,3,3,2100,3920.4 sqft,2183
+https://www.zillow.com/homedetails/7445-Melanie-Ln-Indianapolis-IN-46217/1185606_zpid/,1185606,,CONDO,"$123,900",7445 Melanie Ln,Indianapolis,IN,46217,2,2,1116, ,
+https://www.zillow.com/homedetails/4125-Bowman-Ave-Indianapolis-IN-46227/1171203_zpid/,1171203,,SINGLE FAMILY,"$189,900",4125 Bowman Ave,Indianapolis,IN,46227,3,2,1619,5662.8 sqft,
+https://www.zillow.com/homedetails/4630-W-71st-St-Indianapolis-IN-46268/167098966_zpid/,167098966,,SINGLE FAMILY,"$149,900",4630 W 71st St,Indianapolis,IN,46268,2,1,1296,4791.6 sqft,1550
+https://www.zillow.com/homedetails/1434-Orange-St-Indianapolis-IN-46203/1094024_zpid/,1094024,,SINGLE FAMILY,"$495,000",1434 Orange St,Indianapolis,IN,46203,3,4,2910,3484.8 sqft,
+https://www.zillow.com/homedetails/6220-Spring-Mill-Rd-Indianapolis-IN-46260/1243870_zpid/,1243870,,SINGLE FAMILY,"$749,900",6220 Spring Mill Rd,Indianapolis,IN,46260,4,4,4493,0.8699999999999999 acres,
+https://www.zillow.com/homedetails/20-Forrests-Edge-Ct-Indianapolis-IN-46227/1192584_zpid/,1192584,,SINGLE FAMILY,"$750,000",20 Forrests Edge Ct,Indianapolis,IN,46227,5,5,4762,0.36 acres,3928
+https://www.zillow.com/homedetails/5625-Gateway-Dr-Indianapolis-IN-46254/1195457_zpid/,1195457,,SINGLE FAMILY,"$161,000",5625 Gateway Dr,Indianapolis,IN,46254,3,2,1960,10018.8 sqft,
+https://www.zillow.com/homedetails/5682-Broadway-St-Indianapolis-IN-46220/1246015_zpid/,1246015,,SINGLE FAMILY,"$1,399,900",5682 Broadway St,Indianapolis,IN,46220,6,6,4275,0.25 acres,
+https://www.zillow.com/homedetails/2320-Whispering-Way-Indianapolis-IN-46239/1237705_zpid/,1237705,,SINGLE FAMILY,"$665,000",2320 Whispering Way,Indianapolis,IN,46239,4,5,5978,0.45 acres,3802
+https://www.zillow.com/homedetails/8540-E-37th-Pl-Indianapolis-IN-46226/1228369_zpid/,1228369,,SINGLE FAMILY,"$189,000",8540 E 37th Pl,Indianapolis,IN,46226,3,2,1421,9147.6 sqft,
+https://www.zillow.com/homedetails/4710-E-Michigan-St-Indianapolis-IN-46201/1077308_zpid/,1077308,,MULTI FAMILY,"$169,000",4710 E Michigan St,Indianapolis,IN,46201,4,2,,3049.2 sqft,
+https://www.zillow.com/homedetails/7014-Creekside-Ln-Indianapolis-IN-46220/1148072_zpid/,1148072,,SINGLE FAMILY,"$474,900",7014 Creekside Ln,Indianapolis,IN,46220,5,3,3015,0.63 acres,
+https://www.zillow.com/homedetails/7844-Timber-Run-Ct-Indianapolis-IN-46256/1166807_zpid/,1166807,,SINGLE FAMILY,"$734,900",7844 Timber Run Ct,Indianapolis,IN,46256,4,4,5089,0.35 acres,
+https://www.zillow.com/homedetails/558-E-Vermont-St-Indianapolis-IN-46202/1120484_zpid/,1120484,,TOWNHOUSE,"$409,900",558 E Vermont St,Indianapolis,IN,46202,3,3,1938,1306.8 sqft,
+https://www.zillow.com/homedetails/1020-Denison-St-Indianapolis-IN-46241/1286454_zpid/,1286454,,SINGLE FAMILY,"$199,900",1020 Denison St,Indianapolis,IN,46241,4,2,2170,10018.8 sqft,2243
+https://www.zillow.com/homedetails/9175-Lakewind-Dr-Indianapolis-IN-46256/1164863_zpid/,1164863,,SINGLE FAMILY,"$495,000",9175 Lakewind Dr,Indianapolis,IN,46256,4,3,3530,0.42000000000000004 acres,
+https://www.zillow.com/homedetails/5506-Kessler-Boulevard-North-Dr-Indianapolis-IN-46228/1243579_zpid/,1243579,,SINGLE FAMILY,"$480,000",5506 Kessler Boulevard North Dr,Indianapolis,IN,46228,5,3,2844,0.6900000000000001 acres,
+https://www.zillow.com/homedetails/8550-Tidewater-Ct-Indianapolis-IN-46236/1157732_zpid/,1157732,,SINGLE FAMILY,"$600,000",8550 Tidewater Ct,Indianapolis,IN,46236,4,4,3688,0.51 acres,
+https://www.zillow.com/homedetails/10919-Running-Tide-Ct-Indianapolis-IN-46236/1154014_zpid/,1154014,,SINGLE FAMILY,"$824,900",10919 Running Tide Ct,Indianapolis,IN,46236,4,5,5493,0.58 acres,
+https://www.zillow.com/homedetails/8155-River-Mist-Ln-Indianapolis-IN-46237/69390914_zpid/,69390914,,CONDO,"$199,500",8155 River Mist Ln,Indianapolis,IN,46237,2,3,1216, ,
+https://www.zillow.com/homedetails/6142-Meadowlark-Dr-Indianapolis-IN-46226/1144122_zpid/,1144122,,SINGLE FAMILY,"$195,000",6142 Meadowlark Dr,Indianapolis,IN,46226,4,2,2236,6969.6 sqft,1669
+https://www.zillow.com/homedetails/6744-Robin-Hood-Ct-Indianapolis-IN-46227/1189038_zpid/,1189038,,SINGLE FAMILY,"$450,000",6744 Robin Hood Ct,Indianapolis,IN,46227,4,3,3873,0.31 acres,
+https://www.zillow.com/homedetails/1515-S-Emerson-Ave-Indianapolis-IN-46203/1214832_zpid/,1214832,,SINGLE FAMILY,"$140,000",1515 S Emerson Ave,Indianapolis,IN,46203,2,1,1440,6534 sqft,
+https://www.zillow.com/homedetails/8602-Frontgate-Ln-Indianapolis-IN-46256/1144402_zpid/,1144402,,SINGLE FAMILY,"$1,499,000",8602 Frontgate Ln,Indianapolis,IN,46256,6,10,12490,2.34 acres,
+https://www.zillow.com/homedetails/10350-Courageous-Dr-Indianapolis-IN-46236/1158437_zpid/,1158437,,SINGLE FAMILY,"$675,000",10350 Courageous Dr,Indianapolis,IN,46236,5,5,5022,1.21 acres,
+https://www.zillow.com/homedetails/771-N-Concord-St-Indianapolis-IN-46222/1293435_zpid/,1293435,,SINGLE FAMILY,"$117,900",771 N Concord St,Indianapolis,IN,46222,4,2,2924,4791.6 sqft,1222
+https://www.zillow.com/homedetails/3213-Oceanline-Dr-Indianapolis-IN-46214/1314676_zpid/,1314676,,TOWNHOUSE,"$185,000",3213 Oceanline Dr,Indianapolis,IN,46214,2,3,1325,2613.6 sqft,
+https://www.zillow.com/homedetails/3949-Rookwood-Ave-Indianapolis-IN-46208/1246430_zpid/,1246430,,SINGLE FAMILY,"$189,900",3949 Rookwood Ave,Indianapolis,IN,46208,4,3,5182,5227.2 sqft,
+https://www.zillow.com/homedetails/3817-N-Sheridan-Ave-Indianapolis-IN-46226/1137478_zpid/,1137478,,SINGLE FAMILY,"$154,900",3817 N Sheridan Ave,Indianapolis,IN,46226,4,2,1250,0.72 acres,
+https://www.zillow.com/homedetails/6316-Harmonridge-Ct-Indianapolis-IN-46278/1207877_zpid/,1207877,,SINGLE FAMILY,"$599,000",6316 Harmonridge Ct,Indianapolis,IN,46278,4,4,4600,0.32 acres,
+https://www.zillow.com/homedetails/8905-Stonebriar-Dr-Indianapolis-IN-46259/123620519_zpid/,123620519,,SINGLE FAMILY,"$1,150,000",8905 Stonebriar Dr,Indianapolis,IN,46259,5,7,6546,0.6799999999999999 acres,
+https://www.zillow.com/homedetails/4904-Kessler-Boulevard-North-Dr-Indianapolis-IN-46228/1240864_zpid/,1240864,,SINGLE FAMILY,"$474,900",4904 Kessler Boulevard North Dr,Indianapolis,IN,46228,5,5,3553,0.37 acres,
+https://www.zillow.com/homedetails/1529-E-Tabor-St-Indianapolis-IN-46203/1084378_zpid/,1084378,,SINGLE FAMILY,"$199,000",1529 E Tabor St,Indianapolis,IN,46203,3,2,2089,5227.2 sqft,
+https://www.zillow.com/homedetails/9420-N-Kenwood-Ave-Indianapolis-IN-46260/1270107_zpid/,1270107,,SINGLE FAMILY,"$660,000",9420 N Kenwood Ave,Indianapolis,IN,46260,3,4,5362,0.71 acres,
+https://www.zillow.com/homedetails/6813-Bluffgrove-Dr-Indianapolis-IN-46278/1206629_zpid/,1206629,,SINGLE FAMILY,"$419,900",6813 Bluffgrove Dr,Indianapolis,IN,46278,4,3,2828,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/8647-N-College-Ave-Indianapolis-IN-46240/1258490_zpid/,1258490,,SINGLE FAMILY,"$410,000",8647 N College Ave,Indianapolis,IN,46240,3,2,1984,0.55 acres,
+https://www.zillow.com/homedetails/2730-Barth-Ave-Indianapolis-IN-46203/1096326_zpid/,1096326,,SINGLE FAMILY,"$180,000",2730 Barth Ave,Indianapolis,IN,46203,2,1,1948,5227.2 sqft,
+https://www.zillow.com/homedetails/8418-Mesic-Ct-Indianapolis-IN-46278/66386656_zpid/,66386656,,SINGLE FAMILY,"$499,900",8418 Mesic Ct,Indianapolis,IN,46278,4,4,3972,0.32999999999999996 acres,3318
+https://www.zillow.com/homedetails/1519-Pleasant-St-Indianapolis-IN-46203/1114374_zpid/,1114374,,SINGLE FAMILY,"$515,000",1519 Pleasant St,Indianapolis,IN,46203,4,4,2774,7405.2 sqft,
+https://www.zillow.com/homedetails/3955-N-Graham-Ave-Indianapolis-IN-46226/1141572_zpid/,1141572,,SINGLE FAMILY,"$179,900",3955 N Graham Ave,Indianapolis,IN,46226,3,2,2080,8276.4 sqft,
+https://www.zillow.com/homedetails/4652-N-Kenwood-Ave-Indianapolis-IN-46208/1246102_zpid/,1246102,,MULTI FAMILY,"$550,000",4652 N Kenwood Ave,Indianapolis,IN,46208,5,4,,8276.4 sqft,
+https://www.zillow.com/homedetails/8164-Dean-Rd-Indianapolis-IN-46240/1277599_zpid/,1277599,,SINGLE FAMILY,"$1,499,000",8164 Dean Rd,Indianapolis,IN,46240,3,3,3743,10560 sqft,
+https://www.zillow.com/homedetails/2819-Mars-Hill-St-Indianapolis-IN-46241/1286050_zpid/,1286050,,SINGLE FAMILY,"$135,000",2819 Mars Hill St,Indianapolis,IN,46241,3,1,1199,5227.2 sqft,
+https://www.zillow.com/homedetails/10518-Courageous-Dr-Indianapolis-IN-46236/1158494_zpid/,1158494,,SINGLE FAMILY,"$639,660",10518 Courageous Dr,Indianapolis,IN,46236,4,4,3378,0.67 acres,
+https://www.zillow.com/homedetails/6205-Bramshaw-Rd-Indianapolis-IN-46220/1266783_zpid/,1266783,,SINGLE FAMILY,"$495,000",6205 Bramshaw Rd,Indianapolis,IN,46220,5,3,3524,0.49000000000000005 acres,3065
+https://www.zillow.com/homedetails/8513-Shelbyville-Rd-Indianapolis-IN-46259/1133274_zpid/,1133274,,SINGLE FAMILY,"$420,000",8513 Shelbyville Rd,Indianapolis,IN,46259,4,3,2052,0.8 acres,
+https://www.zillow.com/homedetails/6458-Watham-Ct-Indianapolis-IN-46250/1155626_zpid/,1155626,,CONDO,"$170,000",6458 Watham Ct,Indianapolis,IN,46250,2,2,1203,0.547 acres,
+https://www.zillow.com/homedetails/7635-Monte-Carlo-Way-Indianapolis-IN-46278/69391565_zpid/,69391565,,SINGLE FAMILY,"$980,000",7635 Monte Carlo Way,Indianapolis,IN,46278,5,6,7522,0.63 acres,
+https://www.zillow.com/homedetails/3766-Brill-Rd-Indianapolis-IN-46227/66226013_zpid/,66226013,,SINGLE FAMILY,"$599,900",3766 Brill Rd,Indianapolis,IN,46227,4,3,7012,0.7699999999999999 acres,
+https://www.zillow.com/homedetails/7093-Republic-Ln-Indianapolis-IN-46259/59811240_zpid/,59811240,,SINGLE FAMILY,"$675,000",7093 Republic Ln,Indianapolis,IN,46259,4,5,5293,0.49000000000000005 acres,3685
+https://www.zillow.com/homedetails/6404-Bayside-Ct-Indianapolis-IN-46250/167072351_zpid/,167072351,,CONDO,"$171,900",6404 Bayside Ct,Indianapolis,IN,46250,2,2,1025,3920.4 sqft,
+https://www.zillow.com/homedetails/4302-Kessler-Boulevard-North-Dr-Indianapolis-IN-46228/1244527_zpid/,1244527,,SINGLE FAMILY,"$600,000",4302 Kessler Boulevard North Dr,Indianapolis,IN,46228,5,3,3066,0.55 acres,
+https://www.zillow.com/homedetails/7648-Killarney-Dr-Indianapolis-IN-46217/112838228_zpid/,112838228,,SINGLE FAMILY,"$875,000",7648 Killarney Dr,Indianapolis,IN,46217,4,5,5292,0.38 acres,
+https://www.zillow.com/homedetails/6230-E-56th-St-Indianapolis-IN-46226/1137076_zpid/,1137076,,SINGLE FAMILY,"$1,099,900",6230 E 56th St,Indianapolis,IN,46226,4,4,6316,1.67 acres,
+https://www.zillow.com/homedetails/7277-N-College-Ave-Indianapolis-IN-46240/1257811_zpid/,1257811,,SINGLE FAMILY,"$455,000",7277 N College Ave,Indianapolis,IN,46240,3,2,1939,0.31 acres,
+https://www.zillow.com/homedetails/6402-Friendship-Cir-Indianapolis-IN-46268/1203275_zpid/,1203275,,CONDO,"$130,000",6402 Friendship Cir,Indianapolis,IN,46268,2,2,1507,3049.2 sqft,
+https://www.zillow.com/homedetails/9155-Kerwood-Dr-Indianapolis-IN-46240/444265755_zpid/,444265755,,SINGLE FAMILY,"$1,550,000",9155 Kerwood Dr,Indianapolis,IN,46240,4,5,5329,1.1 acres,
+https://www.zillow.com/homedetails/915-Broadway-St-Indianapolis-IN-46202/1091289_zpid/,1091289,,SINGLE FAMILY,"$1,050,000",915 Broadway St,Indianapolis,IN,46202,3,4,3564,4356 sqft,
+https://www.zillow.com/homedetails/22-W-54th-St-Indianapolis-IN-46208/1257187_zpid/,1257187,,SINGLE FAMILY,"$887,900",22 W 54th St,Indianapolis,IN,46208,4,4,3348,10018.8 sqft,
+https://www.zillow.com/homedetails/4920-Central-Ave-Indianapolis-IN-46205/1252400_zpid/,1252400,,SINGLE FAMILY,"$579,900",4920 Central Ave,Indianapolis,IN,46205,3,2,2973,10454.4 sqft,
+https://www.zillow.com/homedetails/1409-N-Park-Ave-Indianapolis-IN-46202/1074772_zpid/,1074772,,SINGLE FAMILY,"$1,100,000",1409 N Park Ave,Indianapolis,IN,46202,5,4,4248,7840.8 sqft,
+https://www.zillow.com/homedetails/8316-Thorn-Bend-Dr-Indianapolis-IN-46278/59815813_zpid/,59815813,,SINGLE FAMILY,"$479,900",8316 Thorn Bend Dr,Indianapolis,IN,46278,4,3,3066,0.38 acres,
+https://www.zillow.com/homedetails/7999-Englewood-Rd-Indianapolis-IN-46240/1242427_zpid/,1242427,,SINGLE FAMILY,"$634,000",7999 Englewood Rd,Indianapolis,IN,46240,5,4,3401,0.95 acres,2805
+https://www.zillow.com/homedetails/5135-N-Kenwood-Ave-Indianapolis-IN-46208/1248628_zpid/,1248628,,SINGLE FAMILY,"$590,000",5135 N Kenwood Ave,Indianapolis,IN,46208,4,3,2619,6969.6 sqft,
+https://www.zillow.com/homedetails/8015-Sargent-Rdg-Indianapolis-IN-46256/1162191_zpid/,1162191,,SINGLE FAMILY,"$875,000",8015 Sargent Rdg,Indianapolis,IN,46256,6,6,6878,0.8699999999999999 acres,
+https://www.zillow.com/homedetails/8649-Cricket-Tree-Ln-Indianapolis-IN-46260/1277321_zpid/,1277321,,SINGLE FAMILY,"$625,000",8649 Cricket Tree Ln,Indianapolis,IN,46260,4,3,3819,0.39 acres,
+https://www.zillow.com/homedetails/2920-N-Boehning-St-Indianapolis-IN-46219/1229549_zpid/,1229549,,SINGLE FAMILY,"$149,999",2920 N Boehning St,Indianapolis,IN,46219,3,1,999,8712 sqft,1292
+https://www.zillow.com/homedetails/3636-Crescent-Ave-Indianapolis-IN-46208/1093475_zpid/,1093475,,SINGLE FAMILY,"$164,900",3636 Crescent Ave,Indianapolis,IN,46208,3,2,2040,3920.4 sqft,
+https://www.zillow.com/homedetails/7245-Galloway-Ave-Indianapolis-IN-46250/1271388_zpid/,1271388,,SINGLE FAMILY,"$789,300",7245 Galloway Ave,Indianapolis,IN,46250,5,4,5419,0.3599862258953168 acres,4424
+https://www.zillow.com/homedetails/1749-N-Graham-Ave-Indianapolis-IN-46218/1228080_zpid/,1228080,,SINGLE FAMILY,"$165,000",1749 N Graham Ave,Indianapolis,IN,46218,3,2,1456,8276.4 sqft,1773
+https://www.zillow.com/homedetails/5144-N-College-Ave-Indianapolis-IN-46205/1253173_zpid/,1253173,,SINGLE FAMILY,"$655,000",5144 N College Ave,Indianapolis,IN,46205,4,3,4289,6969.6 sqft,3868
+https://www.zillow.com/homedetails/443-N-Alton-Ave-Indianapolis-IN-46222/1289364_zpid/,1289364,,SINGLE FAMILY,"$180,000",443 N Alton Ave,Indianapolis,IN,46222,4,3,2548,4356 sqft,
+https://www.zillow.com/homedetails/5515-Gateridge-Ln-Indianapolis-IN-46237/59812123_zpid/,59812123,,CONDO,"$188,000",5515 Gateridge Ln,Indianapolis,IN,46237,2,2,1202, ,
+https://www.zillow.com/homedetails/6522-Stockwell-Dr-Indianapolis-IN-46237/52484524_zpid/,52484524,,SINGLE FAMILY,"$1,199,000",6522 Stockwell Dr,Indianapolis,IN,46237,5,6,7376,0.9 acres,
+https://www.zillow.com/homedetails/2333-Villa-Ave-Indianapolis-IN-46203/1101392_zpid/,1101392,,SINGLE FAMILY,"$174,900",2333 Villa Ave,Indianapolis,IN,46203,3,2,1044,5662.8 sqft,1668
+https://www.zillow.com/homedetails/5034-Allisonville-Rd-UNIT-A-Indianapolis-IN-46205/1275002_zpid/,1275002,,CONDO,"$148,000",5034 Allisonville Rd UNIT A,Indianapolis,IN,46205,3,2,1600,4356 sqft,
+https://www.zillow.com/homedetails/8069-Middle-Bay-Ln-Indianapolis-IN-46236/1156243_zpid/,1156243,,SINGLE FAMILY,"$749,900",8069 Middle Bay Ln,Indianapolis,IN,46236,4,5,3722,8712 sqft,
+https://www.zillow.com/homedetails/12082-Old-Stone-Dr-Indianapolis-IN-46236/1158648_zpid/,1158648,,SINGLE FAMILY,"$550,000",12082 Old Stone Dr,Indianapolis,IN,46236,4,3,3401,0.44000000000000006 acres,
+https://www.zillow.com/homedetails/11541-Coastal-Dr-Indianapolis-IN-46229/1238609_zpid/,1238609,,CONDO,"$190,000",11541 Coastal Dr,Indianapolis,IN,46229,2,2,1504,4791.6 sqft,
+https://www.zillow.com/homedetails/6430-E-Southport-Rd-Indianapolis-IN-46237/1128710_zpid/,1128710,,SINGLE FAMILY,"$600,000",6430 E Southport Rd,Indianapolis,IN,46237,6,5,4001,3.77 acres,2878
+https://www.zillow.com/homedetails/9265-Tamarack-Dr-Indianapolis-IN-46260/1276629_zpid/,1276629,,CONDO,"$425,000",9265 Tamarack Dr,Indianapolis,IN,46260,2,2,1910,0.27 acres,
+https://www.zillow.com/homedetails/3909-Richelieu-Ct-Indianapolis-IN-46226/1147787_zpid/,1147787,,SINGLE FAMILY,"$165,000",3909 Richelieu Ct,Indianapolis,IN,46226,4,1,1850,6534 sqft,
+https://www.zillow.com/homedetails/6780-E-Pleasant-Run-Parkway-Dr-N-Indianapolis-IN-46203/455142329_zpid/,455142329,,SINGLE FAMILY,"$175,000",6780 E Pleasant Run Parkway Dr N,Indianapolis,IN,46203,2,2,2052,0.8300000000000001 acres,
+https://www.zillow.com/homedetails/1507-Broadway-St-Indianapolis-IN-46202/1078590_zpid/,1078590,,SINGLE FAMILY,"$845,000",1507 Broadway St,Indianapolis,IN,46202,4,3,6434,0.33999999999999997 acres,2328
+https://www.zillow.com/homedetails/6465-Lawrence-Dr-Indianapolis-IN-46226/1137796_zpid/,1137796,,SINGLE FAMILY,"$780,000",6465 Lawrence Dr,Indianapolis,IN,46226,4,5,3688,1.91 acres,
+https://www.zillow.com/homedetails/1037-N-Temple-Ave-Indianapolis-IN-46201/1085673_zpid/,1085673,,SINGLE FAMILY,"$190,000",1037 N Temple Ave,Indianapolis,IN,46201,3,2,1726,3049.2 sqft,
+https://www.zillow.com/homedetails/11226-Blackwalnut-Point-Indianapolis-IN-46236/349356085_zpid/,349356085,,SINGLE FAMILY,"$1,110,000",11226 Blackwalnut Point,Indianapolis,IN,46236,5,4,4344,6969.6 sqft,
+https://www.zillow.com/homedetails/4130-Rookwood-Ave-Indianapolis-IN-46208/1245127_zpid/,1245127,,SINGLE FAMILY,"$194,900",4130 Rookwood Ave,Indianapolis,IN,46208,2,1,1752,5227.2 sqft,
+https://www.zillow.com/homedetails/10412-Kiowa-Dr-Indianapolis-IN-46235/444112366_zpid/,444112366,,SINGLE FAMILY,"$180,000",10412 Kiowa Dr,Indianapolis,IN,46235,3,2,1064,7840.8 sqft,
+https://www.zillow.com/homedetails/9404-Crystal-River-Dr-Indianapolis-IN-46240/69392204_zpid/,69392204,,SINGLE FAMILY,"$589,000",9404 Crystal River Dr,Indianapolis,IN,46240,2,3,2636,7840.8 sqft,
+https://www.zillow.com/homedetails/8535-Washington-Blvd-Indianapolis-IN-46240/452057401_zpid/,452057401,,SINGLE FAMILY,"$995,000",8535 Washington Blvd,Indianapolis,IN,46240,4,4,4244,0.9 acres,
+https://www.zillow.com/homedetails/7818-Fawnwood-Dr-Indianapolis-IN-46278/69389221_zpid/,69389221,,SINGLE FAMILY,"$599,999",7818 Fawnwood Dr,Indianapolis,IN,46278,4,4,5199,0.43 acres,
+https://www.zillow.com/homedetails/614-Woods-Crossing-Dr-Indianapolis-IN-46239/1238273_zpid/,1238273,,SINGLE FAMILY,"$187,000",614 Woods Crossing Dr,Indianapolis,IN,46239,3,2,1244,7405.2 sqft,
+https://www.zillow.com/homedetails/8246-Windcombe-Blvd-Indianapolis-IN-46240/1261810_zpid/,1261810,,SINGLE FAMILY,"$589,000",8246 Windcombe Blvd,Indianapolis,IN,46240,3,2,2049,0.39 acres,2206
+https://www.zillow.com/homedetails/3818-Central-Ave-Indianapolis-IN-46205/303785952_zpid/,303785952,,MULTI FAMILY,"$700,000",3818 Central Ave,Indianapolis,IN,46205,8,4,,8712 sqft,
+https://www.zillow.com/homedetails/3748-Bay-Road-South-Dr-Indianapolis-IN-46240/1278532_zpid/,1278532,,CONDO,"$1,250,000",3748 Bay Road South Dr,Indianapolis,IN,46240,4,5,6882,3920.4 sqft,5170
+https://www.zillow.com/homedetails/7226-Wyatt-Ln-Indianapolis-IN-46217/69391381_zpid/,69391381,,CONDO,"$199,000",7226 Wyatt Ln,Indianapolis,IN,46217,2,2,1118,1306.8 sqft,1509
+https://www.zillow.com/homedetails/6711-Lafayette-Rd-Indianapolis-IN-46278/1206866_zpid/,1206866,,SINGLE FAMILY,"$499,900",6711 Lafayette Rd,Indianapolis,IN,46278,3,2,2953,1.14 acres,
+https://www.zillow.com/homedetails/749-N-Park-Ave-A-Indianapolis-IN-46202/336864222_zpid/,336864222,,CONDO,"$1,050,000",749 N Park Ave #A,Indianapolis,IN,46202,3,3,3454, ,4291
+https://www.zillow.com/homedetails/1009-N-Park-Ave-Indianapolis-IN-46202/252258308_zpid/,252258308,,CONDO,"$450,000",1009 N Park Ave,Indianapolis,IN,46202,2,3,1502,871.2 sqft,2581
+https://www.zillow.com/homedetails/5206-E-Saint-Clair-St-Indianapolis-IN-46219/1217323_zpid/,1217323,,SINGLE FAMILY,"$187,900",5206 E Saint Clair St,Indianapolis,IN,46219,2,1,1464,5662.8 sqft,1470
+https://www.zillow.com/homedetails/8423-Mud-Creek-Rd-Indianapolis-IN-46256/1152038_zpid/,1152038,,SINGLE FAMILY,"$998,000",8423 Mud Creek Rd,Indianapolis,IN,46256,6,5,6771,3.11 acres,
+https://www.zillow.com/homedetails/404-N-Grant-Ave-Indianapolis-IN-46201/1076549_zpid/,1076549,,SINGLE FAMILY,"$125,000",404 N Grant Ave,Indianapolis,IN,46201,4,1,1644,5227.2 sqft,1582
+https://www.zillow.com/homedetails/4339-Royal-Pine-Blvd-Indianapolis-IN-46250/1272117_zpid/,1272117,,SINGLE FAMILY,"$949,900",4339 Royal Pine Blvd,Indianapolis,IN,46250,4,6,5833,0.45999999999999996 acres,5172
+https://www.zillow.com/homedetails/1411-N-Kenmore-Rd-Indianapolis-IN-46219/1225604_zpid/,1225604,,SINGLE FAMILY,"$163,900",1411 N Kenmore Rd,Indianapolis,IN,46219,2,1,1462,6534 sqft,933
+https://www.zillow.com/homedetails/6531-Ferguson-St-Indianapolis-IN-46220/1245146_zpid/,1245146,,SINGLE FAMILY,"$475,000",6531 Ferguson St,Indianapolis,IN,46220,2,2,2484,9147.6 sqft,
+https://www.zillow.com/homedetails/5124-N-Capitol-Ave-Indianapolis-IN-46208/1254430_zpid/,1254430,,SINGLE FAMILY,"$660,000",5124 N Capitol Ave,Indianapolis,IN,46208,3,3,2811,8276.4 sqft,2927
+https://www.zillow.com/homedetails/4918-E-New-York-St-Indianapolis-IN-46201/1084006_zpid/,1084006,,MULTI FAMILY,"$170,000",4918 E New York St,Indianapolis,IN,46201,6,2,,6098.4 sqft,
+https://www.zillow.com/homedetails/6412-Fall-Creek-Rd-Indianapolis-IN-46220/1142185_zpid/,1142185,,SINGLE FAMILY,"$1,185,000",6412 Fall Creek Rd,Indianapolis,IN,46220,6,6,7235,0.79 acres,
+https://www.zillow.com/homedetails/11106-Wismar-Dr-Indianapolis-IN-46235/450093196_zpid/,450093196,,SINGLE FAMILY,"$175,000",11106 Wismar Dr,Indianapolis,IN,46235,3,2,1500,6098.4 sqft,
+https://www.zillow.com/homedetails/5826-Winding-Way-Ln-Indianapolis-IN-46220/1279075_zpid/,1279075,,SINGLE FAMILY,"$544,900",5826 Winding Way Ln,Indianapolis,IN,46220,3,4,3859,0.54 acres,3496
+https://www.zillow.com/homedetails/5202-Logan-Ln-Indianapolis-IN-46250/59816668_zpid/,59816668,,SINGLE FAMILY,"$905,000",5202 Logan Ln,Indianapolis,IN,46250,5,5,5380,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/3744-S-Meridian-St-Indianapolis-IN-46217/1168342_zpid/,1168342,,SINGLE FAMILY,"$475,000",3744 S Meridian St,Indianapolis,IN,46217,3,2,3448,0.8300000000000001 acres,
+https://www.zillow.com/homedetails/2430-Spring-Hill-Ct-Indianapolis-IN-46268/1199915_zpid/,1199915,,CONDO,"$179,900",2430 Spring Hill Ct,Indianapolis,IN,46268,2,2,1494,3049.2 sqft,
+https://www.zillow.com/homedetails/1046-N-Hamilton-Ave-Indianapolis-IN-46201/1072582_zpid/,1072582,,SINGLE FAMILY,"$465,000",1046 N Hamilton Ave,Indianapolis,IN,46201,3,3,3233,6098.4 sqft,
+https://www.zillow.com/homedetails/4464-Four-Seasons-Cir-Indianapolis-IN-46226/1151870_zpid/,1151870,,CONDO,"$113,000",4464 Four Seasons Cir,Indianapolis,IN,46226,2,2,1078, ,
+https://www.zillow.com/homedetails/6009-Ralston-Ave-Indianapolis-IN-46220/1255570_zpid/,1255570,,SINGLE FAMILY,"$423,000",6009 Ralston Ave,Indianapolis,IN,46220,3,3,2505,5662.8 sqft,
+https://www.zillow.com/homedetails/100-Wellington-Rd-Indianapolis-IN-46260/1240120_zpid/,1240120,,SINGLE FAMILY,"$769,900",100 Wellington Rd,Indianapolis,IN,46260,4,3,3230,0.37 acres,
+https://www.zillow.com/homedetails/5543-N-Pennsylvania-St-Indianapolis-IN-46220/1252690_zpid/,1252690,,SINGLE FAMILY,"$645,000",5543 N Pennsylvania St,Indianapolis,IN,46220,3,3,3389,7405.2 sqft,
+https://www.zillow.com/homedetails/2260-N-Graham-Ave-Indianapolis-IN-46218/1211626_zpid/,1211626,,SINGLE FAMILY,"$119,900",2260 N Graham Ave,Indianapolis,IN,46218,3,1,1280,0.3 acres,1352
+https://www.zillow.com/homedetails/961-Woodruff-Place-West-Dr-Indianapolis-IN-46201/1083412_zpid/,1083412,,MULTI FAMILY,"$479,000",961 Woodruff Place West Dr,Indianapolis,IN,46201,9,3,,6969.6 sqft,
+https://www.zillow.com/homedetails/539-E-53rd-St-Indianapolis-IN-46220/1251097_zpid/,1251097,,MULTI FAMILY,"$645,000",539 E 53rd St,Indianapolis,IN,46220,8,5,,8712 sqft,2933
+https://www.zillow.com/homedetails/7927-Broadmead-Way-Indianapolis-IN-46259/79619268_zpid/,79619268,,SINGLE FAMILY,"$635,000",7927 Broadmead Way,Indianapolis,IN,46259,4,4,4528,0.35 acres,
+https://www.zillow.com/homedetails/6906-Johnson-Rd-Indianapolis-IN-46220/1148114_zpid/,1148114,,SINGLE FAMILY,"$499,000",6906 Johnson Rd,Indianapolis,IN,46220,5,5,4032,0.36 acres,3874
+https://www.zillow.com/homedetails/2909-S-Randolph-St-Indianapolis-IN-46203/1118111_zpid/,1118111,,SINGLE FAMILY,"$189,900",2909 S Randolph St,Indianapolis,IN,46203,3,1,1032,7405.2 sqft,
+https://www.zillow.com/homedetails/3560-Bradford-Dr-Indianapolis-IN-46221/1123322_zpid/,1123322,,SINGLE FAMILY,"$166,000",3560 Bradford Dr,Indianapolis,IN,46221,4,2,936,0.89 acres,1590
+https://www.zillow.com/homedetails/1623-Hoyt-Ave-Indianapolis-IN-46203/1096121_zpid/,1096121,,SINGLE FAMILY,"$479,000",1623 Hoyt Ave,Indianapolis,IN,46203,4,3,2778,3920.4 sqft,
+https://www.zillow.com/homedetails/8315-Union-Chapel-Rd-Indianapolis-IN-46240/1240661_zpid/,1240661,,SINGLE FAMILY,"$835,000",8315 Union Chapel Rd,Indianapolis,IN,46240,4,3,3866,0.8 acres,
+https://www.zillow.com/homedetails/1316-E-9th-St-Indianapolis-IN-46202/112852258_zpid/,112852258,,SINGLE FAMILY,"$925,000",1316 E 9th St,Indianapolis,IN,46202,4,5,3307,5662.8 sqft,
+https://www.zillow.com/homedetails/7513-Pine-Royal-Dr-Indianapolis-IN-46256/1163121_zpid/,1163121,,SINGLE FAMILY,"$439,900",7513 Pine Royal Dr,Indianapolis,IN,46256,4,3,3976,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/1852-Singleton-St-Indianapolis-IN-46203/1079248_zpid/,1079248,,SINGLE FAMILY,"$415,000",1852 Singleton St,Indianapolis,IN,46203,4,3,3276,5227.2 sqft,
+https://www.zillow.com/homedetails/5760-Central-Ave-Indianapolis-IN-46220/1247658_zpid/,1247658,,SINGLE FAMILY,"$699,900",5760 Central Ave,Indianapolis,IN,46220,3,4,2858,10018.8 sqft,
+https://www.zillow.com/homedetails/10811-Wild-Orchard-Ln-Indianapolis-IN-46239/336863688_zpid/,336863688,,SINGLE FAMILY,"$479,900",10811 Wild Orchard Ln,Indianapolis,IN,46239,5,4,3537,10454.4 sqft,
+https://www.zillow.com/homedetails/8650-Holliday-Dr-Indianapolis-IN-46260/1271052_zpid/,1271052,,SINGLE FAMILY,"$418,000",8650 Holliday Dr,Indianapolis,IN,46260,3,2,1632,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/6225-Washington-Blvd-Indianapolis-IN-46220/447751862_zpid/,447751862,,MULTI FAMILY,"$625,000",6225 Washington Blvd,Indianapolis,IN,46220,4,4,,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/8429-Catamaran-Dr-Indianapolis-IN-46236/1154066_zpid/,1154066,,SINGLE FAMILY,"$624,900",8429 Catamaran Dr,Indianapolis,IN,46236,3,3,2824,0.41 acres,
+https://www.zillow.com/homedetails/2148-N-Pennsylvania-St-Indianapolis-IN-46202/112854848_zpid/,112854848,,SINGLE FAMILY,"$1,049,000",2148 N Pennsylvania St,Indianapolis,IN,46202,5,4,3844,5227.2 sqft,
+https://www.zillow.com/homedetails/6337-Cardinal-Ln-Indianapolis-IN-46220/1143715_zpid/,1143715,,SINGLE FAMILY,"$759,900",6337 Cardinal Ln,Indianapolis,IN,46220,5,3,4110,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/138-Fairway-Dr-Indianapolis-IN-46260/1240562_zpid/,1240562,,SINGLE FAMILY,"$689,975",138 Fairway Dr,Indianapolis,IN,46260,5,4,3932,1 acres,
+https://www.zillow.com/homedetails/2912-Tuscarora-Ln-Indianapolis-IN-46217/92467952_zpid/,92467952,,SINGLE FAMILY,"$535,000",2912 Tuscarora Ln,Indianapolis,IN,46217,6,5,5847,0.25 acres,
+https://www.zillow.com/homedetails/361-Country-Woods-Dr-Indianapolis-IN-46217/1189842_zpid/,1189842,,SINGLE FAMILY,"$420,000",361 Country Woods Dr,Indianapolis,IN,46217,3,2,2395,0.27 acres,
+https://www.zillow.com/homedetails/369-Rodeo-Dr-Indianapolis-IN-46217/1190332_zpid/,1190332,,SINGLE FAMILY,"$425,000",369 Rodeo Dr,Indianapolis,IN,46217,3,3,2952,0.33999999999999997 acres,2380
+https://www.zillow.com/homedetails/9243-Compton-Farm-Ln-Indianapolis-IN-46259/69387092_zpid/,69387092,,SINGLE FAMILY,"$729,977",9243 Compton Farm Ln,Indianapolis,IN,46259,6,3,4347,3.07 acres,
+https://www.zillow.com/homedetails/6712-Forrest-Commons-Blvd-Indianapolis-IN-46227/1189020_zpid/,1189020,,SINGLE FAMILY,"$487,500",6712 Forrest Commons Blvd,Indianapolis,IN,46227,4,3,2554,0.36 acres,
+https://www.zillow.com/homedetails/5015-N-Park-Ave-Indianapolis-IN-46205/1246984_zpid/,1246984,,SINGLE FAMILY,"$729,900",5015 N Park Ave,Indianapolis,IN,46205,4,2,2946,6969.6 sqft,
+https://www.zillow.com/homedetails/11691-Diamond-Pointe-Ct-Indianapolis-IN-46236/1161984_zpid/,1161984,,SINGLE FAMILY,"$1,075,000",11691 Diamond Pointe Ct,Indianapolis,IN,46236,4,5,5600,0.6 acres,
+https://www.zillow.com/homedetails/312-N-College-Ave-Indianapolis-IN-46202/1120469_zpid/,1120469,,MULTI FAMILY,"$525,000",312 N College Ave,Indianapolis,IN,46202,4,4,,3484.8 sqft,
+https://www.zillow.com/homedetails/783-Woodruff-Place-Middle-Dr-Indianapolis-IN-46201/1083410_zpid/,1083410,,SINGLE FAMILY,"$595,000",783 Woodruff Place Middle Dr,Indianapolis,IN,46201,4,2,3672,0.31 acres,2552
+https://www.zillow.com/homedetails/6640-Greenridge-Dr-Indianapolis-IN-46278/1206837_zpid/,1206837,,SINGLE FAMILY,"$599,000",6640 Greenridge Dr,Indianapolis,IN,46278,4,5,4342,0.47000000000000003 acres,
+https://www.zillow.com/homedetails/6520-Forrest-Commons-Blvd-Indianapolis-IN-46227/1188972_zpid/,1188972,,SINGLE FAMILY,"$574,900",6520 Forrest Commons Blvd,Indianapolis,IN,46227,4,3,3541,0.44000000000000006 acres,
+https://www.zillow.com/homedetails/2417-E-80th-St-Indianapolis-IN-46240/2093040637_zpid/,2093040637,,SINGLE FAMILY,"$599,900",2417 E 80th St,Indianapolis,IN,46240,5,5,3352,4791.6 sqft,
+https://www.zillow.com/homedetails/7121-Fields-Way-Indianapolis-IN-46239/61759661_zpid/,61759661,,SINGLE FAMILY,"$459,900",7121 Fields Way,Indianapolis,IN,46239,4,4,3452,0.82 acres,
+https://www.zillow.com/homedetails/8526-Oakmont-Ln-Indianapolis-IN-46260/1278362_zpid/,1278362,,SINGLE FAMILY,"$1,225,000",8526 Oakmont Ln,Indianapolis,IN,46260,6,6,8168,0.5 acres,
+https://www.zillow.com/homedetails/3430-Bay-Road-South-Dr-Indianapolis-IN-46240/1276814_zpid/,1276814,,CONDO,"$679,900",3430 Bay Road South Dr,Indianapolis,IN,46240,2,2,1945,2178 sqft,
+https://www.zillow.com/homedetails/8048-River-Bay-Dr-E-Indianapolis-IN-46240/1277769_zpid/,1277769,,SINGLE FAMILY,"$405,000",8048 River Bay Dr E,Indianapolis,IN,46240,2,2,2179,2613.6 sqft,
+https://www.zillow.com/homedetails/1530-Danaher-St-Indianapolis-IN-46217/1192247_zpid/,1192247,,SINGLE FAMILY,"$479,900",1530 Danaher St,Indianapolis,IN,46217,3,2,2737,10018.8 sqft,
+https://www.zillow.com/homedetails/4606-Statesmen-Dr-Indianapolis-IN-46250/59816518_zpid/,59816518,,CONDO,"$489,900",4606 Statesmen Dr,Indianapolis,IN,46250,3,3,2391,6534 sqft,
+https://www.zillow.com/homedetails/5786-N-Delaware-St-Indianapolis-IN-46220/1245237_zpid/,1245237,,SINGLE FAMILY,"$709,000",5786 N Delaware St,Indianapolis,IN,46220,4,2,3624,7405.2 sqft,
+https://www.zillow.com/homedetails/333-Massachusetts-Ave-UNIT-507-Indianapolis-IN-46204/112844499_zpid/,112844499,,CONDO,"$900,000",333 Massachusetts Ave UNIT 507,Indianapolis,IN,46204,2,2,2545, ,
+https://www.zillow.com/homedetails/934-Calvary-St-Indianapolis-IN-46203/167293823_zpid/,167293823,,MULTI FAMILY,"$580,000",934 Calvary St,Indianapolis,IN,46203,4,4,,2613.6 sqft,
+https://www.zillow.com/homedetails/2222-E-75th-St-Indianapolis-IN-46240/1243494_zpid/,1243494,,SINGLE FAMILY,"$875,000",2222 E 75th St,Indianapolis,IN,46240,5,3,2990,8276.4 sqft,
+https://www.zillow.com/homedetails/440-E-82nd-St-Indianapolis-IN-46240/1244414_zpid/,1244414,,SINGLE FAMILY,"$999,000",440 E 82nd St,Indianapolis,IN,46240,4,4,3657,0.5700000000000001 acres,
+https://www.zillow.com/homedetails/9510-Copley-Dr-Indianapolis-IN-46260/1268432_zpid/,1268432,,SINGLE FAMILY,"$999,000",9510 Copley Dr,Indianapolis,IN,46260,4,5,4725,0.74 acres,
+https://www.zillow.com/homedetails/1630-N-New-Jersey-St-Indianapolis-IN-46202/1101231_zpid/,1101231,,SINGLE FAMILY,"$675,000",1630 N New Jersey St,Indianapolis,IN,46202,3,3,3072,6098.4 sqft,
+https://www.zillow.com/homedetails/6044-Shallow-Creek-Ln-Indianapolis-IN-46237/2061210269_zpid/,2061210269,,SINGLE FAMILY,"$874,999",6044 Shallow Creek Ln,Indianapolis,IN,46237,5,4,5743,0.26 acres,4485
+https://www.zillow.com/homedetails/1818-N-Pennsylvania-St-Indianapolis-IN-46202/308924062_zpid/,308924062,,TOWNHOUSE,"$899,000",1818 N Pennsylvania St,Indianapolis,IN,46202,3,4,4173,3484.8 sqft,4098
+https://www.zillow.com/homedetails/3101-N-Washington-Blvd-Indianapolis-IN-46205/1104351_zpid/,1104351,,SINGLE FAMILY,"$615,000",3101 N Washington Blvd,Indianapolis,IN,46205,4,4,4082,0.37 acres,
+https://www.zillow.com/homedetails/5829-Broadway-St-Indianapolis-IN-46220/1246803_zpid/,1246803,,SINGLE FAMILY,"$655,000",5829 Broadway St,Indianapolis,IN,46220,3,4,2774,10018.8 sqft,
+https://www.zillow.com/homedetails/1510-Central-Ave-Indianapolis-IN-46202/69383846_zpid/,69383846,,SINGLE FAMILY,"$1,025,000",1510 Central Ave,Indianapolis,IN,46202,3,4,3759,6098.4 sqft,2587
+https://www.zillow.com/homedetails/1616-N-Delaware-St-Indianapolis-IN-46202/1072632_zpid/,1072632,,SINGLE FAMILY,"$920,000",1616 N Delaware St,Indianapolis,IN,46202,5,4,6564,6098.4 sqft,
+https://www.zillow.com/homedetails/902-Woodlawn-Ave-Indianapolis-IN-46203/1080802_zpid/,1080802,,SINGLE FAMILY,"$665,000",902 Woodlawn Ave,Indianapolis,IN,46203,4,4,3427,4356 sqft,

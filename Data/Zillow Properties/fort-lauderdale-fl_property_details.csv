@@ -1,0 +1,545 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/1504-NW-2nd-Ave-Fort-Lauderdale-FL-33311/299146824_zpid/,299146824,,SINGLE FAMILY,"$544,000",1504 NW 2nd Avenue,Fort Lauderdale,FL,33311,4,3,2052,6750 sqft,3400
+https://www.zillow.com/homedetails/803-NE-16th-Ter-Fort-Lauderdale-FL-33304/440778491_zpid/,440778491,,TOWNHOUSE,"$1,220,000",803 NE 16th Ter,Fort Lauderdale,FL,33304,3,4,2360, ,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-1708-Fort-Lauderdale-FL-33304/71724893_zpid/,71724893,,CONDO,"$189,000",505 N Ft Lauderdale Bch Blvd #1708,Fort Lauderdale,FL,33304,1,1,533, ,1971
+https://www.zillow.com/homedetails/5801-NE-17th-Ave-Fort-Lauderdale-FL-33334/43063040_zpid/,43063040,,SINGLE FAMILY,"$569,900",5801 NE 17th Avenue,Fort Lauderdale,FL,33334,3,2,1302,7499 sqft,3812
+https://www.zillow.com/homedetails/536-NW-13th-Ave-Fort-Lauderdale-FL-33311/103021833_zpid/,103021833,,SINGLE FAMILY,"$399,999",536 NW 13th Avenue,Fort Lauderdale,FL,33311,3,3,1623,3955 sqft,3035
+https://www.zillow.com/homedetails/1625-SW-30th-Ave-Fort-Lauderdale-FL-33312/43214808_zpid/,43214808,,SINGLE FAMILY,"$379,000",1625 SW 30th Ave,Fort Lauderdale,FL,33312,4,3,2068,8102.16 sqft,3860
+https://www.zillow.com/homedetails/1512-NE-18th-Ave-Fort-Lauderdale-FL-33304/43103360_zpid/,43103360,,SINGLE FAMILY,"$1,250,000",1512 NE 18th Ave,Fort Lauderdale,FL,33304,3,2,1690,9618.048 sqft,5348
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-301-Fort-Lauderdale-FL-33304/299148690_zpid/,299148690,,CONDO,"$139,900",2670 E Sunrise Blvd #301,Fort Lauderdale,FL,33304,1,1,636, ,
+https://www.zillow.com/homedetails/5521-SW-24th-Ave-Fort-Lauderdale-FL-33312/43222534_zpid/,43222534,,SINGLE FAMILY,"$499,026",5521 SW 24th Ave,Fort Lauderdale,FL,33312,3,2,1138,3897 sqft,2962
+https://www.zillow.com/homedetails/4556-NW-16th-Way-Fort-Lauderdale-FL-33309/43074288_zpid/,43074288,,SINGLE FAMILY,"$379,900",4556 NW 16th Way,Fort Lauderdale,FL,33309,3,2,1028,4081.572 sqft,3332
+https://www.zillow.com/homedetails/2647-NE-27th-Ave-Fort-Lauderdale-FL-33306/43086733_zpid/,43086733,,SINGLE FAMILY,"$1,499,999",2647 NE 27th Ave,Fort Lauderdale,FL,33306,4,4,2069,10525 sqft,7471
+https://www.zillow.com/homedetails/3001-SW-18th-Ter-LOT-130-Fort-Lauderdale-FL-33315/449403144_zpid/,449403144,,MANUFACTURED,"$115,999",3001 SW 18th Ter LOT 130,Fort Lauderdale,FL,33315,3,2,1100, ,
+https://www.zillow.com/homedetails/2221-NE-68th-St-APT-922-Fort-Lauderdale-FL-33308/43066251_zpid/,43066251,,CONDO,"$189,000",2221 NE 68th Street #922,Fort Lauderdale,FL,33308,2,2,875, ,1974
+https://www.zillow.com/homedetails/2779-NW-9th-Pl-Fort-Lauderdale-FL-33311/43196222_zpid/,43196222,,SINGLE FAMILY,"$375,000",2779 NW 9th Pl,Fort Lauderdale,FL,33311,4,3,1112,5502 sqft,3375
+https://www.zillow.com/homedetails/410-SW-31st-Ave-Fort-Lauderdale-FL-33312/43202009_zpid/,43202009,,SINGLE FAMILY,"$509,997",410 SW 31st Ave,Fort Lauderdale,FL,33312,4,2,1827,6911 sqft,
+https://www.zillow.com/homedetails/3000-Holiday-Dr-APT-1102-Fort-Lauderdale-FL-33316/43208884_zpid/,43208884,,CONDO,"$495,000",3000 Holiday Dr APT 1102,Fort Lauderdale,FL,33316,1,2,1179, ,3280
+https://www.zillow.com/homedetails/2841-N-Ocean-Blvd-APT-307-Fort-Lauderdale-FL-33308/43124463_zpid/,43124463,,CONDO,"$249,900",2841 N Ocean Boulevard #307,Fort Lauderdale,FL,33308,2,2,1100, ,3067
+https://www.zillow.com/homedetails/2081-NE-56th-St-APT-207-Fort-Lauderdale-FL-33308/43068129_zpid/,43068129,,CONDO,"$149,999",2081 NE 56th Street #207,Fort Lauderdale,FL,33308,1,1,600, ,
+https://www.zillow.com/homedetails/3233-NE-34th-St-APT-1419-Fort-Lauderdale-FL-33308/43122746_zpid/,43122746,,CONDO,"$320,000",3233 NE 34th St #1419,Fort Lauderdale,FL,33308,2,2,1350, ,3781
+https://www.zillow.com/homedetails/2727-Treasure-Cove-Cir-2727-Fort-Lauderdale-FL-33312/2077448345_zpid/,2077448345,,TOWNHOUSE,"$799,000",2727 Treasure Cove Cir #2727,Fort Lauderdale,FL,33312,5,3,2042, ,4511
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-1030-Fort-Lauderdale-FL-33304/299148847_zpid/,299148847,,CONDO,"$146,000",2670 E Sunrise Blvd #1030,Fort Lauderdale,FL,33304,1,1,548, ,2358
+https://www.zillow.com/homedetails/2151-NE-68th-St-APT-231-Fort-Lauderdale-FL-33308/43066092_zpid/,43066092,,CONDO,"$199,999",2151 NE 68th St #231,Fort Lauderdale,FL,33308,2,2,875, ,1970
+https://www.zillow.com/homedetails/2536-NW-15th-St-Fort-Lauderdale-FL-33311/102956453_zpid/,102956453,,SINGLE FAMILY,"$600,000",2536 NW 15th St,Fort Lauderdale,FL,33311,4,2,,5100 sqft,
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-1209-Fort-Lauderdale-FL-33304/299148874_zpid/,299148874,,CONDO,"$211,000",2670 E Sunrise Blvd #1209,Fort Lauderdale,FL,33304,2,2,836, ,3186
+https://www.zillow.com/homedetails/4917-SW-43rd-Ter-Fort-Lauderdale-FL-33314/43189819_zpid/,43189819,,SINGLE FAMILY,"$399,900",4917 SW 43rd Ter,Fort Lauderdale,FL,33314,5,3,975,6000 sqft,
+https://www.zillow.com/homedetails/2609-SW-13th-Pl-Fort-Lauderdale-FL-33312/43214970_zpid/,43214970,,SINGLE FAMILY,"$509,000",2609 SW 13th Pl,Fort Lauderdale,FL,33312,4,2,1511,6500 sqft,3409
+https://www.zillow.com/homedetails/1771-NW-27th-Ave-Fort-Lauderdale-FL-33311/43097759_zpid/,43097759,,SINGLE FAMILY,"$330,000",1771 NW 27 Avenue,Fort Lauderdale,FL,33311,3,2,1227,6500 sqft,2780
+https://www.zillow.com/homedetails/2840-SW-8th-St-Fort-Lauderdale-FL-33312/43200877_zpid/,43200877,,SINGLE FAMILY,"$635,000",2840 SW 8th St,Fort Lauderdale,FL,33312,5,4,1987,9000 sqft,2846
+https://www.zillow.com/homedetails/2555-NE-11th-St-APT-505-Fort-Lauderdale-FL-33304/43105063_zpid/,43105063,,CONDO,"$185,000",2555 NE 11th St #505,Fort Lauderdale,FL,33304,1,1,956, ,2190
+https://www.zillow.com/homedetails/6371-Bay-Club-Dr-APT-4-Fort-Lauderdale-FL-33308/43067408_zpid/,43067408,,CONDO,"$350,000",6371 Bay Club Dr #4,Fort Lauderdale,FL,33308,2,2,1200, ,
+https://www.zillow.com/homedetails/1328-N-Andrews-Ave-Fort-Lauderdale-FL-33311/43101300_zpid/,43101300,,SINGLE FAMILY,"$565,000",1328 N Andrews Ave,Fort Lauderdale,FL,33311,3,2,1099,6010 sqft,
+https://www.zillow.com/homedetails/1826-N-Dixie-Hwy-APT-104-Fort-Lauderdale-FL-33305/43088933_zpid/,43088933,,CONDO,"$245,000",1826 N Dixie Hwy #104,Fort Lauderdale,FL,33305,2,2,959, ,2293
+https://www.zillow.com/homedetails/2530-NW-14th-Ct-Fort-Lauderdale-FL-33311/43096830_zpid/,43096830,,SINGLE FAMILY,"$265,000",2530 NW 14th Ct,Fort Lauderdale,FL,33311,3,1,1257,5100 sqft,2601
+https://www.zillow.com/homedetails/2115-NE-37th-Dr-APT-134-Fort-Lauderdale-FL-33308/43085477_zpid/,43085477,,CONDO,"$260,000",2115 NE 37th Dr APT 134,Fort Lauderdale,FL,33308,2,2,1090,1350 sqft,2621
+https://www.zillow.com/homedetails/3294-SW-15th-Ave-Fort-Lauderdale-FL-33315/447123329_zpid/,447123329,,SINGLE FAMILY,"$899,000",3294 SW 15th Ave,Fort Lauderdale,FL,33315,4,4,2200,4408.272 sqft,
+https://www.zillow.com/homedetails/909-NE-16th-Ter-2-Fort-Lauderdale-FL-33304/2077631132_zpid/,2077631132,,TOWNHOUSE,"$775,000",909 NE 16th Ter #2,Fort Lauderdale,FL,33304,3,3,1976, ,5909
+https://www.zillow.com/homedetails/729-NW-17th-Ave-Fort-Lauderdale-FL-33311/43195573_zpid/,43195573,,SINGLE FAMILY,"$275,000",729 NW 17th Ave,Fort Lauderdale,FL,33311,2,1,709, ,1925
+https://www.zillow.com/homedetails/2630-SW-13th-St-Fort-Lauderdale-FL-33312/43214919_zpid/,43214919,,SINGLE FAMILY,"$525,000",2630 SW 13th St,Fort Lauderdale,FL,33312,3,2,1785,7501.032 sqft,4009
+https://www.zillow.com/homedetails/4517-NE-21st-Ave-APT-5-Fort-Lauderdale-FL-33308/82302827_zpid/,82302827,,TOWNHOUSE,"$539,000",4517 NE 21st Avenue #5,Fort Lauderdale,FL,33308,3,3,2610, ,7027
+https://www.zillow.com/homedetails/1339-NE-15th-Ave-Fort-Lauderdale-FL-33304/43101344_zpid/,43101344,,SINGLE FAMILY,"$850,000",1339 NE 15th Avenue,Fort Lauderdale,FL,33304,3,2,1464,6498 sqft,4169
+https://www.zillow.com/homedetails/5720-NE-22nd-Way-APT-410-Fort-Lauderdale-FL-33308/43066667_zpid/,43066667,,CONDO,"$178,000",5720 NE 22nd Way #410,Fort Lauderdale,FL,33308,2,2,875, ,
+https://www.zillow.com/homedetails/3100-NE-48th-St-APT-609-Fort-Lauderdale-FL-33308/43116372_zpid/,43116372,,CONDO,"$400,000",3100 NE 48th St #609,Fort Lauderdale,FL,33308,2,2,1175, ,2712
+https://www.zillow.com/homedetails/1524-SW-32nd-Ct-Fort-Lauderdale-FL-33315/43219047_zpid/,43219047,,SINGLE FAMILY,"$539,000",1524 SW 32nd Ct,Fort Lauderdale,FL,33315,3,2,1450, ,
+https://www.zillow.com/homedetails/1478-NE-57th-Ct-Fort-Lauderdale-FL-33334/43063326_zpid/,43063326,,SINGLE FAMILY,"$1,125,000",1478 NE 57th Court,Fort Lauderdale,FL,33334,3,2,1907, ,5186
+https://www.zillow.com/homedetails/3233-NE-32nd-Ave-APT-801-Fort-Lauderdale-FL-33308/43118594_zpid/,43118594,,CONDO,"$350,000",3233 NE 32nd Ave #801,Fort Lauderdale,FL,33308,2,2,1200, ,2948
+https://www.zillow.com/homedetails/2851-W-Prospect-Rd-UNIT-1202-Tamarac-FL-33309/87935468_zpid/,87935468,,TOWNHOUSE,"$335,000",2851 W Prospect Rd #1202,Tamarac,FL,33309,3,3,1536, ,2916
+https://www.zillow.com/homedetails/3441-SW-19th-St-Fort-Lauderdale-FL-33312/455124243_zpid/,455124243,,SINGLE FAMILY,"$748,900",3441 SW 19th St,Fort Lauderdale,FL,33312,4,3,2400,7875 sqft,
+https://www.zillow.com/homedetails/2201-NE-52nd-St-Fort-Lauderdale-FL-33308/43068533_zpid/,43068533,,SINGLE FAMILY,"$684,999",2201 NE 52nd St,Fort Lauderdale,FL,33308,3,2,1681,7503 sqft,6316
+https://www.zillow.com/homedetails/3001-SW-18th-Ter-LOT-134-Fort-Lauderdale-FL-33315/2097535744_zpid/,2097535744,,MANUFACTURED,"$125,000",3001 SW 18th Ter LOT 134,Fort Lauderdale,FL,33315,2,2,4,1200 sqft,3105
+https://www.zillow.com/homedetails/2012-NW-11th-Ave-Fort-Lauderdale-FL-33311/43091736_zpid/,43091736,,SINGLE FAMILY,"$500,000",2012 NW 11th Avenue,Fort Lauderdale,FL,33311,3,2,1513, ,4304
+https://www.zillow.com/homedetails/3472-SW-44th-St-Fort-Lauderdale-FL-33312/43219955_zpid/,43219955,,SINGLE FAMILY,"$968,000",3472 SW 44th St,Fort Lauderdale,FL,33312,5,3,1341,7150 sqft,
+https://www.zillow.com/homedetails/4720-NE-27th-Ave-Fort-Lauderdale-FL-33308/43068972_zpid/,43068972,,SINGLE FAMILY,"$1,189,000",4720 NE 27th Ave,Fort Lauderdale,FL,33308,4,6,4317,8398.368 sqft,
+https://www.zillow.com/homedetails/1100-NE-17th-Ter-Fort-Lauderdale-FL-33304/43101894_zpid/,43101894,,SINGLE FAMILY,"$650,000",1100 NE 17th Ter,Fort Lauderdale,FL,33304,2,2,1230,6746 sqft,
+https://www.zillow.com/homedetails/3550-Galt-Ocean-Dr-APT-1910-Fort-Lauderdale-FL-33308/43119549_zpid/,43119549,,CONDO,"$610,000",3550 Galt Ocean Dr APT 1910,Fort Lauderdale,FL,33308,2,2,1434, ,4324
+https://www.zillow.com/homedetails/1090-SW-31st-St-Fort-Lauderdale-FL-33315/43218912_zpid/,43218912,,SINGLE FAMILY,"$430,000",1090 SW 31st St,Fort Lauderdale,FL,33315,3,2,1459,6599 sqft,
+https://www.zillow.com/homedetails/6260-NE-18th-Ave-APT-711-Fort-Lauderdale-FL-33334/43068238_zpid/,43068238,,CONDO,"$129,000",6260 NE 18th Ave #711,Fort Lauderdale,FL,33334,2,2,950, ,2021
+https://www.zillow.com/homedetails/1901-Miami-Rd-Fort-Lauderdale-FL-33316/2073932320_zpid/,2073932320,,MULTI FAMILY,"$780,000",1901 Miami Rd,Fort Lauderdale,FL,33316,6,3,1980, ,
+https://www.zillow.com/homedetails/2472-Andros-Ln-Fort-Lauderdale-FL-33312/43217779_zpid/,43217779,,SINGLE FAMILY,"$649,900",2472 Andros Ln,Fort Lauderdale,FL,33312,3,2,2033,8996 sqft,
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-332-Fort-Lauderdale-FL-33304/299148708_zpid/,299148708,,CONDO,"$130,000",2670 E Sunrise Blvd #332,Fort Lauderdale,FL,33304,1,1,643, ,
+https://www.zillow.com/homedetails/340-Carolina-Ave-Fort-Lauderdale-FL-33312/43199036_zpid/,43199036,,SINGLE FAMILY,"$375,000",340 Carolina Ave,Fort Lauderdale,FL,33312,4,2,1694,8751.204 sqft,3383
+https://www.zillow.com/homedetails/1632-Lauderdale-Manor-Dr-Fort-Lauderdale-FL-33311/43098825_zpid/,43098825,,SINGLE FAMILY,"$349,900",1632 Lauderdale Manor Dr,Fort Lauderdale,FL,33311,3,2,932,3968.316 sqft,2095
+https://www.zillow.com/homedetails/3400-Galt-Ocean-Dr-APT-1008S-Fort-Lauderdale-FL-33308/43120296_zpid/,43120296,,CONDO,"$529,000",3400 Galt Ocean Dr #1008S,Fort Lauderdale,FL,33308,1,2,1265, ,2868
+https://www.zillow.com/homedetails/2700-SW-18th-St-Fort-Lauderdale-FL-33312/43215818_zpid/,43215818,,SINGLE FAMILY,"$620,000",2700 SW 18th St,Fort Lauderdale,FL,33312,3,2,1740,7500 sqft,
+https://www.zillow.com/homedetails/4517-NE-21st-Ave-APT-4-Fort-Lauderdale-FL-33308/67093290_zpid/,67093290,,TOWNHOUSE,"$539,000",4517 NE 21st Avenue #4,Fort Lauderdale,FL,33308,3,3,2520, ,7008
+https://www.zillow.com/homedetails/1807-NE-8th-St-Fort-Lauderdale-FL-33304/43102052_zpid/,43102052,,SINGLE FAMILY,"$999,000",1807 NE 8th St,Fort Lauderdale,FL,33304,3,2,2079,5998.212 sqft,7034
+https://www.zillow.com/homedetails/2701-N-Ocean-Blvd-APT-18A-Fort-Lauderdale-FL-33308/43124118_zpid/,43124118,,CONDO,"$699,999",2701 N Ocean Blvd APT 18A,Fort Lauderdale,FL,33308,2,2,1200, ,
+https://www.zillow.com/homedetails/2414-Primrose-Pl-Oakland-Park-FL-33309/2069992149_zpid/,2069992149,,SINGLE FAMILY,"$817,000",2414 Primrose Pl,Oakland Park,FL,33309,4,3,2130,4819 sqft,6423
+https://www.zillow.com/homedetails/2317-NW-15th-St-Fort-Lauderdale-FL-33311/43097266_zpid/,43097266,,SINGLE FAMILY,"$325,000",2317 NW 15th St,Fort Lauderdale,FL,33311,2,1,616,6420 sqft,
+https://www.zillow.com/homedetails/2851-W-Prospect-Rd-UNIT-307-Tamarac-FL-33309/110558449_zpid/,110558449,,TOWNHOUSE,"$300,000",2851 W Prospect Rd UNIT 307,Tamarac,FL,33309,3,3,1536, ,
+https://www.zillow.com/homedetails/1710-S-Ocean-Ln-APT-404-Fort-Lauderdale-FL-33316/43209430_zpid/,43209430,,CONDO,"$1,250,000",1710 S Ocean Ln #404,Fort Lauderdale,FL,33316,2,2,1444, ,5731
+https://www.zillow.com/homedetails/3333-NE-34th-St-APT-504-Fort-Lauderdale-FL-33308/43123229_zpid/,43123229,,CONDO,"$245,000",3333 NE 34 Street #504,Fort Lauderdale,FL,33308,2,2,1170, ,3052
+https://www.zillow.com/homedetails/5720-NE-22nd-Way-APT-401-4-Fort-Lauderdale-FL-33308/447138434_zpid/,447138434,,CONDO,"$195,000",5720 NE 22nd Way #401-4,Fort Lauderdale,FL,33308,2,2,875, ,
+https://www.zillow.com/homedetails/1663-SW-28th-Ave-Fort-Lauderdale-FL-33312/43214680_zpid/,43214680,,SINGLE FAMILY,"$384,999",1663 SW 28th Ave,Fort Lauderdale,FL,33312,2,2,936,8567 sqft,2757
+https://www.zillow.com/homedetails/200-S-Birch-Rd-APT-1212-Fort-Lauderdale-FL-33316/43206952_zpid/,43206952,,CONDO,"$330,000",200 S Birch Rd APT 1212,Fort Lauderdale,FL,33316,1,1,647, ,
+https://www.zillow.com/homedetails/1601-SW-5th-Pl-Fort-Lauderdale-FL-33312/43203136_zpid/,43203136,,SINGLE FAMILY,"$1,050,000",1601 SW 5th Pl,Fort Lauderdale,FL,33312,5,4,2480,9741 sqft,5862
+https://www.zillow.com/homedetails/3309-SW-16th-St-Fort-Lauderdale-FL-33312/43216237_zpid/,43216237,,SINGLE FAMILY,"$560,000",3309 SW 16th St,Fort Lauderdale,FL,33312,3,2,1456,7873 sqft,3418
+https://www.zillow.com/homedetails/901-NE-18th-St-Fort-Lauderdale-FL-33305/43103160_zpid/,43103160,,SINGLE FAMILY,"$750,000",901 NE 18th St,Fort Lauderdale,FL,33305,2,2,1199,5998.212 sqft,2763
+https://www.zillow.com/homedetails/1905-Miami-Rd-Fort-Lauderdale-FL-33316/2106717152_zpid/,2106717152,,MULTI FAMILY,"$890,000",1905 Miami Rd,Fort Lauderdale,FL,33316,6,4,2768, ,
+https://www.zillow.com/homedetails/347-N-New-River-Dr-E-APT-3011-Fort-Lauderdale-FL-33301/67831782_zpid/,67831782,,CONDO,"$949,000",347 N New River Dr E #3011,Fort Lauderdale,FL,33301,2,2,1178, ,3640
+https://www.zillow.com/homedetails/315-NE-3rd-Ave-APT-1201-Fort-Lauderdale-FL-33301/82300227_zpid/,82300227,,CONDO,"$539,000",315 NE 3rd Ave #1201,Fort Lauderdale,FL,33301,2,3,1185, ,
+https://www.zillow.com/homedetails/1332-Bayview-Dr-APT-203-Fort-Lauderdale-FL-33304/43104685_zpid/,43104685,,CONDO,"$398,000",1332 Bayview Dr #203,Fort Lauderdale,FL,33304,2,2,1088, ,
+https://www.zillow.com/homedetails/307-SW-13th-Ter-307-Fort-Lauderdale-FL-33312/2094447496_zpid/,2094447496,,TOWNHOUSE,"$395,000",307 SW 13th Ter #307,Fort Lauderdale,FL,33312,2,3,1679, ,3514
+https://www.zillow.com/homedetails/1240-SW-32nd-Ave-Fort-Lauderdale-FL-33312/43216951_zpid/,43216951,,SINGLE FAMILY,"$349,998",1240 SW 32nd Ave,Fort Lauderdale,FL,33312,3,1,912,5445 sqft,2426
+https://www.zillow.com/homedetails/501-Carolina-Ave-Fort-Lauderdale-FL-33312/43199088_zpid/,43199088,,SINGLE FAMILY,"$399,000",501 Carolina Ave,Fort Lauderdale,FL,33312,3,2,1000,8927 sqft,2727
+https://www.zillow.com/homedetails/470-Arizona-Ave-Fort-Lauderdale-FL-33312/43199147_zpid/,43199147,,SINGLE FAMILY,"$365,000",470 Arizona Ave,Fort Lauderdale,FL,33312,3,2,1512,8925.444 sqft,3129
+https://www.zillow.com/homedetails/1508-NE-18th-St-Fort-Lauderdale-FL-33305/43100130_zpid/,43100130,,SINGLE FAMILY,"$1,025,000",1508 NE 18th Street,Fort Lauderdale,FL,33305,3,2,1630,6006.924 sqft,3917
+https://www.zillow.com/homedetails/1204-NE-3rd-Ave-Fort-Lauderdale-FL-33304/66119167_zpid/,66119167,,SINGLE FAMILY,"$549,000",1204 NE 3rd Ave,Fort Lauderdale,FL,33304,3,2,1006,6756.156 sqft,2984
+https://www.zillow.com/homedetails/1122-NE-16th-St-Fort-Lauderdale-FL-33304/43103110_zpid/,43103110,,SINGLE FAMILY,"$675,000",1122 NE 16th St,Fort Lauderdale,FL,33304,3,2,1640,0.2527 acres,4657
+https://www.zillow.com/homedetails/818-SE-4th-St-APT-404-Fort-Lauderdale-FL-33301/43205501_zpid/,43205501,,CONDO,"$525,000",818 SE 4th St #404,Fort Lauderdale,FL,33301,2,2,1300, ,3473
+https://www.zillow.com/homedetails/1600-NE-4th-Ct-Fort-Lauderdale-FL-33301/43194271_zpid/,43194271,,SINGLE FAMILY,"$1,165,000",1600 NE 4th Ct,Fort Lauderdale,FL,33301,3,2,1409,6856.344 sqft,4374
+https://www.zillow.com/homedetails/1750-SW-29th-Ave-Fort-Lauderdale-FL-33312/43214871_zpid/,43214871,,SINGLE FAMILY,"$225,000",1750 SW 29th Ave,Fort Lauderdale,FL,33312,2,2,,4262 sqft,3844
+https://www.zillow.com/homedetails/3850-Galt-Ocean-Dr-APT-1105-Fort-Lauderdale-FL-33308/43118475_zpid/,43118475,,CONDO,"$599,000",3850 Galt Ocean Dr #1105,Fort Lauderdale,FL,33308,2,2,1580, ,4073
+https://www.zillow.com/homedetails/530-NE-7th-Ave-1-Fort-Lauderdale-FL-33301/63877454_zpid/,63877454,,TOWNHOUSE,"$659,500",530 NE 7th Ave #1,Fort Lauderdale,FL,33301,3,4,1649, ,4730
+https://www.zillow.com/homedetails/3600-Galt-Ocean-Dr-APT-8E-Fort-Lauderdale-FL-33308/43122466_zpid/,43122466,,CONDO,"$350,000",3600 Galt Ocean Dr #8E,Fort Lauderdale,FL,33308,1,1,1100, ,2354
+https://www.zillow.com/homedetails/2230-NE-62nd-St-Fort-Lauderdale-FL-33308/43065394_zpid/,43065394,,SINGLE FAMILY,"$579,000",2230 NE 62 Street,Fort Lauderdale,FL,33308,3,2,1500,7091 sqft,4580
+https://www.zillow.com/homedetails/515-NW-30th-Ter-Pompano-Beach-FL-33311/43197014_zpid/,43197014,,SINGLE FAMILY,"$495,000",515 NW 30th Ter,Pompano Beach,FL,33311,4,2,1534,7202 sqft,2970
+https://www.zillow.com/homedetails/1212-NW-11th-Ct-Fort-Lauderdale-FL-33311/43099079_zpid/,43099079,,SINGLE FAMILY,"$379,000",1212 NW 11th Ct,Fort Lauderdale,FL,33311,4,2,1326,6891.192 sqft,3392
+https://www.zillow.com/homedetails/1910-NE-56th-St-Fort-Lauderdale-FL-33308/445781111_zpid/,445781111,,SINGLE FAMILY,"$599,900",1910 NE 56th St,Fort Lauderdale,FL,33308,4,2,1933,7501.032 sqft,
+https://www.zillow.com/homedetails/2231-Imperial-Point-Dr-Fort-Lauderdale-FL-33308/43065407_zpid/,43065407,,SINGLE FAMILY,"$699,650",2231 Imperial Point Drive,Fort Lauderdale,FL,33308,3,2,2030,8579 sqft,
+https://www.zillow.com/homedetails/2719-NE-15th-St-3-Fort-Lauderdale-FL-33304/454630184_zpid/,454630184,,TOWNHOUSE,"$1,299,999",2719 NE 15th St #3,Fort Lauderdale,FL,33304,4,3,3226, ,
+https://www.zillow.com/homedetails/4841-NE-28th-Ave-Fort-Lauderdale-FL-33308/43084674_zpid/,43084674,,SINGLE FAMILY,"$1,299,000",4841 NE 28th Ave,Fort Lauderdale,FL,33308,3,2,2025,7862.58 sqft,
+https://www.zillow.com/homedetails/1401-NW-45th-St-Fort-Lauderdale-FL-33309/43074027_zpid/,43074027,,SINGLE FAMILY,"$584,500",1401 NW 45th St,Fort Lauderdale,FL,33309,3,2,1270,7607 sqft,4442
+https://www.zillow.com/homedetails/2275-SW-44th-St-Fort-Lauderdale-FL-33312/43219264_zpid/,43219264,,SINGLE FAMILY,"$1,500,000",2275 SW 44th St,Fort Lauderdale,FL,33312,5,3,3380,0.36519999999999997 acres,
+https://www.zillow.com/homedetails/1124-Seminole-Dr-APT-3A-Fort-Lauderdale-FL-33304/43105219_zpid/,43105219,,CONDO,"$334,900",1124 Seminole Dr #3A,Fort Lauderdale,FL,33304,2,2,950, ,2734
+https://www.zillow.com/homedetails/1517-NW-12th-Ave-Fort-Lauderdale-FL-33311/43099903_zpid/,43099903,,SINGLE FAMILY,"$650,000",1517 NW 12th Avenue,Fort Lauderdale,FL,33311,4,3,1985, ,3647
+https://www.zillow.com/homedetails/6409-Bay-Club-Dr-APT-3-Fort-Lauderdale-FL-33308/43067477_zpid/,43067477,,CONDO,"$269,000",6409 Bay Club Dr #3,Fort Lauderdale,FL,33308,1,2,850, ,1946
+https://www.zillow.com/homedetails/4461-SW-34th-Dr-Fort-Lauderdale-FL-33312/43219897_zpid/,43219897,,SINGLE FAMILY,"$719,900",4461 SW 34th Dr,Fort Lauderdale,FL,33312,4,2,1543,7409 sqft,4015
+https://www.zillow.com/homedetails/2431-NW-69th-Ct-Fort-Lauderdale-FL-33309/43061652_zpid/,43061652,,SINGLE FAMILY,"$575,000",2431 NW 69th Ct,Fort Lauderdale,FL,33309,4,2,2012,8276.4 sqft,4299
+https://www.zillow.com/homedetails/2701-N-Ocean-Blvd-APT-4C-Fort-Lauderdale-FL-33308/43124042_zpid/,43124042,,CONDO,"$420,000",2701 N Ocean Blvd #4C,Fort Lauderdale,FL,33308,2,2,1200, ,3183
+https://www.zillow.com/homedetails/2807-Coral-Shores-Dr-Fort-Lauderdale-FL-33306/43087034_zpid/,43087034,,SINGLE FAMILY,"$1,045,000",2807 Coral Shores Dr,Fort Lauderdale,FL,33306,2,2,1189,9796.644 sqft,5387
+https://www.zillow.com/homedetails/1440-NW-20th-St-B-Fort-Lauderdale-FL-33311/154165068_zpid/,154165068,,SINGLE FAMILY,"$349,997",1440 NW 20th St #B,Fort Lauderdale,FL,33311,3,2,1167,4009 sqft,
+https://www.zillow.com/homedetails/1328-Mango-Isle-Fort-Lauderdale-FL-33315/43213743_zpid/,43213743,,SINGLE FAMILY,"$999,500",1328 Mango Isle,Fort Lauderdale,FL,33315,2,1,1298,6890 sqft,
+https://www.zillow.com/homedetails/1532-NE-17th-Ave-Fort-Lauderdale-FL-33304/43100726_zpid/,43100726,,SINGLE FAMILY,"$850,000",1532 NE 17th Ave,Fort Lauderdale,FL,33304,3,2,1500,8102.16 sqft,
+https://www.zillow.com/homedetails/824-NE-19th-Ave-Fort-Lauderdale-FL-33304/72183595_zpid/,72183595,,TOWNHOUSE,"$789,000",824 NE 19th Ave,Fort Lauderdale,FL,33304,3,3,2007, ,
+https://www.zillow.com/homedetails/3758-SW-50th-Ct-Fort-Lauderdale-FL-33312/60965989_zpid/,60965989,,SINGLE FAMILY,"$699,000",3758 SW 50th Ct,Fort Lauderdale,FL,33312,3,3,2430,3645 sqft,4034
+https://www.zillow.com/homedetails/2451-SW-16th-St-Fort-Lauderdale-FL-33312/43215552_zpid/,43215552,,SINGLE FAMILY,"$459,000",2451 SW 16th St,Fort Lauderdale,FL,33312,2,1,965,8250 sqft,
+https://www.zillow.com/homedetails/1244-NW-30th-Ave-Fort-Lauderdale-FL-33311/306108195_zpid/,306108195,,SINGLE FAMILY,"$540,000",1244 NW 30th Ave,Fort Lauderdale,FL,33311,3,2,,5987 sqft,3174
+https://www.zillow.com/homedetails/1779-NE-16th-St-Fort-Lauderdale-FL-33304/43100281_zpid/,43100281,,SINGLE FAMILY,"$579,900",1779 NE 16th St,Fort Lauderdale,FL,33304,3,2,1369,6002 sqft,5328
+https://www.zillow.com/homedetails/1305-NE-1st-Ave-Fort-Lauderdale-FL-33304/43101293_zpid/,43101293,,SINGLE FAMILY,"$625,000",1305 NE 1st Avenue,Fort Lauderdale,FL,33304,3,2,1304,6761 sqft,4039
+https://www.zillow.com/homedetails/913-NE-17th-Way-Fort-Lauderdale-FL-33304/118271986_zpid/,118271986,,TOWNHOUSE,"$987,000",913 NE 17th Way #*,Fort Lauderdale,FL,33304,4,4,2702, ,5913
+https://www.zillow.com/homedetails/410-NW-1st-Ave-701-Fort-Lauderdale-FL-33301/444590367_zpid/,444590367,,CONDO,"$799,000",410 NW 1st Ave #701,Fort Lauderdale,FL,33301,2,2,1629, ,
+https://www.zillow.com/homedetails/2033-SE-10th-Ave-APT-616-Fort-Lauderdale-FL-33316/71735089_zpid/,71735089,,TOWNHOUSE,"$349,000",2033 SE 10th Avenue #616,Fort Lauderdale,FL,33316,2,2,1054, ,2685
+https://www.zillow.com/homedetails/2401-NW-7th-St-Fort-Lauderdale-FL-33311/43196191_zpid/,43196191,,SINGLE FAMILY,"$370,000",2401 NW 7th St,Fort Lauderdale,FL,33311,4,2,1210,6066 sqft,
+https://www.zillow.com/homedetails/1709-SW-5th-St-Fort-Lauderdale-FL-33312/43203040_zpid/,43203040,,SINGLE FAMILY,"$849,000",1709 SW 5th St,Fort Lauderdale,FL,33312,3,2,1465,6825.852 sqft,3553
+https://www.zillow.com/homedetails/4521-NW-12th-Ter-Fort-Lauderdale-FL-33309/43074059_zpid/,43074059,,SINGLE FAMILY,"$437,000",4521 NW 12th Ter,Fort Lauderdale,FL,33309,2,3,1160,8437 sqft,3084
+https://www.zillow.com/homedetails/901-W-Las-Olas-Blvd-Fort-Lauderdale-FL-33312/43202631_zpid/,43202631,,SINGLE FAMILY,"$750,000",901 W Las Olas Blvd,Fort Lauderdale,FL,33312,5,3,2498,0.2984 acres,
+https://www.zillow.com/homedetails/1420-SW-33rd-Ct-Fort-Lauderdale-FL-33315/43218762_zpid/,43218762,,SINGLE FAMILY,"$520,000",1420 SW 33rd Ct,Fort Lauderdale,FL,33315,3,2,1110,6248 sqft,
+https://www.zillow.com/homedetails/1960-Riverside-Dr-Fort-Lauderdale-FL-33312/444617550_zpid/,444617550,,SINGLE FAMILY,"$530,000",1960 Riverside Dr,Fort Lauderdale,FL,33312,4,3,1262,7509 sqft,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2411-Fort-Lauderdale-FL-33304/71734485_zpid/,71734485,,CONDO,"$199,000",505 N Fort Lauderdale Bch Blvd #2411,Fort Lauderdale,FL,33304,0,1,533, ,1921
+https://www.zillow.com/homedetails/604-SW-11th-Ct-Fort-Lauderdale-FL-33315/43212366_zpid/,43212366,,SINGLE FAMILY,"$1,049,000",604 SW 11th Ct,Fort Lauderdale,FL,33315,2,2,1180,7610 sqft,3083
+https://www.zillow.com/homedetails/1424-SE-15th-St-APT-45-Fort-Lauderdale-FL-33316/43210790_zpid/,43210790,,CONDO,"$350,000",1424 SE 15th St APT 45,Fort Lauderdale,FL,33316,2,2,1140, ,2616
+https://www.zillow.com/homedetails/1625-NW-2nd-Ave-Fort-Lauderdale-FL-33311/43102291_zpid/,43102291,,SINGLE FAMILY,"$579,000",1625 NW 2nd Ave,Fort Lauderdale,FL,33311,3,2,1111,6002.568 sqft,3512
+https://www.zillow.com/homedetails/2430-SW-53rd-St-Fort-Lauderdale-FL-33312/43222862_zpid/,43222862,,MANUFACTURED,"$299,900",2430 SW 53rd St,Fort Lauderdale,FL,33312,2,2,905,4984 sqft,2159
+https://www.zillow.com/homedetails/2755-Treasure-Cove-Cir-Fort-Lauderdale-FL-33312/83906511_zpid/,83906511,,TOWNHOUSE,"$650,000",2755 Treasure Cove Cir,Fort Lauderdale,FL,33312,4,3,2042, ,4447
+https://www.zillow.com/homedetails/1012-SW-22nd-Ave-Fort-Lauderdale-FL-33312/43201323_zpid/,43201323,,SINGLE FAMILY,"$350,000",1012 SW 22nd Ave,Fort Lauderdale,FL,33312,3,2,1520,8385 sqft,3507
+https://www.zillow.com/homedetails/3200-NE-36th-St-APT-1512-Fort-Lauderdale-FL-33308/43122347_zpid/,43122347,,CONDO,"$389,000",3200 NE 36th Street #1512,Fort Lauderdale,FL,33308,2,2,1350, ,
+https://www.zillow.com/homedetails/3031-N-Ocean-Blvd-APT-406-Fort-Lauderdale-FL-33308/43124920_zpid/,43124920,,CONDO,"$450,000",3031 N Ocean Blvd #406,Fort Lauderdale,FL,33308,3,2,1550, ,4720
+https://www.zillow.com/homedetails/1521-NE-5th-Ter-Fort-Lauderdale-FL-33304/43102412_zpid/,43102412,,SINGLE FAMILY,"$798,000",1521 NE 5th Terrace,Fort Lauderdale,FL,33304,4,2,1586,0.2834022038567493 acres,5826
+https://www.zillow.com/homedetails/2605-NW-13th-Ct-Fort-Lauderdale-FL-33311/2120097637_zpid/,2120097637,,SINGLE FAMILY,"$275,000",2605 NW 13th Ct,Fort Lauderdale,FL,33311,3,2,1379,5100.876 sqft,2884
+https://www.zillow.com/homedetails/1005-SE-15th-St-APT-5D-Fort-Lauderdale-FL-33316/43211731_zpid/,43211731,,CONDO,"$179,000",1005 SE 15th St #5D,Fort Lauderdale,FL,33316,2,1,800, ,2090
+https://www.zillow.com/homedetails/1850-S-Ocean-Dr-APT-318-Fort-Lauderdale-FL-33316/43209773_zpid/,43209773,,CONDO,"$280,000",1850 S Ocean Drive #318,Fort Lauderdale,FL,33316,2,1,760, ,3004
+https://www.zillow.com/homedetails/2184-NW-6th-St-Fort-Lauderdale-FL-33311/338257236_zpid/,338257236,,TOWNHOUSE,"$465,000",2184 NW 6th St,Fort Lauderdale,FL,33311,3,3,1766, ,
+https://www.zillow.com/homedetails/226-City-View-Dr-Fort-Lauderdale-FL-33311/54598181_zpid/,54598181,,TOWNHOUSE,"$375,000",226 City View Dr,Fort Lauderdale,FL,33311,2,2,1149, ,
+https://www.zillow.com/homedetails/800-SE-11th-Ct-Fort-Lauderdale-FL-33316/43204868_zpid/,43204868,,SINGLE FAMILY,"$1,150,000",800 SE 11th Court,Fort Lauderdale,FL,33316,3,3,1562,8750 sqft,5554
+https://www.zillow.com/homedetails/3500-Galt-Ocean-Dr-APT-616-Fort-Lauderdale-FL-33308/43119733_zpid/,43119733,,CONDO,"$695,000",3500 Galt Ocean Dr #616,Fort Lauderdale,FL,33308,2,2,1435, ,4023
+https://www.zillow.com/homedetails/2400-NE-9th-St-APT-201-Fort-Lauderdale-FL-33304/43193796_zpid/,43193796,,CONDO,"$196,500",2400 NE 9th St APT 201,Fort Lauderdale,FL,33304,2,1,650, ,
+https://www.zillow.com/homedetails/1121-SW-15th-Ave-Fort-Lauderdale-FL-33312/299149575_zpid/,299149575,,SINGLE FAMILY,"$629,888",1121 SW 15th Ave,Fort Lauderdale,FL,33312,3,2,3370,5998.212 sqft,2401
+https://www.zillow.com/homedetails/3528-SW-12th-Ct-Fort-Lauderdale-FL-33312/43216914_zpid/,43216914,,SINGLE FAMILY,"$455,000",3528 SW 12th Ct,Fort Lauderdale,FL,33312,3,2,1582,5248.98 sqft,
+https://www.zillow.com/homedetails/1709-SW-5th-Pl-Fort-Lauderdale-FL-33312/43203131_zpid/,43203131,,SINGLE FAMILY,"$1,100,000",1709 SW 5th Pl,Fort Lauderdale,FL,33312,3,2,1433,7680 sqft,
+https://www.zillow.com/homedetails/1535-SE-15th-St-APT-305-Fort-Lauderdale-FL-33316/43211381_zpid/,43211381,,CONDO,"$349,000",1535 SE 15th St #305,Fort Lauderdale,FL,33316,2,2,1016, ,2502
+https://www.zillow.com/homedetails/1630-NW-14th-Ct-Fort-Lauderdale-FL-33311/43098388_zpid/,43098388,,SINGLE FAMILY,"$409,000",1630 NW 14th Ct,Fort Lauderdale,FL,33311,4,2,1600,8049.888 sqft,4677
+https://www.zillow.com/homedetails/1109-NE-16th-Pl-Fort-Lauderdale-FL-33305/43103054_zpid/,43103054,,SINGLE FAMILY,"$725,000",1109 NE 16th Pl,Fort Lauderdale,FL,33305,4,2,2367,10833.372 sqft,5370
+https://www.zillow.com/homedetails/904-NE-18th-St-Fort-Lauderdale-FL-33305/43103133_zpid/,43103133,,SINGLE FAMILY,"$739,000",904 NE 18th St,Fort Lauderdale,FL,33305,3,2,1160,5623.596 sqft,
+https://www.zillow.com/homedetails/2841-N-Ocean-Blvd-APT-1105-Fort-Lauderdale-FL-33308/43124541_zpid/,43124541,,CONDO,"$359,000",2841 N Ocean Blvd #1105,Fort Lauderdale,FL,33308,2,2,1100, ,3101
+https://www.zillow.com/homedetails/4975-N-Tradewinds-Ter-601-Fort-Lauderdale-FL-33312/394672175_zpid/,394672175,,TOWNHOUSE,"$355,000",4975 N Tradewinds Ter #601,Fort Lauderdale,FL,33312,3,3,1382, ,2728
+https://www.zillow.com/homedetails/909-NE-16th-Ave-Fort-Lauderdale-FL-33304/103011314_zpid/,103011314,,TOWNHOUSE,"$1,297,000",909 NE 16th Ave,Fort Lauderdale,FL,33304,4,4,2483, ,7788
+https://www.zillow.com/homedetails/2020-NE-54th-St-Fort-Lauderdale-FL-33308/43068799_zpid/,43068799,,SINGLE FAMILY,"$1,249,000",2020 NE 54th St,Fort Lauderdale,FL,33308,4,3,1932,7502 sqft,
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-922-Fort-Lauderdale-FL-33304/299148823_zpid/,299148823,,CONDO,"$185,000",2670 E Sunrise Blvd #922,Fort Lauderdale,FL,33304,1,1,548, ,2358
+https://www.zillow.com/homedetails/723-SW-8th-Way-Fort-Lauderdale-FL-33315/43204060_zpid/,43204060,,SINGLE FAMILY,"$775,000",723 SW 8th Way,Fort Lauderdale,FL,33315,3,2,1838,7819.02 sqft,7562
+https://www.zillow.com/homedetails/1700-15th-St-APT-306-Fort-Lauderdale-FL-33316/43211349_zpid/,43211349,,CONDO,"$250,000",1700 SE 15th St #306,Fort Lauderdale,FL,33316,2,2,1250, ,3156
+https://www.zillow.com/homedetails/1520-NE-16th-Ave-Fort-Lauderdale-FL-33304/43103409_zpid/,43103409,,SINGLE FAMILY,"$850,000",1520 NE 16th Ave,Fort Lauderdale,FL,33304,3,2,1410,8097.804 sqft,5566
+https://www.zillow.com/homedetails/4980-SW-31st-Ter-Fort-Lauderdale-FL-33312/43221010_zpid/,43221010,,TOWNHOUSE,"$330,000",4980 SW 31st Ter,Fort Lauderdale,FL,33312,2,2,1110, ,
+https://www.zillow.com/homedetails/5820-NE-22nd-Ter-Fort-Lauderdale-FL-33308/43065048_zpid/,43065048,,SINGLE FAMILY,"$649,000",5820 NE 22nd Ter,Fort Lauderdale,FL,33308,3,2,1250,7501.032 sqft,5628
+https://www.zillow.com/homedetails/1900-S-Ocean-Dr-APT-301-Fort-Lauderdale-FL-33316/43209797_zpid/,43209797,,CONDO,"$425,000",1900 S Ocean Dr #301,Fort Lauderdale,FL,33316,2,2,1185, ,3936
+https://www.zillow.com/homedetails/3616-SW-14th-St-Fort-Lauderdale-FL-33312/43216941_zpid/,43216941,,SINGLE FAMILY,"$420,000",3616 SW 14th St,Fort Lauderdale,FL,33312,3,1,960,5821 sqft,
+https://www.zillow.com/homedetails/6501-NE-21st-Dr-Fort-Lauderdale-FL-33308/43065873_zpid/,43065873,,SINGLE FAMILY,"$599,900",6501 NE 21st Drive,Fort Lauderdale,FL,33308,2,2,1979,8797 sqft,3609
+https://www.zillow.com/homedetails/5800-NE-22nd-Way-APT-523-Fort-Lauderdale-FL-33308/43066690_zpid/,43066690,,CONDO,"$195,000",5800 NE 22nd Way APT 523,Fort Lauderdale,FL,33308,2,2,1100, ,2230
+https://www.zillow.com/homedetails/1418-NE-57th-Ct-Fort-Lauderdale-FL-33334/43063316_zpid/,43063316,,SINGLE FAMILY,"$990,000",1418 NE 57th Ct,Fort Lauderdale,FL,33334,5,3,2223,7500 sqft,7330
+https://www.zillow.com/homedetails/701-NW-19th-St-APT-512-Fort-Lauderdale-FL-33311/43091517_zpid/,43091517,,CONDO,"$199,000",701 NW 19th St #512,Fort Lauderdale,FL,33311,2,2,1000, ,
+https://www.zillow.com/homedetails/3600-SW-2nd-St-Fort-Lauderdale-FL-33312/43200364_zpid/,43200364,,SINGLE FAMILY,"$488,000",3600 SW 2nd St,Fort Lauderdale,FL,33312,3,2,1553,8268 sqft,3919
+https://www.zillow.com/homedetails/2608-NE-21st-Ct-Fort-Lauderdale-FL-33305/43086211_zpid/,43086211,,SINGLE FAMILY,"$1,450,000",2608 NE 21st Ct,Fort Lauderdale,FL,33305,4,4,2865,7940.988 sqft,7492
+https://www.zillow.com/homedetails/701-NW-19th-St-APT-300-Fort-Lauderdale-FL-33311/43091479_zpid/,43091479,,CONDO,"$169,000",701 NW 19th St #300,Fort Lauderdale,FL,33311,2,2,1000, ,2107
+https://www.zillow.com/homedetails/1900-S-Ocean-Dr-APT-812-Fort-Lauderdale-FL-33316/43209868_zpid/,43209868,,CONDO,"$365,000",1900 S Ocean Dr #812,Fort Lauderdale,FL,33316,2,2,1293, ,
+https://www.zillow.com/homedetails/3050-NE-47th-Ct-502-503-Fort-Lauderdale-FL-33308/443672733_zpid/,443672733,,CONDO,"$649,000",3050 NE 47th Ct #502 & 503,Fort Lauderdale,FL,33308,4,4,2962, ,
+https://www.zillow.com/homedetails/3000-Holiday-Dr-APT-306-Fort-Lauderdale-FL-33316/43208840_zpid/,43208840,,CONDO,"$459,999",3000 Holiday Dr APT 306,Fort Lauderdale,FL,33316,2,2,1214, ,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2501-Fort-Lauderdale-FL-33304/2065475875_zpid/,2065475875,,CONDO,"$625,000",505 N Fort Lauderdale Beach Blvd #2501,Fort Lauderdale,FL,33304,2,2,1308, ,
+https://www.zillow.com/homedetails/2500-E-Las-Olas-Blvd-APT-406-Fort-Lauderdale-FL-33301/43207011_zpid/,43207011,,CONDO,"$399,900",2500 E Las Olas Blvd #406,Fort Lauderdale,FL,33301,3,3,1743, ,4995
+https://www.zillow.com/homedetails/1213-Cordova-Rd-Fort-Lauderdale-FL-33316/43210597_zpid/,43210597,,SINGLE FAMILY,"$1,349,900",1213 Cordova Rd,Fort Lauderdale,FL,33316,4,4,2321,7000 sqft,5822
+https://www.zillow.com/homedetails/1730-NE-16th-St-Fort-Lauderdale-FL-33304/43100751_zpid/,43100751,,SINGLE FAMILY,"$844,500",1730 NE 16th St,Fort Lauderdale,FL,33304,4,2,1311,7001 sqft,5434
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-224-Fort-Lauderdale-FL-33304/71734260_zpid/,71734260,,CONDO,"$799,000",505 N Ft Lauderdale Bch Blvd #224,Fort Lauderdale,FL,33304,3,4,2757, ,8659
+https://www.zillow.com/homedetails/2316-NW-13th-Ct-Fort-Lauderdale-FL-33311/43097337_zpid/,43097337,,SINGLE FAMILY,"$235,900",2316 NW 13th Ct,Fort Lauderdale,FL,33311,3,2,952,6843.276 sqft,2671
+https://www.zillow.com/homedetails/1080-Carolina-Ave-Fort-Lauderdale-FL-33312/43199779_zpid/,43199779,,SINGLE FAMILY,"$485,000",1080 Carolina Ave,Fort Lauderdale,FL,33312,4,2,1506,8411.436 sqft,2802
+https://www.zillow.com/homedetails/1721-SW-13th-St-Fort-Lauderdale-FL-33312/43213050_zpid/,43213050,,SINGLE FAMILY,"$599,900",1721 SW 13th Street,Fort Lauderdale,FL,33312,3,2,1235,6300 sqft,3058
+https://www.zillow.com/homedetails/3050-NE-47th-Ct-APT-204-Fort-Lauderdale-FL-33308/43115813_zpid/,43115813,,CONDO,"$425,000",3050 NE 47th Ct #204,Fort Lauderdale,FL,33308,2,2,1281, ,2810
+https://www.zillow.com/homedetails/246-W-Park-Dr-Fort-Lauderdale-FL-33315/2137123325_zpid/,2137123325,,MULTI FAMILY,"$595,000",246 W Park Drive,Fort Lauderdale,FL,33315,3,3,1573,6895.548 sqft,3654
+https://www.zillow.com/homedetails/1700-15th-St-APT-302-Fort-Lauderdale-FL-33316/445785745_zpid/,445785745,,CONDO,"$300,000",1700 SE 15th St #302,Fort Lauderdale,FL,33316,2,2,1250, ,
+https://www.zillow.com/homedetails/1731-NW-26th-Ave-Fort-Lauderdale-FL-33311/43097807_zpid/,43097807,,SINGLE FAMILY,"$370,000",1731 NW 26th Ave,Fort Lauderdale,FL,33311,3,2,825,6500 sqft,
+https://www.zillow.com/homedetails/3001-SW-18th-Ter-LOT-18-Fort-Lauderdale-FL-33315/2092068310_zpid/,2092068310,,MANUFACTURED,"$120,000",3001 SW 18th Ter LOT 18,Fort Lauderdale,FL,33315,3,2,1400,1 sqft,2448
+https://www.zillow.com/homedetails/2181-NE-67th-St-APT-622-Fort-Lauderdale-FL-33308/43066179_zpid/,43066179,,CONDO,"$162,000",2181 NE 67th St #622,Fort Lauderdale,FL,33308,2,2,875, ,
+https://www.zillow.com/homedetails/6501-NE-20th-Ter-Fort-Lauderdale-FL-33308/447504510_zpid/,447504510,,SINGLE FAMILY,"$999,900",6501 NE 20th Ter,Fort Lauderdale,FL,33308,4,3,2565,10393.416 sqft,
+https://www.zillow.com/homedetails/2554-Sugarloaf-Ln-Fort-Lauderdale-FL-33312/43218284_zpid/,43218284,,SINGLE FAMILY,"$755,000",2554 Sugar Loaf Lane,Fort Lauderdale,FL,33312,3,2,1509, ,4951
+https://www.zillow.com/homedetails/2041-SW-35th-Ave-Fort-Lauderdale-FL-33312/43217411_zpid/,43217411,,SINGLE FAMILY,"$665,000",2041 SW 35 Avenue,Fort Lauderdale,FL,33312,5,3,2443,0.25098714416896234 acres,5728
+https://www.zillow.com/homedetails/800-NW-15th-Ave-Fort-Lauderdale-FL-33311/43195643_zpid/,43195643,,SINGLE FAMILY,"$349,000",800 NW 15th Ave,Fort Lauderdale,FL,33311,3,1,906,5000 sqft,2497
+https://www.zillow.com/homedetails/360-City-View-Dr-Fort-Lauderdale-FL-33311/43195295_zpid/,43195295,,TOWNHOUSE,"$499,000",360 City View Dr,Fort Lauderdale,FL,33311,3,3,1452, ,3030
+https://www.zillow.com/homedetails/6110-NW-34th-Ter-Fort-Lauderdale-FL-33309/43061133_zpid/,43061133,,TOWNHOUSE,"$395,000",6110 NW 34th Ter,Fort Lauderdale,FL,33309,2,2,1136, ,
+https://www.zillow.com/homedetails/1401-NE-14th-Ct-Fort-Lauderdale-FL-33304/43103622_zpid/,43103622,,SINGLE FAMILY,"$630,000",1401 NE 14th Ct,Fort Lauderdale,FL,33304,3,2,1026,6000 sqft,4688
+https://www.zillow.com/homedetails/5410-NE-31st-Ave-Fort-Lauderdale-FL-33308/43069181_zpid/,43069181,,SINGLE FAMILY,"$1,550,000",5410 NE 31st Ave,Fort Lauderdale,FL,33308,4,3,2614,0.3809 acres,7951
+https://www.zillow.com/homedetails/1-Las-Olas-Cir-APT-108-Fort-Lauderdale-FL-33316/43206566_zpid/,43206566,,CONDO,"$579,000",1 Las Olas Circle #108,Fort Lauderdale,FL,33316,2,2,1575, ,4228
+https://www.zillow.com/homedetails/1920-S-Ocean-Dr-APT-606-Fort-Lauderdale-FL-33316/43210018_zpid/,43210018,,CONDO,"$443,500",1920 S Ocean Dr #606,Fort Lauderdale,FL,33316,3,3,1329, ,
+https://www.zillow.com/homedetails/4010-Galt-Ocean-Dr-APT-207-Fort-Lauderdale-FL-33308/43117405_zpid/,43117405,,CONDO,"$449,999",4010 Galt Ocean Dr APT 207,Fort Lauderdale,FL,33308,1,2,840, ,2650
+https://www.zillow.com/homedetails/1801-NE-23rd-Ave-Fort-Lauderdale-FL-33305/43104545_zpid/,43104545,,SINGLE FAMILY,"$1,500,000",1801 NE 23rd Ave,Fort Lauderdale,FL,33305,4,3,1987,8581.32 sqft,7280
+https://www.zillow.com/homedetails/2841-N-Ocean-Blvd-APT-510-Fort-Lauderdale-FL-33308/43124486_zpid/,43124486,,CONDO,"$440,000",2841 N Ocean Boulevard #510,Fort Lauderdale,FL,33308,2,2,1200, ,3284
+https://www.zillow.com/homedetails/25-Hendricks-Isle-APT-203-Fort-Lauderdale-FL-33301/58443653_zpid/,58443653,,CONDO,"$1,150,000",25 Hendricks Isle #203,Fort Lauderdale,FL,33301,3,4,2364, ,7241
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2003-Fort-Lauderdale-FL-33304/71734425_zpid/,71734425,,CONDO,"$209,000",505 N Ft Lauderdale Bch Blvd #2003,Fort Lauderdale,FL,33304,1,1,584, ,2024
+https://www.zillow.com/homedetails/841-NE-61st-St-Oakland-Park-FL-33334/43062639_zpid/,43062639,,SINGLE FAMILY,"$389,900",841 NE 61st Street,Oakland Park,FL,33334,3,1,960,7349 sqft,2742
+https://www.zillow.com/homedetails/5200-NW-31st-Ave-APT-193-Fort-Lauderdale-FL-33309/67837061_zpid/,67837061,,TOWNHOUSE,"$240,000",5200 NW 31st Ave APT 193,Fort Lauderdale,FL,33309,2,3,1032, ,
+https://www.zillow.com/homedetails/2817-SW-8th-St-Fort-Lauderdale-FL-33312/43196399_zpid/,43196399,,SINGLE FAMILY,"$445,000",2817 SW 8th St,Fort Lauderdale,FL,33312,3,2,1280,7200 sqft,2898
+https://www.zillow.com/homedetails/530-SW-11th-Ave-Fort-Lauderdale-FL-33312/43203146_zpid/,43203146,,SINGLE FAMILY,"$1,425,000",530 SW 11th Ave,Fort Lauderdale,FL,33312,3,2,1541,7126.416 sqft,4983
+https://www.zillow.com/homedetails/3005-1-2-NW-68th-St-9D-Fort-Lauderdale-FL-33309/43061807_zpid/,43061807,,TOWNHOUSE,"$248,900",3005 1/2 NW 68th St #9D,Fort Lauderdale,FL,33309,2,1,1100, ,
+https://www.zillow.com/homedetails/611-NE-14th-Ave-APT-306-Fort-Lauderdale-FL-33304/43194901_zpid/,43194901,,CONDO,"$269,980",611 NE 14th Ave #306,Fort Lauderdale,FL,33304,2,2,820, ,2371
+https://www.zillow.com/homedetails/2853-NW-9th-Ct-Fort-Lauderdale-FL-33311/455285736_zpid/,455285736,,SINGLE FAMILY,"$570,000",2853 NW 9th Ct,Fort Lauderdale,FL,33311,3,2,1613,5502 sqft,
+https://www.zillow.com/homedetails/2865-NW-9th-Ct-Fort-Lauderdale-FL-33311/455284696_zpid/,455284696,,SINGLE FAMILY,"$570,000",2865 NW 9th Ct,Fort Lauderdale,FL,33311,3,2,1613,5502 sqft,
+https://www.zillow.com/homedetails/209-N-Fort-Lauderdale-Beach-Blvd-APT-3J-Fort-Lauderdale-FL-33304/43192880_zpid/,43192880,,CONDO,"$539,000",209 N Fort Lauderdale Beach Blvd APT 3J,Fort Lauderdale,FL,33304,2,1,570,570 sqft,1834
+https://www.zillow.com/homedetails/2451A-NW-21st-St-Fort-Lauderdale-FL-33311/452664465_zpid/,452664465,,SINGLE FAMILY,"$475,000",2451A  NW 21st St,Fort Lauderdale,FL,33311,4,3,1422,3876.84 sqft,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-702-Fort-Lauderdale-FL-33304/71552533_zpid/,71552533,,CONDO,"$548,750",505 N Ft Lauderdale Beach Blvd #702,Fort Lauderdale,FL,33304,2,2,1308, ,4119
+https://www.zillow.com/homedetails/700-Bayshore-Dr-APT-26-Fort-Lauderdale-FL-33304/43193499_zpid/,43193499,,CONDO,"$225,000",700 Bayshore Dr #26,Fort Lauderdale,FL,33304,2,1,790, ,2214
+https://www.zillow.com/homedetails/700-Bayshore-Dr-APT-9-Fort-Lauderdale-FL-33304/43193482_zpid/,43193482,,CONDO,"$199,000",700 Bayshore Dr #9,Fort Lauderdale,FL,33304,1,1,748, ,2238
+https://www.zillow.com/homedetails/3105-SW-16th-St-Fort-Lauderdale-FL-33312/43216218_zpid/,43216218,,SINGLE FAMILY,"$649,000",3105 SW 16th St,Fort Lauderdale,FL,33312,3,2,1456,8398 sqft,4337
+https://www.zillow.com/homedetails/2900-NE-30th-St-G5-Fort-Lauderdale-FL-33308/443599033_zpid/,443599033,,CONDO,"$299,900",2900 NE 30th St #G5,Fort Lauderdale,FL,33308,2,2,1040, ,
+https://www.zillow.com/homedetails/1307-SE-2nd-St-Fort-Lauderdale-FL-33301/43204263_zpid/,43204263,,TOWNHOUSE,"$1,050,000",1307 SE 2nd Street,Fort Lauderdale,FL,33301,4,4,2400,3492 sqft,6839
+https://www.zillow.com/homedetails/313-NE-2nd-St-APT-703-Fort-Lauderdale-FL-33301/67834478_zpid/,67834478,,CONDO,"$449,000",313 NE 2nd St APT 703,Fort Lauderdale,FL,33301,2,2,1146, ,
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-309-Fort-Lauderdale-FL-33304/299148695_zpid/,299148695,,CONDO,"$200,000",2670 E Sunrise Blvd #309,Fort Lauderdale,FL,33304,2,2,836, ,
+https://www.zillow.com/homedetails/1020-SW-4th-Ave-Fort-Lauderdale-FL-33315/43211822_zpid/,43211822,,SINGLE FAMILY,"$780,000",1020 SW 4th Ave,Fort Lauderdale,FL,33315,3,2,1370,6250 sqft,3410
+https://www.zillow.com/homedetails/1403-NW-2nd-St-1403-Fort-Lauderdale-FL-33311/454202455_zpid/,454202455,,TOWNHOUSE,"$350,000",1403 NW 2 St #1403,Fort Lauderdale,FL,33311,2,3,1226, ,
+https://www.zillow.com/homedetails/340-Sunset-Dr-APT-505-Fort-Lauderdale-FL-33301/43207249_zpid/,43207249,,CONDO,"$625,000",340 Sunset Drive #505,Fort Lauderdale,FL,33301,2,2,1218, ,
+https://www.zillow.com/homedetails/3333-NE-34th-St-APT-210-Fort-Lauderdale-FL-33308/43123169_zpid/,43123169,,CONDO,"$199,900",3333 NE 34th St #210,Fort Lauderdale,FL,33308,2,2,1120, ,3039
+https://www.zillow.com/homedetails/401-NE-16th-Ave-APT-4-Fort-Lauderdale-FL-33301/452126314_zpid/,452126314,,CONDO,"$226,000",401 NE 16th Ave #4,Fort Lauderdale,FL,33301,1,1,568, ,
+https://www.zillow.com/homedetails/3451-SW-19th-St-Fort-Lauderdale-FL-33312/454955035_zpid/,454955035,,SINGLE FAMILY,"$789,900",3451 SW 19th St,Fort Lauderdale,FL,33312,4,3,2400,7350 sqft,
+https://www.zillow.com/homedetails/1600-NW-2nd-Ave-Fort-Lauderdale-FL-33311/43102312_zpid/,43102312,,SINGLE FAMILY,"$539,999",1600 NW 2nd Ave,Fort Lauderdale,FL,33311,3,2,1197,7975.836 sqft,2979
+https://www.zillow.com/homedetails/2881-33rd-Ct-9A-Fort-Lauderdale-FL-33306/443990911_zpid/,443990911,,CONDO,"$319,900",2881 NE 33rd Court #9a,Fort Lauderdale,FL,33306,2,2,1250, ,
+https://www.zillow.com/homedetails/1524-SW-22nd-St-Fort-Lauderdale-FL-33315/455192719_zpid/,455192719,,MULTI FAMILY,"$775,000",1524 SW 22nd St,Fort Lauderdale,FL,33315,4,4,2149, ,
+https://www.zillow.com/homedetails/2200-NE-33rd-Ave-APT-6E-Fort-Lauderdale-FL-33305/43123898_zpid/,43123898,,CONDO,"$315,000",2200 NE 33rd Ave APT 6E,Fort Lauderdale,FL,33305,1,2,1103,1103 sqft,2433
+https://www.zillow.com/homedetails/2600-NE-30th-St-Fort-Lauderdale-FL-33306/43086789_zpid/,43086789,,SINGLE FAMILY,"$989,000",2600 NE 30th Street,Fort Lauderdale,FL,33306,4,3,1850,10000 sqft,6611
+https://www.zillow.com/homedetails/1410-1412-NW-8th-Ave-Fort-Lauderdale-FL-33311/453834030_zpid/,453834030,,MULTI FAMILY,"$608,000",1410-1412 NW 8th Ave,Fort Lauderdale,FL,33311,6,4,2504, ,
+https://www.zillow.com/homedetails/1900-NE-8th-Ct-APT-307-Fort-Lauderdale-FL-33304/43191325_zpid/,43191325,,CONDO,"$250,000",1900 NE 8th Ct #307,Fort Lauderdale,FL,33304,2,2,800, ,2276
+https://www.zillow.com/homedetails/4300-N-Ocean-Blvd-APT-8F-Fort-Lauderdale-FL-33308/43118123_zpid/,43118123,,CONDO,"$555,000",4300 N Ocean Blvd APT 8F,Fort Lauderdale,FL,33308,1,2,1320, ,
+https://www.zillow.com/homedetails/1900-S-Ocean-Dr-APT-406-Fort-Lauderdale-FL-33316/43209814_zpid/,43209814,,CONDO,"$239,500",1900 S Ocean Dr APT 406,Fort Lauderdale,FL,33316,1,1,750, ,2171
+https://www.zillow.com/homedetails/5701-NE-16th-Ave-Fort-Lauderdale-FL-33334/43063066_zpid/,43063066,,SINGLE FAMILY,"$750,000",5701 NE 16th Ave,Fort Lauderdale,FL,33334,4,2,1623,8137.008 sqft,5260
+https://www.zillow.com/homedetails/1637-NE-5th-St-2-Fort-Lauderdale-FL-33301/454215500_zpid/,454215500,,TOWNHOUSE,"$635,000",1637 NE 5th St #2,Fort Lauderdale,FL,33301,3,2,1800, ,
+https://www.zillow.com/homedetails/2200-NE-33rd-Ave-APT-11H-Fort-Lauderdale-FL-33305/43123951_zpid/,43123951,,CONDO,"$325,000",2200 NE 33rd Ave APT 11H,Fort Lauderdale,FL,33305,1,2,1103, ,2238
+https://www.zillow.com/homedetails/3400-NE-25th-St-Fort-Lauderdale-FL-33305/43123509_zpid/,43123509,,SINGLE FAMILY,"$454,000",3400 NE 25th St,Fort Lauderdale,FL,33305,4,4,3039,6232 sqft,24241
+https://www.zillow.com/homedetails/3410-Galt-Ocean-Dr-PENTHOUSE-2N-Fort-Lauderdale-FL-33308/43120200_zpid/,43120200,,CONDO,"$1,575,000",3410 Galt Ocean Dr PENTHOUSE 2N,Fort Lauderdale,FL,33308,2,4,1891, ,5245
+https://www.zillow.com/homedetails/5260-NE-17th-Ave-Fort-Lauderdale-FL-33334/43063487_zpid/,43063487,,SINGLE FAMILY,"$749,700",5260 NE 17th Ave,Fort Lauderdale,FL,33334,3,2,1825,7501.032 sqft,5282
+https://www.zillow.com/homedetails/801-SE-7th-St-Fort-Lauderdale-FL-33301/43204540_zpid/,43204540,,SINGLE FAMILY,"$1,100,000",801 SE 7th St,Fort Lauderdale,FL,33301,2,2,2588,6150 sqft,
+https://www.zillow.com/homedetails/714-NE-16th-Ave-Fort-Lauderdale-FL-33304/43194722_zpid/,43194722,,SINGLE FAMILY,"$1,299,000",714 NE 16th Ave,Fort Lauderdale,FL,33304,3,3,1750,7000.092 sqft,7331
+https://www.zillow.com/homedetails/3233-NE-34th-St-APT-611-Fort-Lauderdale-FL-33308/43122584_zpid/,43122584,,CONDO,"$219,000",3233 NE 34th St APT 611,Fort Lauderdale,FL,33308,1,1,781, ,2250
+https://www.zillow.com/homedetails/4500-SW-38th-Ter-Fort-Lauderdale-FL-33312/43219830_zpid/,43219830,,SINGLE FAMILY,"$979,999",4500 SW 38th Ter,Fort Lauderdale,FL,33312,4,3,2190,9801 sqft,6450
+https://www.zillow.com/homedetails/1609-NW-7th-Ter-Fort-Lauderdale-FL-33311/43100453_zpid/,43100453,,SINGLE FAMILY,"$619,999",1609 NW 7th Ter,Fort Lauderdale,FL,33311,4,2,2034,6757 sqft,3006
+https://www.zillow.com/homedetails/436-SE-12th-Ct-Fort-Lauderdale-FL-33316/338629854_zpid/,338629854,,SINGLE FAMILY,"$729,921",436 SE 12th Ct,Fort Lauderdale,FL,33316,3,4,1649,903 sqft,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-714-Fort-Lauderdale-FL-33304/71734277_zpid/,71734277,,CONDO,"$265,000",505 N Fort Lauderdale Beach Blvd #714,Fort Lauderdale,FL,33304,1,1,662, ,2250
+https://www.zillow.com/homedetails/711-N-Birch-Rd-APT-102-Fort-Lauderdale-FL-33304/43193821_zpid/,43193821,,CONDO,"$385,000",711 N Birch Rd #102,Fort Lauderdale,FL,33304,2,2,1025, ,3535
+https://www.zillow.com/homedetails/3271-Auburn-Blvd-Fort-Lauderdale-FL-33312/43198964_zpid/,43198964,,SINGLE FAMILY,"$441,000",3271 Auburn Blvd,Fort Lauderdale,FL,33312,3,2,1509,8403 sqft,3285
+https://www.zillow.com/homedetails/1731-SE-15th-St-APT-505-Fort-Lauderdale-FL-33316/43210846_zpid/,43210846,,CONDO,"$350,000",1731 SE 15th St #505,Fort Lauderdale,FL,33316,1,1,704, ,2089
+https://www.zillow.com/homedetails/4157-SW-49th-Ct-Dania-Beach-FL-33314/43189965_zpid/,43189965,,SINGLE FAMILY,"$665,000",4157 SW 49th Ct,Dania Beach,FL,33314,4,3,2003,6004 sqft,
+https://www.zillow.com/homedetails/2496-SW-8th-St-Fort-Lauderdale-FL-33312/43201267_zpid/,43201267,,SINGLE FAMILY,"$579,900",2496 SW 8th St,Fort Lauderdale,FL,33312,4,3,2013,8000 sqft,4156
+https://www.zillow.com/homedetails/2606-Gulfstream-Ln-Fort-Lauderdale-FL-33312/43217981_zpid/,43217981,,SINGLE FAMILY,"$799,000",2606 Gulfstream Ln,Fort Lauderdale,FL,33312,2,2,1424,7150 sqft,3620
+https://www.zillow.com/homedetails/1472-NE-54th-St-Fort-Lauderdale-FL-33334/43063614_zpid/,43063614,,SINGLE FAMILY,"$950,000",1472 NE 54th St,Fort Lauderdale,FL,33334,3,2,1820,7801.596 sqft,5863
+https://www.zillow.com/homedetails/5314-SW-30th-Ave-Fort-Lauderdale-FL-33312/43222930_zpid/,43222930,,MANUFACTURED,"$324,900",5314 SW 30th Ave,Fort Lauderdale,FL,33312,3,2,1336,3201.66 sqft,2890
+https://www.zillow.com/homedetails/2851-W-Prospect-Rd-UNIT-1306-Fort-Lauderdale-FL-33309/119313269_zpid/,119313269,,TOWNHOUSE,"$350,000",2851 W Prospect Rd UNIT 1306,Fort Lauderdale,FL,33309,3,3,1536, ,3095
+https://www.zillow.com/homedetails/1225-NW-16th-Ct-Fort-Lauderdale-FL-33311/43100027_zpid/,43100027,,SINGLE FAMILY,"$445,000",1225 NW 16th Ct,Fort Lauderdale,FL,33311,5,3,1252,10441.332 sqft,5069
+https://www.zillow.com/homedetails/1341-SW-25th-Ave-Fort-Lauderdale-FL-33312/43214543_zpid/,43214543,,SINGLE FAMILY,"$350,000",1341 SW 25th Ave,Fort Lauderdale,FL,33312,2,1,1300,8716.356 sqft,3298
+https://www.zillow.com/homedetails/604-SW-8th-Ave-2-Fort-Lauderdale-FL-33315/454834920_zpid/,454834920,,TOWNHOUSE,"$724,900",604 SW 8th Ave #2,Fort Lauderdale,FL,33315,3,3,2050, ,
+https://www.zillow.com/homedetails/315-NE-3rd-Ave-APT-1505-Fort-Lauderdale-FL-33301/82301380_zpid/,82301380,,CONDO,"$469,000",315 NE 3rd Ave APT 1505,Fort Lauderdale,FL,33301,2,2,1155, ,
+https://www.zillow.com/homedetails/3430-Galt-Ocean-Dr-APT-312-Fort-Lauderdale-FL-33308/43117652_zpid/,43117652,,CONDO,"$450,000",3430 Galt Ocean Dr #312,Fort Lauderdale,FL,33308,2,2,1657, ,4432
+https://www.zillow.com/homedetails/2051-NE-59th-Ct-Fort-Lauderdale-FL-33308/43065194_zpid/,43065194,,SINGLE FAMILY,"$1,150,000",2051 NE 59th Ct,Fort Lauderdale,FL,33308,3,2,1813,7496.676 sqft,5880
+https://www.zillow.com/homedetails/4421-SW-33rd-Ave-Fort-Lauderdale-FL-33312/43219941_zpid/,43219941,,SINGLE FAMILY,"$629,000",4421 SW 33rd Ave,Fort Lauderdale,FL,33312,3,2,1341,7700 sqft,3309
+https://www.zillow.com/homedetails/4143-N-Ocean-Blvd-APT-211-Fort-Lauderdale-FL-33308/43119581_zpid/,43119581,,CONDO,"$370,000",4143 N Ocean Blvd APT 211,Fort Lauderdale,FL,33308,2,2,1030, ,3134
+https://www.zillow.com/homedetails/2160-NE-53rd-St-Fort-Lauderdale-FL-33308/43068542_zpid/,43068542,,SINGLE FAMILY,"$542,999",2160 NE 53rd St,Fort Lauderdale,FL,33308,3,2,1282,8134 sqft,
+https://www.zillow.com/homedetails/1719-Poinsettia-Dr-Fort-Lauderdale-FL-33305/43103417_zpid/,43103417,,SINGLE FAMILY,"$1,575,000",1719 Poinsettia Dr,Fort Lauderdale,FL,33305,4,3,1978,9330.552 sqft,6262
+https://www.zillow.com/homedetails/737-NE-16th-St-Fort-Lauderdale-FL-33304/43103340_zpid/,43103340,,SINGLE FAMILY,"$649,000",737 NE 16th St,Fort Lauderdale,FL,33304,2,2,992,6042 sqft,3884
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2006-Fort-Lauderdale-FL-33304/71734427_zpid/,71734427,,CONDO,"$285,000",505 N Ft Lauderdale Bch Blvd #2006,Fort Lauderdale,FL,33304,1,2,906, ,3273
+https://www.zillow.com/homedetails/3768-SW-50th-Ct-Fort-Lauderdale-FL-33312/60965988_zpid/,60965988,,SINGLE FAMILY,"$743,000",3768 SW 50th Court,Fort Lauderdale,FL,33312,4,3,2184,3645 sqft,4374
+https://www.zillow.com/homedetails/2500-E-Las-Olas-Blvd-APT-802-Fort-Lauderdale-FL-33301/43207043_zpid/,43207043,,CONDO,"$699,000",2500 E Las Olas Boulevard #802,Fort Lauderdale,FL,33301,3,3,1710, ,4934
+https://www.zillow.com/homedetails/3051-NE-47th-Ct-APT-207-Fort-Lauderdale-FL-33308/43115653_zpid/,43115653,,CONDO,"$565,000",3051 NE 47th Ct APT 207,Fort Lauderdale,FL,33308,2,2,1503, ,
+https://www.zillow.com/homedetails/435-N-Andrews-Ave-APT-301-Fort-Lauderdale-FL-33301/63877613_zpid/,63877613,,CONDO,"$675,000",435 N Andrews Ave #301,Fort Lauderdale,FL,33301,2,2,1569, ,3620
+https://www.zillow.com/homedetails/1428-NE-17th-Ave-Fort-Lauderdale-FL-33304/43100822_zpid/,43100822,,SINGLE FAMILY,"$895,000",1428 NE 17th Ave,Fort Lauderdale,FL,33304,4,2,1829,7832.088 sqft,6160
+https://www.zillow.com/homedetails/533-NE-3rd-Ave-APT-417-Fort-Lauderdale-FL-33301/67845962_zpid/,67845962,,CONDO,"$460,000",533 NE 3rd Avenue #417,Fort Lauderdale,FL,33301,3,2,1440, ,3344
+https://www.zillow.com/homedetails/419-SW-13th-Ter-Fort-Lauderdale-FL-33312/67846189_zpid/,67846189,,TOWNHOUSE,"$434,900",419 SW 13th Ter,Fort Lauderdale,FL,33312,2,3,1679, ,2988
+https://www.zillow.com/homedetails/1900-S-Ocean-Dr-APT-105-Fort-Lauderdale-FL-33316/43209784_zpid/,43209784,,CONDO,"$200,000",1900 S Ocean Dr #105,Fort Lauderdale,FL,33316,1,1,805, ,
+https://www.zillow.com/homedetails/1301-NW-45th-St-Fort-Lauderdale-FL-33309/43074022_zpid/,43074022,,SINGLE FAMILY,"$440,000",1301 NW 45th St,Fort Lauderdale,FL,33309,3,2,1014,7607 sqft,4156
+https://www.zillow.com/homedetails/2410-SW-29th-Way-Fort-Lauderdale-FL-33312/43218567_zpid/,43218567,,SINGLE FAMILY,"$1,300,000",2410 SW 29th Way,Fort Lauderdale,FL,33312,4,3,2193,10554 sqft,
+https://www.zillow.com/homedetails/2720-SW-19th-St-Fort-Lauderdale-FL-33312/43215834_zpid/,43215834,,SINGLE FAMILY,"$679,900",2720 SW 19th St,Fort Lauderdale,FL,33312,3,2,1438,7334 sqft,2891
+https://www.zillow.com/homedetails/901-Guava-Isle-Fort-Lauderdale-FL-33315/43213836_zpid/,43213836,,SINGLE FAMILY,"$825,000",901 Guava Isle,Fort Lauderdale,FL,33315,2,1,1874,9558 sqft,3593
+https://www.zillow.com/homedetails/1160-N-Federal-Hwy-APT-520-Fort-Lauderdale-FL-33304/43104886_zpid/,43104886,,CONDO,"$215,000",1160 N Federal Hwy APT 520,Fort Lauderdale,FL,33304,1,2,1138, ,2699
+https://www.zillow.com/homedetails/852-NE-16th-Ave-Fort-Lauderdale-FL-33304/82301445_zpid/,82301445,,TOWNHOUSE,"$799,700",852 NE 16th Avenue,Fort Lauderdale,FL,33304,2,4,2384,1630 sqft,4570
+https://www.zillow.com/homedetails/900-SW-12th-St-APT-110-Fort-Lauderdale-FL-33315/43214233_zpid/,43214233,,CONDO,"$275,000",900 SW 12th Street #110,Fort Lauderdale,FL,33315,2,2,1000, ,2422
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-1908-Fort-Lauderdale-FL-33304/71724578_zpid/,71724578,,CONDO,"$215,000",505 N Fort Lauderdale Beach Blvd #1908,Fort Lauderdale,FL,33304,1,1,533, ,1921
+https://www.zillow.com/homedetails/701-NW-19th-St-APT-302-Fort-Lauderdale-FL-33311/43091481_zpid/,43091481,,CONDO,"$149,000",701 NW 19th St #302,Fort Lauderdale,FL,33311,2,1,682, ,1812
+https://www.zillow.com/homedetails/1401-SW-32nd-St-Fort-Lauderdale-FL-33315/43219025_zpid/,43219025,,SINGLE FAMILY,"$849,000",1401 SW 32nd St,Fort Lauderdale,FL,33315,4,2,2026,0.2515151515151515 acres,5055
+https://www.zillow.com/homedetails/2890-W-Marina-Dr-Fort-Lauderdale-FL-33312/43222247_zpid/,43222247,,MANUFACTURED,"$195,000",2890 W Marina Dr,Fort Lauderdale,FL,33312,2,2,1272,3200 sqft,
+https://www.zillow.com/homedetails/4649-SW-28th-Ave-Fort-Lauderdale-FL-33312/43219537_zpid/,43219537,,SINGLE FAMILY,"$499,999",4649 SW 28th Ave,Fort Lauderdale,FL,33312,3,2,1428,6000 sqft,3397
+https://www.zillow.com/homedetails/725-NW-1st-Ave-725-Fort-Lauderdale-FL-33311/2103667267_zpid/,2103667267,,TOWNHOUSE,"$380,000",725 NW 1st Ave #725,Fort Lauderdale,FL,33311,2,1,960, ,
+https://www.zillow.com/homedetails/605-NE-15th-Ave-Fort-Lauderdale-FL-33304/43193878_zpid/,43193878,,SINGLE FAMILY,"$1,430,000",605 NE 15th Ave,Fort Lauderdale,FL,33304,3,3,2100,4917.924 sqft,7212
+https://www.zillow.com/homedetails/2102-Appleton-Cir-N-2102-Fort-Lauderdale-FL-33309/447700405_zpid/,447700405,,TOWNHOUSE,"$575,000",2102 Appleton Cir N #2102,Fort Lauderdale,FL,33309,3,3,1754, ,
+https://www.zillow.com/homedetails/523-SW-19th-Ter-Fort-Lauderdale-FL-33312/338630024_zpid/,338630024,,TOWNHOUSE,"$470,000",523 SW 19th Ter,Fort Lauderdale,FL,33312,3,3,1328, ,3291
+https://www.zillow.com/homedetails/1617-NW-7th-Ave-Fort-Lauderdale-FL-33311/43100431_zpid/,43100431,,SINGLE FAMILY,"$495,000",1617 NW 7th Avenue,Fort Lauderdale,FL,33311,2,2,1111,6754 sqft,2959
+https://www.zillow.com/homedetails/6741-NE-21st-Rd-Fort-Lauderdale-FL-33308/43065889_zpid/,43065889,,SINGLE FAMILY,"$709,000",6741 NE 21st Rd,Fort Lauderdale,FL,33308,4,3,2106,0.2509 acres,5482
+https://www.zillow.com/homedetails/3015-N-Ocean-Blvd-APT-9C-Fort-Lauderdale-FL-33308/43124338_zpid/,43124338,,CONDO,"$214,900",3015 N Ocean Blvd #9C,Fort Lauderdale,FL,33308,0,1,620, ,
+https://www.zillow.com/homedetails/912-SW-17th-St-Fort-Lauderdale-FL-33315/43213261_zpid/,43213261,,SINGLE FAMILY,"$720,000",912 SW 17th St,Fort Lauderdale,FL,33315,4,2,1400,7496.676 sqft,4198
+https://www.zillow.com/homedetails/3131-SW-20th-Ct-Fort-Lauderdale-FL-33312/43216482_zpid/,43216482,,SINGLE FAMILY,"$499,999",3131 SW 20th Ct,Fort Lauderdale,FL,33312,3,2,1129,7348.572 sqft,3116
+https://www.zillow.com/homedetails/1511-SW-30th-Pl-Fort-Lauderdale-FL-33315/43219113_zpid/,43219113,,SINGLE FAMILY,"$1,400,000",1511 SW 30th Pl,Fort Lauderdale,FL,33315,4,4,2732,10493 sqft,
+https://www.zillow.com/homedetails/533-NE-3rd-Ave-APT-132-Fort-Lauderdale-FL-33301/67845846_zpid/,67845846,,CONDO,"$285,000",533 NE 3rd Ave #132,Fort Lauderdale,FL,33301,1,1,760, ,2245
+https://www.zillow.com/homedetails/1928-NE-7th-Pl-Fort-Lauderdale-FL-33304/43194288_zpid/,43194288,,SINGLE FAMILY,"$899,000",1928 NE 7th Pl,Fort Lauderdale,FL,33304,2,2,1354,6298.776 sqft,5856
+https://www.zillow.com/homedetails/2106-NE-56th-Ct-APT-108-Fort-Lauderdale-FL-33308/43068215_zpid/,43068215,,CONDO,"$119,900",2106 NE 56th Ct APT 108,Fort Lauderdale,FL,33308,1,1,600, ,
+https://www.zillow.com/homedetails/3501-Fairfax-Dr-Fort-Lauderdale-FL-33312/43217486_zpid/,43217486,,SINGLE FAMILY,"$750,000",3501 Fairfax Dr,Fort Lauderdale,FL,33312,4,4,2123,9603 sqft,
+https://www.zillow.com/homedetails/1730-NE-9th-Ave-Fort-Lauderdale-FL-33305/43103132_zpid/,43103132,,SINGLE FAMILY,"$714,999",1730 NE 9th Ave,Fort Lauderdale,FL,33305,3,2,1200,5625 sqft,
+https://www.zillow.com/homedetails/1011-W-Las-Olas-Blvd-Fort-Lauderdale-FL-33312/43202629_zpid/,43202629,,SINGLE FAMILY,"$825,000",1011 W Las Olas Blvd,Fort Lauderdale,FL,33312,3,2,1607,9748.728 sqft,5014
+https://www.zillow.com/homedetails/601-N-Fort-Lauderdale-Beach-Blvd-1408-Fort-Lauderdale-FL-33304/299148680_zpid/,299148680,,CONDO,"$895,000",601 N Ft Lauderdale Bch Blvd #1408,Fort Lauderdale,FL,33304,2,2,1400, ,3527
+https://www.zillow.com/homedetails/3001-SW-18th-Ter-LOT-84-Fort-Lauderdale-FL-33315/439898038_zpid/,439898038,,MANUFACTURED,"$155,000",3001 SW 18th Terrace #84,Fort Lauderdale,FL,33315,2,2,1361, ,
+https://www.zillow.com/homedetails/2807-NW-9th-St-Pompano-Beach-FL-33311/43196266_zpid/,43196266,,SINGLE FAMILY,"$549,900",2807 NW 9th St,Pompano Beach,FL,33311,4,2,1805,5502 sqft,
+https://www.zillow.com/homedetails/3015-N-Ocean-Blvd-APT-3J-Fort-Lauderdale-FL-33308/43124273_zpid/,43124273,,CONDO,"$295,000",3015 N Ocean Blvd APT 3J,Fort Lauderdale,FL,33308,2,2,1144, ,2958
+https://www.zillow.com/homedetails/1909-Admirals-Way-Fort-Lauderdale-FL-33316/43208190_zpid/,43208190,,SINGLE FAMILY,"$1,450,000",1909 Admirals Way,Fort Lauderdale,FL,33316,3,3,1970,9117.108 sqft,6829
+https://www.zillow.com/homedetails/155-NW-30th-Ter-Pompano-Beach-FL-33311/43196943_zpid/,43196943,,SINGLE FAMILY,"$319,999",155 NW 30th Ter,Pompano Beach,FL,33311,3,1,851,7202 sqft,
+https://www.zillow.com/homedetails/2881-NE-32nd-St-APT-115-Fort-Lauderdale-FL-33306/71723738_zpid/,71723738,,CONDO,"$460,000",2881 NE 32nd St APT 115,Fort Lauderdale,FL,33306,1,1,747, ,2182
+https://www.zillow.com/homedetails/2029-NE-30th-St-Fort-Lauderdale-FL-33306/43087003_zpid/,43087003,,SINGLE FAMILY,"$670,000",2029 NE 30th St,Fort Lauderdale,FL,33306,3,2,1359,7004.448 sqft,
+https://www.zillow.com/homedetails/2000-SE-26th-Ave-Fort-Lauderdale-FL-33316/43208428_zpid/,43208428,,SINGLE FAMILY,"$1,145,000",2000 SE 26th Ave,Fort Lauderdale,FL,33316,3,2,1334,6359.76 sqft,4985
+https://www.zillow.com/homedetails/1321-Mango-Isle-Fort-Lauderdale-FL-33315/43213735_zpid/,43213735,,SINGLE FAMILY,"$1,080,000",1321 Mango Isle,Fort Lauderdale,FL,33315,3,2,1860,6359.76 sqft,5404
+https://www.zillow.com/homedetails/1300-SW-32nd-St-Fort-Lauderdale-FL-33315/43219016_zpid/,43219016,,SINGLE FAMILY,"$689,000",1300 SW 32nd St,Fort Lauderdale,FL,33315,3,2,2130,7265 sqft,5915
+https://www.zillow.com/homedetails/1110-SE-4th-Ave-Fort-Lauderdale-FL-33316/66124116_zpid/,66124116,,TOWNHOUSE,"$685,000",1110 SE 4th Ave,Fort Lauderdale,FL,33316,3,3,1804, ,3916
+https://www.zillow.com/homedetails/1736-SW-30th-St-Fort-Lauderdale-FL-33315/43218657_zpid/,43218657,,SINGLE FAMILY,"$890,000",1736 SW 30th St,Fort Lauderdale,FL,33315,3,3,1300,9901.188 sqft,4045
+https://www.zillow.com/homedetails/5280-NE-19th-Ave-Fort-Lauderdale-FL-33308/43068578_zpid/,43068578,,SINGLE FAMILY,"$949,000",5280 NE 19th Avenue,Fort Lauderdale,FL,33308,3,2,1942,7276 sqft,6296
+https://www.zillow.com/homedetails/1265-NW-27th-Ave-Fort-Lauderdale-FL-33311/43096971_zpid/,43096971,,SINGLE FAMILY,"$290,000",1265 NW 27th Ave,Fort Lauderdale,FL,33311,3,1,975,5001 sqft,2491
+https://www.zillow.com/homedetails/1437-N-Andrews-Ave-Fort-Lauderdale-FL-33311/299146843_zpid/,299146843,,MULTI FAMILY,"$585,000",1437 N Andrews Ave,Fort Lauderdale,FL,33311,5,4,1948, ,2337
+https://www.zillow.com/homedetails/1900-SW-33rd-Ave-Fort-Lauderdale-FL-33312/43216447_zpid/,43216447,,SINGLE FAMILY,"$599,900",1900 SW 33rd Ave,Fort Lauderdale,FL,33312,3,2,1824,9570.132 sqft,4168
+https://www.zillow.com/homedetails/1606-SE-1st-St-Fort-Lauderdale-FL-33301/43204311_zpid/,43204311,,SINGLE FAMILY,"$1,525,000",1606 SE 1st St,Fort Lauderdale,FL,33301,3,2,1893,6750 sqft,
+https://www.zillow.com/homedetails/2731-SW-20th-St-Fort-Lauderdale-FL-33312/43215850_zpid/,43215850,,SINGLE FAMILY,"$615,000",2731 SW 20th St,Fort Lauderdale,FL,33312,3,2,1462,8420.148 sqft,3246
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-917-Fort-Lauderdale-FL-33304/299148819_zpid/,299148819,,CONDO,"$179,000",2670 E Sunrise Boulevard #917,Fort Lauderdale,FL,33304,1,1,548, ,2330
+https://www.zillow.com/homedetails/2100-S-Ocean-Dr-APT-5CD-Fort-Lauderdale-FL-33316/43208546_zpid/,43208546,,CONDO,"$699,000",2100 S Ocean Dr APT 5CD,Fort Lauderdale,FL,33316,3,3,2161, ,
+https://www.zillow.com/homedetails/1212-NW-6th-Ct-A-B-Fort-Lauderdale-FL-33311/103015557_zpid/,103015557,,MULTI FAMILY,"$1,279,000",1212 NW 6th Ct #A-B,Fort Lauderdale,FL,33311,8,6,3232, ,3540
+https://www.zillow.com/homedetails/6600-NE-22nd-Way-APT-2324-Fort-Lauderdale-FL-33308/43066589_zpid/,43066589,,CONDO,"$185,000",6600 NE 22nd Way #2324,Fort Lauderdale,FL,33308,2,2,1100, ,2109
+https://www.zillow.com/homedetails/700-SE-14th-St-APT-J-Fort-Lauderdale-FL-33316/43211538_zpid/,43211538,,TOWNHOUSE,"$500,000",700 SE 14th St APT J,Fort Lauderdale,FL,33316,2,3,1250, ,
+https://www.zillow.com/homedetails/900-NE-18th-Ave-APT-503-Fort-Lauderdale-FL-33304/43191578_zpid/,43191578,,CONDO,"$189,000",900 NE 18th Ave #503,Fort Lauderdale,FL,33304,1,1,690, ,2001
+https://www.zillow.com/homedetails/539-NE-16th-St-Fort-Lauderdale-FL-33304/447702600_zpid/,447702600,,SINGLE FAMILY,"$495,000",539 NE 16th St,Fort Lauderdale,FL,33304,3,1,1154,5919.804 sqft,
+https://www.zillow.com/homedetails/3613-SW-12th-Pl-Fort-Lauderdale-FL-33312/43216039_zpid/,43216039,,SINGLE FAMILY,"$450,000",3613 SW 12th Pl,Fort Lauderdale,FL,33312,2,2,1000,6088 sqft,3023
+https://www.zillow.com/homedetails/2210-NE-61st-Ct-Fort-Lauderdale-FL-33308/43065411_zpid/,43065411,,SINGLE FAMILY,"$945,000",2210 NE 61st Ct,Fort Lauderdale,FL,33308,3,2,2466,7686 sqft,5713
+https://www.zillow.com/homedetails/2590-NE-43rd-St-Fort-Lauderdale-FL-33308/43085031_zpid/,43085031,,SINGLE FAMILY,"$1,328,000",2590 NE 43rd St,Fort Lauderdale,FL,33308,3,2,2085,8110.872 sqft,
+https://www.zillow.com/homedetails/620-NE-17th-Ter-Fort-Lauderdale-FL-33301/449629422_zpid/,449629422,,SINGLE FAMILY,"$1,499,990",620 NE 17th Ter,Fort Lauderdale,FL,33301,3,2,1859,6250 sqft,
+https://www.zillow.com/homedetails/711-N-Birch-Rd-APT-105-Fort-Lauderdale-FL-33304/43193823_zpid/,43193823,,CONDO,"$449,900",711 N Birch Rd #105,Fort Lauderdale,FL,33304,2,2,1200, ,3393
+https://www.zillow.com/homedetails/1402-NW-19th-St-Fort-Lauderdale-FL-33311/43099651_zpid/,43099651,,SINGLE FAMILY,"$495,000",1402 NW 19th St,Fort Lauderdale,FL,33311,4,3,1350,9795 sqft,3468
+https://www.zillow.com/homedetails/1540-SW-16th-St-Fort-Lauderdale-FL-33312/43214169_zpid/,43214169,,SINGLE FAMILY,"$1,125,000",1540 SW 16th St,Fort Lauderdale,FL,33312,4,2,1715,9583.2 sqft,4396
+https://www.zillow.com/homedetails/1259-NW-29th-Ave-Fort-Lauderdale-FL-33311/299146796_zpid/,299146796,,MULTI FAMILY,"$545,000",1259 NW 29th Ave,Fort Lauderdale,FL,33311,7,4,2345, ,
+https://www.zillow.com/homedetails/2251-SW-33rd-Ave-Fort-Lauderdale-FL-33312/43216578_zpid/,43216578,,SINGLE FAMILY,"$639,900",2251 SW 33rd Ave,Fort Lauderdale,FL,33312,4,2,1986,9696.456 sqft,4918
+https://www.zillow.com/homedetails/1229-NE-17th-Ave-Fort-Lauderdale-FL-33304/43101424_zpid/,43101424,,SINGLE FAMILY,"$960,000",1229 NE 17th Ave,Fort Lauderdale,FL,33304,4,3,2320,6756 sqft,6163
+https://www.zillow.com/homedetails/316-Seminole-Ave-Fort-Lauderdale-FL-33312/43202602_zpid/,43202602,,SINGLE FAMILY,"$775,000",316 Seminole Ave,Fort Lauderdale,FL,33312,3,2,1670,6751.8 sqft,4947
+https://www.zillow.com/homedetails/2670-E-Sunrise-Blvd-302-Fort-Lauderdale-FL-33304/299148691_zpid/,299148691,,CONDO,"$120,000",2670 E Sunrise Blvd #302,Fort Lauderdale,FL,33304,1,1,470, ,
+https://www.zillow.com/homedetails/2513-Whale-Harbor-Ln-Fort-Lauderdale-FL-33312/43218365_zpid/,43218365,,SINGLE FAMILY,"$775,000",2513 Whale Harbor Ln,Fort Lauderdale,FL,33312,3,2,1728,7701.408 sqft,4830
+https://www.zillow.com/homedetails/402-SE-22nd-St-2-Fort-Lauderdale-FL-33316/339975678_zpid/,339975678,,TOWNHOUSE,"$595,000",402 SE 22nd St #2,Fort Lauderdale,FL,33316,3,3,1850, ,5616
+https://www.zillow.com/homedetails/209-N-Fort-Lauderdale-Beach-Blvd-APT-7D-Fort-Lauderdale-FL-33304/43192911_zpid/,43192911,,CONDO,"$619,000",209 N Fort Lauderdale Beach Blvd APT 7D,Fort Lauderdale,FL,33304,2,2,950, ,
+https://www.zillow.com/homedetails/4511-Pinehurst-Trl-E-Fort-Lauderdale-FL-33309/452081004_zpid/,452081004,,SINGLE FAMILY,"$715,000",4511 Pinehurst Trl E,Fort Lauderdale,FL,33309,3,3,1941,4782.888 sqft,
+https://www.zillow.com/homedetails/3333-NE-34th-St-APT-1106-Fort-Lauderdale-FL-33308/43123363_zpid/,43123363,,CONDO,"$249,000",3333 NE 34th St #1106,Fort Lauderdale,FL,33308,1,1,800, ,
+https://www.zillow.com/homedetails/1801-NE-54th-St-Fort-Lauderdale-FL-33308/43068879_zpid/,43068879,,SINGLE FAMILY,"$749,000",1801 NE 54th St,Fort Lauderdale,FL,33308,4,3,1735,7442 sqft,
+https://www.zillow.com/homedetails/1260-SW-29th-St-Fort-Lauderdale-FL-33315/43218857_zpid/,43218857,,SINGLE FAMILY,"$489,000",1260 SW 29th St,Fort Lauderdale,FL,33315,3,1,1286,6290.064 sqft,3080
+https://www.zillow.com/homedetails/2411-NW-9th-St-Pompano-Beach-FL-33311/43196698_zpid/,43196698,,SINGLE FAMILY,"$429,900",2411 NW 9th St,Pompano Beach,FL,33311,4,2,955,5005 sqft,2843
+https://www.zillow.com/homedetails/5620-NE-21st-Dr-Fort-Lauderdale-FL-33308/43065453_zpid/,43065453,,SINGLE FAMILY,"$695,000",5620 NE 21st Dr,Fort Lauderdale,FL,33308,3,2,1681,8001.972 sqft,4874
+https://www.zillow.com/homedetails/426-SW-9th-St-Fort-Lauderdale-FL-33315/72104261_zpid/,72104261,,TOWNHOUSE,"$925,000",426 SW 9th St,Fort Lauderdale,FL,33315,3,3,2218, ,
+https://www.zillow.com/homedetails/6000-NE-18th-Ter-Fort-Lauderdale-FL-33308/43065572_zpid/,43065572,,SINGLE FAMILY,"$1,000,000",6000 NE 18th Terrace,Fort Lauderdale,FL,33308,4,3,1828,7997 sqft,5851
+https://www.zillow.com/homedetails/800-SE-4th-St-APT-405-Fort-Lauderdale-FL-33301/43205738_zpid/,43205738,,CONDO,"$462,500",800 SE 4 St #405,Fort Lauderdale,FL,33301,2,2,1100, ,
+https://www.zillow.com/homedetails/518-NE-13th-Ave-Fort-Lauderdale-FL-33301/43193996_zpid/,43193996,,SINGLE FAMILY,"$1,350,000",518 NE 13th Ave,Fort Lauderdale,FL,33301,3,3,1608,7801.596 sqft,7271
+https://www.zillow.com/homedetails/5495-NE-25th-Ave-APT-204-Fort-Lauderdale-FL-33308/43070335_zpid/,43070335,,CONDO,"$184,999",5495 NE 25th Ave #204,Fort Lauderdale,FL,33308,1,2,610, ,
+https://www.zillow.com/homedetails/615-NE-13th-Ave-Fort-Lauderdale-FL-33304/43102189_zpid/,43102189,,SINGLE FAMILY,"$1,090,000",615 NE 13th Ave,Fort Lauderdale,FL,33304,3,2,1752,6750 sqft,7093
+https://www.zillow.com/homedetails/1200-N-Fort-Lauderdale-Beach-Blvd-APT-10-Fort-Lauderdale-FL-33304/43125584_zpid/,43125584,,CONDO,"$475,000",1200 N Fort Lauderdale Beach Blvd #10,Fort Lauderdale,FL,33304,2,2,1000, ,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2400-Fort-Lauderdale-FL-33304/71734475_zpid/,71734475,,CONDO,"$1,100,000",505 N Fort Lauderdale Beach Blvd #2400,Fort Lauderdale,FL,33304,2,3,2160, ,6835
+https://www.zillow.com/homedetails/110-N-Federal-Hwy-APT-512-Fort-Lauderdale-FL-33301/67838393_zpid/,67838393,,CONDO,"$475,000",110 N Federal Hwy #512,Fort Lauderdale,FL,33301,2,2,1225, ,3040
+https://www.zillow.com/homedetails/499-W-Melrose-Cir-Fort-Lauderdale-FL-33312/43200242_zpid/,43200242,,SINGLE FAMILY,"$569,000",499 W Melrose Cir,Fort Lauderdale,FL,33312,5,3,1856,9888 sqft,3733
+https://www.zillow.com/homedetails/1313-NE-15th-Ave-Fort-Lauderdale-FL-33304/43101348_zpid/,43101348,,SINGLE FAMILY,"$699,000",1313 NE 15th Ave,Fort Lauderdale,FL,33304,3,3,1296,6500 sqft,5424
+https://www.zillow.com/homedetails/6845-NW-30th-Ave-5C-Fort-Lauderdale-FL-33309/43061790_zpid/,43061790,,TOWNHOUSE,"$239,000",6845 NW 30th Ave# 5c,Fort Lauderdale,FL,33309,2,1,1000, ,2143
+https://www.zillow.com/homedetails/2520-NE-9th-St-Fort-Lauderdale-FL-33304/43191279_zpid/,43191279,,TOWNHOUSE,"$699,000",2520 NE 9th St,Fort Lauderdale,FL,33304,2,2,1345, ,3718
+https://www.zillow.com/homedetails/810-SW-26th-Ct-Fort-Lauderdale-FL-33315/43219166_zpid/,43219166,,SINGLE FAMILY,"$589,000",810 SW 26th Ct,Fort Lauderdale,FL,33315,3,2,1145,7148.196 sqft,5256
+https://www.zillow.com/homedetails/4711-Bayview-Dr-Fort-Lauderdale-FL-33308/43069003_zpid/,43069003,,SINGLE FAMILY,"$1,599,000",4711 Bayview Dr,Fort Lauderdale,FL,33308,4,4,3302,10044.936 sqft,8027
+https://www.zillow.com/homedetails/1315-NE-16th-Ave-Fort-Lauderdale-FL-33304/43101364_zpid/,43101364,,SINGLE FAMILY,"$875,000",1315 NE 16 Avenue,Fort Lauderdale,FL,33304,3,2,1338,6751 sqft,5442
+https://www.zillow.com/homedetails/2743-NE-15th-St-APT-7-Fort-Lauderdale-FL-33304/43105212_zpid/,43105212,,CONDO,"$415,000",2743 NE 15th St #7,Fort Lauderdale,FL,33304,2,2,764, ,2691
+https://www.zillow.com/homedetails/1040-NE-16th-Ave-Fort-Lauderdale-FL-33304/299146891_zpid/,299146891,,MULTI FAMILY,"$1,198,000",1040 NE 16th Ave,Fort Lauderdale,FL,33304,7,6,5097, ,
+https://www.zillow.com/homedetails/6630-NE-21st-Ave-Fort-Lauderdale-FL-33308/43065762_zpid/,43065762,,SINGLE FAMILY,"$998,000",6630 NE 21st Avenue,Fort Lauderdale,FL,33308,3,2,2102,8826 sqft,
+https://www.zillow.com/homedetails/732-NW-2nd-Ave-Fort-Lauderdale-FL-33311/339888415_zpid/,339888415,,MULTI FAMILY,"$537,500",732 NW 2nd Ave,Fort Lauderdale,FL,33311,3,3,1277, ,3112
+https://www.zillow.com/homedetails/1705-E-Las-Olas-Blvd-1705-Fort-Lauderdale-FL-33301/345462285_zpid/,345462285,,TOWNHOUSE,"$1,195,000",1705 E Las Olas Blvd #1705,Fort Lauderdale,FL,33301,3,3,1930, ,9049
+https://www.zillow.com/homedetails/2061-NE-54th-St-Fort-Lauderdale-FL-33308/43068824_zpid/,43068824,,SINGLE FAMILY,"$845,000",2061 NE 54th Street,Fort Lauderdale,FL,33308,4,3,2091,8304 sqft,
+https://www.zillow.com/homedetails/2500-NE-48th-Ln-APT-708-Fort-Lauderdale-FL-33308/43070266_zpid/,43070266,,CONDO,"$275,500",2500 NE 48th Ln APT 708,Fort Lauderdale,FL,33308,2,2,1276, ,2792
+https://www.zillow.com/homedetails/520-SW-6th-Ave-1-2-Fort-Lauderdale-FL-33315/453619412_zpid/,453619412,,MULTI FAMILY,"$799,000",520 SW 6th Ave 1-2,Fort Lauderdale,FL,33315,4,2,1600,5998.212 sqft,
+https://www.zillow.com/homedetails/505-N-Fort-Lauderdale-Beach-Blvd-2104-Fort-Lauderdale-FL-33304/71734439_zpid/,71734439,,CONDO,"$215,000",505 N Fort Lauderdale Beach Blvd #2104,Fort Lauderdale,FL,33304,1,1,584, ,
+https://www.zillow.com/homedetails/615-SE-11th-Ave-Fort-Lauderdale-FL-33301/43204518_zpid/,43204518,,SINGLE FAMILY,"$1,495,000",615 SE 11th Ave,Fort Lauderdale,FL,33301,4,3,1870,5340.456 sqft,6760
+https://www.zillow.com/homedetails/2137-Appleton-Cir-N-Oakland-Park-FL-33309/2078044894_zpid/,2078044894,,TOWNHOUSE,"$648,000",2137 Appleton Cir N,Oakland Park,FL,33309,3,3,1754, ,
+https://www.zillow.com/homedetails/1432-N-Andrews-Ave-Fort-Lauderdale-FL-33311/43100959_zpid/,43100959,,SINGLE FAMILY,"$355,000",1432 N Andrews Ave,Fort Lauderdale,FL,33311,2,1,800,5633 sqft,2034
+https://www.zillow.com/homedetails/958-NW-24th-Ave-Fort-Lauderdale-FL-33311/43197160_zpid/,43197160,,SINGLE FAMILY,"$280,000",958 NW 24th Ave,Fort Lauderdale,FL,33311,2,2,918,1254 sqft,
+https://www.zillow.com/homedetails/1900-S-Ocean-Dr-APT-408-Fort-Lauderdale-FL-33316/43209816_zpid/,43209816,,CONDO,"$169,000",1900 S Ocean Dr #408,Fort Lauderdale,FL,33316,0,1,532, ,2117
+https://www.zillow.com/homedetails/4945-SW-34th-Ter-Fort-Lauderdale-FL-33312/2133641246_zpid/,2133641246,,SINGLE FAMILY,"$819,000",4945 SW 34th Ter,Fort Lauderdale,FL,33312,3,2,1648,5002 sqft,4086
+https://www.zillow.com/homedetails/1701-NW-15th-Ct-Fort-Lauderdale-FL-33311/43098553_zpid/,43098553,,SINGLE FAMILY,"$400,000",1701 NW 15th Ct,Fort Lauderdale,FL,33311,4,2,1182,7682 sqft,3029
+https://www.zillow.com/homedetails/4577-NW-16th-Ter-Tamarac-FL-33309/43074275_zpid/,43074275,,SINGLE FAMILY,"$339,999",4577 NW 16th Ter,Tamarac,FL,33309,2,2,1028,3150 sqft,
+https://www.zillow.com/homedetails/253-SW-13th-Ter-253-Fort-Lauderdale-FL-33312/2077913116_zpid/,2077913116,,TOWNHOUSE,"$375,000",253 SW 13th Ter #253,Fort Lauderdale,FL,33312,2,3,1679, ,
+https://www.zillow.com/homedetails/3700-Galt-Ocean-Dr-APT-1215-Fort-Lauderdale-FL-33308/43121239_zpid/,43121239,,CONDO,"$749,900",3700 Galt Ocean Dr #1215,Fort Lauderdale,FL,33308,3,2,1490, ,4638
+https://www.zillow.com/homedetails/818-SE-4th-St-APT-202-Fort-Lauderdale-FL-33301/43205489_zpid/,43205489,,CONDO,"$539,000",818 SE 4th St #202,Fort Lauderdale,FL,33301,2,2,1300, ,3473
+https://www.zillow.com/homedetails/837-SW-16th-Ct-Fort-Lauderdale-FL-33315/43212766_zpid/,43212766,,SINGLE FAMILY,"$600,000",837 SW 16th Ct,Fort Lauderdale,FL,33315,2,2,1174,6600 sqft,3057
+https://www.zillow.com/homedetails/2900-NE-30th-St-APT-8E-Fort-Lauderdale-FL-33306/2126417655_zpid/,2126417655,,CONDO,"$199,700",2900 NE 30th St #8E,Fort Lauderdale,FL,33306,0,1,440, ,1717
+https://www.zillow.com/homedetails/2413-Gulfstream-Ln-Fort-Lauderdale-FL-33312/43218021_zpid/,43218021,,SINGLE FAMILY,"$900,000",2413 Gulfstream Ln,Fort Lauderdale,FL,33312,5,3,2353,7283 sqft,4854
+https://www.zillow.com/homedetails/113-SW-22nd-Ave-Fort-Lauderdale-FL-33312/43201124_zpid/,43201124,,SINGLE FAMILY,"$429,000",113 SW 22nd Ave,Fort Lauderdale,FL,33312,3,1,1122,7150 sqft,2620
+https://www.zillow.com/homedetails/2508-NE-27th-Ave-Fort-Lauderdale-FL-33305/43085987_zpid/,43085987,,SINGLE FAMILY,"$1,340,000",2508 NE 27th Ave,Fort Lauderdale,FL,33305,3,2,1958,9051.768 sqft,5709
+https://www.zillow.com/homedetails/440-NE-2nd-Ave-29-Fort-Lauderdale-FL-33301/63533509_zpid/,63533509,,TOWNHOUSE,"$565,000",440 NE 2nd Ave #29,Fort Lauderdale,FL,33301,2,3,1604, ,
+https://www.zillow.com/homedetails/4710-NE-27th-Ave-Fort-Lauderdale-FL-33308/43068973_zpid/,43068973,,SINGLE FAMILY,"$1,465,000",4710 NE 27th Avenue,Fort Lauderdale,FL,33308,4,3,2351,8389.656 sqft,7045
+https://www.zillow.com/homedetails/1831-SW-23rd-Ave-Fort-Lauderdale-FL-33312/43215709_zpid/,43215709,,SINGLE FAMILY,"$1,200,000",1831 SW 23rd Ave,Fort Lauderdale,FL,33312,3,2,1239,7000 sqft,
+https://www.zillow.com/homedetails/908-Citrus-Isle-Fort-Lauderdale-FL-33315/43213707_zpid/,43213707,,SINGLE FAMILY,"$940,000",908 Citrus Isle,Fort Lauderdale,FL,33315,3,3,1402,6360 sqft,4352
+https://www.zillow.com/homedetails/421-SW-11th-St-Fort-Lauderdale-FL-33315/43211814_zpid/,43211814,,SINGLE FAMILY,"$639,000",421 SW 11th St,Fort Lauderdale,FL,33315,2,1,1221,6250 sqft,
+https://www.zillow.com/homedetails/1401-NE-13th-St-Fort-Lauderdale-FL-33304/2101184783_zpid/,2101184783,,MULTI FAMILY,"$975,000",1401 NE 13th St,Fort Lauderdale,FL,33304,4,3,2316,8102.16 sqft,2260
+https://www.zillow.com/homedetails/333-Sunset-Dr-APT-508-Fort-Lauderdale-FL-33301/43206434_zpid/,43206434,,CONDO,"$899,000",333 Sunset Dr #508,Fort Lauderdale,FL,33301,3,3,1952, ,4682
+https://www.zillow.com/homedetails/5900-NE-21st-Ave-Fort-Lauderdale-FL-33308/43065528_zpid/,43065528,,SINGLE FAMILY,"$1,350,000",5900 NE 21st Ave,Fort Lauderdale,FL,33308,4,3,2413,7825 sqft,6868
+https://www.zillow.com/homedetails/2000-S-Ocean-Ln-APT-13-Fort-Lauderdale-FL-33316/43210247_zpid/,43210247,,CONDO,"$850,000",2000 S Ocean Ln #13,Fort Lauderdale,FL,33316,2,2,1010, ,
+https://www.zillow.com/homedetails/4112-NE-21st-Ave-Fort-Lauderdale-FL-33308/43084641_zpid/,43084641,,SINGLE FAMILY,"$1,057,000",4112 NE 21st Ave,Fort Lauderdale,FL,33308,5,3,2385,10001.376 sqft,
+https://www.zillow.com/homedetails/3550-Galt-Ocean-Dr-APT-211-Fort-Lauderdale-FL-33308/43119374_zpid/,43119374,,CONDO,"$999,000",3550 Galt Ocean Dr #211,Fort Lauderdale,FL,33308,3,3,2117, ,
+https://www.zillow.com/homedetails/4936-Whispering-Way-Fort-Lauderdale-FL-33312/2062365750_zpid/,2062365750,,SINGLE FAMILY,"$659,900",4936 Whispering Way,Fort Lauderdale,FL,33312,3,3,1508,4593 sqft,3648
+https://www.zillow.com/homedetails/1427-NW-8th-Ave-Fort-Lauderdale-FL-33311/2099146852_zpid/,2099146852,,MULTI FAMILY,"$775,000",1427 NW 8th Ave,Fort Lauderdale,FL,33311,6,4,2504, ,
+https://www.zillow.com/homedetails/4906-SW-33rd-Ter-Fort-Lauderdale-FL-33312/43220891_zpid/,43220891,,SINGLE FAMILY,"$1,050,000",4906 SW 33rd Ter,Fort Lauderdale,FL,33312,4,3,2075,2269 sqft,4417
+https://www.zillow.com/homedetails/904-SE-13th-St-Fort-Lauderdale-FL-33316/43210375_zpid/,43210375,,SINGLE FAMILY,"$689,000",904 SE 13th St,Fort Lauderdale,FL,33316,3,2,976,3375.9 sqft,
+https://www.zillow.com/homedetails/5381-SW-38th-Way-Fort-Lauderdale-FL-33312/58443806_zpid/,58443806,,SINGLE FAMILY,"$1,000,000",5381 SW 38th Way,Fort Lauderdale,FL,33312,4,3,2150,5571 sqft,
+https://www.zillow.com/homedetails/801-SE-12th-Ct-Fort-Lauderdale-FL-33316/66123134_zpid/,66123134,,TOWNHOUSE,"$830,000",801 SE 12th Court,Fort Lauderdale,FL,33316,3,4,2192, ,
+https://www.zillow.com/homedetails/1314-SE-1st-Ave-Fort-Lauderdale-FL-33316/43212164_zpid/,43212164,,SINGLE FAMILY,"$950,000",1314 SE 1st Ave,Fort Lauderdale,FL,33316,3,2,1334,6250 sqft,
+https://www.zillow.com/homedetails/347-N-New-River-Dr-1509-Fort-Lauderdale-FL-33301/444622362_zpid/,444622362,,CONDO,"$999,000",347 N New River Dr #1509,Fort Lauderdale,FL,33301,3,2,1469, ,
+https://www.zillow.com/homedetails/2120-SW-18th-Ave-Fort-Lauderdale-FL-33315/455211241_zpid/,455211241,,MULTI FAMILY,"$775,000",2120 SW 18th Ave,Fort Lauderdale,FL,33315,4,4,2160, ,
+https://www.zillow.com/homedetails/1509-NE-6th-St-Fort-Lauderdale-FL-33304/43194669_zpid/,43194669,,SINGLE FAMILY,"$1,395,000",1509 NE 6th St,Fort Lauderdale,FL,33304,4,3,2378,9583.2 sqft,
+https://www.zillow.com/homedetails/1850-SW-24th-St-1-2-Fort-Lauderdale-FL-33315/455212898_zpid/,455212898,,MULTI FAMILY,"$849,000",1850 SW 24th Street #1-2,Fort Lauderdale,FL,33315,4,4,1912,6362 sqft,
+https://www.zillow.com/homedetails/2141-NE-52nd-St-Fort-Lauderdale-FL-33308/43068532_zpid/,43068532,,SINGLE FAMILY,"$799,000",2141 NE 52nd St,Fort Lauderdale,FL,33308,2,2,1580,7501.032 sqft,
+https://www.zillow.com/homedetails/3033-Lakeshore-Dr-Fort-Lauderdale-FL-33312/43222206_zpid/,43222206,,MANUFACTURED,"$369,900",3033 Lakeshore Dr,Fort Lauderdale,FL,33312,3,3,1219,3837.636 sqft,
+https://www.zillow.com/homedetails/2421-NE-65th-St-APT-209-Fort-Lauderdale-FL-33308/71724523_zpid/,71724523,,CONDO,"$379,000",2421 NE 65th Street #209,Fort Lauderdale,FL,33308,2,2,1200, ,2552
+https://www.zillow.com/homedetails/488-SW-5th-Ave-488-Fort-Lauderdale-FL-33315/2063580324_zpid/,2063580324,,TOWNHOUSE,"$993,000",488 SW 5th Ave #488,Fort Lauderdale,FL,33315,5,4,2960, ,
+https://www.zillow.com/homedetails/1901-NE-56th-St-Fort-Lauderdale-FL-33308/43064500_zpid/,43064500,,SINGLE FAMILY,"$859,000",1901 NE 56th St,Fort Lauderdale,FL,33308,4,2,2301,7501.032 sqft,6009
+https://www.zillow.com/homedetails/4560-NW-17th-Ave-Tamarac-FL-33309/43074315_zpid/,43074315,,SINGLE FAMILY,"$319,900",4560 NW 17th Ave,Tamarac,FL,33309,2,1,1008,3149.388 sqft,2359
+https://www.zillow.com/homedetails/2109-NE-64th-St-Fort-Lauderdale-FL-33308/43065736_zpid/,43065736,,SINGLE FAMILY,"$1,595,000",2109 NE 64th St,Fort Lauderdale,FL,33308,3,3,2350,8206.704 sqft,5648
+https://www.zillow.com/homedetails/2133-NE-63rd-Ct-Fort-Lauderdale-FL-33308/43065323_zpid/,43065323,,SINGLE FAMILY,"$785,000",2133 NE 63rd Ct,Fort Lauderdale,FL,33308,3,2,1391,8301 sqft,4708
+https://www.zillow.com/homedetails/2725-NE-21st-Ave-Fort-Lauderdale-FL-33306/43086930_zpid/,43086930,,SINGLE FAMILY,"$850,000",2725 NE 21st Ave,Fort Lauderdale,FL,33306,3,2,1829,8400 sqft,5883
+https://www.zillow.com/homedetails/2341-NE-8th-St-Fort-Lauderdale-FL-33304/43191032_zpid/,43191032,,SINGLE FAMILY,"$1,250,000",2341 NE 8th,Fort Lauderdale,FL,33304,3,2,1915,9003.852 sqft,5584
+https://www.zillow.com/homedetails/1900-NE-16th-Ter-Fort-Lauderdale-FL-33305/43103496_zpid/,43103496,,SINGLE FAMILY,"$1,300,000",1900 NE 16 Terrace,Fort Lauderdale,FL,33305,3,2,2000,10495 sqft,5399
+https://www.zillow.com/homedetails/1981-Coral-Gardens-Dr-Wilton-Manors-FL-33306/43086821_zpid/,43086821,,SINGLE FAMILY,"$1,595,000",1981 Coral Gardens Drive,Wilton Manors,FL,33306,4,2,2032, ,
+https://www.zillow.com/homedetails/705-SW-4th-Ave-705-Fort-Lauderdale-FL-33315/2115552856_zpid/,2115552856,,TOWNHOUSE,"$669,000",705 SW 4th Ave #705,Fort Lauderdale,FL,33315,2,3,1631, ,4355
+https://www.zillow.com/homedetails/507-SW-17th-St-Fort-Lauderdale-FL-33315/88915257_zpid/,88915257,,TOWNHOUSE,"$760,000",507 SW 17th Street,Fort Lauderdale,FL,33315,3,3,1944,3375 sqft,4303
+https://www.zillow.com/homedetails/2720-NE-15th-St-APT-301-Fort-Lauderdale-FL-33304/58442415_zpid/,58442415,,CONDO,"$1,175,000",2720 NE 15th St #301,Fort Lauderdale,FL,33304,3,2,1618, ,
+https://www.zillow.com/homedetails/2436-Gulfstream-Ln-Fort-Lauderdale-FL-33312/43217968_zpid/,43217968,,SINGLE FAMILY,"$949,000",2436 Gulfstream Ln,Fort Lauderdale,FL,33312,3,2,1728,7148.196 sqft,4263
+https://www.zillow.com/homedetails/2161-NE-57th-St-Fort-Lauderdale-FL-33308/43065510_zpid/,43065510,,SINGLE FAMILY,"$674,999",2161 NE 57th St,Fort Lauderdale,FL,33308,3,2,1676,7004.448 sqft,4834
+https://www.zillow.com/homedetails/4448-SW-34th-Ter-Fort-Lauderdale-FL-33312/43219737_zpid/,43219737,,SINGLE FAMILY,"$950,000",4448 SW 34th Terrace,Fort Lauderdale,FL,33312,3,2,1626,0.26113406795224975 acres,4535
+https://www.zillow.com/homedetails/3400-Galt-Ocean-Dr-APT-702S-Fort-Lauderdale-FL-33308/43120260_zpid/,43120260,,CONDO,"$1,250,000",3400 Galt Ocean Dr APT 702S,Fort Lauderdale,FL,33308,3,3,2112, ,6169
+https://www.zillow.com/homedetails/2021-NE-59th-Pl-Fort-Lauderdale-FL-33308/43065165_zpid/,43065165,,SINGLE FAMILY,"$720,000",2021 NE 59th Place,Fort Lauderdale,FL,33308,3,2,1664,7498 sqft,4587
+https://www.zillow.com/homedetails/705-SW-8th-Ave-Fort-Lauderdale-FL-33315/43204055_zpid/,43204055,,SINGLE FAMILY,"$750,000",705 SW 8th Ave,Fort Lauderdale,FL,33315,2,1,763,7200 sqft,2587
+https://www.zillow.com/homedetails/2101-NW-14th-Ave-Fort-Lauderdale-FL-33311/43091576_zpid/,43091576,,SINGLE FAMILY,"$1,400,000",2101 NW 14th Ave,Fort Lauderdale,FL,33311,4,4,2996,0.33450413223140496 acres,5574
+https://www.zillow.com/homedetails/4185-SW-49th-Ct-Dania-Beach-FL-33314/43189963_zpid/,43189963,,SINGLE FAMILY,"$650,000",4185 SW 49th Ct,Dania Beach,FL,33314,5,3,1763,6004 sqft,4316
+https://www.zillow.com/homedetails/2861-NW-8th-Ct-Fort-Lauderdale-FL-33311/440450209_zpid/,440450209,,SINGLE FAMILY,"$650,000",2861 NW 8th Ct,Fort Lauderdale,FL,33311,4,3,,5501 sqft,
+https://www.zillow.com/homedetails/2801-NE-59th-St-Fort-Lauderdale-FL-33308/43064704_zpid/,43064704,,SINGLE FAMILY,"$1,449,000",2801 NE 59th St,Fort Lauderdale,FL,33308,3,3,2708,10367.28 sqft,8221
+https://www.zillow.com/homedetails/2261-NE-62nd-St-Fort-Lauderdale-FL-33308/43065588_zpid/,43065588,,SINGLE FAMILY,"$799,900",2261 NE 62nd St,Fort Lauderdale,FL,33308,3,3,1959,10880 sqft,
+https://www.zillow.com/homedetails/1462-SW-16th-Ter-Fort-Lauderdale-FL-33312/43213518_zpid/,43213518,,SINGLE FAMILY,"$624,900",1462 SW 16th Ter,Fort Lauderdale,FL,33312,4,3,1504,7474.896 sqft,4261
+https://www.zillow.com/homedetails/1931-NE-62nd-St-Fort-Lauderdale-FL-33308/43065226_zpid/,43065226,,SINGLE FAMILY,"$699,900",1931 NE 62nd Street,Fort Lauderdale,FL,33308,3,2,1792,7505 sqft,5300
+https://www.zillow.com/homedetails/6611-NE-21st-Ln-Fort-Lauderdale-FL-33308/43065847_zpid/,43065847,,SINGLE FAMILY,"$1,299,900",6611 NE 21st Lane,Fort Lauderdale,FL,33308,3,3,2095,7500 sqft,4876
+https://www.zillow.com/homedetails/5701-NE-22nd-Way-Fort-Lauderdale-FL-33308/43065443_zpid/,43065443,,SINGLE FAMILY,"$850,000",5701 NE 22nd Way,Fort Lauderdale,FL,33308,4,3,2000,7501.032 sqft,8256
+https://www.zillow.com/homedetails/1528-NE-17th-Ter-Fort-Lauderdale-FL-33304/43100747_zpid/,43100747,,SINGLE FAMILY,"$849,000",1528 NE 17th Ter,Fort Lauderdale,FL,33304,4,2,1302,7704 sqft,5395
+https://www.zillow.com/homedetails/342-SW-22nd-St-Fort-Lauderdale-FL-33315/299150188_zpid/,299150188,,SINGLE FAMILY,"$712,000",342 SW 22nd St,Fort Lauderdale,FL,33315,4,3,2166,7688.34 sqft,6098
+https://www.zillow.com/homedetails/2713-NE-33rd-Ave-Fort-Lauderdale-FL-33308/2063616983_zpid/,2063616983,,SINGLE FAMILY,"$1,295,000",2713 NE 33rd Ave,Fort Lauderdale,FL,33308,4,4,2300,9779.22 sqft,3505
+https://www.zillow.com/homedetails/811-SW-10th-St-Fort-Lauderdale-FL-33315/339888465_zpid/,339888465,,TOWNHOUSE,"$1,195,000",811 SW 10th St,Fort Lauderdale,FL,33315,3,3,2500, ,6808
+https://www.zillow.com/homedetails/600-610-W-Las-Olas-Blvd-Fort-Lauderdale-FL-33312/448334163_zpid/,448334163,,LOT,"$125,000",600-610 W Las Olas Blvd,Fort Lauderdale,FL,33312,,,, ,
+https://www.zillow.com/homedetails/6700-NE-22nd-Way-APT-2227-Fort-Lauderdale-FL-33308/43066568_zpid/,43066568,,CONDO,"$139,500",6700 NE 22nd Way #2227,Fort Lauderdale,FL,33308,1,2,850, ,1772
+https://www.zillow.com/homedetails/1013-SW-18th-St-Fort-Lauderdale-FL-33315/43213255_zpid/,43213255,,SINGLE FAMILY,"$1,300,000",1013 SW 18th Street,Fort Lauderdale,FL,33315,3,3,2146,6248 sqft,5668
+https://www.zillow.com/homedetails/1124-NE-18th-Ave-Fort-Lauderdale-FL-33304/43104465_zpid/,43104465,,SINGLE FAMILY,"$869,900",1124 NE 18th Ave,Fort Lauderdale,FL,33304,2,3,1363,6764.868 sqft,4581
+https://www.zillow.com/homedetails/2050-NE-53rd-St-Fort-Lauderdale-FL-33308/43068549_zpid/,43068549,,SINGLE FAMILY,"$895,000",2050 NE 53rd St,Fort Lauderdale,FL,33308,4,3,2041,7501.032 sqft,6090
+https://www.zillow.com/homedetails/6260-NE-18th-Ave-APT-826-Fort-Lauderdale-FL-33334/43068269_zpid/,43068269,,CONDO,"$100,000",6260 NE 18th Ave #826,Fort Lauderdale,FL,33334,1,1,650, ,1516
+https://www.zillow.com/homedetails/901-NE-16th-St-Fort-Lauderdale-FL-33304/43103123_zpid/,43103123,,MULTI FAMILY,"$749,000",901 NE 16th St,Fort Lauderdale,FL,33304,3,3,1690, ,
+https://www.zillow.com/homedetails/807-SW-14th-Ct-Fort-Lauderdale-FL-33315/340010819_zpid/,340010819,,MULTI FAMILY,"$1,189,000",807 SW 14th Ct,Fort Lauderdale,FL,33315,6,6,2873, ,
+https://www.zillow.com/homedetails/4100-Galt-Ocean-Dr-APT-1001-Fort-Lauderdale-FL-33308/43117930_zpid/,43117930,,CONDO,"$1,450,000",4100 Galt Ocean Dr APT 1001,Fort Lauderdale,FL,33308,3,3,2480, ,6722
+https://www.zillow.com/homedetails/1681-NE-56th-St-Fort-Lauderdale-FL-33334/2085665658_zpid/,2085665658,,MULTI FAMILY,"$1,390,000",1681 NE 56th St,Fort Lauderdale,FL,33334,6,5,2681, ,4073
+https://www.zillow.com/homedetails/1408-1410-NE-17th-Ct-Fort-Lauderdale-FL-33305/352124983_zpid/,352124983,,MULTI FAMILY,"$675,000",1408-1410 NE 17th Ct,Fort Lauderdale,FL,33305,4,2,1940, ,2921
+https://www.zillow.com/homedetails/520-SW-5th-Ave-Fort-Lauderdale-FL-33315/2117229243_zpid/,2117229243,,MULTI FAMILY,"$898,900",520 SW 5th Ave,Fort Lauderdale,FL,33315,4,2,1568,7248.384 sqft,3363
+https://www.zillow.com/homedetails/934-NW-4th-Ave-1-4-Fort-Lauderdale-FL-33311/450117257_zpid/,450117257,,MULTI FAMILY,"$1,300,000",934 NW 4th Avenue #1-4,Fort Lauderdale,FL,33311,4,4,2595,8438 sqft,
+https://www.zillow.com/homedetails/3410-Galt-Ocean-Dr-APT-1101-Fort-Lauderdale-FL-33308/455209177_zpid/,455209177,,CONDO,"$1,250,000",3410 Galt Ocean Dr #1101,Fort Lauderdale,FL,33308,3,3,2112, ,
+https://www.zillow.com/homedetails/607-NE-17th-Ave-Fort-Lauderdale-FL-33304/43194665_zpid/,43194665,,SINGLE FAMILY,"$1,000,000",607 NE 17th Ave,Fort Lauderdale,FL,33304,2,2,1375,6804.072 sqft,
+https://www.zillow.com/homedetails/2181-NE-67th-St-APT-628-Fort-Lauderdale-FL-33308/43066185_zpid/,43066185,,CONDO,"$147,500",2181 NE 67th St APT 628,Fort Lauderdale,FL,33308,1,2,756, ,1753
+https://www.zillow.com/homedetails/1031-SW-4th-St-Fort-Lauderdale-FL-33312/448825733_zpid/,448825733,,SINGLE FAMILY,"$850,000",1031 SW 4th St,Fort Lauderdale,FL,33312,3,2,1508,8749 sqft,
+https://www.zillow.com/homedetails/5921-NE-15th-Ave-Fort-Lauderdale-FL-33334/43063259_zpid/,43063259,,SINGLE FAMILY,"$814,900",5921 NE 15th Ave,Fort Lauderdale,FL,33334,3,3,1977,7501.032 sqft,4777
+https://www.zillow.com/homedetails/2001-NE-62nd-St-Fort-Lauderdale-FL-33308/43065228_zpid/,43065228,,SINGLE FAMILY,"$970,000",2001 NE 62nd Street,Fort Lauderdale,FL,33308,5,3,2071,9800 sqft,6377
+https://www.zillow.com/homedetails/2720-NW-20th-St-Fort-Lauderdale-FL-33311/2104646764_zpid/,2104646764,,MULTI FAMILY,"$825,000",2720 NW 20th St,Fort Lauderdale,FL,33311,10,4,2808, ,
+https://www.zillow.com/homedetails/2770-NE-15th-St-APT-201-Fort-Lauderdale-FL-33304/43105204_zpid/,43105204,,CONDO,"$895,000",2770 NE 15th #201,Fort Lauderdale,FL,33304,2,2,1334, ,4632
+https://www.zillow.com/homedetails/2000-NE-31st-Ave-Fort-Lauderdale-FL-33305/43123722_zpid/,43123722,,SINGLE FAMILY,"$1,599,000",2000 NE 31st Ave,Fort Lauderdale,FL,33305,3,2,2292,8799.12 sqft,7288
+https://www.zillow.com/homedetails/1725-NE-22nd-Ter-Fort-Lauderdale-FL-33305/43104532_zpid/,43104532,,SINGLE FAMILY,"$1,395,000",1725 NE 22nd Ter,Fort Lauderdale,FL,33305,5,3,2470,9696.456 sqft,7946
+https://www.zillow.com/homedetails/424-Hendricks-Isle-APT-11-Fort-Lauderdale-FL-33301/43195027_zpid/,43195027,,TOWNHOUSE,"$1,100,000",424 Hendricks Isle #11,Fort Lauderdale,FL,33301,2,3,2260, ,5219
+https://www.zillow.com/homedetails/2600-NE-26th-Ave-Fort-Lauderdale-FL-33306/43086749_zpid/,43086749,,SINGLE FAMILY,"$1,299,000",2600 NE 26th Ave,Fort Lauderdale,FL,33306,4,3,1848,9835.848 sqft,6935
+https://www.zillow.com/homedetails/2000-S-Ocean-Dr-APT-610-Fort-Lauderdale-FL-33316/43208722_zpid/,43208722,,CONDO,"$1,365,000",2000 S Ocean Dr #610,Fort Lauderdale,FL,33316,3,3,2650, ,8070
+https://www.zillow.com/homedetails/25-Hendricks-Isle-APT-305-Fort-Lauderdale-FL-33301/58443657_zpid/,58443657,,CONDO,"$1,099,000",25 Hendricks Isle #305,Fort Lauderdale,FL,33301,3,3,2320, ,
+https://www.zillow.com/homedetails/4280-Galt-Ocean-Dr-APT-14F-Fort-Lauderdale-FL-33308/43118773_zpid/,43118773,,CONDO,"$1,275,000",4280 Galt Ocean Dr #14F,Fort Lauderdale,FL,33308,3,3,2600, ,6145
+https://www.zillow.com/homedetails/4300-NE-21st-Ave-Fort-Lauderdale-FL-33308/43084621_zpid/,43084621,,SINGLE FAMILY,"$1,059,000",4300 NE 21st Ave,Fort Lauderdale,FL,33308,4,3,1902,10232.244 sqft,
+https://www.zillow.com/homedetails/1600-NE-16th-St-Fort-Lauderdale-FL-33304/43103414_zpid/,43103414,,SINGLE FAMILY,"$1,199,000",1600 NE 16th St,Fort Lauderdale,FL,33304,3,3,1818,8097.804 sqft,6495
+https://www.zillow.com/homedetails/4280-Galt-Ocean-Dr-APT-4F-Fort-Lauderdale-FL-33308/43118647_zpid/,43118647,,CONDO,"$1,149,000",4280 Galt Ocean Dr #4F,Fort Lauderdale,FL,33308,3,3,2600, ,6776
+https://www.zillow.com/homedetails/1112-Tangelo-Isle-Fort-Lauderdale-FL-33315/43213979_zpid/,43213979,,SINGLE FAMILY,"$1,130,000",1112 Tangelo Isle,Fort Lauderdale,FL,33315,2,2,1632,6891.192 sqft,3877
+https://www.zillow.com/homedetails/2709-NE-30th-St-Fort-Lauderdale-FL-33306/43086559_zpid/,43086559,,SINGLE FAMILY,"$1,385,000",2709 NE 30th St,Fort Lauderdale,FL,33306,4,3,2591,10750.608 sqft,5525
+https://www.zillow.com/homedetails/2005-SE-26th-Ter-Fort-Lauderdale-FL-33316/43208441_zpid/,43208441,,SINGLE FAMILY,"$1,349,000",2005 SE 26th Ter,Fort Lauderdale,FL,33316,3,3,1324,6000 sqft,
+https://www.zillow.com/homedetails/3500-Galt-Ocean-Dr-APT-1007-Fort-Lauderdale-FL-33308/43119789_zpid/,43119789,,CONDO,"$870,000",3500 Galt Ocean Dr APT 1007,Fort Lauderdale,FL,33308,2,2,1771, ,4738
+https://www.zillow.com/homedetails/2700-NE-57th-St-Fort-Lauderdale-FL-33308/2108873227_zpid/,2108873227,,MULTI FAMILY,"$1,289,000",2700 NE 57th St,Fort Lauderdale,FL,33308,6,4,2642, ,6195
+https://www.zillow.com/homedetails/1662-S-Ocean-Ln-APT-158-Fort-Lauderdale-FL-33316/43209314_zpid/,43209314,,CONDO,"$999,000",1662 S Ocean Ln APT 158,Fort Lauderdale,FL,33316,3,2,1273, ,
+https://www.zillow.com/homedetails/2167-NE-58th-St-Fort-Lauderdale-FL-33308/43065098_zpid/,43065098,,SINGLE FAMILY,"$899,000",2167 NE 58th St,Fort Lauderdale,FL,33308,4,2,2353,8603 sqft,6391
+https://www.zillow.com/homedetails/4468-Spruce-Ln-Fort-Lauderdale-FL-33309/2056326387_zpid/,2056326387,,SINGLE FAMILY,"$998,000",4468 Spruce Ln,Fort Lauderdale,FL,33309,4,3,2130,5974 sqft,5150
+https://www.zillow.com/homedetails/701-NW-19th-St-APT-202-Fort-Lauderdale-FL-33311/43091468_zpid/,43091468,,CONDO,"$169,000",701 NW 19th Street #202,Fort Lauderdale,FL,33311,2,1,682, ,1683
+https://www.zillow.com/homedetails/2130-NE-56th-St-Fort-Lauderdale-FL-33308/2117772945_zpid/,2117772945,,MULTI FAMILY,"$975,000",2130 NE 56th St,Fort Lauderdale,FL,33308,6,4,2515, ,3926
+https://www.zillow.com/homedetails/419-SW-5th-St-419-Fort-Lauderdale-FL-33315/450197737_zpid/,450197737,,TOWNHOUSE,"$899,000",419 SW 5th St #419,Fort Lauderdale,FL,33315,4,4,2735, ,
+https://www.zillow.com/homedetails/1412-NE-26th-Ave-1412-Fort-Lauderdale-FL-33304/2094393836_zpid/,2094393836,,TOWNHOUSE,"$995,000",1412 NE 26th Ave #1412,Fort Lauderdale,FL,33304,3,4,2722, ,6428
+https://www.zillow.com/homedetails/1434-SW-23rd-St-Fort-Lauderdale-FL-33315/442742236_zpid/,442742236,,SINGLE FAMILY,"$1,249,000",1434 SW 23rd Street,Fort Lauderdale,FL,33315,4,4,2831,4051.08 sqft,
+https://www.zillow.com/homedetails/1621-NE-63rd-Ct-Fort-Lauderdale-FL-33334/43063720_zpid/,43063720,,SINGLE FAMILY,"$1,149,000",1621 NE 63rd Ct,Fort Lauderdale,FL,33334,4,2,1598,7875 sqft,5354
+https://www.zillow.com/homedetails/5363-SW-38th-Ave-Fort-Lauderdale-FL-33312/58443739_zpid/,58443739,,SINGLE FAMILY,"$1,299,000",5363 SW 38th Ave,Fort Lauderdale,FL,33312,4,3,2725,6007 sqft,6872
+https://www.zillow.com/homedetails/825-SW-14th-St-Fort-Lauderdale-FL-33315/2096863979_zpid/,2096863979,,MULTI FAMILY,"$989,000",825 SW 14th St,Fort Lauderdale,FL,33315,6,6,2944, ,
+https://www.zillow.com/homedetails/2070-NE-54th-Ct-Fort-Lauderdale-FL-33308/43068804_zpid/,43068804,,SINGLE FAMILY,"$1,120,000",2070 NE 54th Ct,Fort Lauderdale,FL,33308,4,2,2202,9063 sqft,6052
+https://www.zillow.com/homedetails/830-N-Victoria-Park-Rd-830-Fort-Lauderdale-FL-33304/2096603228_zpid/,2096603228,,TOWNHOUSE,"$825,000",830 N Victoria Park Rd #830,Fort Lauderdale,FL,33304,3,4,2398, ,
+https://www.zillow.com/homedetails/2424-Tortugas-Ln-Fort-Lauderdale-FL-33312/43218321_zpid/,43218321,,SINGLE FAMILY,"$1,399,000",2424 Tortugas Ln,Fort Lauderdale,FL,33312,3,3,1610,7150 sqft,5351
+https://www.zillow.com/homedetails/829-SW-4th-Ct-Fort-Lauderdale-FL-33312/43203860_zpid/,43203860,,SINGLE FAMILY,"$975,000",829 SW 4th Ct,Fort Lauderdale,FL,33312,3,2,1208,7000 sqft,3565
+https://www.zillow.com/homedetails/333-Las-Olas-Way-APT-804-Fort-Lauderdale-FL-33301/63877662_zpid/,63877662,,CONDO,"$1,575,000",333 Las Olas Way APT 804,Fort Lauderdale,FL,33301,2,3,2129, ,6428
+https://www.zillow.com/homedetails/2117-NE-62nd-St-Fort-Lauderdale-FL-33308/43064954_zpid/,43064954,,SINGLE FAMILY,"$1,025,000",2117 NE 62nd St,Fort Lauderdale,FL,33308,3,2,2040,7000 sqft,
+https://www.zillow.com/homedetails/5140-NE-17th-Ter-Fort-Lauderdale-FL-33334/444622933_zpid/,444622933,,MULTI FAMILY,"$850,000",5140 NE 17th Ter,Fort Lauderdale,FL,33334,4,4,2554,8001.972 sqft,
+https://www.zillow.com/homedetails/1821-NE-62nd-St-APT-310-Fort-Lauderdale-FL-33308/43067986_zpid/,43067986,,CONDO,"$124,500",1821 NE 62nd St #310,Fort Lauderdale,FL,33308,1,1,650, ,
+https://www.zillow.com/homedetails/1621-N-Victoria-Park-Rd-Fort-Lauderdale-FL-33305/43100293_zpid/,43100293,,SINGLE FAMILY,"$850,000",1621 N Victoria Park Rd,Fort Lauderdale,FL,33305,3,2,1725,8503 sqft,
+https://www.zillow.com/homedetails/6500-NE-20th-Ter-Fort-Lauderdale-FL-33308/43065699_zpid/,43065699,,SINGLE FAMILY,"$1,250,000",6500 NE 20th Ter,Fort Lauderdale,FL,33308,4,3,2768,10641.708 sqft,
+https://www.zillow.com/homedetails/1212-NE-17th-Ave-Fort-Lauderdale-FL-33304/43103536_zpid/,43103536,,SINGLE FAMILY,"$950,000",1212 NE 17th Avenue,Fort Lauderdale,FL,33304,3,2,1246,8512 sqft,4516
+https://www.zillow.com/homedetails/4020-Galt-Ocean-Dr-911-909-Fort-Lauderdale-FL-33308/453538919_zpid/,453538919,,CONDO,"$1,595,000",4020 Galt Ocean Dr #911 & 909,Fort Lauderdale,FL,33308,4,4,3296, ,
+https://www.zillow.com/homedetails/2180-NE-67th-St-APT-728-Fort-Lauderdale-FL-33308/43066209_zpid/,43066209,,CONDO,"$165,000",2180 NE 67th St APT 728,Fort Lauderdale,FL,33308,1,2,756, ,1753
+https://www.zillow.com/homedetails/2436-Okeechobee-Ln-Fort-Lauderdale-FL-33312/43218219_zpid/,43218219,,SINGLE FAMILY,"$1,339,000",2436 Okeechobee Ln,Fort Lauderdale,FL,33312,3,2,,7152 sqft,4879
+https://www.zillow.com/homedetails/1631-NE-9th-St-Fort-Lauderdale-FL-33304/125998622_zpid/,125998622,,TOWNHOUSE,"$1,025,000",1631 NE 9th St,Fort Lauderdale,FL,33304,3,4,1913, ,5568
+https://www.zillow.com/homedetails/6505-NE-21st-Ter-Fort-Lauderdale-FL-33308/43065751_zpid/,43065751,,SINGLE FAMILY,"$990,000",6505 NE 21st Ter Terrace,Fort Lauderdale,FL,33308,3,2,1746,7509 sqft,4277
+https://www.zillow.com/homedetails/2506-NE-30th-St-Fort-Lauderdale-FL-33306/43086791_zpid/,43086791,,SINGLE FAMILY,"$1,375,000",2506 NE 30th St,Fort Lauderdale,FL,33306,4,3,1629,10000 sqft,
+https://www.zillow.com/homedetails/217-SW-11th-St-Fort-Lauderdale-FL-33315/112793339_zpid/,112793339,,TOWNHOUSE,"$899,000",217 SW 11th St,Fort Lauderdale,FL,33315,6,5,3408, ,6147
+https://www.zillow.com/homedetails/2590-NE-42nd-St-Fort-Lauderdale-FL-33308/43085027_zpid/,43085027,,SINGLE FAMILY,"$1,174,900",2590 NE 42nd St,Fort Lauderdale,FL,33308,4,2,1973,10144 sqft,
+https://www.zillow.com/homedetails/1642-NE-8th-St-Fort-Lauderdale-FL-33304/43194692_zpid/,43194692,,SINGLE FAMILY,"$899,000",1642 NE 8th St,Fort Lauderdale,FL,33304,3,1,1022,6581.916 sqft,3810
+https://www.zillow.com/homedetails/843-NE-17th-Ave-Fort-Lauderdale-FL-33304/2112625297_zpid/,2112625297,,MULTI FAMILY,"$1,250,000",843 NE 17th Ave,Fort Lauderdale,FL,33304,4,4,2167, ,2393
+https://www.zillow.com/homedetails/2555-NE-11th-St-APT-303-Fort-Lauderdale-FL-33304/43105041_zpid/,43105041,,CONDO,"$169,000",2555 NE 11th St APT 303,Fort Lauderdale,FL,33304,1,1,710, ,2012
+https://www.zillow.com/homedetails/1116-NE-10th-Ave-Fort-Lauderdale-FL-33304/43101821_zpid/,43101821,,TOWNHOUSE,"$1,175,000",1116 NE 10th Ave,Fort Lauderdale,FL,33304,4,4,1766, ,
+https://www.zillow.com/homedetails/1740-NE-49th-St-Oakland-Park-FL-33334/43063686_zpid/,43063686,,SINGLE FAMILY,"$855,000",1740 NE 49th Street,Oakland Park,FL,33334,4,3,1832,6900 sqft,5648
+https://www.zillow.com/homedetails/3100-N-Ocean-Dr-1605-Fort-Lauderdale-FL-33308/444392835_zpid/,444392835,,CONDO,"$1,199,000",3100 N Ocean Blvd #1605,Fort Lauderdale,FL,33308,2,2,1537, ,
+https://www.zillow.com/homedetails/5740-NE-19th-Ave-Fort-Lauderdale-FL-33308/43064418_zpid/,43064418,,SINGLE FAMILY,"$949,000",5740 NE 19th Ave,Fort Lauderdale,FL,33308,4,3,2262,7500 sqft,6400
+https://www.zillow.com/homedetails/1524-SE-12th-St-APT-5-Fort-Lauderdale-FL-33316/43211411_zpid/,43211411,,TOWNHOUSE,"$999,000",1524 SE 12th St APT 5,Fort Lauderdale,FL,33316,2,3,1208, ,
+https://www.zillow.com/homedetails/2537-Marathon-Ln-Fort-Lauderdale-FL-33312/43218135_zpid/,43218135,,SINGLE FAMILY,"$1,049,000",2537 Marathon Ln,Fort Lauderdale,FL,33312,3,2,1572,109 sqft,3489
+https://www.zillow.com/homedetails/1820-SW-9th-St-Fort-Lauderdale-FL-33312/103020464_zpid/,103020464,,MULTI FAMILY,"$1,200,000",1820 SW 9th St,Fort Lauderdale,FL,33312,6,4,2576, ,5772
+https://www.zillow.com/homedetails/2320-SW-36th-Ave-Fort-Lauderdale-FL-33312/43217467_zpid/,43217467,,SINGLE FAMILY,"$1,150,000",2320 SW 36th Ave,Fort Lauderdale,FL,33312,6,5,3066,0.32258953168044074 acres,
+https://www.zillow.com/homedetails/3900-Galt-Ocean-Dr-APT-712-Fort-Lauderdale-FL-33308/43120516_zpid/,43120516,,CONDO,"$1,195,000",3900 Galt Ocean Dr #712,Fort Lauderdale,FL,33308,2,3,1649, ,4922
+https://www.zillow.com/homedetails/509-SE-19th-St-Fort-Lauderdale-FL-33316/2057625481_zpid/,2057625481,,MULTI FAMILY,"$998,000",509 SE 19th St,Fort Lauderdale,FL,33316,3,5,2886, ,4803
+https://www.zillow.com/homedetails/2413-Sugarloaf-Ln-Fort-Lauderdale-FL-33312/43218313_zpid/,43218313,,SINGLE FAMILY,"$975,000",2413 Sugarloaf Ln,Fort Lauderdale,FL,33312,3,2,1860,7322 sqft,6105
+https://www.zillow.com/homedetails/1604-NE-16th-Ave-Fort-Lauderdale-FL-33305/43100378_zpid/,43100378,,SINGLE FAMILY,"$875,000",1604 NE 16th Ave,Fort Lauderdale,FL,33305,4,3,1520,6747.444 sqft,4189
+https://www.zillow.com/homedetails/605-SW-14th-Ter-Fort-Lauderdale-FL-33312/444607827_zpid/,444607827,,MULTI FAMILY,"$1,349,000",605 SW 14th Ter,Fort Lauderdale,FL,33312,8,4,2790, ,
+https://www.zillow.com/homedetails/56-Sw-Ave-Fort-Lauderdale-FL-33314/452753113_zpid/,452753113,,LOT,"$165,000",56 SW Ave,Fort Lauderdale,FL,33314,,,,7230.96 sqft,
+https://www.zillow.com/homedetails/4848-NE-23rd-Ave-APT-2C-Fort-Lauderdale-FL-33308/43085818_zpid/,43085818,,CONDO,"$175,000",4848 NE 23rd Ave APT 2C,Fort Lauderdale,FL,33308,1,1,740, ,1706
+https://www.zillow.com/homedetails/1617-NE-11th-St-1-Fort-Lauderdale-FL-33304/447173811_zpid/,447173811,,TOWNHOUSE,"$1,455,000",1617 NE 11th St #1,Fort Lauderdale,FL,33304,4,5,2633, ,
+https://www.zillow.com/homedetails/2814-Primrose-Pl-Oakland-Park-FL-33309/447122620_zpid/,447122620,,SINGLE FAMILY,"$900,000",2814 Primrose Pl,Oakland Park,FL,33309,4,3,2130,4824 sqft,
+https://www.zillow.com/homedetails/1710-S-Ocean-Ln-APT-201-Fort-Lauderdale-FL-33316/43209418_zpid/,43209418,,CONDO,"$1,575,000",1710 S Ocean Ln #201,Fort Lauderdale,FL,33316,2,2,1444, ,5731
+https://www.zillow.com/homedetails/1561-SW-23rd-Ave-Fort-Lauderdale-FL-33312/43215608_zpid/,43215608,,SINGLE FAMILY,"$1,147,500",1561 SW 23rd Ave,Fort Lauderdale,FL,33312,5,3,2233,0.2662 acres,6158
+https://www.zillow.com/homedetails/3574-Riverland-Rd-Fort-Lauderdale-FL-33312/43218092_zpid/,43218092,,SINGLE FAMILY,"$983,000",3574 Riverland Road,Fort Lauderdale,FL,33312,4,2,1900,8651 sqft,4458
+https://www.zillow.com/homedetails/1478-NE-55th-St-Fort-Lauderdale-FL-33334/43063589_zpid/,43063589,,SINGLE FAMILY,"$1,150,000",1478 NE 55th St,Fort Lauderdale,FL,33334,4,2,1502,9578 sqft,5039
+https://www.zillow.com/homedetails/347-N-New-River-Dr-E-APT-2104-Fort-Lauderdale-FL-33301/63533685_zpid/,63533685,,CONDO,"$829,000",347 N New River Dr E #2104,Fort Lauderdale,FL,33301,3,2,1469, ,4574
+https://www.zillow.com/homedetails/209-N-Fort-Lauderdale-Beach-Blvd-APT-10B-Fort-Lauderdale-FL-33304/43192936_zpid/,43192936,,CONDO,"$999,999",209 N Fort Lauderdale Beach Blvd #10B,Fort Lauderdale,FL,33304,2,2,1450, ,5413
+https://www.zillow.com/homedetails/2831-N-Ocean-Blvd-APT-602N-Fort-Lauderdale-FL-33308/94640960_zpid/,94640960,,CONDO,"$889,000",2831 N Ocean Blvd APT 602N,Fort Lauderdale,FL,33308,2,2,1274, ,4393

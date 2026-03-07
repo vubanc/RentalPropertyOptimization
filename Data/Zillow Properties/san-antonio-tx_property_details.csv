@@ -1,0 +1,430 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/15808-Mission-Rdg-San-Antonio-TX-78232/26444587_zpid/,26444587,,SINGLE FAMILY,"$470,000",15808 Mission Ridge,San Antonio,TX,78232,4,4,3421,8450.64 sqft,3168
+https://www.zillow.com/homedetails/4611-Aspen-Vw-San-Antonio-TX-78217/26341856_zpid/,26341856,,SINGLE FAMILY,"$289,900",4611 Aspen,San Antonio,TX,78217,3,3,2080,5009.4 sqft,2109
+https://www.zillow.com/homedetails/1160-Hedgestone-Dr-San-Antonio-TX-78258/26473194_zpid/,26473194,,SINGLE FAMILY,"$415,000",1160 Hedgestone,San Antonio,TX,78258,4,3,2072,8668.44 sqft,2427
+https://www.zillow.com/homedetails/118-Marquette-Dr-San-Antonio-TX-78228/26260901_zpid/,26260901,,SINGLE FAMILY,"$185,000",118 Marquette Dr,San Antonio,TX,78228,4,3,1808,0.28500000000000003 acres,2208
+https://www.zillow.com/homedetails/248-E-Summit-Ave-San-Antonio-TX-78212/26221590_zpid/,26221590,,SINGLE FAMILY,"$1,185,000",248 E SUMMIT AVE,San Antonio,TX,78212,5,5,4776,0.31 acres,4859
+https://www.zillow.com/homedetails/8003-Santa-Catalina-San-Antonio-TX-78250/63727552_zpid/,63727552,,SINGLE FAMILY,"$169,998",8003 Santa Catalina,San Antonio,TX,78250,3,2,1236,4051.08 sqft,1641
+https://www.zillow.com/homedetails/1019-Mineral-Hls-San-Antonio-TX-78260/80023323_zpid/,80023323,,SINGLE FAMILY,"$365,000",1019 Mineral Hills,San Antonio,TX,78260,4,3,2182,0.3 acres,2536
+https://www.zillow.com/homedetails/9302-Valley-Hedge-San-Antonio-TX-78250/26456765_zpid/,26456765,,SINGLE FAMILY,"$274,999",9302 Valley Hedge,San Antonio,TX,78250,4,3,1443,7056.72 sqft,1736
+https://www.zillow.com/homedetails/12902-Esplanade-St-San-Antonio-TX-78233/26376852_zpid/,26376852,,SINGLE FAMILY,"$199,900",12902 Esplanade,San Antonio,TX,78233,4,2,1742,8232.84 sqft,1937
+https://www.zillow.com/homedetails/7259-Sunlit-Trl-San-Antonio-TX-78244/447454418_zpid/,447454418,,SINGLE FAMILY,"$210,000",7259 Sunlit Trail,San Antonio,TX,78244,3,2,1268,6011.28 sqft,
+https://www.zillow.com/homedetails/3114-Buttercup-Byu-San-Antonio-TX-78245/446027376_zpid/,446027376,,SINGLE FAMILY,"$225,000",3114 Buttercup,San Antonio,TX,78245,4,3,2043,4965.84 sqft,
+https://www.zillow.com/homedetails/9502-Raton-Fls-San-Antonio-TX-78245/65093523_zpid/,65093523,,SINGLE FAMILY,"$189,900",9502 Raton Falls,San Antonio,TX,78245,4,3,2421,5445 sqft,
+https://www.zillow.com/homedetails/4431-Hogg-San-Antonio-TX-78223/244678723_zpid/,244678723,,SINGLE FAMILY,"$275,000",4431 Hogg,San Antonio,TX,78223,3,3,2208,7034.94 sqft,
+https://www.zillow.com/homedetails/7010-Aphrodite-Mist-San-Antonio-TX-78252/169432282_zpid/,169432282,,SINGLE FAMILY,"$274,999",7010 Aphrodite Mist,San Antonio,TX,78252,4,3,2316,5401.44 sqft,2131
+https://www.zillow.com/homedetails/4310-Las-Cruces-St-San-Antonio-TX-78233/26347959_zpid/,26347959,,SINGLE FAMILY,"$270,000",4310 Las Cruces,San Antonio,TX,78233,3,2,1725,8799.12 sqft,1832
+https://www.zillow.com/homedetails/2611-Circle-Tree-St-San-Antonio-TX-78247/26384514_zpid/,26384514,,SINGLE FAMILY,"$320,000",2611 Circle Tree,San Antonio,TX,78247,3,2,1644,7710.12 sqft,1961
+https://www.zillow.com/homedetails/1326-Crow-Ct-San-Antonio-TX-78245/122501924_zpid/,122501924,,SINGLE FAMILY,"$265,000",1326 Crow Ct,San Antonio,TX,78245,3,2,1703,5401.44 sqft,1963
+https://www.zillow.com/homedetails/926-Steubing-Oaks-San-Antonio-TX-78258/69656491_zpid/,69656491,,SINGLE FAMILY,"$765,000",926 STEUBING OAKS,San Antonio,TX,78258,4,4,3441,0.34500000000000003 acres,4070
+https://www.zillow.com/homedetails/11754-Belicena-Rd-San-Antonio-TX-78253/80038958_zpid/,80038958,,SINGLE FAMILY,"$389,950",11754 Belicena,San Antonio,TX,78253,3,3,2889,6621.12 sqft,2512
+https://www.zillow.com/homedetails/3371-W-Woodlawn-Ave-San-Antonio-TX-78228/26289259_zpid/,26289259,,SINGLE FAMILY,"$162,000",3371 W Woodlawn,San Antonio,TX,78228,4,1,1996,1.407 acres,2369
+https://www.zillow.com/homedetails/12722-La-Fonda-St-San-Antonio-TX-78233/26369036_zpid/,26369036,,SINGLE FAMILY,"$225,000",12722 La Fonda,San Antonio,TX,78233,3,2,1272,9626.76 sqft,1626
+https://www.zillow.com/homedetails/26131-Meadowlark-Bay-San-Antonio-TX-78260/65093003_zpid/,65093003,,SINGLE FAMILY,"$449,900",26131 Meadowlark Bay,San Antonio,TX,78260,3,3,2690,6359.76 sqft,2663
+https://www.zillow.com/homedetails/12810-Thornbrooke-San-Antonio-TX-78253/246244557_zpid/,246244557,,SINGLE FAMILY,"$619,000",12810 Thornbrooke,San Antonio,TX,78253,2,3,2586,8842.68 sqft,
+https://www.zillow.com/homedetails/418-Palma-Noce-San-Antonio-TX-78253/102473989_zpid/,102473989,,SINGLE FAMILY,"$286,000",418 Palma Noce,San Antonio,TX,78253,3,2,1731,7666.56 sqft,2031
+https://www.zillow.com/homedetails/24514-Birdie-Rdg-San-Antonio-TX-78260/60079764_zpid/,60079764,,SINGLE FAMILY,"$830,000",24514 Birdie Ridge,San Antonio,TX,78260,3,4,3257,0.42600000000000005 acres,3786
+https://www.zillow.com/homedetails/12126-Painted-Daisy-San-Antonio-TX-78253/83979760_zpid/,83979760,,SINGLE FAMILY,"$309,900",12126 Painted Daisy,San Antonio,TX,78253,4,3,2152,5401.44 sqft,2053
+https://www.zillow.com/homedetails/7131-Phoebe-Vw-San-Antonio-TX-78252/244678466_zpid/,244678466,,SINGLE FAMILY,"$299,999",7131 Phoebe Vw,San Antonio,TX,78252,5,4,2678,5401.44 sqft,2226
+https://www.zillow.com/homedetails/3735-Shimmering-Dawn-St-2-San-Antonio-TX-78253/26156491_zpid/,26156491,,SINGLE FAMILY,"$685,000",3735 Shimmering Dawn St 2,San Antonio,TX,78253,3,3,4086,1.365 acres,2177
+https://www.zillow.com/homedetails/5222-Village-Row-San-Antonio-TX-78218/26364714_zpid/,26364714,,SINGLE FAMILY,"$139,000",5222 Village,San Antonio,TX,78218,3,2,1132,9801 sqft,2653
+https://www.zillow.com/homedetails/7702-Mesquite-Farm-San-Antonio-TX-78239/69638276_zpid/,69638276,,SINGLE FAMILY,"$289,900",7702 Mesquite Farm,San Antonio,TX,78239,4,3,3025,5619.24 sqft,2075
+https://www.zillow.com/homedetails/5026-Pine-Lake-Dr-San-Antonio-TX-78244/26190060_zpid/,26190060,,SINGLE FAMILY,"$199,900",5026 Pine Lake,San Antonio,TX,78244,4,3,2334,6316.2 sqft,1879
+https://www.zillow.com/homedetails/121-Laburnum-Dr-San-Antonio-TX-78209/26305309_zpid/,26305309,,SINGLE FAMILY,"$1,150,000",121 LABURNUM DR,San Antonio,TX,78209,4,5,4037,0.4 acres,4088
+https://www.zillow.com/homedetails/2727-Winding-Vw-San-Antonio-TX-78260/102465842_zpid/,102465842,,SINGLE FAMILY,"$1,095,000",2727 Winding View,San Antonio,TX,78260,4,4,3673,1.7925 acres,5209
+https://www.zillow.com/homedetails/3026-Whisper-Fern-St-San-Antonio-TX-78230/26349507_zpid/,26349507,,SINGLE FAMILY,"$449,777",3026 Whisper Fern,San Antonio,TX,78230,4,4,2911,10541.52 sqft,3006
+https://www.zillow.com/homedetails/10707-Cedar-Elm-Dr-San-Antonio-TX-78230/26315310_zpid/,26315310,,SINGLE FAMILY,"$325,000",10707 CEDAR ELM,San Antonio,TX,78230,5,2,2176,0.332 acres,
+https://www.zillow.com/homedetails/429-E-Evergreen-St-San-Antonio-TX-78212/26109865_zpid/,26109865,,SINGLE FAMILY,"$485,000",429 E EVERGREEN ST,San Antonio,TX,78212,4,2,2773,0.316 acres,3628
+https://www.zillow.com/homedetails/10431-Manor-Crk-San-Antonio-TX-78245/69633705_zpid/,69633705,,SINGLE FAMILY,"$295,000",10431 Manor Crk,San Antonio,TX,78245,4,3,2500,6446.88 sqft,2030
+https://www.zillow.com/homedetails/427-Hampshire-Ave-San-Antonio-TX-78210/26132162_zpid/,26132162,,SINGLE FAMILY,"$215,000",427 Hampshire,San Antonio,TX,78210,3,1,937,6621.12 sqft,1483
+https://www.zillow.com/homedetails/3735-Shimmering-Dawn-St-1-San-Antonio-TX-78253/60095749_zpid/,60095749,,SINGLE FAMILY,"$565,000",3735 Shimmering Dawn St 1,San Antonio,TX,78253,2,2,1993,2.299 acres,2787
+https://www.zillow.com/homedetails/11315-Par-One-San-Antonio-TX-78221/89608174_zpid/,89608174,,SINGLE FAMILY,"$325,000",11315 Par One,San Antonio,TX,78221,5,4,2852,6708.24 sqft,2760
+https://www.zillow.com/homedetails/4106-Tropical-Dr-San-Antonio-TX-78218/26303141_zpid/,26303141,,SINGLE FAMILY,"$220,000",4106 Tropical,San Antonio,TX,78218,4,2,1161,8842.68 sqft,1601
+https://www.zillow.com/homedetails/6022-Royal-Point-San-Antonio-TX-78239/26327135_zpid/,26327135,,SINGLE FAMILY,"$314,900",6022 Royal Wood,San Antonio,TX,78239,4,3,2049,7318.08 sqft,
+https://www.zillow.com/homedetails/4115-City-View-Dr-San-Antonio-TX-78228/26290365_zpid/,26290365,,SINGLE FAMILY,"$268,500",4115 City View Dr,San Antonio,TX,78228,3,2,2130,0.32 acres,2874
+https://www.zillow.com/homedetails/835-Fabulous-Dr-San-Antonio-TX-78216/26320676_zpid/,26320676,,SINGLE FAMILY,"$450,000",835 Fabulous,San Antonio,TX,78216,4,4,2980,0.37900000000000006 acres,2792
+https://www.zillow.com/homedetails/7947-Airflight-St-San-Antonio-TX-78250/26451398_zpid/,26451398,,SINGLE FAMILY,"$169,900",7947 Airflight,San Antonio,TX,78250,3,2,1519,10149.48 sqft,1817
+https://www.zillow.com/homedetails/8211-Brightstone-San-Antonio-TX-78250/26448563_zpid/,26448563,,SINGLE FAMILY,"$409,500",8211 Brightstone,San Antonio,TX,78250,3,3,2275,0.29500000000000004 acres,2236
+https://www.zillow.com/homedetails/25031-Granite-Path-San-Antonio-TX-78258/26473784_zpid/,26473784,,SINGLE FAMILY,"$495,000",25031 Granite Path,San Antonio,TX,78258,4,3,2976,0.6599999999999999 acres,2798
+https://www.zillow.com/homedetails/9220-Jorwoods-Dr-San-Antonio-TX-78250/26442516_zpid/,26442516,,SINGLE FAMILY,"$349,900",9220 Jorwoods,San Antonio,TX,78250,4,3,2760,10280.16 sqft,2549
+https://www.zillow.com/homedetails/270-Goodhue-Ave-San-Antonio-TX-78218/26304933_zpid/,26304933,,SINGLE FAMILY,"$285,000",270 Goodhue Ave,San Antonio,TX,78218,3,2,1672,7927.92 sqft,1955
+https://www.zillow.com/homedetails/13423-Vista-Bonita-San-Antonio-TX-78216/26401923_zpid/,26401923,,SINGLE FAMILY,"$525,000",13423 Vista Bonita,San Antonio,TX,78216,3,3,2575,0.254 acres,2964
+https://www.zillow.com/homedetails/5530-Rangeland-St-San-Antonio-TX-78247/26428236_zpid/,26428236,,SINGLE FAMILY,"$219,999",5530 Rangeland St,San Antonio,TX,78247,3,2,1288,4700 sqft,1654
+https://www.zillow.com/homedetails/13026-Los-Espanada-St-San-Antonio-TX-78233/26369237_zpid/,26369237,,SINGLE FAMILY,"$269,900",13026 Los Espanada,San Antonio,TX,78233,4,2,2242,10410.84 sqft,1902
+https://www.zillow.com/homedetails/2302-Pue-Rd-San-Antonio-TX-78245/69632825_zpid/,69632825,,SINGLE FAMILY,"$189,500",2302 Pue Rd,San Antonio,TX,78245,4,3,2275,5575.68 sqft,1959
+https://www.zillow.com/homedetails/7839-Creekshore-Cv-San-Antonio-TX-78254/169469927_zpid/,169469927,,SINGLE FAMILY,"$300,000",7839 Creekshore Cove,San Antonio,TX,78254,4,2,1904,5823.972 sqft,1781
+https://www.zillow.com/homedetails/7614-Castle-Grn-San-Antonio-TX-78218/26344535_zpid/,26344535,,SINGLE FAMILY,"$189,998",7614 CASTLE GREEN,San Antonio,TX,78218,4,3,1848,4181.76 sqft,
+https://www.zillow.com/homedetails/10222-Azealia-Way-Boerne-TX-78006/351492328_zpid/,351492328,,SINGLE FAMILY,"$399,990",10222 azealia,Boerne,TX,78006,4,2,1738,5850.108 sqft,2424
+https://www.zillow.com/homedetails/5503-Justin-Cv-San-Antonio-TX-78240/69663344_zpid/,69663344,,SINGLE FAMILY,"$274,990",5503 Justin Cove,San Antonio,TX,78240,3,3,1570,6534 sqft,1813
+https://www.zillow.com/homedetails/5006-Las-Campanas-St-San-Antonio-TX-78233/26369094_zpid/,26369094,,SINGLE FAMILY,"$259,500",5006 Las Campanas,San Antonio,TX,78233,3,2,1410,8450.64 sqft,
+https://www.zillow.com/homedetails/8535-Sandy-Mdws-San-Antonio-TX-78254/122142521_zpid/,122142521,,SINGLE FAMILY,"$350,000",8535 Sandy Meadows,San Antonio,TX,78254,4,3,2537,7230.96 sqft,
+https://www.zillow.com/homedetails/4919-Bayhead-Dr-San-Antonio-TX-78220/26314258_zpid/,26314258,,SINGLE FAMILY,"$175,000",4919 Bayhead,San Antonio,TX,78220,5,2,1799,7797.24 sqft,1884
+https://www.zillow.com/homedetails/806-Kayton-Ave-San-Antonio-TX-78210/26134183_zpid/,26134183,,SINGLE FAMILY,"$190,000",806 Kayton Ave,San Antonio,TX,78210,4,2,1807,0.25830000000000003 acres,1864
+https://www.zillow.com/homedetails/2719-W-Houston-St-San-Antonio-TX-78207/26124807_zpid/,26124807,,SINGLE FAMILY,"$175,000",2719 W Houston St.,San Antonio,TX,78207,3,1,1426,6272.64 sqft,1404
+https://www.zillow.com/homedetails/11687-Tribute-Oaks-San-Antonio-TX-78254/333534877_zpid/,333534877,,SINGLE FAMILY,"$344,990",11687 Tribute Oaks,San Antonio,TX,78254,4,3,2419,5445 sqft,2195
+https://www.zillow.com/homedetails/6622-Evenridge-Ln-San-Antonio-TX-78239/26208616_zpid/,26208616,,SINGLE FAMILY,"$192,000",6622 evenridge,San Antonio,TX,78239,3,2,1386,6272.64 sqft,
+https://www.zillow.com/homedetails/3234-Lilly-Flower-San-Antonio-TX-78253/122500365_zpid/,122500365,,SINGLE FAMILY,"$599,900",3234 Lilly Flower,San Antonio,TX,78253,5,2,2955,0.774 acres,3350
+https://www.zillow.com/homedetails/4539-Zoe-Pass-San-Antonio-TX-78222/2061708319_zpid/,2061708319,,SINGLE FAMILY,"$210,000",4539 Zoe Pass,San Antonio,TX,78222,3,2,1129,4791.6 sqft,1429
+https://www.zillow.com/homedetails/4819-Tennyson-Dr-San-Antonio-TX-78217/26341791_zpid/,26341791,,SINGLE FAMILY,"$189,500",4819 Tennyson Drive,San Antonio,TX,78217,4,2,1139,6577.56 sqft,1436
+https://www.zillow.com/homedetails/8363-Bent-Waters-San-Antonio-TX-78239/26177479_zpid/,26177479,,SINGLE FAMILY,"$254,000",8363 Bent Waters,San Antonio,TX,78239,4,2,1680,8624.88 sqft,
+https://www.zillow.com/homedetails/2719-Whisper-Dove-St-San-Antonio-TX-78230/26332916_zpid/,26332916,,SINGLE FAMILY,"$449,900",2719 Whisper Dove,San Antonio,TX,78230,3,2,2631,0.554 acres,2509
+https://www.zillow.com/homedetails/2430-Trace-Oak-San-Antonio-TX-78232/26409727_zpid/,26409727,,SINGLE FAMILY,"$450,000",2430 Trace Oak,San Antonio,TX,78232,3,2,2032,6534 sqft,2985
+https://www.zillow.com/homedetails/9122-Seafarer-Dr-San-Antonio-TX-78242/26416239_zpid/,26416239,,SINGLE FAMILY,"$119,000",9122 seafarer,San Antonio,TX,78242,2,1,914,0.296 acres,1294
+https://www.zillow.com/homedetails/13618-Primwood-St-San-Antonio-TX-78233/26380805_zpid/,26380805,,SINGLE FAMILY,"$184,900",13618 Primwood,San Antonio,TX,78233,3,2,1197,8929.8 sqft,1613
+https://www.zillow.com/homedetails/6703-Legato-Curv-San-Antonio-TX-78252/2062686231_zpid/,2062686231,,SINGLE FAMILY,"$287,000",6703 Legato Curve,San Antonio,TX,78252,4,3,2084,5227.2 sqft,2125
+https://www.zillow.com/homedetails/2330-Blanton-Dr-San-Antonio-TX-78209/26303657_zpid/,26303657,,SINGLE FAMILY,"$850,000",2330 Blanton Dr,San Antonio,TX,78209,3,3,2012,8581.32 sqft,
+https://www.zillow.com/homedetails/310-Butternut-Blvd-San-Antonio-TX-78245/69664545_zpid/,69664545,,SINGLE FAMILY,"$250,000",310 Butternut,San Antonio,TX,78245,4,3,3208,7666.56 sqft,2172
+https://www.zillow.com/homedetails/16531-Hunting-Gln-San-Antonio-TX-78247/447449016_zpid/,447449016,,SINGLE FAMILY,"$309,000",16531 Hunting Glen,San Antonio,TX,78247,3,2,1780,7579.44 sqft,
+https://www.zillow.com/homedetails/24706-Las-Pilas-San-Antonio-TX-78261/333538594_zpid/,333538594,,SINGLE FAMILY,"$649,000",24706 Las Pilas,San Antonio,TX,78261,4,3,2434,8276.4 sqft,
+https://www.zillow.com/homedetails/9215-Thornbury-St-San-Antonio-TX-78250/26442561_zpid/,26442561,,SINGLE FAMILY,"$305,000",9215 Thornbury,San Antonio,TX,78250,3,2,1769,0.291 acres,2294
+https://www.zillow.com/homedetails/14222-Saratoga-Pass-San-Antonio-TX-78254/122501062_zpid/,122501062,,SINGLE FAMILY,"$399,000",14222 Saratoga Pass,San Antonio,TX,78254,4,3,2538,8712 sqft,2495
+https://www.zillow.com/homedetails/7403-Steeple-Crse-San-Antonio-TX-78256/60095998_zpid/,60095998,,SINGLE FAMILY,"$1,150,000",7403 Steeple Crse,San Antonio,TX,78256,4,4,4301,0.531 acres,
+https://www.zillow.com/homedetails/215-Quince-Flower-San-Antonio-TX-78253/69651797_zpid/,69651797,,SINGLE FAMILY,"$250,000",215 Quince Flower,San Antonio,TX,78253,3,3,2102,4007.52 sqft,1783
+https://www.zillow.com/homedetails/170-Sinclair-Rd-San-Antonio-TX-78222/26277551_zpid/,26277551,,SINGLE FAMILY,"$185,000",170 Sinclair,San Antonio,TX,78222,4,4,2366,0.321 acres,2147
+https://www.zillow.com/homedetails/542-Private-Road-3702-San-Antonio-TX-78253/299834166_zpid/,299834166,,SINGLE FAMILY,"$820,000",542 Private Road 3702,San Antonio,TX,78253,4,3,2922,1.5 acres,
+https://www.zillow.com/homedetails/7626-Westfield-Blvd-San-Antonio-TX-78227/26359932_zpid/,26359932,,SINGLE FAMILY,"$295,000",7626 Westfield,San Antonio,TX,78227,4,2,1971,9801 sqft,1705
+https://www.zillow.com/homedetails/1604-Santa-Fe-Trail-Dr-San-Antonio-TX-78232/26376538_zpid/,26376538,,SINGLE FAMILY,"$449,900",1604 Santa Fe Trail,San Antonio,TX,78232,4,3,2656,8712 sqft,2625
+https://www.zillow.com/homedetails/1039-Maltese-Ln-San-Antonio-TX-78260/60081897_zpid/,60081897,,SINGLE FAMILY,"$425,000",1039 Maltese Ln,San Antonio,TX,78260,4,3,3031,9452.52 sqft,2935
+https://www.zillow.com/homedetails/11119-Cape-Primrose-San-Antonio-TX-78245/89617548_zpid/,89617548,,SINGLE FAMILY,"$355,000",11119 Cape Primrose,San Antonio,TX,78245,4,3,2293,6054.84 sqft,2125
+https://www.zillow.com/homedetails/9219-Valley-Spg-San-Antonio-TX-78250/26453995_zpid/,26453995,,SINGLE FAMILY,"$224,000",9219 Valley Dale,San Antonio,TX,78250,3,2,1085,7623 sqft,1602
+https://www.zillow.com/homedetails/1-Towers-Park-Ln-APT-1808-San-Antonio-TX-78209/455276785_zpid/,455276785,,CONDO,"$160,000",1 Towers Park #1808,San Antonio,TX,78209,2,2,1064, ,
+https://www.zillow.com/homedetails/2407-W-Kings-Hwy-San-Antonio-TX-78228/26253135_zpid/,26253135,,SINGLE FAMILY,"$275,000",2407 W Kings Hwy,San Antonio,TX,78228,3,1,1984,9060.48 sqft,
+https://www.zillow.com/homedetails/9501-Bear-Creek-Dr-San-Antonio-TX-78245/26366405_zpid/,26366405,,SINGLE FAMILY,"$260,000",9501 Bear Creek,San Antonio,TX,78245,4,2,1820,7710.12 sqft,1733
+https://www.zillow.com/homedetails/4627-Lyceum-Dr-San-Antonio-TX-78229/26308614_zpid/,26308614,,SINGLE FAMILY,"$265,000",4627 Lyceum,San Antonio,TX,78229,4,2,1836,8537.76 sqft,1978
+https://www.zillow.com/homedetails/1115-Caspian-Point-San-Antonio-TX-78245/124395500_zpid/,124395500,,SINGLE FAMILY,"$329,900",1115 CASPIAN PT,San Antonio,TX,78245,5,3,2576,4312.44 sqft,1939
+https://www.zillow.com/homedetails/5830-Oak-Run-St-San-Antonio-TX-78247/26427627_zpid/,26427627,,SINGLE FAMILY,"$270,000",5830 Oak Run St.,San Antonio,TX,78247,4,19,1779,9147.6 sqft,1917
+https://www.zillow.com/homedetails/450-E-Palfrey-St-San-Antonio-TX-78223/26278857_zpid/,26278857,,SINGLE FAMILY,"$150,000",450 E Palfrey,San Antonio,TX,78223,3,2,884,6882.48 sqft,1542
+https://www.zillow.com/homedetails/12210-Cowgirl-Crk-San-Antonio-TX-78254/333534276_zpid/,333534276,,SINGLE FAMILY,"$499,999",12210 Cowgirl Creek,San Antonio,TX,78254,4,3,2530,0.3 acres,
+https://www.zillow.com/homedetails/3018-Woodcliffe-St-San-Antonio-TX-78230/26316096_zpid/,26316096,,SINGLE FAMILY,"$139,999",3018 Woodcliffe,San Antonio,TX,78230,3,1,968,7710.12 sqft,1534
+https://www.zillow.com/homedetails/306-Gabriel-San-Antonio-TX-78202/26113975_zpid/,26113975,,SINGLE FAMILY,"$189,000",306 Gabriel,San Antonio,TX,78202,2,1,1100,2278 sqft,1309
+https://www.zillow.com/homedetails/11118-Cherry-Park-Dr-San-Antonio-TX-78249/26469959_zpid/,26469959,,SINGLE FAMILY,"$368,000",11118 Cherry Park,San Antonio,TX,78249,4,3,2243,8842.68 sqft,2107
+https://www.zillow.com/homedetails/1227-Knights-Cross-Dr-San-Antonio-TX-78258/65083769_zpid/,65083769,,SINGLE FAMILY,"$449,900",1227 Knights Cross,San Antonio,TX,78258,4,3,2922,7405.2 sqft,2674
+https://www.zillow.com/homedetails/10133-Sandyglen-San-Antonio-TX-78240/26412036_zpid/,26412036,,SINGLE FAMILY,"$276,500",10133 Sandyglen,San Antonio,TX,78240,3,2,1920,7666.56 sqft,1948
+https://www.zillow.com/homedetails/130-County-Road-3826-San-Antonio-TX-78253/90478075_zpid/,90478075,,MANUFACTURED,"$289,000",130 CR 3826,San Antonio,TX,78253,3,2,1680,1.36 acres,2248
+https://www.zillow.com/homedetails/14532-Gold-Rush-Pass-San-Antonio-TX-78254/169467971_zpid/,169467971,,SINGLE FAMILY,"$465,000",14532 Gold Rush Pass,San Antonio,TX,78254,4,3,2809,7840.8 sqft,2847
+https://www.zillow.com/homedetails/9232-McCafferty-Dr-Helotes-TX-78023/65087145_zpid/,65087145,,SINGLE FAMILY,"$395,000",9232 McCafferty Dr,Helotes,TX,78023,4,2,2096,7797.24 sqft,2384
+https://www.zillow.com/homedetails/8827-Gallop-Chase-San-Antonio-TX-78254/80033415_zpid/,80033415,,SINGLE FAMILY,"$199,000",8827 Gallop Chase,San Antonio,TX,78254,3,2,1353,4922.28 sqft,1619
+https://www.zillow.com/homedetails/7027-Elusive-Pass-San-Antonio-TX-78233/60080804_zpid/,60080804,,SINGLE FAMILY,"$249,900",7027 Elusive Pass,San Antonio,TX,78233,4,3,2144,5924.16 sqft,2088
+https://www.zillow.com/homedetails/23123-Hickory-Pass-San-Antonio-TX-78264/69641724_zpid/,69641724,,SINGLE FAMILY,"$155,000",23123 HICKORY PASS,San Antonio,TX,78264,1,1,576,0.9889999999999999 acres,
+https://www.zillow.com/homedetails/4602-Swann-Ln-San-Antonio-TX-78219/169178929_zpid/,169178929,,MULTI FAMILY,"$275,000",4602 swann,San Antonio,TX,78219,4,4,2224,7405.2 sqft,
+https://www.zillow.com/homedetails/3115-SW-Loop-410-10-San-Antonio-TX-78227/349965934_zpid/,349965934,,MANUFACTURED,"$134,900",3115 SW Loop 410 #10,San Antonio,TX,78227,4,2,2085, ,1608
+https://www.zillow.com/homedetails/7827-Oakdale-Park-San-Antonio-TX-78254/69231752_zpid/,69231752,,SINGLE FAMILY,"$299,990",7827 Oakdale Park,San Antonio,TX,78254,4,3,2430,5009.4 sqft,2041
+https://www.zillow.com/homedetails/3311-Monarch-San-Antonio-TX-78259/69638968_zpid/,69638968,,SINGLE FAMILY,"$625,000",3311 Monarch,San Antonio,TX,78259,5,4,3556,0.258 acres,2947
+https://www.zillow.com/homedetails/13340-Hackney-Pony-San-Antonio-TX-78254/337832529_zpid/,337832529,,SINGLE FAMILY,"$324,900",13340 Hackney Pony,San Antonio,TX,78254,4,3,2324,5401.44 sqft,2125
+https://www.zillow.com/homedetails/4209-Spotswood-Trl-San-Antonio-TX-78230/26330886_zpid/,26330886,,SINGLE FAMILY,"$240,000",4209 Spotswood Trail,San Antonio,TX,78230,3,2,1110,8450.64 sqft,1745
+https://www.zillow.com/homedetails/7811-Winecup-Hl-San-Antonio-TX-78256/89608695_zpid/,89608695,,SINGLE FAMILY,"$675,000",7811 Winecup,San Antonio,TX,78256,4,4,4092,0.311 acres,
+https://www.zillow.com/homedetails/1806-W-Magnolia-Ave-San-Antonio-TX-78201/26120236_zpid/,26120236,,SINGLE FAMILY,"$194,900",1806 W Magnolia,San Antonio,TX,78201,3,2,1574,8232.84 sqft,2210
+https://www.zillow.com/homedetails/1214-Bobcat-Pass-San-Antonio-TX-78251/26156870_zpid/,26156870,,SINGLE FAMILY,"$260,000",1214 Bobcat Pass,San Antonio,TX,78251,3,3,1863,6403.32 sqft,2015
+https://www.zillow.com/homedetails/2902-Big-Horn-Dr-San-Antonio-TX-78228/26333097_zpid/,26333097,,SINGLE FAMILY,"$238,500",2902 Big Horn,San Antonio,TX,78228,3,2,1520,9016.92 sqft,1751
+https://www.zillow.com/homedetails/406-Breathless-View-St-San-Antonio-TX-78260/102501937_zpid/,102501937,,SINGLE FAMILY,"$774,900",406 Breathless View St,San Antonio,TX,78260,4,3,2787,0.96 acres,2612
+https://www.zillow.com/homedetails/15074-Preston-Hollow-Dr-San-Antonio-TX-78247/26461214_zpid/,26461214,,SINGLE FAMILY,"$310,000",15074 preston hollow,San Antonio,TX,78247,4,3,2164,6621.12 sqft,2206
+https://www.zillow.com/homedetails/6547-Estes-Flts-San-Antonio-TX-78242/69229430_zpid/,69229430,,SINGLE FAMILY,"$169,500",6547 Estes Flats,San Antonio,TX,78242,3,2,1627,4835.16 sqft,1652
+https://www.zillow.com/homedetails/206-Threadneedle-Ln-San-Antonio-TX-78227/26350616_zpid/,26350616,,SINGLE FAMILY,"$247,500",206 Threadneedle,San Antonio,TX,78227,4,2,2120,8581.32 sqft,1774
+https://www.zillow.com/homedetails/9130-Mare-Trce-San-Antonio-TX-78254/89615654_zpid/,89615654,,SINGLE FAMILY,"$229,000",9130 mare,San Antonio,TX,78254,3,2,1393,4965.84 sqft,
+https://www.zillow.com/homedetails/226-Covina-Ave-San-Antonio-TX-78218/26305000_zpid/,26305000,,SINGLE FAMILY,"$225,000",226 Covina,San Antonio,TX,78218,4,2,1879,8624.88 sqft,
+https://www.zillow.com/homedetails/7214-N-Vandiver-Rd-San-Antonio-TX-78209/26293669_zpid/,26293669,,SINGLE FAMILY,"$549,000",7214 N Vandiver,San Antonio,TX,78209,3,2,2640,0.502 acres,
+https://www.zillow.com/homedetails/9942-Alexa-Pl-San-Antonio-TX-78251/26420967_zpid/,26420967,,SINGLE FAMILY,"$199,995",9942 ALEXA PLACE,San Antonio,TX,78251,3,2,1305,9966.528 sqft,1620
+https://www.zillow.com/homedetails/511-Redcliff-Dr-San-Antonio-TX-78216/26305529_zpid/,26305529,,SINGLE FAMILY,"$225,000",511 Redcliff Dr.,San Antonio,TX,78216,3,1,1304,8494.2 sqft,1679
+https://www.zillow.com/homedetails/5502-Rosillo-Hl-San-Antonio-TX-78222/333532692_zpid/,333532692,,SINGLE FAMILY,"$235,000",5502 Rosillo Hill,San Antonio,TX,78222,3,2,1310,7278.876 sqft,1654
+https://www.zillow.com/homedetails/1923-Clamp-Ave-San-Antonio-TX-78221/83979370_zpid/,83979370,,SINGLE FAMILY,"$350,000",1923 Clamp Ave,San Antonio,TX,78221,3,3,2045,6490.44 sqft,1492
+https://www.zillow.com/homedetails/10610-Country-Flower-San-Antonio-TX-78240/26396567_zpid/,26396567,,SINGLE FAMILY,"$275,000",10610 Country Flower,San Antonio,TX,78240,3,2,1969,7056.72 sqft,1904
+https://www.zillow.com/homedetails/2322-Ruby-Sunset-San-Antonio-TX-78232/26413871_zpid/,26413871,,SINGLE FAMILY,"$480,000",2322 Ruby Sunset,San Antonio,TX,78232,4,3,3106,9757.44 sqft,3098
+https://www.zillow.com/homedetails/21712-Hyerwood-San-Antonio-TX-78259/26470644_zpid/,26470644,,SINGLE FAMILY,"$439,000",21712 Hyerwood,San Antonio,TX,78259,4,4,2830,0.259 acres,2574
+https://www.zillow.com/homedetails/8522-Kallison-Arbor-San-Antonio-TX-78254/244667924_zpid/,244667924,,SINGLE FAMILY,"$400,000",8522 Kallison Arbor,San Antonio,TX,78254,4,3,2374,6316.2 sqft,2824
+https://www.zillow.com/homedetails/2023-Wilby-Ln-San-Antonio-TX-78253/307198646_zpid/,307198646,,SINGLE FAMILY,"$729,000",2023 Wilby Lane,San Antonio,TX,78253,4,5,3348,8102.16 sqft,3857
+https://www.zillow.com/homedetails/1710-Shieldhall-San-Antonio-TX-78245/69647153_zpid/,69647153,,SINGLE FAMILY,"$150,000",1710 Shieldhall,San Antonio,TX,78245,3,2,1561,5662.8 sqft,1646
+https://www.zillow.com/homedetails/702-Cypressgreen-Dr-San-Antonio-TX-78245/26368611_zpid/,26368611,,SINGLE FAMILY,"$117,000",702 Cypressgreen,San Antonio,TX,78245,3,2,1443,8537.76 sqft,2132
+https://www.zillow.com/homedetails/4146-Treegarden-St-San-Antonio-TX-78222/26326358_zpid/,26326358,,SINGLE FAMILY,"$142,600",4146 Treegarden,San Antonio,TX,78222,3,2,1277,9583.2 sqft,1544
+https://www.zillow.com/homedetails/1215-Country-Path-San-Antonio-TX-78216/26374829_zpid/,26374829,,SINGLE FAMILY,"$354,000",1215 Country Path,San Antonio,TX,78216,3,3,2062,10454.4 sqft,2310
+https://www.zillow.com/homedetails/558-Ferris-Ave-San-Antonio-TX-78220/339852022_zpid/,339852022,,SINGLE FAMILY,"$110,000",558 Ferris,San Antonio,TX,78220,3,1,1296,6272.64 sqft,1381
+https://www.zillow.com/homedetails/43-Gazelle-Fld-San-Antonio-TX-78258/69656430_zpid/,69656430,,SINGLE FAMILY,"$589,000",43 Gazelle,San Antonio,TX,78258,4,3,3098,0.354 acres,3056
+https://www.zillow.com/homedetails/4911-Bending-Elms-San-Antonio-TX-78247/62002008_zpid/,62002008,,SINGLE FAMILY,"$259,000",4911 Bending Elms,San Antonio,TX,78247,3,3,1721,2787.84 sqft,1804
+https://www.zillow.com/homedetails/636-Kentucky-Ave-San-Antonio-TX-78201/26121819_zpid/,26121819,,SINGLE FAMILY,"$150,000",636 Kentucky,San Antonio,TX,78201,3,2,1207,8058.6 sqft,1498
+https://www.zillow.com/homedetails/1415-O'Hara-Dr-San-Antonio-TX-78251/60092669_zpid/,60092669,,SINGLE FAMILY,"$275,000",1415 O Hara,San Antonio,TX,78251,3,2,1614,5619.24 sqft,1781
+https://www.zillow.com/homedetails/28914-Diana-Fls-San-Antonio-TX-78260/122143670_zpid/,122143670,,SINGLE FAMILY,"$625,000",28914 Diana Falls,San Antonio,TX,78260,4,4,3163,6098.4 sqft,3399
+https://www.zillow.com/homedetails/27223-Volcano-Dr-San-Antonio-TX-78260/2076724609_zpid/,2076724609,,SINGLE FAMILY,"$450,000",27223 Volcano Dr.,San Antonio,TX,78260,4,3,2498,5401.44 sqft,2221
+https://www.zillow.com/homedetails/16407-Ledge-Park-San-Antonio-TX-78232/455134775_zpid/,455134775,,SINGLE FAMILY,"$310,000",16407 Ledge Park,San Antonio,TX,78232,5,2,2801,9670.32 sqft,
+https://www.zillow.com/homedetails/6131-Spring-Time-St-San-Antonio-TX-78249/26380071_zpid/,26380071,,SINGLE FAMILY,"$240,000",6131 Spring Time,San Antonio,TX,78249,3,2,1919,9234.72 sqft,1982
+https://www.zillow.com/homedetails/3553-Under-Par-San-Antonio-TX-78245/2060731066_zpid/,2060731066,,SINGLE FAMILY,"$420,000",3553 Under Par,San Antonio,TX,78245,5,4,2979,6054.84 sqft,2381
+https://www.zillow.com/homedetails/13327-Asbury-Vis-San-Antonio-TX-78249/80020460_zpid/,80020460,,SINGLE FAMILY,"$285,000",13327 Asbury Vis,San Antonio,TX,78249,3,3,1672,4573.8 sqft,1932
+https://www.zillow.com/homedetails/3506-W-Houston-St-San-Antonio-TX-78207/26138306_zpid/,26138306,,SINGLE FAMILY,"$164,979",3506 W Houston,San Antonio,TX,78207,3,1,1074,6185.52 sqft,1167
+https://www.zillow.com/homedetails/7119-Satellite-Way-San-Antonio-TX-78252/446028765_zpid/,446028765,,SINGLE FAMILY,"$220,000",7119 Satellite Way,San Antonio,TX,78252,3,2,1276,4399.56 sqft,
+https://www.zillow.com/homedetails/3535-Lake-Tahoe-San-Antonio-TX-78222/26441294_zpid/,26441294,,SINGLE FAMILY,"$169,000",3535 Lake Tahoe,San Antonio,TX,78222,3,2,952,4748.04 sqft,1505
+https://www.zillow.com/homedetails/215-County-Road-3820-San-Antonio-TX-78253/308283874_zpid/,308283874,,SINGLE FAMILY,"$405,000",215 County Road 3820,San Antonio,TX,78253,3,3,1905,0.63 acres,2041
+https://www.zillow.com/homedetails/406-John-Page-Dr-San-Antonio-TX-78228/26238492_zpid/,26238492,,SINGLE FAMILY,"$220,000",406 John Page,San Antonio,TX,78228,3,2,1275,9583.2 sqft,1618
+https://www.zillow.com/homedetails/1404-N-Olive-St-San-Antonio-TX-78208/26110123_zpid/,26110123,,SINGLE FAMILY,"$135,000",1404 N OLIVE ST,San Antonio,TX,78208,2,1,1300,5140.08 sqft,1956
+https://www.zillow.com/homedetails/236-Brenner-St-San-Antonio-TX-78237/26250325_zpid/,26250325,,SINGLE FAMILY,"$169,000",236 Brenner,San Antonio,TX,78237,3,1,1200,4181.76 sqft,1291
+https://www.zillow.com/homedetails/5942-Fairgreen-St-San-Antonio-TX-78242/26353807_zpid/,26353807,,SINGLE FAMILY,"$130,000",5942 Fairgreen,San Antonio,TX,78242,3,1,1024,2874.96 sqft,1401
+https://www.zillow.com/homedetails/26318-Sunny-Mdw-San-Antonio-TX-78260/26167145_zpid/,26167145,,SINGLE FAMILY,"$850,000",26318 Sunny Meadow,San Antonio,TX,78260,5,4,3100,0.5700000000000001 acres,3863
+https://www.zillow.com/homedetails/14019-Tahoe-Vis-San-Antonio-TX-78253/80033612_zpid/,80033612,,SINGLE FAMILY,"$599,900",14019 Tahoe Vista,San Antonio,TX,78253,5,4,4000,0.581 acres,3742
+https://www.zillow.com/homedetails/219-Dashiell-St-San-Antonio-TX-78203/26110812_zpid/,26110812,,SINGLE FAMILY,"$155,000",219 DASHIELL ST,San Antonio,TX,78203,2,1,808,4225.32 sqft,1272
+https://www.zillow.com/homedetails/3007-Whisper-Lark-St-San-Antonio-TX-78230/26349571_zpid/,26349571,,SINGLE FAMILY,"$585,000",3007 Whisper Lark,San Antonio,TX,78230,5,4,3114,10162.548 sqft,3766
+https://www.zillow.com/homedetails/9351-Lands-Point-San-Antonio-TX-78250/455165942_zpid/,455165942,,SINGLE FAMILY,"$189,000",9351 Lands Point,San Antonio,TX,78250,2,1,936,5488.56 sqft,
+https://www.zillow.com/homedetails/14402-Sir-Barton-St-San-Antonio-TX-78248/26399350_zpid/,26399350,,SINGLE FAMILY,"$560,000",14402 Sir Barton,San Antonio,TX,78248,4,4,3097,0.31 acres,1441
+https://www.zillow.com/homedetails/21610-Rio-Comal-San-Antonio-TX-78259/58249755_zpid/,58249755,,SINGLE FAMILY,"$320,000",21610 Rio Comal,San Antonio,TX,78259,3,2,1675,7143.84 sqft,1896
+https://www.zillow.com/homedetails/4935-Driskill-St-San-Antonio-TX-78228/2096223853_zpid/,2096223853,,SINGLE FAMILY,"$279,500",4935 Driskill St,San Antonio,TX,78228,4,3,2000,0.283 acres,2076
+https://www.zillow.com/homedetails/6722-Buckley-San-Antonio-TX-78239/26375636_zpid/,26375636,,SINGLE FAMILY,"$275,000",6722 Buckley,San Antonio,TX,78239,5,3,1968,9583.2 sqft,2039
+https://www.zillow.com/homedetails/7443-Circle-Farm-San-Antonio-TX-78239/69664691_zpid/,69664691,,SINGLE FAMILY,"$215,000",7443 Circle Farm,San Antonio,TX,78239,3,3,1721,4573.8 sqft,1615
+https://www.zillow.com/homedetails/5746-Spring-Sun-San-Antonio-TX-78244/26387484_zpid/,26387484,,SINGLE FAMILY,"$190,000",5746 Spring Sun,San Antonio,TX,78244,3,2,1528,7405.2 sqft,1741
+https://www.zillow.com/homedetails/7307-Independence-Way-San-Antonio-TX-78223/244682010_zpid/,244682010,,SINGLE FAMILY,"$350,000",7307 Independence Way,San Antonio,TX,78223,4,4,2782,6969.6 sqft,
+https://www.zillow.com/homedetails/5620-Mount-Helen-San-Antonio-TX-78251/26420186_zpid/,26420186,,SINGLE FAMILY,"$885,000",5620 Mount Helen,San Antonio,TX,78251,3,2,2424,2.469 acres,2444
+https://www.zillow.com/homedetails/9223-Brigadoon-St-San-Antonio-TX-78254/26432285_zpid/,26432285,,SINGLE FAMILY,"$250,000",9223 Brigadoon St,San Antonio,TX,78254,3,3,1580,8407.08 sqft,1738
+https://www.zillow.com/homedetails/17226-Old-Lyme-1802-San-Antonio-TX-78248/447459378_zpid/,447459378,,CONDO,"$290,000",17226 Old Lyme #1802,San Antonio,TX,78248,3,3,1730, ,
+https://www.zillow.com/homedetails/4923-Furman-St-San-Antonio-TX-78249/26377846_zpid/,26377846,,SINGLE FAMILY,"$250,000",4923 Furman,San Antonio,TX,78249,3,2,1475,8407.08 sqft,1849
+https://www.zillow.com/homedetails/202-Estate-Dr-San-Antonio-TX-78220/26336984_zpid/,26336984,,SINGLE FAMILY,"$135,000",202 Estate Dr,San Antonio,TX,78220,5,2,1648,9496.08 sqft,2110
+https://www.zillow.com/homedetails/12514-Red-Maple-Way-San-Antonio-TX-78253/116184846_zpid/,116184846,,SINGLE FAMILY,"$425,000",12514 Red Maple,San Antonio,TX,78253,5,4,3369,6621.12 sqft,2823
+https://www.zillow.com/homedetails/1906-Worsham-Pass-San-Antonio-TX-78260/169471502_zpid/,169471502,,SINGLE FAMILY,"$519,000",1906 Worsham,San Antonio,TX,78260,3,3,2184,7666.56 sqft,2651
+https://www.zillow.com/homedetails/6010-Hillman-Dr-San-Antonio-TX-78218/26317612_zpid/,26317612,,SINGLE FAMILY,"$263,000",6010 Hillman Dr,San Antonio,TX,78218,3,2,1636,0.26 acres,1656
+https://www.zillow.com/homedetails/12211-Ecksminster-St-San-Antonio-TX-78216/26350115_zpid/,26350115,,SINGLE FAMILY,"$309,900",12211 Ecksminster,San Antonio,TX,78216,3,2,1436,7579.44 sqft,1737
+https://www.zillow.com/homedetails/126-Hosack-Ave-San-Antonio-TX-78211/26245244_zpid/,26245244,,SINGLE FAMILY,"$114,900",126 Hosack,San Antonio,TX,78211,4,2,2115,7971.48 sqft,2144
+https://www.zillow.com/homedetails/5951-Little-Brandywine-Crk-San-Antonio-TX-78233/26372144_zpid/,26372144,,SINGLE FAMILY,"$289,000",5951 Little Brandywine,San Antonio,TX,78233,4,2,1965,8250.264 sqft,1998
+https://www.zillow.com/homedetails/12639-Course-View-Dr-San-Antonio-TX-78221/80031790_zpid/,80031790,,SINGLE FAMILY,"$320,000",12639 Course View,San Antonio,TX,78221,5,3,2268,10280.16 sqft,2180
+https://www.zillow.com/homedetails/103-Pollydale-Ave-San-Antonio-TX-78223/26273365_zpid/,26273365,,SINGLE FAMILY,"$120,000",103 Pollydale Ave,San Antonio,TX,78223,3,1,1270,0.29 acres,1711
+https://www.zillow.com/homedetails/9159-Autumn-Storm-San-Antonio-TX-78254/26467744_zpid/,26467744,,SINGLE FAMILY,"$240,000",9159 Autumn Storm,San Antonio,TX,78254,3,3,1688,7579.44 sqft,1878
+https://www.zillow.com/homedetails/2806-Redriver-Hl-San-Antonio-TX-78259/26170149_zpid/,26170149,,SINGLE FAMILY,"$390,000",2806 Redriver,San Antonio,TX,78259,5,3,3265,8232.84 sqft,2795
+https://www.zillow.com/homedetails/1509-W-Woodlawn-Ave-San-Antonio-TX-78201/26216098_zpid/,26216098,,MULTI FAMILY,"$350,000",1509 W Woodlawn,San Antonio,TX,78201,4,4,3264,8319.96 sqft,1617
+https://www.zillow.com/homedetails/13259-Frogs-Leap-San-Antonio-TX-78254/447448296_zpid/,447448296,,SINGLE FAMILY,"$310,000",13259 Frogs Leap,San Antonio,TX,78254,3,3,2006,6272.64 sqft,
+https://www.zillow.com/homedetails/4006-Mooresfield-St-San-Antonio-TX-78217/26336890_zpid/,26336890,,SINGLE FAMILY,"$255,000",4006 Mooresfield,San Antonio,TX,78217,4,3,2359,8712 sqft,
+https://www.zillow.com/homedetails/12231-El-Santo-Way-San-Antonio-TX-78233/26342179_zpid/,26342179,,SINGLE FAMILY,"$124,900",12231 El Santo Way,San Antonio,TX,78233,3,2,1194,6490.44 sqft,1714
+https://www.zillow.com/homedetails/6615-Freedom-Rdg-San-Antonio-TX-78242/250996408_zpid/,250996408,,SINGLE FAMILY,"$235,000",6615 Freedom Ridge,San Antonio,TX,78242,3,3,1758,5009.4 sqft,1786
+https://www.zillow.com/homedetails/18975-Tejeda-Rd-San-Antonio-TX-78221/83983316_zpid/,83983316,,MANUFACTURED,"$280,000",18975 TEJEDA RD,San Antonio,TX,78221,4,2,2432,0.9580000000000001 acres,
+https://www.zillow.com/homedetails/26218-Indian-Clf-San-Antonio-TX-78260/80041126_zpid/,80041126,,SINGLE FAMILY,"$415,000",26218 Indian Clf,San Antonio,TX,78260,4,3,3020,6534 sqft,
+https://www.zillow.com/homedetails/18630-Castellani-San-Antonio-TX-78258/83979743_zpid/,83979743,,SINGLE FAMILY,"$584,900",18630 Castellani,San Antonio,TX,78258,3,2,2282,7710.12 sqft,3215
+https://www.zillow.com/homedetails/13540-Sleepy-Oaks-Ln-San-Antonio-TX-78253/26153895_zpid/,26153895,,SINGLE FAMILY,"$685,000",13540 Sleepy Oaks,San Antonio,TX,78253,4,3,2178,2.213 acres,2820
+https://www.zillow.com/homedetails/915-Oakwood-Way-San-Antonio-TX-78245/118211643_zpid/,118211643,,SINGLE FAMILY,"$315,000",915 Oakwood Way,San Antonio,TX,78245,4,3,2426,6577.56 sqft,2240
+https://www.zillow.com/homedetails/20726-Wind-Spgs-San-Antonio-TX-78258/58251203_zpid/,58251203,,SINGLE FAMILY,"$495,000",20726 Wind Springs,San Antonio,TX,78258,4,3,2833,8668.44 sqft,
+https://www.zillow.com/homedetails/7310-Hunters-Lk-San-Antonio-TX-78249/26408391_zpid/,26408391,,SINGLE FAMILY,"$244,000",7310 Hunters Lk,San Antonio,TX,78249,4,2,1733,4791.6 sqft,1918
+https://www.zillow.com/homedetails/11818-Button-Willow-Cv-San-Antonio-TX-78213/26389239_zpid/,26389239,,SINGLE FAMILY,"$185,000",11818 BUTTON WILLOW CV,San Antonio,TX,78213,4,4,2231,3998.808 sqft,2472
+https://www.zillow.com/homedetails/5011-Fountain-Hl-San-Antonio-TX-78244/69229437_zpid/,69229437,,SINGLE FAMILY,"$210,000",5011 Fountain,San Antonio,TX,78244,3,2,1398,7405.2 sqft,1625
+https://www.zillow.com/homedetails/8642-Fredericksburg-Rd-APT-309-San-Antonio-TX-78240/26309957_zpid/,26309957,,CONDO,"$110,000",8642 Fredericksburg #309,San Antonio,TX,78240,2,2,917, ,1223
+https://www.zillow.com/homedetails/4307-Lakebend-W-San-Antonio-TX-78244/449878678_zpid/,449878678,,SINGLE FAMILY,"$290,000",4307 Lakebend West,San Antonio,TX,78244,5,3,2172,8189.28 sqft,
+https://www.zillow.com/homedetails/4511-Fern-Hl-San-Antonio-TX-78259/80021819_zpid/,80021819,,SINGLE FAMILY,"$460,000",4511 Fern,San Antonio,TX,78259,5,4,3372,7797.24 sqft,2866
+https://www.zillow.com/homedetails/4119-Bear-Oak-Path-San-Antonio-TX-78223/65098346_zpid/,65098346,,SINGLE FAMILY,"$270,000",4119 Bear Oak Path,San Antonio,TX,78223,3,3,2259,5052.96 sqft,
+https://www.zillow.com/homedetails/27006-Rocky-Rim-San-Antonio-TX-78266/97557004_zpid/,97557004,,SINGLE FAMILY,"$1,225,000",27006 Rocky Rim,San Antonio,TX,78266,4,5,3672,1.658 acres,
+https://www.zillow.com/homedetails/14538-Bald-Eagle-Ln-San-Antonio-TX-78254/250990710_zpid/,250990710,,SINGLE FAMILY,"$464,900",14538 Bald Eagle,San Antonio,TX,78254,4,3,2529,6969.6 sqft,2049
+https://www.zillow.com/homedetails/4803-Casa-Bello-St-San-Antonio-TX-78233/26338681_zpid/,26338681,,SINGLE FAMILY,"$190,000",4803 Casa Bello,San Antonio,TX,78233,3,2,1618,5837.04 sqft,1780
+https://www.zillow.com/homedetails/227-Bushbuck-Path-San-Antonio-TX-78258/69666434_zpid/,69666434,,SINGLE FAMILY,"$689,900",227 Bushbuck Path,San Antonio,TX,78258,5,5,4133,0.447 acres,4163
+https://www.zillow.com/homedetails/18602-Windcliffe-San-Antonio-TX-78259/60082393_zpid/,60082393,,SINGLE FAMILY,"$599,000",18602 Windcliffe,San Antonio,TX,78259,3,2,2527,0.447 acres,3754
+https://www.zillow.com/homedetails/3510-Rock-Crk-San-Antonio-TX-78230/455122998_zpid/,455122998,,SINGLE FAMILY,"$430,000",3510 Rock Creek,San Antonio,TX,78230,3,3,2259,0.28500000000000003 acres,
+https://www.zillow.com/homedetails/14122-Churchill-Estates-Blvd-APT-1104-San-Antonio-TX-78248/26399155_zpid/,26399155,,CONDO,"$199,000",14122 churchill estates #1104,San Antonio,TX,78248,2,2,1006, ,1250
+https://www.zillow.com/homedetails/223-Nash-Blvd-San-Antonio-TX-78223/26278988_zpid/,26278988,,SINGLE FAMILY,"$149,000",223 Nash Blvd,San Antonio,TX,78223,3,2,1054,8058.6 sqft,
+https://www.zillow.com/homedetails/10362-Tippecanoe-San-Antonio-TX-78245/26370238_zpid/,26370238,,SINGLE FAMILY,"$195,000",10362 Tippecanoe,San Antonio,TX,78245,3,2,1669,8520.336 sqft,1849
+https://www.zillow.com/homedetails/10215-Remuda-View-Dr-San-Antonio-TX-78254/58245721_zpid/,58245721,,SINGLE FAMILY,"$750,000",10215 Remuda View,San Antonio,TX,78254,4,4,3216,4.68 acres,
+https://www.zillow.com/homedetails/1324-Longmont-St-San-Antonio-TX-78245/26367777_zpid/,26367777,,SINGLE FAMILY,"$109,000",1324 Longmont,San Antonio,TX,78245,2,1,993,3963.96 sqft,1260
+https://www.zillow.com/homedetails/1314-Burning-Arrow-San-Antonio-TX-78258/26475003_zpid/,26475003,,SINGLE FAMILY,"$430,000",1314 Burning Arrow,San Antonio,TX,78258,4,3,2807,0.263 acres,2941
+https://www.zillow.com/homedetails/230-Micklejohn-St-San-Antonio-TX-78207/26122261_zpid/,26122261,,SINGLE FAMILY,"$149,900",230 Micklejohn,San Antonio,TX,78207,3,2,1368,3049.2 sqft,1593
+https://www.zillow.com/homedetails/15207-Comanche-Mist-San-Antonio-TX-78233/333540489_zpid/,333540489,,SINGLE FAMILY,"$464,000",15207 Comanche Mist,San Antonio,TX,78233,5,4,2814,9583.2 sqft,2774
+https://www.zillow.com/homedetails/3414-Rock-Mill-Dm-San-Antonio-TX-78245/449001063_zpid/,449001063,,SINGLE FAMILY,"$161,999",3414 Rock Mill Dam,San Antonio,TX,78245,3,2,1033,4791.6 sqft,
+https://www.zillow.com/homedetails/24111-Seven-Winds-San-Antonio-TX-78258/69633248_zpid/,69633248,,SINGLE FAMILY,"$520,000",24111 SEVEN WINDS,San Antonio,TX,78258,4,4,3291,0.39 acres,
+https://www.zillow.com/homedetails/19531-Clay-Oak-San-Antonio-TX-78258/60094515_zpid/,60094515,,SINGLE FAMILY,"$482,009",19531 Clay Oak,San Antonio,TX,78258,4,4,2991,0.265 acres,3425
+https://www.zillow.com/homedetails/2502-Huebner-Park-San-Antonio-TX-78248/69666128_zpid/,69666128,,SINGLE FAMILY,"$580,000",2502 Huebner Park,San Antonio,TX,78248,4,3,2475,6534 sqft,2914
+https://www.zillow.com/homedetails/6318-Ridge-Pass-Dr-San-Antonio-TX-78233/26429320_zpid/,26429320,,SINGLE FAMILY,"$189,995",6318 Ridge Pass,San Antonio,TX,78233,3,2,1438,7710.12 sqft,
+https://www.zillow.com/homedetails/407-McNeel-Rd-San-Antonio-TX-78228/26298490_zpid/,26298490,,SINGLE FAMILY,"$195,000",407 McNeel,San Antonio,TX,78228,3,2,1548,8755.56 sqft,
+https://www.zillow.com/homedetails/2614-Lovelace-Blvd-San-Antonio-TX-78217/26316900_zpid/,26316900,,SINGLE FAMILY,"$199,500",2614 Lovelace,San Antonio,TX,78217,3,2,1274,7666.56 sqft,1666
+https://www.zillow.com/homedetails/26815-Duet-Dr-San-Antonio-TX-78260/65066990_zpid/,65066990,,SINGLE FAMILY,"$799,900",26815 Duet Dr,San Antonio,TX,78260,4,4,3077,0.488 acres,3749
+https://www.zillow.com/homedetails/25919-Dull-Knife-Trl-San-Antonio-TX-78255/26162820_zpid/,26162820,,SINGLE FAMILY,"$499,000",25919 dull knife,San Antonio,TX,78255,4,3,3177,0.75 acres,2922
+https://www.zillow.com/homedetails/326-Cypress-Trl-San-Antonio-TX-78256/65089158_zpid/,65089158,,SINGLE FAMILY,"$615,000",326 Cypress Trail,San Antonio,TX,78256,4,3,3122,0.253 acres,4264
+https://www.zillow.com/homedetails/205-Larkwood-Dr-San-Antonio-TX-78209/26255939_zpid/,26255939,,SINGLE FAMILY,"$450,000",205 Larkwood,San Antonio,TX,78209,3,2,1894,10497.96 sqft,2010
+https://www.zillow.com/homedetails/2603-Brookhurst-Dr-San-Antonio-TX-78209/26294110_zpid/,26294110,,SINGLE FAMILY,"$875,000",2603 Brookhurst,San Antonio,TX,78209,4,4,3985,0.4613 acres,5794
+https://www.zillow.com/homedetails/430-Aaron-Pl-San-Antonio-TX-78221/26257964_zpid/,26257964,,SINGLE FAMILY,"$114,900",430 Aaron Pl,San Antonio,TX,78221,3,2,1228,7013.16 sqft,1410
+https://www.zillow.com/homedetails/8203-Bowens-Crossing-St-San-Antonio-TX-78250/116222511_zpid/,116222511,,SINGLE FAMILY,"$195,000",8203 Bowens Crossing St,San Antonio,TX,78250,4,2,1297,6621.12 sqft,1696
+https://www.zillow.com/homedetails/162-Birchwood-Dr-San-Antonio-TX-78213/26299657_zpid/,26299657,,SINGLE FAMILY,"$179,000",162 Birchwood,San Antonio,TX,78213,4,2,1239,7884.36 sqft,1670
+https://www.zillow.com/homedetails/11411-Coral-Cyn-San-Antonio-TX-78252/98360371_zpid/,98360371,,SINGLE FAMILY,"$180,000",11411 Coral,San Antonio,TX,78252,3,2,1097,4225.32 sqft,1572
+https://www.zillow.com/homedetails/8811-Trail-Dust-San-Antonio-TX-78254/250995347_zpid/,250995347,,SINGLE FAMILY,"$574,900",8811 Trail Dust,San Antonio,TX,78254,4,3,2396,0.334 acres,3215
+https://www.zillow.com/homedetails/6051-Still-Mdw-San-Antonio-TX-78222/69640756_zpid/,69640756,,SINGLE FAMILY,"$186,000",6051 Still Meadow,San Antonio,TX,78222,3,2,1739,7405.2 sqft,1817
+https://www.zillow.com/homedetails/3515-Edge-Vw-San-Antonio-TX-78259/62002058_zpid/,62002058,,SINGLE FAMILY,"$580,000",3515 Edge View,San Antonio,TX,78259,4,4,3677,10497.96 sqft,2929
+https://www.zillow.com/homedetails/10795-S-Foster-Rd-San-Antonio-TX-78223/299596468_zpid/,299596468,,SINGLE FAMILY,"$489,900",10795 S Foster Rd,San Antonio,TX,78223,4,3,2311,0.9129999999999999 acres,
+https://www.zillow.com/homedetails/10795-S-Foster-Rd-San-Antonio-TX-78223/299596468_zpid/,299596468,,SINGLE FAMILY,"$489,900",10795 S Foster Rd,San Antonio,TX,78223,4,3,2311,0.9129999999999999 acres,
+https://www.zillow.com/homedetails/211-Sylvia-Ave-San-Antonio-TX-78237/26261395_zpid/,26261395,,SINGLE FAMILY,"$129,975",211 Sylvia,San Antonio,TX,78237,3,1,1032,6141.96 sqft,1462
+https://www.zillow.com/homedetails/3706-Rock-Mill-Dm-San-Antonio-TX-78245/448259043_zpid/,448259043,,SINGLE FAMILY,"$192,137",3706 Rock Mill Dam,San Antonio,TX,78245,4,2,1391,4791.6 sqft,
+https://www.zillow.com/homedetails/241-W-Elsmere-Pl-San-Antonio-TX-78212/26142028_zpid/,26142028,,SINGLE FAMILY,"$1,195,000",241 W Elsmere,San Antonio,TX,78212,3,2,3066,0.321 acres,2621
+https://www.zillow.com/homedetails/12419-Course-View-Dr-San-Antonio-TX-78221/80040925_zpid/,80040925,,SINGLE FAMILY,"$439,950",12419 Course View,San Antonio,TX,78221,4,3,3182,7187.4 sqft,2800
+https://www.zillow.com/homedetails/12414-Mineshaft-San-Antonio-TX-78254/250991284_zpid/,250991284,,SINGLE FAMILY,"$499,000",12414 Mineshaft,San Antonio,TX,78254,4,3,3347,0.344 acres,2715
+https://www.zillow.com/homedetails/25629-Vista-Bella-San-Antonio-TX-78260/307195901_zpid/,307195901,,SINGLE FAMILY,"$445,000",25629 VISTA BELLA,San Antonio,TX,78260,3,2,2011,7143.84 sqft,
+https://www.zillow.com/homedetails/23414-Seven-Winds-San-Antonio-TX-78258/80025602_zpid/,80025602,,SINGLE FAMILY,"$650,000",23414 Seven Winds,San Antonio,TX,78258,4,4,2837,7579.44 sqft,4107
+https://www.zillow.com/homedetails/14802-River-Ml-San-Antonio-TX-78216/169243019_zpid/,169243019,,SINGLE FAMILY,"$499,000",14802 River Mill,San Antonio,TX,78216,3,3,2339,6098.4 sqft,2587
+https://www.zillow.com/homedetails/623-Coral-Hbr-San-Antonio-TX-78251/62021061_zpid/,62021061,,SINGLE FAMILY,"$190,000",623 Coral Hbr,San Antonio,TX,78251,3,2,1310,5662.8 sqft,1574
+https://www.zillow.com/homedetails/5106-Merlin-Dr-San-Antonio-TX-78218/26325411_zpid/,26325411,,SINGLE FAMILY,"$150,000",5106 Merlin,San Antonio,TX,78218,3,2,1420,9104.04 sqft,1923
+https://www.zillow.com/homedetails/3711-Southport-Dr-San-Antonio-TX-78223/26309720_zpid/,26309720,,SINGLE FAMILY,"$115,000",3711 Southport,San Antonio,TX,78223,3,1,812,8755.56 sqft,
+https://www.zillow.com/homedetails/5434-Seahorse-Dr-San-Antonio-TX-78242/26416143_zpid/,26416143,,SINGLE FAMILY,"$160,000",5434 Seahorse Dr,San Antonio,TX,78242,3,2,1011,7318.08 sqft,1424
+https://www.zillow.com/homedetails/811-Sherman-Oak-St-San-Antonio-TX-78232/26424436_zpid/,26424436,,SINGLE FAMILY,"$498,000",811 Sherman Oak,San Antonio,TX,78232,3,2,2298,0.33999999999999997 acres,3468
+https://www.zillow.com/homedetails/4814-Fairford-Dr-San-Antonio-TX-78228/26337760_zpid/,26337760,,SINGLE FAMILY,"$159,000",4814 Fairford,San Antonio,TX,78228,3,2,1353,9844.56 sqft,1747
+https://www.zillow.com/homedetails/347-Blaze-Ave-San-Antonio-TX-78218/26300049_zpid/,26300049,,SINGLE FAMILY,"$189,000",347 Blaze Ave.,San Antonio,TX,78218,3,2,1610,7318.08 sqft,1858
+https://www.zillow.com/homedetails/10703-Kendall-Cyn-San-Antonio-TX-78255/452769495_zpid/,452769495,,SINGLE FAMILY,"$1,449,000",10703 Kendall Canyon,San Antonio,TX,78255,4,5,3926,0.634 acres,
+https://www.zillow.com/homedetails/26409-Enchanted-Wind-San-Antonio-TX-78260/69637121_zpid/,69637121,,SINGLE FAMILY,"$775,000",26409 Enchanted Wind,San Antonio,TX,78260,5,4,3802,0.5680000000000001 acres,
+https://www.zillow.com/homedetails/15810-Wilderness-Pkwy-San-Antonio-TX-78232/26424404_zpid/,26424404,,SINGLE FAMILY,"$549,999",15810 Wilderness Pkwy,San Antonio,TX,78232,3,3,2654,10715.76 sqft,2404
+https://www.zillow.com/homedetails/421-E-Hildebrand-Ave-San-Antonio-TX-78212/26219855_zpid/,26219855,,SINGLE FAMILY,"$1,189,000",421 E Hildebrand,San Antonio,TX,78212,3,3,2498,10715.76 sqft,3246
+https://www.zillow.com/homedetails/2317-N-Main-Ave-San-Antonio-TX-78212/299588972_zpid/,299588972,,SINGLE FAMILY,"$975,000",2317 N Main,San Antonio,TX,78212,4,5,3074,10454.4 sqft,
+https://www.zillow.com/homedetails/6674-Pembroke-Rd-San-Antonio-TX-78240/26344217_zpid/,26344217,,SINGLE FAMILY,"$529,999",6674 Pembroke Rd,San Antonio,TX,78240,4,2,2311,1.11 acres,2735
+https://www.zillow.com/homedetails/19903-Encino-Grv-San-Antonio-TX-78259/26417877_zpid/,26417877,,SINGLE FAMILY,"$485,000",19903 Encino Grove,San Antonio,TX,78259,4,4,2869,9975.24 sqft,2828
+https://www.zillow.com/homedetails/502-Artemis-Dr-San-Antonio-TX-78218/26299230_zpid/,26299230,,SINGLE FAMILY,"$139,000",502 ARTEMIS,San Antonio,TX,78218,3,2,1421,8276.4 sqft,1639
+https://www.zillow.com/homedetails/4542-Lord-Rd-San-Antonio-TX-78220/26277143_zpid/,26277143,,SINGLE FAMILY,"$129,999",4542 lord,San Antonio,TX,78220,3,2,1562,9539.64 sqft,1612
+https://www.zillow.com/homedetails/22810-Avon-San-Antonio-TX-78258/333536062_zpid/,333536062,,SINGLE FAMILY,"$799,000",22810 Avon,San Antonio,TX,78258,5,5,4056,8494.2 sqft,
+https://www.zillow.com/homedetails/14307-Hill-Prince-St-San-Antonio-TX-78248/26399403_zpid/,26399403,,SINGLE FAMILY,"$810,000",14307 Hill Prince St,San Antonio,TX,78248,4,4,3583,0.303 acres,4124
+https://www.zillow.com/homedetails/23006-Starbright-San-Antonio-TX-78258/26475089_zpid/,26475089,,SINGLE FAMILY,"$999,999",23006 STARBRIGHT,San Antonio,TX,78258,7,6,4935,0.45 acres,5221
+https://www.zillow.com/homedetails/26509-Harmony-Hls-San-Antonio-TX-78260/26166685_zpid/,26166685,,SINGLE FAMILY,"$455,000",26509 Harmony Hills,San Antonio,TX,78260,4,3,2761,0.47000000000000003 acres,
+https://www.zillow.com/homedetails/11326-Estufa-Cyn-San-Antonio-TX-78245/80031284_zpid/,80031284,,SINGLE FAMILY,"$190,000",11326 Estufa,San Antonio,TX,78245,3,2,1408,4965.84 sqft,
+https://www.zillow.com/homedetails/22114-Gypsy-Hawk-San-Antonio-TX-78261/122143397_zpid/,122143397,,SINGLE FAMILY,"$499,000",22114 Gypsy Hawk,San Antonio,TX,78261,4,4,3241,7187.4 sqft,
+https://www.zillow.com/homedetails/1322-Oak-Path-San-Antonio-TX-78258/26473691_zpid/,26473691,,SINGLE FAMILY,"$499,000",1322 OAK PATH,San Antonio,TX,78258,4,2,2112,9539.64 sqft,2851
+https://www.zillow.com/homedetails/16430-Bulverde-Point-San-Antonio-TX-78247/26405645_zpid/,26405645,,SINGLE FAMILY,"$525,000",16430 Bulverde Pt,San Antonio,TX,78247,5,4,3714,9452.52 sqft,3308
+https://www.zillow.com/homedetails/3807-W-Songbird-San-Antonio-TX-78229/26330304_zpid/,26330304,,SINGLE FAMILY,"$659,900",3807 W Songbird,San Antonio,TX,78229,3,5,4062,4791.6 sqft,4903
+https://www.zillow.com/homedetails/915-Deely-Pl-San-Antonio-TX-78221/26306464_zpid/,26306464,,SINGLE FAMILY,"$159,900",915 Deely,San Antonio,TX,78221,2,1,852,6882.48 sqft,
+https://www.zillow.com/homedetails/927-W-Formosa-Blvd-San-Antonio-TX-78221/299601203_zpid/,299601203,,MULTI FAMILY,"$1,250,000",927 W FORMOSA BLVD,San Antonio,TX,78221,16,8,10688,0.882 acres,
+https://www.zillow.com/homedetails/7203-Westshire-Dr-San-Antonio-TX-78227/26360833_zpid/,26360833,,SINGLE FAMILY,"$194,999",7203 Westshire,San Antonio,TX,78227,3,2,1339,9670.32 sqft,1791
+https://www.zillow.com/homedetails/22002-Pelican-Crk-San-Antonio-TX-78258/58251237_zpid/,58251237,,SINGLE FAMILY,"$415,000",22002 Pelican Edge,San Antonio,TX,78258,5,4,3206,0.26599999999999996 acres,2909
+https://www.zillow.com/homedetails/23006-Casey-Cyn-San-Antonio-TX-78255/250993544_zpid/,250993544,,SINGLE FAMILY,"$1,125,000",23006 Casey Cyn,San Antonio,TX,78255,4,3,2829,0.54 acres,4815
+https://www.zillow.com/homedetails/267-Nassau-Dr-San-Antonio-TX-78213/26263230_zpid/,26263230,,SINGLE FAMILY,"$150,000",267 Nassau,San Antonio,TX,78213,3,2,1233,6751.8 sqft,1705
+https://www.zillow.com/homedetails/12415-Winding-Br-San-Antonio-TX-78230/26412158_zpid/,26412158,,SINGLE FAMILY,"$1,049,000",12415 Winding Branch,San Antonio,TX,78230,5,4,4011,0.475 acres,5649
+https://www.zillow.com/homedetails/907-Overhill-Dr-San-Antonio-TX-78228/26288458_zpid/,26288458,,SINGLE FAMILY,"$149,000",907 Overhill Dr,San Antonio,TX,78228,3,1,920,5000 sqft,1393
+https://www.zillow.com/homedetails/5811-Thornwood-San-Antonio-TX-78218/26369344_zpid/,26369344,,SINGLE FAMILY,"$132,500",5811 Thornwood,San Antonio,TX,78218,3,2,1129,6403.32 sqft,1487
+https://www.zillow.com/homedetails/11703-Sandman-St-San-Antonio-TX-78216/26320855_zpid/,26320855,,SINGLE FAMILY,"$539,000",11703 Sandman,San Antonio,TX,78216,4,3,3299,0.286 acres,2852
+https://www.zillow.com/homedetails/25407-Mesa-Crst-San-Antonio-TX-78258/58251153_zpid/,58251153,,SINGLE FAMILY,"$475,000",25407 Mesa Crst,San Antonio,TX,78258,5,4,2834,6534 sqft,2590
+https://www.zillow.com/homedetails/102-Fridell-St-San-Antonio-TX-78237/26239267_zpid/,26239267,,SINGLE FAMILY,"$109,000",102 Fridell,San Antonio,TX,78237,4,2,2303,5575.68 sqft,
+https://www.zillow.com/homedetails/11483-Coral-Cyn-San-Antonio-TX-78252/98360389_zpid/,98360389,,SINGLE FAMILY,"$175,000",11483 Coral Canyon,San Antonio,TX,78252,2,2,996,4356 sqft,1412
+https://www.zillow.com/homedetails/10406-Sunflower-Ln-San-Antonio-TX-78213/26321237_zpid/,26321237,,SINGLE FAMILY,"$410,000",10406 Sunflower,San Antonio,TX,78213,4,3,2129,0.34500000000000003 acres,2294
+https://www.zillow.com/homedetails/4506-Cypress-Woods-San-Antonio-TX-78249/453364921_zpid/,453364921,,SINGLE FAMILY,"$415,000",4506 Cypress Woods,San Antonio,TX,78249,3,2,1850,10018.8 sqft,
+https://www.zillow.com/homedetails/3723-Candleglenn-San-Antonio-TX-78244/65085350_zpid/,65085350,,SINGLE FAMILY,"$169,900",3723 CANDLEGLENN,San Antonio,TX,78244,3,2,1332,7318.08 sqft,1642
+https://www.zillow.com/homedetails/6914-Trail-Lake-Dr-San-Antonio-TX-78244/2062675846_zpid/,2062675846,,SINGLE FAMILY,"$177,000",6914 Trail Lake Dr,San Antonio,TX,78244,3,2,1232,6438.168 sqft,1480
+https://www.zillow.com/homedetails/11243-Country-Cyn-San-Antonio-TX-78252/80039876_zpid/,80039876,,SINGLE FAMILY,"$184,999",11243 Country,San Antonio,TX,78252,3,2,1233,4835.16 sqft,1669
+https://www.zillow.com/homedetails/8608-S-Foster-Rd-San-Antonio-TX-78222/118209404_zpid/,118209404,,SINGLE FAMILY,"$575,000",8608 S Foster Rd,San Antonio,TX,78222,3,1,1900,10.51 acres,3355
+https://www.zillow.com/homedetails/6327-Almeria-Cir-San-Antonio-TX-78257/118215900_zpid/,118215900,,SINGLE FAMILY,"$1,195,400",6327 Almeria Cir,San Antonio,TX,78257,6,7,5363,0.257 acres,6928
+https://www.zillow.com/homedetails/6304-Village-Arbor-San-Antonio-TX-78250/26460167_zpid/,26460167,,SINGLE FAMILY,"$199,900",6304 Village Arbor,San Antonio,TX,78250,2,1,977,4835.16 sqft,1317
+https://www.zillow.com/homedetails/9121-War-Wagon-Ln-San-Antonio-TX-78254/339853236_zpid/,339853236,,SINGLE FAMILY,"$465,000",9121 War Wagon Ln,San Antonio,TX,78254,4,4,2576,6250.86 sqft,2704
+https://www.zillow.com/homedetails/603-Hillsong-San-Antonio-TX-78258/83986874_zpid/,83986874,,SINGLE FAMILY,"$559,000",603 Hillsong,San Antonio,TX,78258,4,4,2486,9147.6 sqft,2835
+https://www.zillow.com/homedetails/27951-Wild-Bloom-San-Antonio-TX-78260/108873456_zpid/,108873456,,SINGLE FAMILY,"$969,000",27951 Wild Bloom,San Antonio,TX,78260,4,4,3110,2.087 acres,4592
+https://www.zillow.com/homedetails/355-E-Terra-Alta-Dr-San-Antonio-TX-78209/26294559_zpid/,26294559,,SINGLE FAMILY,"$875,000",355 E. Terra Alta,San Antonio,TX,78209,4,3,2780,9408.96 sqft,3136
+https://www.zillow.com/homedetails/23318-Emerald-Pass-San-Antonio-TX-78258/244667252_zpid/,244667252,,SINGLE FAMILY,"$625,000",23318 Emerald Pass,San Antonio,TX,78258,5,5,3047,6621.12 sqft,3614
+https://www.zillow.com/homedetails/24106-Middle-Frk-San-Antonio-TX-78258/58246292_zpid/,58246292,,SINGLE FAMILY,"$569,000",24106 Middle Fork,San Antonio,TX,78258,4,3,2932,9016.92 sqft,3382
+https://www.zillow.com/homedetails/2300-Nacogdoches-Rd-APT-126G-San-Antonio-TX-78209/26293965_zpid/,26293965,,CONDO,"$180,000",2300 Nacogdoches #126G,San Antonio,TX,78209,3,3,1478, ,1668
+https://www.zillow.com/homedetails/12219-Stoney-Xing-San-Antonio-TX-78247/26416615_zpid/,26416615,,TOWNHOUSE,"$125,000",12219 Stoney Crossing,San Antonio,TX,78247,3,3,999,4138.2 sqft,1410
+https://www.zillow.com/homedetails/4503-Tropical-Dr-San-Antonio-TX-78218/26302911_zpid/,26302911,,SINGLE FAMILY,"$185,000",4503 Tropical,San Antonio,TX,78218,4,2,1404,8276.4 sqft,
+https://www.zillow.com/homedetails/353-E-Woodlawn-Ave-San-Antonio-TX-78212/26117634_zpid/,26117634,,SINGLE FAMILY,"$419,900",353 E Woodlawn Ave,San Antonio,TX,78212,3,2,1428,4486.68 sqft,2359
+https://www.zillow.com/homedetails/9231-Ridge-Shadow-San-Antonio-TX-78250/26454818_zpid/,26454818,,SINGLE FAMILY,"$149,900",9231 Ridge Shadow,San Antonio,TX,78250,3,2,1178,7727.544 sqft,1540
+https://www.zillow.com/homedetails/7930-Roanoke-Run-APT-312-San-Antonio-TX-78240/26324967_zpid/,26324967,,CONDO,"$150,000",7930 Roanoke #312,San Antonio,TX,78240,2,2,1287, ,1665
+https://www.zillow.com/homedetails/2929-McCaskey-Rdg-San-Antonio-TX-78258/26383082_zpid/,26383082,,SINGLE FAMILY,"$675,000",2929 McCaskey Ridge,San Antonio,TX,78258,4,4,3115,0.31 acres,4322
+https://www.zillow.com/homedetails/27046-Trinity-Hts-San-Antonio-TX-78261/69659754_zpid/,69659754,,SINGLE FAMILY,"$419,900",27046 Trinity Heights,San Antonio,TX,78261,5,4,3269,8276.4 sqft,2985
+https://www.zillow.com/homedetails/914-Gyngell-Ln-San-Antonio-TX-78260/2056471422_zpid/,2056471422,,SINGLE FAMILY,"$665,000",914 Gyngell Ln,San Antonio,TX,78260,4,3,2999,7779 sqft,3364
+https://www.zillow.com/homedetails/8915-Datapoint-Dr-APT-49A-San-Antonio-TX-78229/26336405_zpid/,26336405,,CONDO,"$130,000",8915 Datapoint #49A,San Antonio,TX,78229,2,2,1391, ,1629
+https://www.zillow.com/homedetails/1039-Honeytree-Ln-San-Antonio-TX-78245/448331003_zpid/,448331003,,SINGLE FAMILY,"$150,000",1039 Honeytree,San Antonio,TX,78245,3,2,960,8145.72 sqft,
+https://www.zillow.com/homedetails/13947-Amber-Crst-San-Antonio-TX-78249/26472050_zpid/,26472050,,SINGLE FAMILY,"$435,000",13947 AMBER CRST,San Antonio,TX,78249,4,2,2150,7840.8 sqft,
+https://www.zillow.com/homedetails/17207-Sugar-Crest-Dr-San-Antonio-TX-78232/26346035_zpid/,26346035,,SINGLE FAMILY,"$549,777",17207 Sugar Crest,San Antonio,TX,78232,5,3,3018,0.545 acres,2718
+https://www.zillow.com/homedetails/3343-Dove-Park-Ln-San-Antonio-TX-78253/65083926_zpid/,65083926,,SINGLE FAMILY,"$499,000",3343 Dove Park Ln,San Antonio,TX,78253,5,4,2192,1 acres,2520
+https://www.zillow.com/homedetails/11331-Phoebe-Lace-San-Antonio-TX-78253/122143187_zpid/,122143187,,SINGLE FAMILY,"$483,000",11331 Phoebe Lace,San Antonio,TX,78253,5,4,3403,8712 sqft,3443
+https://www.zillow.com/homedetails/12702-Cranes-Ml-San-Antonio-TX-78230/26344680_zpid/,26344680,,SINGLE FAMILY,"$494,900",12702 CRANES MILL,San Antonio,TX,78230,4,4,4020,0.42000000000000004 acres,4513
+https://www.zillow.com/homedetails/203-Bushbuck-Path-San-Antonio-TX-78258/69666430_zpid/,69666430,,SINGLE FAMILY,"$725,000",203 Bushbuck Path,San Antonio,TX,78258,5,4,3473,0.364 acres,4083
+https://www.zillow.com/homedetails/1241-Santa-Monica-St-San-Antonio-TX-78201/26224313_zpid/,26224313,,SINGLE FAMILY,"$139,900",1241 Santa Monica,San Antonio,TX,78201,2,2,1160,6011.28 sqft,1634
+https://www.zillow.com/homedetails/21903-Roan-Blf-San-Antonio-TX-78259/69647330_zpid/,69647330,,SINGLE FAMILY,"$929,900",21903 Roan Blf,San Antonio,TX,78259,6,5,4218,1.287 acres,4028
+https://www.zillow.com/homedetails/714-Misty-Water-Ln-San-Antonio-TX-78260/102522336_zpid/,102522336,,SINGLE FAMILY,"$699,500",714 Misty Water Ln,San Antonio,TX,78260,4,4,3084,0.5409999999999999 acres,3682
+https://www.zillow.com/homedetails/713-Fair-Ave-San-Antonio-TX-78223/169068446_zpid/,169068446,,MULTI FAMILY,"$160,000",713 Fair,San Antonio,TX,78223,4,2,1600,7100.28 sqft,1596
+https://www.zillow.com/homedetails/9712-Big-Geronimo-St-San-Antonio-TX-78254/26160963_zpid/,26160963,,SINGLE FAMILY,"$423,575",9712 Big Geronimo St,San Antonio,TX,78254,4,2,1910,1.05 acres,2043
+https://www.zillow.com/homedetails/20310-Roche-Oak-San-Antonio-TX-78259/452369409_zpid/,452369409,,SINGLE FAMILY,"$468,000",20310 Roche Oak,San Antonio,TX,78259,4,3,3053,7840.8 sqft,
+https://www.zillow.com/homedetails/24719-Creek-Loop-San-Antonio-TX-78266/80071292_zpid/,80071292,,SINGLE FAMILY,"$559,999",24719 Creek Loop,San Antonio,TX,78266,4,3,2853,2.28 acres,3599
+https://www.zillow.com/homedetails/3439-Old-Almonte-Dr-San-Antonio-TX-78224/455216191_zpid/,455216191,,SINGLE FAMILY,"$189,300",3439 OLD ALMONTE DRIVE,San Antonio,TX,78224,3,2,1242,4399.56 sqft,
+https://www.zillow.com/homedetails/1707-Medina-Cir-San-Antonio-TX-78264/102510029_zpid/,102510029,,MANUFACTURED,"$169,999",1707 Medina Circle,San Antonio,TX,78264,4,3,1768,1 acres,1338
+https://www.zillow.com/homedetails/4016-Abasolo-San-Antonio-TX-78261/125283449_zpid/,125283449,,SINGLE FAMILY,"$1,299,900",4016 Abasolo,San Antonio,TX,78261,4,5,4415,0.376 acres,5049
+https://www.zillow.com/homedetails/2727-Wonderview-Dr-San-Antonio-TX-78230/120812791_zpid/,120812791,,SINGLE FAMILY,"$989,000",2727 Wonderview,San Antonio,TX,78230,5,4,4072,9626.76 sqft,4603
+https://www.zillow.com/homedetails/3818-Sweet-Olive-San-Antonio-TX-78261/118215290_zpid/,118215290,,SINGLE FAMILY,"$649,900",3818 Sweet Olive,San Antonio,TX,78261,5,4,4778,8624.88 sqft,3670
+https://www.zillow.com/homedetails/407-Westminster-Ave-San-Antonio-TX-78228/26256224_zpid/,26256224,,SINGLE FAMILY,"$169,900",407 WESTMINSTER AVE,San Antonio,TX,78228,3,2,1643,10802.88 sqft,1829
+https://www.zillow.com/homedetails/823-Synergy-Ln-San-Antonio-TX-78260/69648258_zpid/,69648258,,SINGLE FAMILY,"$575,000",823 Synergy Lane,San Antonio,TX,78260,4,4,3502,0.358 acres,
+https://www.zillow.com/homedetails/12722-Cranes-Ml-San-Antonio-TX-78230/26344675_zpid/,26344675,,SINGLE FAMILY,"$799,000",12722 Cranes Mill,San Antonio,TX,78230,3,4,3383,0.37 acres,
+https://www.zillow.com/homedetails/3439-Gateway-Dr-San-Antonio-TX-78210/169113581_zpid/,169113581,,MULTI FAMILY,"$190,000",3439 Gateway Dr,San Antonio,TX,78210,4,2,1444,6490.44 sqft,1483
+https://www.zillow.com/homedetails/1015-El-Monte-Blvd-San-Antonio-TX-78201/26236625_zpid/,26236625,,SINGLE FAMILY,"$185,000",1015 El Monte,San Antonio,TX,78201,4,3,1512,0.319 acres,1468
+https://www.zillow.com/homedetails/1514-Crescent-Gln-San-Antonio-TX-78258/26420041_zpid/,26420041,,SINGLE FAMILY,"$515,000",1514 Crescent,San Antonio,TX,78258,4,3,3013,9975.24 sqft,2394
+https://www.zillow.com/homedetails/2115-Green-Crk-San-Antonio-TX-78232/452285895_zpid/,452285895,,SINGLE FAMILY,"$453,500",2115 Green Creek,San Antonio,TX,78232,3,2,2330,10541.52 sqft,
+https://www.zillow.com/homedetails/1216-Delaware-St-San-Antonio-TX-78210/26113033_zpid/,26113033,,SINGLE FAMILY,"$185,000",1216 Delaware St,San Antonio,TX,78210,3,1,1420,10149.48 sqft,1633
+https://www.zillow.com/homedetails/23903-Alpine-Ldg-San-Antonio-TX-78258/83981478_zpid/,83981478,,SINGLE FAMILY,"$559,900",23903 Alpine Ldg,San Antonio,TX,78258,4,3,3313,8581.32 sqft,2937
+https://www.zillow.com/homedetails/5714-Glacier-Sun-Dr-San-Antonio-TX-78244/26388249_zpid/,26388249,,SINGLE FAMILY,"$115,000",5714 Glacier Sun,San Antonio,TX,78244,3,2,1060,4878.72 sqft,1464
+https://www.zillow.com/homedetails/26626-Marni-Pl-San-Antonio-TX-78260/2055060031_zpid/,2055060031,,SINGLE FAMILY,"$999,999",26626 Marni,San Antonio,TX,78260,4,4,2801,0.536 acres,3617
+https://www.zillow.com/homedetails/611-Ridge-Trce-San-Antonio-TX-78258/69639289_zpid/,69639289,,SINGLE FAMILY,"$1,100,000",611 Ridge,San Antonio,TX,78258,5,5,4319,0.7729999999999999 acres,5086
+https://www.zillow.com/homedetails/14702-Hill-Pine-Way-San-Antonio-TX-78254/80037019_zpid/,80037019,,SINGLE FAMILY,"$785,000",14702 Hill Pine Way,San Antonio,TX,78254,5,3,3285,0.363 acres,
+https://www.zillow.com/homedetails/8718-Silver-Rock-San-Antonio-TX-78255/89616347_zpid/,89616347,,SINGLE FAMILY,"$624,999",8718 Silver Rock,San Antonio,TX,78255,4,5,3299,10454.4 sqft,4740
+https://www.zillow.com/homedetails/2506-Cielo-Trce-San-Antonio-TX-78261/116186873_zpid/,116186873,,SINGLE FAMILY,"$545,000",2506 Cielo Trace,San Antonio,TX,78261,5,4,3407,8712 sqft,3319
+https://www.zillow.com/homedetails/7207-Ashton-Pl-San-Antonio-TX-78229/26306943_zpid/,26306943,,SINGLE FAMILY,"$645,000",7207 ASHTON PL,San Antonio,TX,78229,3,4,3408,0.331 acres,4138
+https://www.zillow.com/homedetails/119-Greenwich-Blvd-San-Antonio-TX-78209/26251985_zpid/,26251985,,SINGLE FAMILY,"$865,900",119 Greenwich,San Antonio,TX,78209,4,3,2200,10236.6 sqft,3044
+https://www.zillow.com/homedetails/2115-Border-Mill-Dr-San-Antonio-TX-78230/26464893_zpid/,26464893,,SINGLE FAMILY,"$450,000",2115 BORDER MILL DR,San Antonio,TX,78230,3,2,2554,9147.6 sqft,
+https://www.zillow.com/homedetails/3315-Doagie-San-Antonio-TX-78247/26405728_zpid/,26405728,,SINGLE FAMILY,"$410,000",3315 Doagie,San Antonio,TX,78247,3,2,2378,7797.24 sqft,2533
+https://www.zillow.com/homedetails/802-Sherman-Oak-St-San-Antonio-TX-78232/26424313_zpid/,26424313,,SINGLE FAMILY,"$495,000",802 Sherman Oak,San Antonio,TX,78232,3,2,2117,0.781 acres,2536
+https://www.zillow.com/homedetails/7835-Wild-Eagle-Rd-San-Antonio-TX-78255/26345348_zpid/,26345348,,SINGLE FAMILY,"$625,000",7835 Wild Eagle,San Antonio,TX,78255,5,3,3510,0.694 acres,5820
+https://www.zillow.com/homedetails/25522-Singing-Rain-San-Antonio-TX-78260/102540277_zpid/,102540277,,SINGLE FAMILY,"$730,000",25522 Singing Rain,San Antonio,TX,78260,4,4,2824,0.67 acres,3675
+https://www.zillow.com/homedetails/20402-Messina-San-Antonio-TX-78258/26419322_zpid/,26419322,,SINGLE FAMILY,"$1,275,000",20402 Messina,San Antonio,TX,78258,5,3,4549,0.95 acres,5838
+https://www.zillow.com/homedetails/300-E-Lullwood-Ave-San-Antonio-TX-78212/26219404_zpid/,26219404,,SINGLE FAMILY,"$775,000",300 E Lullwood,San Antonio,TX,78212,5,4,3040,6708.24 sqft,3057
+https://www.zillow.com/homedetails/2826-Running-Fawn-San-Antonio-TX-78261/169467992_zpid/,169467992,,SINGLE FAMILY,"$525,000",2826 Running Fawn,San Antonio,TX,78261,4,3,2577,0.26599999999999996 acres,2697
+https://www.zillow.com/homedetails/9811-Rebel-Queen-San-Antonio-TX-78255/26162856_zpid/,26162856,,SINGLE FAMILY,"$499,900",9811 REBEL QUEEN,San Antonio,TX,78255,3,3,2065,0.9099999999999999 acres,2306
+https://www.zillow.com/homedetails/129-Wickes-St-San-Antonio-TX-78210/26112381_zpid/,26112381,,SINGLE FAMILY,"$1,095,000",129 Wickes,San Antonio,TX,78210,2,2,2211,8319.96 sqft,3279
+https://www.zillow.com/homedetails/401-Shook-Ave-San-Antonio-TX-78212/26213735_zpid/,26213735,,SINGLE FAMILY,"$750,000",401 Shook,San Antonio,TX,78212,4,3,2770,10454.4 sqft,3005
+https://www.zillow.com/homedetails/115-E-Magnolia-Ave-San-Antonio-TX-78212/26117566_zpid/,26117566,,SINGLE FAMILY,"$650,000",115 E Magnolia,San Antonio,TX,78212,4,2,2492,6272.64 sqft,2828
+https://www.zillow.com/homedetails/9223-Saucedo-Dr-Helotes-TX-78023/69642510_zpid/,69642510,,SINGLE FAMILY,"$605,000",9223 Saucedo,Helotes,TX,78023,5,4,3349,0.6849999999999999 acres,3367
+https://www.zillow.com/homedetails/520-Queen-Anne-Ct-San-Antonio-TX-78209/26216656_zpid/,26216656,,SINGLE FAMILY,"$679,000",520 Queen Anne,San Antonio,TX,78209,3,3,2200,0.26 acres,3363
+https://www.zillow.com/homedetails/635-Brightwood-Pl-San-Antonio-TX-78209/26272247_zpid/,26272247,,SINGLE FAMILY,"$560,000",635 Brightwood Pl,San Antonio,TX,78209,3,2,2295,8881.884 sqft,
+https://www.zillow.com/homedetails/342-W-Elsmere-Pl-San-Antonio-TX-78212/26141999_zpid/,26141999,,SINGLE FAMILY,"$584,900",342 W Elsmere,San Antonio,TX,78212,3,3,1788,0.25 acres,1664
+https://www.zillow.com/homedetails/522-Chardonnet-San-Antonio-TX-78232/26444584_zpid/,26444584,,SINGLE FAMILY,"$599,000",522 CHARDONNET,San Antonio,TX,78232,5,4,3680,9583.2 sqft,4100
+https://www.zillow.com/homedetails/1726-Claudia-Vis-San-Antonio-TX-78224/122495627_zpid/,122495627,,SINGLE FAMILY,"$449,999",1726 Claudia Vista,San Antonio,TX,78224,4,3,2195,10541.52 sqft,
+https://www.zillow.com/homedetails/1515-Crescent-Pl-San-Antonio-TX-78258/26420063_zpid/,26420063,,SINGLE FAMILY,"$450,000",1515 Crescent Place,San Antonio,TX,78258,4,3,2593,9408.96 sqft,
+https://www.zillow.com/homedetails/3843-Ox-Eye-Daisy-San-Antonio-TX-78261/116182914_zpid/,116182914,,SINGLE FAMILY,"$524,999",3843 Ox-Eye Daisy,San Antonio,TX,78261,4,2,2412,7710.12 sqft,2402
+https://www.zillow.com/homedetails/19015-Seminole-Pass-Garden-Ridge-TX-78266/89502598_zpid/,89502598,,SINGLE FAMILY,"$699,000",19015 Seminole Pass,Garden Ridge,TX,78266,4,3,2894,1.14 acres,3016
+https://www.zillow.com/homedetails/15311-Tamaron-Pass-San-Antonio-TX-78253/65066676_zpid/,65066676,,SINGLE FAMILY,"$585,000",15311 Tamaron Pass,San Antonio,TX,78253,3,3,2804,2.138 acres,2749
+https://www.zillow.com/homedetails/1703-Slumber-Pass-San-Antonio-TX-78260/102499918_zpid/,102499918,,SINGLE FAMILY,"$695,000",1703 Slumber Pass,San Antonio,TX,78260,4,4,2910,0.533 acres,3550
+https://www.zillow.com/homedetails/1210-Silent-Holw-San-Antonio-TX-78260/102463917_zpid/,102463917,,SINGLE FAMILY,"$1,350,000",1210 Silent Hollow,San Antonio,TX,78260,4,4,3163,2.73 acres,5604
+https://www.zillow.com/homedetails/23230-Winter-Oaks-San-Antonio-TX-78260/69631195_zpid/,69631195,,SINGLE FAMILY,"$685,000",23230 Winter Oaks,San Antonio,TX,78260,3,3,2093,5.01 acres,
+https://www.zillow.com/homedetails/4627-Amos-Pollard-San-Antonio-TX-78253/89615370_zpid/,89615370,,SINGLE FAMILY,"$455,000",4627 Amos Pollard,San Antonio,TX,78253,4,3,2540,8407.08 sqft,2239
+https://www.zillow.com/homedetails/630-Solo-St-San-Antonio-TX-78260/26167905_zpid/,26167905,,SINGLE FAMILY,"$539,000",630 Solo St,San Antonio,TX,78260,4,2,2563,0.45999999999999996 acres,2705
+https://www.zillow.com/homedetails/24706-Moorland-San-Antonio-TX-78257/80028667_zpid/,80028667,,SINGLE FAMILY,"$815,000",24706 Moorland,San Antonio,TX,78257,5,4,3456,10062.36 sqft,4981
+https://www.zillow.com/homedetails/13611-Tahoe-Vis-San-Antonio-TX-78253/83990084_zpid/,83990084,,SINGLE FAMILY,"$695,000",13611 Tahoe Vista,San Antonio,TX,78253,4,3,2736,1.05 acres,2827
+https://www.zillow.com/homedetails/206-Bluff-Holw-San-Antonio-TX-78216/26400467_zpid/,26400467,,SINGLE FAMILY,"$729,000",206 BLUFF HOLW,San Antonio,TX,78216,4,5,5046,0.5650000000000001 acres,6123
+https://www.zillow.com/homedetails/19902-Messina-San-Antonio-TX-78258/26419340_zpid/,26419340,,SINGLE FAMILY,"$1,399,900",19902 MESSINA,San Antonio,TX,78258,5,7,5306,0.64 acres,5840
+https://www.zillow.com/homedetails/1318-Mount-Vieja-Dr-San-Antonio-TX-78213/26321251_zpid/,26321251,,SINGLE FAMILY,"$450,000",1318 Mount Vieja,San Antonio,TX,78213,3,2,2237,0.41500000000000004 acres,2209
+https://www.zillow.com/homedetails/17023-Sonoma-Rdg-San-Antonio-TX-78255/118215583_zpid/,118215583,,SINGLE FAMILY,"$847,000",17023 Sonoma Ridge,San Antonio,TX,78255,5,4,3940,0.26899999999999996 acres,4889
+https://www.zillow.com/homedetails/131-Larchmont-Dr-San-Antonio-TX-78209/26252248_zpid/,26252248,,SINGLE FAMILY,"$685,000",131 Larchmont,San Antonio,TX,78209,4,3,2598,0.325 acres,3120
+https://www.zillow.com/homedetails/17003-Chianti-Rdg-San-Antonio-TX-78255/89611101_zpid/,89611101,,SINGLE FAMILY,"$759,000",17003 Chianti Rdg,San Antonio,TX,78255,4,4,3750,0.638 acres,
+https://www.zillow.com/homedetails/3-Benchwood-Cir-San-Antonio-TX-78248/65068400_zpid/,65068400,,SINGLE FAMILY,"$999,000",3 Benchwood Circle,San Antonio,TX,78248,4,4,3492,0.274 acres,3726
+https://www.zillow.com/homedetails/7611-Shady-Hollow-Ln-San-Antonio-TX-78255/26345315_zpid/,26345315,,SINGLE FAMILY,"$639,999",7611 Shady Hollow,San Antonio,TX,78255,5,3,3200,0.667 acres,3848
+https://www.zillow.com/homedetails/4622-Tamaron-Park-San-Antonio-TX-78253/102465550_zpid/,102465550,,SINGLE FAMILY,"$689,900",4622 Tamaron Park,San Antonio,TX,78253,4,3,2574,2.005 acres,2829
+https://www.zillow.com/homedetails/443-Laramie-Dr-San-Antonio-TX-78209/26293493_zpid/,26293493,,SINGLE FAMILY,"$780,000",443 Laramie,San Antonio,TX,78209,4,3,2873,0.283 acres,
+https://www.zillow.com/homedetails/19426-Desert-Oak-San-Antonio-TX-78258/26473171_zpid/,26473171,,SINGLE FAMILY,"$700,000",19426 Desert Oak,San Antonio,TX,78258,4,3,3471,9321.84 sqft,4534
+https://www.zillow.com/homedetails/3-Imperial-Way-San-Antonio-TX-78248/26462053_zpid/,26462053,,SINGLE FAMILY,"$1,550,000",3 Imperial Way,San Antonio,TX,78248,3,4,3379,0.661 acres,5442
+https://www.zillow.com/homedetails/22340-Old-Fossil-Rd-San-Antonio-TX-78261/58246152_zpid/,58246152,,SINGLE FAMILY,"$1,100,000",22340 Old Fossil Road,San Antonio,TX,78261,3,4,3781,2.811 acres,
+https://www.zillow.com/homedetails/422-E-Hildebrand-Ave-San-Antonio-TX-78212/26220608_zpid/,26220608,,SINGLE FAMILY,"$1,295,000",422 E Hildebrand,San Antonio,TX,78212,4,4,3610,0.404 acres,
+https://www.zillow.com/homedetails/12022-Del-Rio-Run-San-Antonio-TX-78245/102470247_zpid/,102470247,,SINGLE FAMILY,"$869,000",12022 Del Rio Run,San Antonio,TX,78245,5,4,4247,1.34 acres,2893
+https://www.zillow.com/homedetails/615-Sentry-Hl-San-Antonio-TX-78260/69661299_zpid/,69661299,,SINGLE FAMILY,"$1,390,000",615 Sentry Hill,San Antonio,TX,78260,5,5,6407,0.9490000000000001 acres,6817
+https://www.zillow.com/homedetails/26218-Windspirit-San-Antonio-TX-78260/69653142_zpid/,69653142,,SINGLE FAMILY,"$1,147,500",26218 Windspirit,San Antonio,TX,78260,4,4,4300,0.8330000000000001 acres,5190
+https://www.zillow.com/homedetails/21-Aston-Gln-San-Antonio-TX-78257/26476120_zpid/,26476120,,SINGLE FAMILY,"$688,700",21 Aston Gln,San Antonio,TX,78257,3,4,3555,7631.712 sqft,5609
+https://www.zillow.com/homedetails/9831-Rebel-Queen-San-Antonio-TX-78255/26162853_zpid/,26162853,,SINGLE FAMILY,"$625,000",9831 Rebel Queen,San Antonio,TX,78255,4,3,3240,0.6 acres,3343
+https://www.zillow.com/community/kinder-ranch-70/443621163_zpid/,443621163,,SINGLE FAMILY,"$873,900+","4098W Plan, Kinder Ranch 70'",San Antonio,TX,78260,5,5,4098, ,
+https://www.zillow.com/homedetails/264-E-Lullwood-Ave-San-Antonio-TX-78212/299593468_zpid/,299593468,,SINGLE FAMILY,"$1,329,900",264 E Lullwood,San Antonio,TX,78212,6,6,3162,6969.6 sqft,834
+https://www.zillow.com/homedetails/2138-Kerrisdale-Dr-San-Antonio-TX-78260/446815627_zpid/,446815627,,SINGLE FAMILY,"$995,000",2138 Kerrisdale,San Antonio,TX,78260,5,5,4094,0.331 acres,
+https://www.zillow.com/homedetails/112-King-William-San-Antonio-TX-78204/26111734_zpid/,26111734,,SINGLE FAMILY,"$1,250,000",112 King William,San Antonio,TX,78204,3,4,3198,6011.28 sqft,4772
+https://www.zillow.com/homedetails/23119-Edens-Cyn-San-Antonio-TX-78255/446026220_zpid/,446026220,,SINGLE FAMILY,"$1,250,000",23119 Edens Canyon,San Antonio,TX,78255,5,4,3759,0.543 acres,
+https://www.zillow.com/homedetails/303-Pleasant-Knl-San-Antonio-TX-78260/83985019_zpid/,83985019,,SINGLE FAMILY,"$1,380,000",303 Pleasant Knoll,San Antonio,TX,78260,4,5,4456,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/2435-Winding-Vw-San-Antonio-TX-78260/60088843_zpid/,60088843,,SINGLE FAMILY,"$1,190,000",2435 Winding Vw,San Antonio,TX,78260,4,5,4907,0.5569999999999999 acres,5236
+https://www.zillow.com/homedetails/7-Inwood-Knls-San-Antonio-TX-78248/454637453_zpid/,454637453,,SINGLE FAMILY,"$725,000",7 Inwood Knolls,San Antonio,TX,78248,5,4,3562,0.31 acres,
+https://www.zillow.com/homedetails/303-Ridgehaven-Pl-San-Antonio-TX-78209/26272156_zpid/,26272156,,SINGLE FAMILY,"$600,000",303 Ridgehaven PL,San Antonio,TX,78209,3,2,1712,9016.92 sqft,2373
+https://www.zillow.com/homedetails/2928-Hidden-Elm-San-Antonio-TX-78261/26168640_zpid/,26168640,,SINGLE FAMILY,"$780,000",2928 Hidden Elm,San Antonio,TX,78261,4,3,2961,2.519 acres,4081
+https://www.zillow.com/homedetails/6-Kings-Heath-San-Antonio-TX-78257/26476163_zpid/,26476163,,SINGLE FAMILY,"$899,900",6 KINGS HEATH,San Antonio,TX,78257,4,3,3196,0.32999999999999996 acres,3924
+https://www.zillow.com/homedetails/334-Springside-San-Antonio-TX-78260/83983764_zpid/,83983764,,SINGLE FAMILY,"$1,295,000",334 Springside,San Antonio,TX,78260,7,8,5349,1.3596 acres,
+https://www.zillow.com/homedetails/3719-Summer-Breeze-Ln-San-Antonio-TX-78253/26156158_zpid/,26156158,,SINGLE FAMILY,"$699,000",3719 Summer Breeze,San Antonio,TX,78253,4,3,2973,1.08 acres,3314
+https://www.zillow.com/homedetails/28121-Timberline-Dr-San-Antonio-TX-78260/26166545_zpid/,26166545,,SINGLE FAMILY,"$630,000",28121 Timberline,San Antonio,TX,78260,3,3,2983,2.93 acres,3489
+https://www.zillow.com/homedetails/23407-Collin-Cyn-San-Antonio-TX-78255/250993270_zpid/,250993270,,SINGLE FAMILY,"$1,290,000",23407 Collin Cyn,San Antonio,TX,78255,4,4,3622,0.5680000000000001 acres,5668
+https://www.zillow.com/homedetails/236-Madison-San-Antonio-TX-78204/26111773_zpid/,26111773,,SINGLE FAMILY,"$1,200,000",236 Madison,San Antonio,TX,78204,5,7,3509,7535.88 sqft,4722
+https://www.zillow.com/homedetails/6703-Bella-Colina-San-Antonio-TX-78256/169449447_zpid/,169449447,,SINGLE FAMILY,"$925,000",6703 Bella Colina,San Antonio,TX,78256,3,2,2542,0.27899999999999997 acres,4052
+https://www.zillow.com/homedetails/606-E-Sunshine-Dr-San-Antonio-TX-78228/26241280_zpid/,26241280,,SINGLE FAMILY,"$762,500",606 E Sunshine,San Antonio,TX,78228,4,5,4997,1.528 acres,4194
+https://www.zillow.com/homedetails/3626-Hyland-Frost-San-Antonio-TX-78257/125248706_zpid/,125248706,,SINGLE FAMILY,"$825,000",3626 Hyland Frost,San Antonio,TX,78257,4,5,3399,0.251 acres,4647
+https://www.zillow.com/homedetails/7735-Stonewall-Hl-San-Antonio-TX-78256/89608425_zpid/,89608425,,SINGLE FAMILY,"$699,999",7735 Stonewall Hill,San Antonio,TX,78256,5,5,4489,0.294 acres,4668
+https://www.zillow.com/homedetails/6712-Abarth-Ln-San-Antonio-TX-78257/250989598_zpid/,250989598,,SINGLE FAMILY,"$650,000",6712 Abarth,San Antonio,TX,78257,3,3,2287,7535.88 sqft,3212
+https://www.zillow.com/homedetails/17419-Hillsedge-Shavano-Park-TX-78257/244681748_zpid/,244681748,,SINGLE FAMILY,"$1,050,000",17419 Hillsedge,Shavano Park,TX,78257,5,4,3741,10105.92 sqft,5314
+https://www.zillow.com/homedetails/322-Wood-Shadow-St-San-Antonio-TX-78216/26401054_zpid/,26401054,,SINGLE FAMILY,"$749,900",322 Wood Shadow,San Antonio,TX,78216,5,3,2970,0.321 acres,3294
+https://www.zillow.com/homedetails/20414-Tejas-Crk-San-Antonio-TX-78257/83988271_zpid/,83988271,,SINGLE FAMILY,"$1,389,000",20414 Tejas Creek,San Antonio,TX,78257,4,5,5040,0.79 acres,7608
+https://www.zillow.com/homedetails/1419-Rain-Song-San-Antonio-TX-78260/89616316_zpid/,89616316,,SINGLE FAMILY,"$659,000",1419 Rain Song,San Antonio,TX,78260,4,4,2203,0.58 acres,2993
+https://www.zillow.com/homedetails/39-Rogers-Wood-San-Antonio-TX-78248/26462180_zpid/,26462180,,SINGLE FAMILY,"$749,900",39 ROGERS WOOD,San Antonio,TX,78248,4,5,3725,0.254 acres,5292
+https://www.zillow.com/homedetails/5-Remington-Cir-San-Antonio-TX-78258/26474143_zpid/,26474143,,SINGLE FAMILY,"$1,399,000",5 Remington Circle,San Antonio,TX,78258,4,4,5677,1.05 acres,6409
+https://www.zillow.com/homedetails/134-Camellia-Way-San-Antonio-TX-78209/26270999_zpid/,26270999,,SINGLE FAMILY,"$899,000",134 Camellia Way,San Antonio,TX,78209,3,4,2735,0.347 acres,
+https://www.zillow.com/homedetails/11827-Mill-Rock-Rd-San-Antonio-TX-78230/26403295_zpid/,26403295,,SINGLE FAMILY,"$870,000",11827 Mill Rock,San Antonio,TX,78230,5,5,3291,8232.84 sqft,4075
+https://www.zillow.com/homedetails/935-Fabulous-Dr-San-Antonio-TX-78213/26326588_zpid/,26326588,,SINGLE FAMILY,"$650,000",935 Fabulous,San Antonio,TX,78213,5,3,2820,0.262 acres,3359
+https://www.zillow.com/homedetails/110-Turnberry-Way-San-Antonio-TX-78230/26291416_zpid/,26291416,,SINGLE FAMILY,"$1,500,000",110 Turnberry Way,San Antonio,TX,78230,3,4,3609,0.5 acres,4270
+https://www.zillow.com/homedetails/2330-Sawgrass-Rdg-San-Antonio-TX-78260/65080857_zpid/,65080857,,SINGLE FAMILY,"$1,249,000",2330 Sawgrass Rdg,San Antonio,TX,78260,4,4,4960,0.61 acres,5633
+https://www.zillow.com/homedetails/11710-Elmscourt-San-Antonio-TX-78230/26412117_zpid/,26412117,,SINGLE FAMILY,"$1,350,000",11710 Elmscourt,San Antonio,TX,78230,5,7,5703,0.502 acres,5181
+https://www.zillow.com/homedetails/105-Breeze-Rdg-San-Antonio-TX-78260/26167033_zpid/,26167033,,SINGLE FAMILY,"$619,500",105 Breeze Rdg,San Antonio,TX,78260,5,4,2982,0.5599999999999999 acres,3899
+https://www.zillow.com/homedetails/122-Stonewall-Bnd-San-Antonio-TX-78256/69641193_zpid/,69641193,,SINGLE FAMILY,"$749,999",122 STONEWALL BND,San Antonio,TX,78256,5,5,4131,10628.64 sqft,4916
+https://www.zillow.com/homedetails/3902-Creek-Point-San-Antonio-TX-78230/26398359_zpid/,26398359,,SINGLE FAMILY,"$800,000",3902 Creek Pt,San Antonio,TX,78230,6,5,4444,0.397 acres,4235
+https://www.zillow.com/homedetails/9294-New-Sulphur-Spgs-San-Antonio-TX-78263/453089267_zpid/,453089267,,SINGLE FAMILY,"$699,000",9294 New Sulphur Springs,San Antonio,TX,78263,3,2,1700,21.12 acres,
+https://www.zillow.com/homedetails/8537-Classic-Oaks-Ln-San-Antonio-TX-78255/26165190_zpid/,26165190,,SINGLE FAMILY,"$625,000",8537 Classic Oaks Ln,San Antonio,TX,78255,5,3,3000,1.01 acres,3573
+https://www.zillow.com/homedetails/10614-Revolver-Trl-San-Antonio-TX-78254/453851569_zpid/,453851569,,SINGLE FAMILY,"$715,000",10614 Revolver,San Antonio,TX,78254,5,4,3190,0.421 acres,

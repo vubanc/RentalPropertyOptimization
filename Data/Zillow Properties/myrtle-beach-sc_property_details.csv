@@ -1,0 +1,458 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-806-Myrtle-Beach-SC-29577/454223092_zpid/,454223092,,CONDO,"$185,000",1304 N Ocean Blvd. #806,Myrtle Beach,SC,29577,2,2,813, ,
+https://www.zillow.com/homedetails/1715-Palmetto-Palm-Dr-Myrtle-Beach-SC-29579/262286067_zpid/,262286067,,SINGLE FAMILY,"$389,000",1715 Palmetto Palm Dr.,Myrtle Beach,SC,29579,4,2,1850,9147.6 sqft,2352
+https://www.zillow.com/homedetails/9212-Goodwill-Ct-Myrtle-Beach-SC-29579/102986319_zpid/,102986319,,SINGLE FAMILY,"$475,000",9212 Goodwill Ct.,Myrtle Beach,SC,29579,4,3,2781,0.31 acres,2681
+https://www.zillow.com/homedetails/108-Whaler-Harbour-Myrtle-Beach-SC-29577/11158016_zpid/,11158016,,SINGLE FAMILY,"$265,000",108 Whaler Harbour,Myrtle Beach,SC,29577,3,2,1263,0.27999999999999997 acres,1901
+https://www.zillow.com/homedetails/238-Stonebrook-Dr-Myrtle-Beach-SC-29588/11156973_zpid/,11156973,,SINGLE FAMILY,"$199,900",238 Stonebrook Dr.,Myrtle Beach,SC,29588,3,2,1200,9583.2 sqft,1779
+https://www.zillow.com/homedetails/204-Green-Lake-Dr-Myrtle-Beach-SC-29572/11129969_zpid/,11129969,,SINGLE FAMILY,"$1,199,900",204 Green Lake Dr.,Myrtle Beach,SC,29572,5,4,4286,0.5900000000000001 acres,3583
+https://www.zillow.com/homedetails/1372-Tranquility-Ln-Myrtle-Beach-SC-29577/11159873_zpid/,11159873,,SINGLE FAMILY,"$275,000",1372 Tranquility Ln.,Myrtle Beach,SC,29577,3,2,1215,3484.8 sqft,1952
+https://www.zillow.com/homedetails/156-Osprey-Cove-Loop-Myrtle-Beach-SC-29588/61475713_zpid/,61475713,,SINGLE FAMILY,"$265,000",156 Osprey Cove Loop,Myrtle Beach,SC,29588,3,2,1241,0.26 acres,1857
+https://www.zillow.com/homedetails/203-Alyssum-Ct-Myrtle-Beach-SC-29579/61475152_zpid/,61475152,,SINGLE FAMILY,"$390,000",203 Alyssum Ct,Myrtle Beach,SC,29579,4,3,2314,0.38 acres,2600
+https://www.zillow.com/homedetails/4821-Southgate-Pkwy-Myrtle-Beach-SC-29579/68972874_zpid/,68972874,,SINGLE FAMILY,"$299,900",4821 Southgate Pkwy.,Myrtle Beach,SC,29579,4,3,1850,8276.4 sqft,2295
+https://www.zillow.com/homedetails/156-Hummingbird-Ct-Myrtle-Beach-SC-29579/11147406_zpid/,11147406,,SINGLE FAMILY,"$320,000",156 Hummingbird Ct.,Myrtle Beach,SC,29579,4,3,1877,0.37 acres,
+https://www.zillow.com/homedetails/3922-Glenmere-Dr-Myrtle-Beach-SC-29588/11162528_zpid/,11162528,,SINGLE FAMILY,"$358,900",3922 Glenmere Dr. #GLENMERE,Myrtle Beach,SC,29588,3,2,1642,0.26 acres,2183
+https://www.zillow.com/homedetails/6850-King-Arthur-Dr-UNIT-206-Myrtle-Beach-SC-29588/11161683_zpid/,11161683,,CONDO,"$144,000",6850 King Arthur Dr. #206,Myrtle Beach,SC,29588,2,2,925, ,1426
+https://www.zillow.com/homedetails/1127-Pine-Dr-Myrtle-Beach-SC-29577/11159208_zpid/,11159208,,SINGLE FAMILY,"$249,900",1127 Pine Dr.,Myrtle Beach,SC,29577,3,2,1348,0.37 acres,1799
+https://www.zillow.com/homedetails/492-Folly-Estates-Dr-Myrtle-Beach-SC-29588/262286081_zpid/,262286081,,MANUFACTURED,"$165,000",492 Folly Estates Dr.,Myrtle Beach,SC,29588,3,2,2072, ,2221
+https://www.zillow.com/homedetails/527-Folly-Estates-Dr-Myrtle-Beach-SC-29588/2122674221_zpid/,2122674221,,MANUFACTURED,"$109,900",527 Folly Estates Dr. #Folly Estate,Myrtle Beach,SC,29588,3,2,1152, ,1888
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-UNIT-520-Myrtle-Beach-SC-29577/243471407_zpid/,243471407,,CONDO,"$120,000",1105 S Ocean Blvd UNIT 520,Myrtle Beach,SC,29577,1,1,581,0.8699999999999999 acres,1379
+https://www.zillow.com/homedetails/3129-Bramble-Glen-Dr-Myrtle-Beach-SC-29579/108722815_zpid/,108722815,,SINGLE FAMILY,"$424,900",3129 Bramble Glen Dr.,Myrtle Beach,SC,29579,4,3,2275,10018.8 sqft,2900
+https://www.zillow.com/homedetails/3564-Brampton-Dr-Myrtle-Beach-SC-29588/72267477_zpid/,72267477,,SINGLE FAMILY,"$675,000",3564 Brampton Dr.,Myrtle Beach,SC,29588,5,4,3160,0.32999999999999996 acres,3148
+https://www.zillow.com/homedetails/137-Herrmann-Ridge-Ct-Myrtle-Beach-SC-29588/2078150067_zpid/,2078150067,,SINGLE FAMILY,"$435,000",137 Herrmann Ridge Ct.,Myrtle Beach,SC,29588,5,3,2200,9147.6 sqft,2441
+https://www.zillow.com/homedetails/863-Agostino-Dr-Myrtle-Beach-SC-29579/347814312_zpid/,347814312,,SINGLE FAMILY,"$543,000",863 Agostino Dr.,Myrtle Beach,SC,29579,4,3,2440,0.27 acres,
+https://www.zillow.com/homedetails/160-Maggie-Way-Myrtle-Beach-SC-29588/2095100704_zpid/,2095100704,,SINGLE FAMILY,"$299,900",160 Maggie Way,Myrtle Beach,SC,29588,3,2,1244,7840.8 sqft,1914
+https://www.zillow.com/homedetails/4300-Crows-Nest-Ct-Myrtle-Beach-SC-29579/11146296_zpid/,11146296,,SINGLE FAMILY,"$226,500",4300 Crows Nest Ct.,Myrtle Beach,SC,29579,3,2,1451,0.26 acres,1949
+https://www.zillow.com/homedetails/948-British-Ln-UNIT-1212-Myrtle-Beach-SC-29579/2076066014_zpid/,2076066014,,CONDO,"$305,000",948 British Ln. #1212,Myrtle Beach,SC,29579,3,2,1595, ,1916
+https://www.zillow.com/homedetails/1209-Peyton-Ct-Myrtle-Beach-SC-29588/72263273_zpid/,72263273,,SINGLE FAMILY,"$319,900",1209 Peyton Ct.,Myrtle Beach,SC,29588,3,2,1716,7840.8 sqft,2053
+https://www.zillow.com/homedetails/9560-Shore-Dr-UNIT-3H-Myrtle-Beach-SC-29572/11141621_zpid/,11141621,,CONDO,"$399,900",9560 Shore Dr. #3-H,Myrtle Beach,SC,29572,2,2,786, ,1496
+https://www.zillow.com/homedetails/118-Sly-Fox-Trl-Myrtle-Beach-SC-29588/11155778_zpid/,11155778,,SINGLE FAMILY,"$355,500",118 Sly Fox Trail,Myrtle Beach,SC,29588,4,3,1660,6534 sqft,2065
+https://www.zillow.com/homedetails/2595-Buck-Scrape-Rd-Myrtle-Beach-SC-29588/55355184_zpid/,55355184,,SINGLE FAMILY,"$325,000",2595 Buck Scrape Rd.,Myrtle Beach,SC,29588,4,3,1500,0.27999999999999997 acres,2160
+https://www.zillow.com/homedetails/602-Six-Lakes-Dr-Myrtle-Beach-SC-29588/11145277_zpid/,11145277,,SINGLE FAMILY,"$269,900",602 Six Lakes Dr.,Myrtle Beach,SC,29588,3,2,1300,0.25 acres,1866
+https://www.zillow.com/homedetails/1203-Tiffany-Ln-3-D-Myrtle-Beach-SC-29577/2058732662_zpid/,2058732662,,CONDO,"$173,500",1203 Tiffany Ln. #3-D,Myrtle Beach,SC,29577,2,2,848, ,1454
+https://www.zillow.com/homedetails/1605-S-Ocean-Blvd-Myrtle-Beach-SC-29577/243463771_zpid/,243463771,,CONDO,"$195,000",1605 S Ocean Blvd,Myrtle Beach,SC,29577,2,2,1000,0.9 acres,1629
+https://www.zillow.com/homedetails/164-Tibton-Cir-Myrtle-Beach-SC-29588/2081433674_zpid/,2081433674,,SINGLE FAMILY,"$375,000",164 Tibton Circle,Myrtle Beach,SC,29588,3,2,1589,8276.4 sqft,1902
+https://www.zillow.com/homedetails/4721-National-Dr-Myrtle-Beach-SC-29579/11129069_zpid/,11129069,,SINGLE FAMILY,"$445,000",4721 National Dr.,Myrtle Beach,SC,29579,3,4,2926,0.48 acres,2825
+https://www.zillow.com/homedetails/3992-Grousewood-Dr-Myrtle-Beach-SC-29588/11162656_zpid/,11162656,,SINGLE FAMILY,"$349,900",3992 Grousewood Dr.,Myrtle Beach,SC,29588,3,2,1618,8276.4 sqft,2173
+https://www.zillow.com/homedetails/3888-Stillwood-Dr-Myrtle-Beach-SC-29588/11162718_zpid/,11162718,,SINGLE FAMILY,"$339,900",3888 Stillwood Dr.,Myrtle Beach,SC,29588,4,2,2106,10454.4 sqft,2376
+https://www.zillow.com/homedetails/5867-Rosewood-Dr-Myrtle-Beach-SC-29588/11156832_zpid/,11156832,,SINGLE FAMILY,"$309,000",5867 Rosewood Dr.,Myrtle Beach,SC,29588,3,2,1400,7840.8 sqft,1782
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-202-Myrtle-Beach-SC-29577/454224798_zpid/,454224798,,CONDO,"$110,000",1304 N Ocean Blvd. #202,Myrtle Beach,SC,29577,,1,407, ,
+https://www.zillow.com/homedetails/103-Osprey-Cove-Loop-Myrtle-Beach-SC-29588/55357001_zpid/,55357001,,SINGLE FAMILY,"$275,000",103 Osprey Cove Loop,Myrtle Beach,SC,29588,3,2,1300,10454.4 sqft,1761
+https://www.zillow.com/homedetails/2005-Tiller-Ct-Myrtle-Beach-SC-29579/2063229289_zpid/,2063229289,,SINGLE FAMILY,"$524,900",2005 Tiller Ct.,Myrtle Beach,SC,29579,4,3,2689,7405.2 sqft,2556
+https://www.zillow.com/homedetails/324-Highfield-Loop-Myrtle-Beach-SC-29579/92418348_zpid/,92418348,,SINGLE FAMILY,"$465,000",324 Highfield Loop,Myrtle Beach,SC,29579,4,3,2667,0.27999999999999997 acres,2614
+https://www.zillow.com/homedetails/708-Charlotte-Rd-Myrtle-Beach-SC-29577/11160240_zpid/,11160240,,SINGLE FAMILY,"$425,000",708 Charlotte Rd.,Myrtle Beach,SC,29577,3,3,3033,0.39 acres,3014
+https://www.zillow.com/homedetails/1104-Ragin-St-Myrtle-Beach-SC-29577/11158379_zpid/,11158379,,SINGLE FAMILY,"$214,900",1104 Ragin St.,Myrtle Beach,SC,29577,3,2,1352,10018.8 sqft,1643
+https://www.zillow.com/homedetails/9621-Shore-Dr-316F-Myrtle-Beach-SC-29572/2056170413_zpid/,2056170413,,CONDO,"$240,000",9621 Shore Dr. #316F,Myrtle Beach,SC,29572,2,2,912, ,1861
+https://www.zillow.com/homedetails/1104-Dunbar-St-Myrtle-Beach-SC-29577/11158620_zpid/,11158620,,SINGLE FAMILY,"$205,000",1104 Dunbar St.,Myrtle Beach,SC,29577,3,3,1763,0.29 acres,1778
+https://www.zillow.com/homedetails/752-Tall-Oaks-Ct-Myrtle-Beach-SC-29588/11165142_zpid/,11165142,,SINGLE FAMILY,"$239,900",752 Tall Oaks Ct.,Myrtle Beach,SC,29588,3,3,1334, ,1838
+https://www.zillow.com/homedetails/3802-Pine-Lake-Dr-Myrtle-Beach-SC-29577/11149644_zpid/,11149644,,SINGLE FAMILY,"$449,900",3802 Pine Lake Dr.,Myrtle Beach,SC,29577,3,2,1748,10454.4 sqft,2156
+https://www.zillow.com/homedetails/400-Dog-Pen-Ct-Myrtle-Beach-SC-29588/92417103_zpid/,92417103,,SINGLE FAMILY,"$665,000",400 Dog Pen Ct.,Myrtle Beach,SC,29588,5,3,3400,0.51 acres,2816
+https://www.zillow.com/homedetails/1531-Biltmore-Dr-Myrtle-Beach-SC-29579/108736528_zpid/,108736528,,SINGLE FAMILY,"$550,000",1531 Biltmore Dr.,Myrtle Beach,SC,29579,3,3,2706,0.3 acres,2994
+https://www.zillow.com/homedetails/1679-Palmetto-Palm-Dr-Myrtle-Beach-SC-29579/262286467_zpid/,262286467,,SINGLE FAMILY,"$364,000",1679 Palmetto Palm Dr.,Myrtle Beach,SC,29579,3,2,1665,6534 sqft,2114
+https://www.zillow.com/homedetails/712-Crystal-Water-Way-Myrtle-Beach-SC-29579/108769945_zpid/,108769945,,SINGLE FAMILY,"$799,000",712 Crystal Water Way,Myrtle Beach,SC,29579,4,4,2638,0.29 acres,3248
+https://www.zillow.com/homedetails/413-Chesterfield-Ct-Myrtle-Beach-SC-29577/11150091_zpid/,11150091,,SINGLE FAMILY,"$215,000",413 Chesterfield Ct.,Myrtle Beach,SC,29577,2,2,859, ,1486
+https://www.zillow.com/homedetails/1208-Mackie-Cir-Myrtle-Beach-SC-29579/11147121_zpid/,11147121,,SINGLE FAMILY,"$209,900",1208 Mackie Circle,Myrtle Beach,SC,29579,3,2,1312,7840.8 sqft,1916
+https://www.zillow.com/homedetails/489-Wallingford-Cir-Myrtle-Beach-SC-29588/69577203_zpid/,69577203,,SINGLE FAMILY,"$449,900",489 Wallingford Pl.,Myrtle Beach,SC,29588,3,3,1285,6098.4 sqft,1993
+https://www.zillow.com/homedetails/4880-Hopespring-St-LOT-1117-Myrtle-Beach-SC-29579/455192266_zpid/,455192266,,SINGLE FAMILY,"$364,990",4880 Hopespring St. LOT 1117 Sydney,Myrtle Beach,SC,29579,4,3,2018,6098.4 sqft,
+https://www.zillow.com/homedetails/701-Bonita-Loop-Myrtle-Beach-SC-29588/108749122_zpid/,108749122,,SINGLE FAMILY,"$349,000",701 Bonita Loop,Myrtle Beach,SC,29588,3,2,1650,10454.4 sqft,2188
+https://www.zillow.com/homedetails/428-Bellegrove-Dr-Myrtle-Beach-SC-29579/80974461_zpid/,80974461,,SINGLE FAMILY,"$289,900",428 Bellegrove Dr.,Myrtle Beach,SC,29579,3,2,1368,6969.6 sqft,1952
+https://www.zillow.com/homedetails/206-Sebring-Ln-Myrtle-Beach-SC-29588/108728292_zpid/,108728292,,SINGLE FAMILY,"$269,900",206 Sebring Ln.,Myrtle Beach,SC,29588,3,2,1200,4356 sqft,1859
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-UNIT-706-Myrtle-Beach-SC-29577/72274217_zpid/,72274217,,CONDO,"$109,000",1105 S Ocean Blvd. #706,Myrtle Beach,SC,29577,1,1,581, ,1398
+https://www.zillow.com/homedetails/510-Fairwood-Lakes-Dr-18P-Myrtle-Beach-SC-29588/2079760279_zpid/,2079760279,,CONDO,"$137,500",510 Fairwood Lakes Dr. #18-P,Myrtle Beach,SC,29588,2,2,960, ,1458
+https://www.zillow.com/homedetails/7200-N-Ocean-Blvd-1059-Myrtle-Beach-SC-29572/55356256_zpid/,55356256,,CONDO,"$400,000",7200 Ocean Blvd. N #1059,Myrtle Beach,SC,29572,3,2,1133, ,1958
+https://www.zillow.com/homedetails/1109-Peace-Pipe-Pl-UNIT-201-Myrtle-Beach-SC-29579/2064820435_zpid/,2064820435,,CONDO,"$209,277",1109 Peace Pipe Ln. #201,Myrtle Beach,SC,29579,3,2,1251, ,1666
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-S-307-Myrtle-Beach-SC-29577/454226403_zpid/,454226403,,CONDO,"$185,000",1304 N Ocean Blvd. #S-307,Myrtle Beach,SC,29577,2,2,813, ,
+https://www.zillow.com/homedetails/867-Harrison-Mill-St-Myrtle-Beach-SC-29579/439234598_zpid/,439234598,,SINGLE FAMILY,"$425,000",867 Harrison Mill St.,Myrtle Beach,SC,29579,3,2,2008,8712 sqft,
+https://www.zillow.com/homedetails/843-Brookline-Dr-Myrtle-Beach-SC-29579/87903940_zpid/,87903940,,SINGLE FAMILY,"$299,900",843 Brookline Dr.,Myrtle Beach,SC,29579,3,2,1808,10454.4 sqft,2061
+https://www.zillow.com/homedetails/194-Avenue-Of-The-Palms-Myrtle-Beach-SC-29579/108758009_zpid/,108758009,,SINGLE FAMILY,"$1,300,000",194 Avenue of the Palms,Myrtle Beach,SC,29579,5,6,5152,0.25 acres,4762
+https://www.zillow.com/homedetails/1905-S-Ocean-Blvd-Myrtle-Beach-SC-29577/2139740181_zpid/,2139740181,,CONDO,"$229,000",1905 S Ocean Blvd,Myrtle Beach,SC,29577,2,2,1000, ,1568
+https://www.zillow.com/homedetails/8560-Queensway-Blvd-APT-606-Myrtle-Beach-SC-29572/61475319_zpid/,61475319,,CONDO,"$839,999",8560 Queensway Blvd. #606,Myrtle Beach,SC,29572,3,2,1246, ,2137
+https://www.zillow.com/homedetails/769-Sturdy-Root-Pl-Myrtle-Beach-SC-29588/455191052_zpid/,455191052,,SINGLE FAMILY,"$277,500",769 Sturdy Root Pl,Myrtle Beach,SC,29588,4,3,1835, ,
+https://www.zillow.com/homedetails/394-Thistle-Ln-Myrtle-Beach-SC-29579/69582037_zpid/,69582037,,SINGLE FAMILY,"$350,000",394 Thistle Ln.,Myrtle Beach,SC,29579,4,3,2255,5227.2 sqft,
+https://www.zillow.com/homedetails/557-White-River-Dr-UNIT-12B-Myrtle-Beach-SC-29579/11147699_zpid/,11147699,,CONDO,"$195,000",557 White River Dr. #12B,Myrtle Beach,SC,29579,2,2,986, ,1594
+https://www.zillow.com/homedetails/1226-Formby-Ct-Myrtle-Beach-SC-29588/11165587_zpid/,11165587,,SINGLE FAMILY,"$249,900",1226 Formby Ct.,Myrtle Beach,SC,29588,2,2,1152,6969.6 sqft,1889
+https://www.zillow.com/homedetails/9550-Shore-Dr-Myrtle-Beach-SC-29572/243470074_zpid/,243470074,,CONDO,"$199,000",9550 Shore Dr,Myrtle Beach,SC,29572,1,2,720,0.6899908172635445 acres,1513
+https://www.zillow.com/homedetails/1700-N-Ocean-Blvd-Myrtle-Beach-SC-29577/52206524_zpid/,52206524,,CONDO,"$340,400",1700 N Ocean Blvd,Myrtle Beach,SC,29577,2,2,1100,0.28000459136822775 acres,1602
+https://www.zillow.com/homedetails/1773-Berkley-Village-Loop-Myrtle-Beach-SC-29579/2077222006_zpid/,2077222006,,SINGLE FAMILY,"$347,900",1773 Berkley Village Loop,Myrtle Beach,SC,29579,3,2,1397,6534 sqft,2429
+https://www.zillow.com/homedetails/462-Wallingford-Cir-Myrtle-Beach-SC-29588/69582186_zpid/,69582186,,SINGLE FAMILY,"$289,900",462 Wallingford Circle,Myrtle Beach,SC,29588,4,2,1252,6098.4 sqft,2073
+https://www.zillow.com/homedetails/244-Colby-Ct-Myrtle-Beach-SC-29588/92413937_zpid/,92413937,,SINGLE FAMILY,"$299,900",244 Colby Ct.,Myrtle Beach,SC,29588,3,2,1550,8712 sqft,1919
+https://www.zillow.com/homedetails/10301-N-Kings-Hwy-APT-21-4-Myrtle-Beach-SC-29572/454233729_zpid/,454233729,,CONDO,"$179,900",10301 North Kings Hwy. #21-4,Myrtle Beach,SC,29572,2,2,1020, ,
+https://www.zillow.com/homedetails/247-Welcome-Dr-Myrtle-Beach-SC-29579/108740299_zpid/,108740299,,SINGLE FAMILY,"$974,999",247 Welcome Dr.,Myrtle Beach,SC,29579,4,4,3000,0.27 acres,3763
+https://www.zillow.com/homedetails/1590-Palmina-Loop-UNIT-A-Myrtle-Beach-SC-29588/453613314_zpid/,453613314,,CONDO,"$275,000",1590 Palmina Loop #A,Myrtle Beach,SC,29588,3,2,1579, ,
+https://www.zillow.com/homedetails/213-Birkdale-Ln-Myrtle-Beach-SC-29588/11164686_zpid/,11164686,,SINGLE FAMILY,"$239,000",213 Birkdale Ln,Myrtle Beach,SC,29588,2,2,1199,5227.2 sqft,1573
+https://www.zillow.com/homedetails/501-Painted-Duck-Ct-Myrtle-Beach-SC-29588/2056140277_zpid/,2056140277,,SINGLE FAMILY,"$322,000",501 Painted Duck Ct.,Myrtle Beach,SC,29588,4,3,2317,9147.6 sqft,2265
+https://www.zillow.com/homedetails/892-Harrison-Mill-St-Myrtle-Beach-SC-29579/453904399_zpid/,453904399,,SINGLE FAMILY,"$409,900",892 Harrison Mill St.,Myrtle Beach,SC,29579,3,2,2038,8276.4 sqft,
+https://www.zillow.com/homedetails/1057-Stanton-Pl-1057-Myrtle-Beach-SC-29579/453538871_zpid/,453538871,,TOWNHOUSE,"$229,000",1057 Stanton Pl. #1057,Myrtle Beach,SC,29579,3,3,1600, ,
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-UNIT-820-Myrtle-Beach-SC-29577/243462718_zpid/,243462718,,CONDO,"$119,900",1105 S Ocean Blvd. #820,Myrtle Beach,SC,29577,1,1,581, ,1387
+https://www.zillow.com/homedetails/4936-Crab-Pond-Ct-UNIT-102-Myrtle-Beach-SC-29579/62978800_zpid/,62978800,,CONDO,"$285,000",4936 Crab Pond Ct. #102,Myrtle Beach,SC,29579,3,2,1700, ,1875
+https://www.zillow.com/homedetails/4430-Montrose-Ln-APT-F-Myrtle-Beach-SC-29579/61454424_zpid/,61454424,,CONDO,"$244,900",4430 Montrose Ln. #F,Myrtle Beach,SC,29579,2,2,1351, ,1696
+https://www.zillow.com/homedetails/2401-S-Ocean-Blvd-871-Myrtle-Beach-SC-29577/348979337_zpid/,348979337,,SINGLE FAMILY,"$240,000",2401 S Ocean Blvd #871,Myrtle Beach,SC,29577,3,0,880,1 sqft,1376
+https://www.zillow.com/homedetails/9400-Shore-Dr-920-Myrtle-Beach-SC-29572/2112448780_zpid/,2112448780,,CONDO,"$275,000",9400 Shore Dr. #920,Myrtle Beach,SC,29572,2,2,768, ,1723
+https://www.zillow.com/homedetails/2201-S-Ocean-Blvd-1707-Myrtle-Beach-SC-29577/243463617_zpid/,243463617,,CONDO,"$299,900",2201 S Ocean Blvd. #1707,Myrtle Beach,SC,29577,2,2,1020, ,1634
+https://www.zillow.com/homedetails/718-Reef-Rd-Myrtle-Beach-SC-29588/11155991_zpid/,11155991,,MANUFACTURED,"$102,900",718 Reef Rd.,Myrtle Beach,SC,29588,3,2,1296,7840.8 sqft,1801
+https://www.zillow.com/homedetails/111-Rose-Water-Loop-Myrtle-Beach-SC-29588/339683806_zpid/,339683806,,SINGLE FAMILY,"$285,900",111 Rose Water Loop,Myrtle Beach,SC,29588,3,2,1600,7405.2 sqft,2028
+https://www.zillow.com/homedetails/1210-Harbison-Cir-Myrtle-Beach-SC-29579/439234596_zpid/,439234596,,SINGLE FAMILY,"$478,000",1210 Harbison Circle,Myrtle Beach,SC,29579,4,3,2643,6534 sqft,
+https://www.zillow.com/homedetails/8204-Caddis-Ct-Myrtle-Beach-SC-29579/80964406_zpid/,80964406,,SINGLE FAMILY,"$484,900",8204 Caddis Ct.,Myrtle Beach,SC,29579,4,3,2512,10018.8 sqft,2597
+https://www.zillow.com/homedetails/4115-Little-River-Rd-APT-10E-Myrtle-Beach-SC-29577/243470674_zpid/,243470674,,TOWNHOUSE,"$145,000",4115 Little River Rd. #10E,Myrtle Beach,SC,29577,2,2,986, ,1434
+https://www.zillow.com/homedetails/1200-N-Ocean-Blvd-710-Myrtle-Beach-SC-29577/80977046_zpid/,80977046,,CONDO,"$179,900",1200 N Ocean Blvd. #710,Myrtle Beach,SC,29577,1,1,528, ,1455
+https://www.zillow.com/homedetails/978-Periwinkle-Pl-Myrtle-Beach-SC-29577/69605053_zpid/,69605053,,SINGLE FAMILY,"$139,900",978 Periwinkle Pl,Myrtle Beach,SC,29577,2,2,1065, ,1852
+https://www.zillow.com/homedetails/5604-N-Kings-Hwy-Myrtle-Beach-SC-29577/11152789_zpid/,11152789,,SINGLE FAMILY,"$290,000",5604 N Kings Hwy,Myrtle Beach,SC,29577,3,2,2100,2100 sqft,1955
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-220-Myrtle-Beach-SC-29577/243471385_zpid/,243471385,,CONDO,"$109,900",1105 S Ocean Blvd. #220,Myrtle Beach,SC,29577,1,1,581, ,1387
+https://www.zillow.com/homedetails/2970-Old-Bryan-Dr-APT-A5-Myrtle-Beach-SC-29577/11149454_zpid/,11149454,,CONDO,"$189,900",2970 Old Bryan Dr. #A5,Myrtle Beach,SC,29577,3,3,1496, ,2020
+https://www.zillow.com/homedetails/318-Muirfield-Rd-Myrtle-Beach-SC-29588/11164594_zpid/,11164594,,SINGLE FAMILY,"$275,000",318 Muirfield Rd.,Myrtle Beach,SC,29588,3,3,1976,0.5599999999999999 acres,2259
+https://www.zillow.com/homedetails/257-Venice-Way-2201-Myrtle-Beach-SC-29577/2077947373_zpid/,2077947373,,CONDO,"$425,000",257 Venice Way #2201,Myrtle Beach,SC,29577,4,3,2337, ,2600
+https://www.zillow.com/homedetails/1527-Biltmore-Dr-Myrtle-Beach-SC-29579/80964956_zpid/,80964956,,SINGLE FAMILY,"$849,000",1527 Biltmore Dr.,Myrtle Beach,SC,29579,4,4,3443,0.39 acres,3216
+https://www.zillow.com/homedetails/3681-White-Wing-Cir-Myrtle-Beach-SC-29579/108788810_zpid/,108788810,,SINGLE FAMILY,"$390,000",3681 White Wing Circle,Myrtle Beach,SC,29579,4,3,2801,9583.2 sqft,2773
+https://www.zillow.com/homedetails/3015-Old-Bryan-Dr-APT-15-6-Myrtle-Beach-SC-29577/2100480357_zpid/,2100480357,,CONDO,"$165,000",3015 Old Bryan Dr. #15-6,Myrtle Beach,SC,29577,2,2,1038, ,1525
+https://www.zillow.com/homedetails/405-Palo-Verde-Dr-Myrtle-Beach-SC-29579/108735042_zpid/,108735042,,SINGLE FAMILY,"$617,000",405 Palo Verde Dr.,Myrtle Beach,SC,29579,3,2,1664,0.49000000000000005 acres,2268
+https://www.zillow.com/homedetails/8635-Farrier-Dr-Myrtle-Beach-SC-29588/455213738_zpid/,455213738,,SINGLE FAMILY,"$369,999",8635 Farrier Dr,Myrtle Beach,SC,29588,3,3,2049, ,
+https://www.zillow.com/homedetails/9449-Freewoods-Rd-Myrtle-Beach-SC-29588/92409590_zpid/,92409590,,SINGLE FAMILY,"$999,999",9449 Freewoods Rd.,Myrtle Beach,SC,29588,5,4,4800,0.99 acres,3743
+https://www.zillow.com/homedetails/7007-Blade-Beak-Ln-Myrtle-Beach-SC-29588/69579348_zpid/,69579348,,SINGLE FAMILY,"$317,000",7007 Blade Beak Ln.,Myrtle Beach,SC,29588,3,2,1694,7405.2 sqft,2054
+https://www.zillow.com/homedetails/2300-N-Ocean-Blvd-132-Myrtle-Beach-SC-29577/72273424_zpid/,72273424,,CONDO,"$134,900",2300 N Ocean Blvd. #132,Myrtle Beach,SC,29577,1,1,533, ,1353
+https://www.zillow.com/homedetails/6357-Highway-707-Myrtle-Beach-SC-29588/80960123_zpid/,80960123,,SINGLE FAMILY,"$387,000",6357 Highway 707,Myrtle Beach,SC,29588,4,3,2312,1.25 acres,2273
+https://www.zillow.com/homedetails/8627-Bragg-Dr-Myrtle-Beach-SC-29588/55357770_zpid/,55357770,,MANUFACTURED,"$240,000",8627 Bragg Dr.,Myrtle Beach,SC,29588,3,2,1400,6534 sqft,2000
+https://www.zillow.com/homedetails/331-Las-Olas-Dr-Myrtle-Beach-SC-29577/262286529_zpid/,262286529,,SINGLE FAMILY,"$475,000",331 Las Olas Dr.,Myrtle Beach,SC,29577,3,2,1970,8276.4 sqft,2314
+https://www.zillow.com/homedetails/403-Brandymill-Blvd-Myrtle-Beach-SC-29588/11157302_zpid/,11157302,,SINGLE FAMILY,"$414,000",403 Brandymill Blvd,Myrtle Beach,SC,29588,3,3,1990,10454.4 sqft,2727
+https://www.zillow.com/homedetails/1624-Portwest-Dr-Myrtle-Beach-SC-29579/80968201_zpid/,80968201,,SINGLE FAMILY,"$629,900",1624 Portwest Dr.,Myrtle Beach,SC,29579,4,3,2700,0.32999999999999996 acres,2797
+https://www.zillow.com/homedetails/7100-N-Ocean-Blvd-221-Myrtle-Beach-SC-29572/243460150_zpid/,243460150,,CONDO,"$244,900",7100 N Ocean Blvd. #221,Myrtle Beach,SC,29572,3,2,1150, ,1839
+https://www.zillow.com/homedetails/619-Ridge-Dr-Myrtle-Beach-SC-29588/454261207_zpid/,454261207,,SINGLE FAMILY,"$320,000",619 Ridge Dr.,Myrtle Beach,SC,29588,3,2,1585,7840.8 sqft,
+https://www.zillow.com/homedetails/1001-Bonita-Loop-Myrtle-Beach-SC-29588/92417368_zpid/,92417368,,SINGLE FAMILY,"$320,000",1001 Bonita Loop,Myrtle Beach,SC,29588,3,2,1563,8712 sqft,2026
+https://www.zillow.com/homedetails/226-Vesta-Dr-Myrtle-Beach-SC-29579/80967161_zpid/,80967161,,SINGLE FAMILY,"$274,900",226 Vesta Dr.,Myrtle Beach,SC,29579,3,2,1127,5662.8 sqft,1897
+https://www.zillow.com/homedetails/424-Villa-Woods-Dr-Myrtle-Beach-SC-29579/11146466_zpid/,11146466,,SINGLE FAMILY,"$225,000",424 Villa Woods Dr.,Myrtle Beach,SC,29579,3,2,1076,8276.4 sqft,1735
+https://www.zillow.com/homedetails/9023-Fort-Hill-Way-Myrtle-Beach-SC-29579/2068392661_zpid/,2068392661,,SINGLE FAMILY,"$539,000",9023 Fort Hill Way,Myrtle Beach,SC,29579,5,4,3750,0.25 acres,3681
+https://www.zillow.com/homedetails/7545-Ventura-Ct-Myrtle-Beach-SC-29572/69578414_zpid/,69578414,,SINGLE FAMILY,"$869,000",7545 Ventura Ct.,Myrtle Beach,SC,29572,3,3,2132,8276.4 sqft,
+https://www.zillow.com/homedetails/1205-King-St-Myrtle-Beach-SC-29577/11158512_zpid/,11158512,,SINGLE FAMILY,"$314,900",1205 King St.,Myrtle Beach,SC,29577,4,2,1362,0.27 acres,1888
+https://www.zillow.com/homedetails/105-Spring-Creek-Dr-UNIT-C-Myrtle-Beach-SC-29588/2064933095_zpid/,2064933095,,TOWNHOUSE,"$170,000",105 Spring Creek Dr. #C,Myrtle Beach,SC,29588,2,3,1012, ,1472
+https://www.zillow.com/homedetails/270-Connemara-Dr-UNIT-A-Myrtle-Beach-SC-29579/2064806140_zpid/,2064806140,,TOWNHOUSE,"$279,999",270 Connemara Dr. #A,Myrtle Beach,SC,29579,3,3,1590, ,1754
+https://www.zillow.com/homedetails/704-S-Ocean-Blvd-101B-Myrtle-Beach-SC-29577/453042010_zpid/,453042010,,CONDO,"$455,000",704 S Ocean Blvd. #101B,Myrtle Beach,SC,29577,4,3,2109, ,
+https://www.zillow.com/homedetails/609-3rd-Ave-N-Myrtle-Beach-SC-29577/11160193_zpid/,11160193,,SINGLE FAMILY,"$219,900",609 3rd Ave. N,Myrtle Beach,SC,29577,2,2,744,9147.6 sqft,1341
+https://www.zillow.com/homedetails/1439-Brighton-Ave-Myrtle-Beach-SC-29588/92417531_zpid/,92417531,,SINGLE FAMILY,"$329,900",1439 Brighton Ave.,Myrtle Beach,SC,29588,4,3,1912,5662.8 sqft,2238
+https://www.zillow.com/homedetails/7270-Guinevere-Cir-Myrtle-Beach-SC-29588/72268008_zpid/,72268008,,SINGLE FAMILY,"$384,900",7270 Guinevere Circle,Myrtle Beach,SC,29588,4,3,2280,6534 sqft,2327
+https://www.zillow.com/homedetails/804-47th-Ave-N-Myrtle-Beach-SC-29577/11152523_zpid/,11152523,,SINGLE FAMILY,"$459,000",804 47th Ave. N,Myrtle Beach,SC,29577,4,4,2909,0.26 acres,2716
+https://www.zillow.com/homedetails/201-W-Isle-Of-Palms-Ave-Myrtle-Beach-SC-29579/108745784_zpid/,108745784,,SINGLE FAMILY,"$959,999",201 West Isle of Palms Ave.,Myrtle Beach,SC,29579,4,5,3516,5662.8 sqft,3438
+https://www.zillow.com/homedetails/852-Harrison-Mill-St-Myrtle-Beach-SC-29579/448313149_zpid/,448313149,,SINGLE FAMILY,"$400,000",852 Harrison Mill St.,Myrtle Beach,SC,29579,5,4,2449,6098.4 sqft,
+https://www.zillow.com/homedetails/664-Oxbow-Dr-Myrtle-Beach-SC-29579/92411790_zpid/,92411790,,SINGLE FAMILY,"$1,350,000",664 Oxbow Dr.,Myrtle Beach,SC,29579,5,6,5100,0.5 acres,4425
+https://www.zillow.com/homedetails/403-Chesterfield-Ct-Myrtle-Beach-SC-29577/11150099_zpid/,11150099,,SINGLE FAMILY,"$239,999",403 Chesterfield Ct.,Myrtle Beach,SC,29577,3,2,1071, ,1771
+https://www.zillow.com/homedetails/904-Kalmia-Ct-Myrtle-Beach-SC-29579/72269833_zpid/,72269833,,SINGLE FAMILY,"$790,000",904 Kalmia Ct.,Myrtle Beach,SC,29579,4,4,3188,0.6900000000000001 acres,3545
+https://www.zillow.com/homedetails/7100-N-Ocean-Blvd-223-Myrtle-Beach-SC-29572/80957604_zpid/,80957604,,CONDO,"$198,000",7100 Ocean Blvd. #223,Myrtle Beach,SC,29572,2,2,1067, ,1760
+https://www.zillow.com/homedetails/9450-Leeds-Cir-Myrtle-Beach-SC-29588/11165468_zpid/,11165468,,SINGLE FAMILY,"$229,900",9450 Leeds Circle,Myrtle Beach,SC,29588,3,2,1050,4791.6 sqft,1886
+https://www.zillow.com/homedetails/765-Sturdy-Root-Pl-Myrtle-Beach-SC-29588/455191055_zpid/,455191055,,SINGLE FAMILY,"$273,500",765 Sturdy Root Pl,Myrtle Beach,SC,29588,3,3,1616, ,
+https://www.zillow.com/homedetails/2772-Ophelia-Way-Myrtle-Beach-SC-29577/2080441823_zpid/,2080441823,,SINGLE FAMILY,"$349,900",2772 Ophelia Way,Myrtle Beach,SC,29577,3,2,1387,6098.4 sqft,1970
+https://www.zillow.com/homedetails/806-Duncan-Ave-Myrtle-Beach-SC-29572/11137549_zpid/,11137549,,SINGLE FAMILY,"$389,000",806 Duncan Ave.,Myrtle Beach,SC,29572,3,3,1600,0.26 acres,2209
+https://www.zillow.com/homedetails/386-Persimmon-Ln-Myrtle-Beach-SC-29579/69576921_zpid/,69576921,,MANUFACTURED,"$195,000",386 Persimmon Ln.,Myrtle Beach,SC,29579,4,2,1500, ,2103
+https://www.zillow.com/homedetails/482-Harbour-View-Dr-Myrtle-Beach-SC-29579/2085089070_zpid/,2085089070,,SINGLE FAMILY,"$800,000",482 Harbour View Dr.,Myrtle Beach,SC,29579,4,4,2850,8712 sqft,2966
+https://www.zillow.com/homedetails/232-Palm-Cove-Circle-Palm-Cv-Myrtle-Beach-SC-29588/439411673_zpid/,439411673,,SINGLE FAMILY,"$350,000",232 Palm Cove Circle #PALM COVE,Myrtle Beach,SC,29588,4,3,1728,3920.4 sqft,
+https://www.zillow.com/homedetails/468-Waccamaw-Pines-Dr-Myrtle-Beach-SC-29579/69576887_zpid/,69576887,,MANUFACTURED,"$239,900",468 Waccamaw Pines Dr.,Myrtle Beach,SC,29579,4,2,1568,0.32 acres,1863
+https://www.zillow.com/homedetails/5149-Morning-Frost-Pl-Myrtle-Beach-SC-29579/94639040_zpid/,94639040,,SINGLE FAMILY,"$360,000",5149 Morning Frost Pl.,Myrtle Beach,SC,29579,4,2,2100,6969.6 sqft,2414
+https://www.zillow.com/homedetails/528-Chamberlin-Rd-Myrtle-Beach-SC-29588/108717697_zpid/,108717697,,SINGLE FAMILY,"$795,000",528 Chamberlin Rd.,Myrtle Beach,SC,29588,5,3,2602,0.52 acres,2818
+https://www.zillow.com/homedetails/8504-Juxa-Dr-Myrtle-Beach-SC-29579/92413817_zpid/,92413817,,SINGLE FAMILY,"$765,000",8504 Juxa Dr.,Myrtle Beach,SC,29579,4,4,3107,0.54 acres,2962
+https://www.zillow.com/homedetails/604-Reef-Rd-Myrtle-Beach-SC-29588/11156013_zpid/,11156013,,MANUFACTURED,"$219,900",604 Reef Rd.,Myrtle Beach,SC,29588,3,2,1752,6534 sqft,1767
+https://www.zillow.com/homedetails/330-Fairwood-Ter-Myrtle-Beach-SC-29588/11157984_zpid/,11157984,,SINGLE FAMILY,"$239,900",330 Fairwood Terrace,Myrtle Beach,SC,29588,4,2,1218,0.32 acres,1852
+https://www.zillow.com/homedetails/4826-Keel-Ct-Myrtle-Beach-SC-29579/11137046_zpid/,11137046,,SINGLE FAMILY,"$629,900",4826 Keel Ct.,Myrtle Beach,SC,29579,3,3,2601,0.52 acres,2799
+https://www.zillow.com/community/forestbrook-townhomes/2061650625_zpid/,2061650625,,TOWNHOUSE,"$219,990+","Poplar Plan, Forestbrook Townhomes",Myrtle Beach,SC,29579,3,3,1442, ,2029
+https://www.zillow.com/homedetails/3533-Lighthouse-Way-Myrtle-Beach-SC-29577/11148921_zpid/,11148921,,SINGLE FAMILY,"$385,000",3533 Lighthouse Way,Myrtle Beach,SC,29577,3,3,1644,6098.4 sqft,2053
+https://www.zillow.com/homedetails/7029-Byrnes-Ln-Myrtle-Beach-SC-29588/92413979_zpid/,92413979,,SINGLE FAMILY,"$960,000",7029 Byrnes Ln.,Myrtle Beach,SC,29588,4,4,3750,0.9099999999999999 acres,3533
+https://www.zillow.com/homedetails/158-Seawatch-Dr-508-Myrtle-Beach-SC-29572/450374572_zpid/,450374572,,CONDO,"$249,999",158 Seawatch Dr. #508,Myrtle Beach,SC,29572,1,1,447, ,
+https://www.zillow.com/homedetails/8008-McSweeney-Ct-Myrtle-Beach-SC-29588/108713144_zpid/,108713144,,SINGLE FAMILY,"$1,020,000",8008 McSweeney Ct.,Myrtle Beach,SC,29588,4,5,3603,1.26 acres,3718
+https://www.zillow.com/homedetails/1521-Milano-Ct-Myrtle-Beach-SC-29579/2095761532_zpid/,2095761532,,SINGLE FAMILY,"$1,074,000",1521 Milano Ct.,Myrtle Beach,SC,29579,4,3,2544,0.4 acres,2787
+https://www.zillow.com/homedetails/400-Palo-Verde-Dr-Myrtle-Beach-SC-29579/108786463_zpid/,108786463,,SINGLE FAMILY,"$615,000",400 Palo Verde Dr.,Myrtle Beach,SC,29579,3,4,2827,0.4 acres,2722
+https://www.zillow.com/homedetails/4502-Boxwood-St-Myrtle-Beach-SC-29577/11152599_zpid/,11152599,,SINGLE FAMILY,"$429,000",4502 Boxwood St.,Myrtle Beach,SC,29577,4,3,2000,0.3 acres,2418
+https://www.zillow.com/homedetails/4524-E-Walkerton-Rd-Myrtle-Beach-SC-29579/80955155_zpid/,80955155,,SINGLE FAMILY,"$298,000",4524 E Walkerton Rd.,Myrtle Beach,SC,29579,3,2,1600,7840.8 sqft,2018
+https://www.zillow.com/homedetails/2701-Kashton-Dr-Myrtle-Beach-SC-29577/453581682_zpid/,453581682,,SINGLE FAMILY,"$699,000",2701 Kashton Dr.,Myrtle Beach,SC,29577,4,4,1700,871.2 sqft,
+https://www.zillow.com/homedetails/351-Lake-Arrowhead-Rd-UNIT-12-347-Myrtle-Beach-SC-29572/2074290703_zpid/,2074290703,,CONDO,"$189,900",351 Lake Arrowhead Rd. #12-347,Myrtle Beach,SC,29572,2,2,1105, ,1688
+https://www.zillow.com/homedetails/2710-S-Ocean-Blvd-404-Myrtle-Beach-SC-29577/243463338_zpid/,243463338,,CONDO,"$189,000",2710 S Ocean Boulevard #404,Myrtle Beach,SC,29577,2,2,716, ,1491
+https://www.zillow.com/homedetails/4246-Livorn-Loop-Myrtle-Beach-SC-29579/2098154085_zpid/,2098154085,,SINGLE FAMILY,"$489,000",4246 Livorn Loop,Myrtle Beach,SC,29579,4,4,3376,10018.8 sqft,3014
+https://www.zillow.com/homedetails/3999-Lark-Hill-Dr-Myrtle-Beach-SC-29577/69577165_zpid/,69577165,,SINGLE FAMILY,"$1,490,000",3999 Lark Hill Dr.,Myrtle Beach,SC,29577,4,4,3257,0.8699999999999999 acres,3977
+https://www.zillow.com/homedetails/1114-Laconic-Dr-Myrtle-Beach-SC-29588/453314342_zpid/,453314342,,SINGLE FAMILY,"$563,400",1114 Laconic Dr,Myrtle Beach,SC,29588,5,5,4017, ,
+https://www.zillow.com/homedetails/2053-Haystack-Way-Myrtle-Beach-SC-29579/69587253_zpid/,69587253,,SINGLE FAMILY,"$359,000",2053 Haystack Way,Myrtle Beach,SC,29579,4,3,2266,9147.6 sqft,2644
+https://www.zillow.com/homedetails/325-Cardita-Loop-Myrtle-Beach-SC-29588/262278259_zpid/,262278259,,SINGLE FAMILY,"$349,900",325 Cardita Loop,Myrtle Beach,SC,29588,4,3,2021,7405.2 sqft,2016
+https://www.zillow.com/homedetails/1301-Pridgen-Rd-APT-308-Myrtle-Beach-SC-29577/11160626_zpid/,11160626,,CONDO,"$129,000",1301 Pridgen Rd. #308,Myrtle Beach,SC,29577,2,2,864, ,1350
+https://www.zillow.com/homedetails/39-Smith-Blvd-ON-Myrtle-Beach-SC-29588/450754801_zpid/,450754801,,SINGLE FAMILY,"$825,000",39 Smith Blvd. #On the Intracoastal Waterway,Myrtle Beach,SC,29588,3,3,2517,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/800-Columbia-Dr-LOT-70-Myrtle-Beach-SC-29577/452843168_zpid/,452843168,,MANUFACTURED,"$159,900",800 Columbia Dr. Lot 70,Myrtle Beach,SC,29577,3,2,1456, ,
+https://www.zillow.com/homedetails/381-Winslow-Ave-Myrtle-Beach-SC-29588/80970016_zpid/,80970016,,SINGLE FAMILY,"$329,000",381 Winslow Ave.,Myrtle Beach,SC,29588,4,3,2018,6098.4 sqft,2271
+https://www.zillow.com/homedetails/8029-Wacobee-Dr-Myrtle-Beach-SC-29579/108734315_zpid/,108734315,,SINGLE FAMILY,"$1,025,000",8029 Wacobee Dr.,Myrtle Beach,SC,29579,5,4,4530,0.9 acres,4064
+https://www.zillow.com/homedetails/632-Kindred-Dr-Myrtle-Beach-SC-29588/92418488_zpid/,92418488,,SINGLE FAMILY,"$340,000",632 Kindred Dr.,Myrtle Beach,SC,29588,4,2,2392,9147.6 sqft,2242
+https://www.zillow.com/homedetails/215-Carolina-Farms-Blvd-Myrtle-Beach-SC-29579/69590888_zpid/,69590888,,SINGLE FAMILY,"$319,500",215 Carolina Farms Blvd.,Myrtle Beach,SC,29579,4,4,1776,0.29 acres,2347
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-207-Myrtle-Beach-SC-29577/454225297_zpid/,454225297,,CONDO,"$185,000",1304 N Ocean Blvd. #207,Myrtle Beach,SC,29577,2,2,813, ,
+https://www.zillow.com/homedetails/3412-Westminster-Dr-Myrtle-Beach-SC-29588/55357310_zpid/,55357310,,SINGLE FAMILY,"$799,900",3412 Westminster Dr.,Myrtle Beach,SC,29588,6,5,3852,0.37 acres,3515
+https://www.zillow.com/homedetails/401-Cessna-St-Myrtle-Beach-SC-29577/452843774_zpid/,452843774,,MANUFACTURED,"$167,900",401 Cessna St,Myrtle Beach,SC,29577,3,2,1402, ,
+https://www.zillow.com/homedetails/4030-Manor-Wood-Dr-Myrtle-Beach-SC-29588/69577231_zpid/,69577231,,SINGLE FAMILY,"$298,000",4030 Manor Wood Dr.,Myrtle Beach,SC,29588,3,2,1617,8276.4 sqft,2121
+https://www.zillow.com/homedetails/434-Harbour-View-Dr-Myrtle-Beach-SC-29579/443713346_zpid/,443713346,,SINGLE FAMILY,"$850,000",434 Harbour View Dr.,Myrtle Beach,SC,29579,5,5,3402,7405.2 sqft,
+https://www.zillow.com/homedetails/126-Clovis-Cir-Myrtle-Beach-SC-29579/69577221_zpid/,69577221,,SINGLE FAMILY,"$299,900",126 Clovis Circle,Myrtle Beach,SC,29579,3,2,1558,7840.8 sqft,1959
+https://www.zillow.com/homedetails/1287-Stalvey-Ave-Myrtle-Beach-SC-29577/11159074_zpid/,11159074,,SINGLE FAMILY,"$249,900",1287 Stalvey Ave.,Myrtle Beach,SC,29577,3,2,1350,0.27999999999999997 acres,1821
+https://www.zillow.com/homedetails/563-Plum-Ct-Myrtle-Beach-SC-29579/11136953_zpid/,11136953,,MANUFACTURED,"$222,000",563 Plum Ct.,Myrtle Beach,SC,29579,3,2,1512,7840.8 sqft,1836
+https://www.zillow.com/homedetails/6401-N-Ocean-Blvd-Myrtle-Beach-SC-29572/11152115_zpid/,11152115,,SINGLE FAMILY,"$1,407,000",6401 N Ocean Blvd.,Myrtle Beach,SC,29572,4,4,2529,0.25 acres,2984
+https://www.zillow.com/homedetails/617-Waccamaw-River-Rd-Myrtle-Beach-SC-29588/11170689_zpid/,11170689,,SINGLE FAMILY,"$399,000",617 Waccamaw River Rd.,Myrtle Beach,SC,29588,3,2,2157,0.29 acres,2119
+https://www.zillow.com/homedetails/188-Governors-Loop-Myrtle-Beach-SC-29588/72274623_zpid/,72274623,,SINGLE FAMILY,"$340,000",188 Governors Loop,Myrtle Beach,SC,29588,3,2,1736,9147.6 sqft,2079
+https://www.zillow.com/homedetails/1676-Citadel-Ln-Myrtle-Beach-SC-29577/439774870_zpid/,439774870,,SINGLE FAMILY,"$276,998",1676 Citadel Ln.,Myrtle Beach,SC,29577,3,2,1470,3920.4 sqft,
+https://www.zillow.com/homedetails/168-W-Palms-Dr-LOT-108-Myrtle-Beach-SC-29579/349047483_zpid/,349047483,,SINGLE FAMILY,"$1,499,000",168 West Palms Dr. Lot 108,Myrtle Beach,SC,29579,5,6,3825,0.25 acres,
+https://www.zillow.com/homedetails/5220-Mount-Pleasant-Dr-LOT-614-Myrtle-Beach-SC-29579/448120907_zpid/,448120907,,SINGLE FAMILY,"$724,900",5220 Mount Pleasant Dr. Lot 614,Myrtle Beach,SC,29579,5,3,3871,8276.4 sqft,
+https://www.zillow.com/homedetails/3021-Sistine-St-Myrtle-Beach-SC-29579/2064291978_zpid/,2064291978,,SINGLE FAMILY,"$429,900",3021 Sistine St.,Myrtle Beach,SC,29579,3,3,2337,7840.8 sqft,2427
+https://www.zillow.com/homedetails/845-Waterton-Ave-Myrtle-Beach-SC-29579/108762705_zpid/,108762705,,SINGLE FAMILY,"$739,000",845 Waterton Ave.,Myrtle Beach,SC,29579,6,4,3416,9147.6 sqft,3212
+https://www.zillow.com/homedetails/4505-N-Kings-Hwy-APT-C3-Myrtle-Beach-SC-29577/2069396727_zpid/,2069396727,,TOWNHOUSE,"$200,000",4505 N Kings Hwy. #C3,Myrtle Beach,SC,29577,3,3,1280, ,2003
+https://www.zillow.com/homedetails/1361-Harvester-Cir-1361-Myrtle-Beach-SC-29579/455127346_zpid/,455127346,,TOWNHOUSE,"$284,900",1361 Harvester Circle #1361,Myrtle Beach,SC,29579,3,4,1708, ,
+https://www.zillow.com/homedetails/981-Mourning-Dove-Dr-Myrtle-Beach-SC-29577/2081962220_zpid/,2081962220,,SINGLE FAMILY,"$590,000",981 Mourning Dove Dr.,Myrtle Beach,SC,29577,3,2,1821,6969.6 sqft,2251
+https://www.zillow.com/homedetails/9400-Shore-Dr-206-Myrtle-Beach-SC-29572/2075665426_zpid/,2075665426,,CONDO,"$199,000",9400 Shore Dr. #206,Myrtle Beach,SC,29572,2,2,650, ,1674
+https://www.zillow.com/homedetails/147-Shetland-Woods-Dr-Myrtle-Beach-SC-29577/2075431225_zpid/,2075431225,,MANUFACTURED,"$147,000",147 Shetland Woods Dr. #Market Village,Myrtle Beach,SC,29577,3,2,1152,4356 sqft,2028
+https://www.zillow.com/homedetails/5511-N-Ocean-Blvd-201-Myrtle-Beach-SC-29577/11153340_zpid/,11153340,,CONDO,"$225,000",5511 Ocean Blvd. N #201,Myrtle Beach,SC,29577,1,2,775, ,1404
+https://www.zillow.com/homedetails/1585-Brookgreen-Dr-Myrtle-Beach-SC-29577/69582147_zpid/,69582147,,SINGLE FAMILY,"$859,900",1585 Brookgreen Dr.,Myrtle Beach,SC,29577,5,3,3285,0.52 acres,3531
+https://www.zillow.com/homedetails/2201-S-Ocean-Blvd-210-Myrtle-Beach-SC-29577/243463496_zpid/,243463496,,CONDO,"$450,000",2201 S Ocean Blvd. #210,Myrtle Beach,SC,29577,3,2,1381, ,1833
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-330-Myrtle-Beach-SC-29577/243462654_zpid/,243462654,,CONDO,"$107,500",1105 S Ocean Blvd. #330,Myrtle Beach,SC,29577,1,1,581, ,1387
+https://www.zillow.com/homedetails/10200-Beach-Club-Dr-APT-9D-Myrtle-Beach-SC-29572/2064867612_zpid/,2064867612,,CONDO,"$529,000",10200 Beach Club Drive #9d,Myrtle Beach,SC,29572,2,2,1098, ,1556
+https://www.zillow.com/homedetails/801-Talbot-Cir-Myrtle-Beach-SC-29577/2064801199_zpid/,2064801199,,SINGLE FAMILY,"$422,500",801 Talbot Circle,Myrtle Beach,SC,29577,3,3,1769,0.36 acres,
+https://www.zillow.com/homedetails/9501-Shore-Dr-B-215-Myrtle-Beach-SC-29572/2059927133_zpid/,2059927133,,CONDO,"$210,000",9501 Shore Dr. #B-215,Myrtle Beach,SC,29572,2,2,888, ,1775
+https://www.zillow.com/homedetails/504-N-Ocean-Blvd-702-Myrtle-Beach-SC-29577/87903222_zpid/,87903222,,CONDO,"$199,900",504 N Ocean Blvd. #702,Myrtle Beach,SC,29577,1,1,693, ,1329
+https://www.zillow.com/homedetails/2396-Highway-15-Myrtle-Beach-SC-29577/448336332_zpid/,448336332,,MANUFACTURED,"$175,000",2396 Highway 15,Myrtle Beach,SC,29577,3,2,1600, ,
+https://www.zillow.com/homedetails/1501-S-Ocean-Blvd-441-Myrtle-Beach-SC-29577/243463888_zpid/,243463888,,CONDO,"$199,999",1501 S Ocean Blvd. #441,Myrtle Beach,SC,29577,1,1,530, ,1378
+https://www.zillow.com/homedetails/1206-Erin-Way-APT-A-Myrtle-Beach-SC-29577/11160016_zpid/,11160016,,CONDO,"$145,000",1206 Erin Way #A,Myrtle Beach,SC,29577,2,2,780, ,1360
+https://www.zillow.com/homedetails/401-10th-Ave-S-APT-C3-Myrtle-Beach-SC-29577/2064863248_zpid/,2064863248,,TOWNHOUSE,"$199,900",401 10th Ave. S #C-3,Myrtle Beach,SC,29577,2,3,992, ,1553
+https://www.zillow.com/homedetails/505-Quincy-Hall-Dr-Myrtle-Beach-SC-29579/80956853_zpid/,80956853,,SINGLE FAMILY,"$525,000",505 Quincy Hall Dr.,Myrtle Beach,SC,29579,4,3,2703,8712 sqft,2432
+https://www.zillow.com/homedetails/8010-Wacobee-Dr-Myrtle-Beach-SC-29579/80973157_zpid/,80973157,,SINGLE FAMILY,"$1,049,900",8010 Wacobee Drive,Myrtle Beach,SC,29579,5,4,4191,0.61 acres,3692
+https://www.zillow.com/homedetails/812-Gammon-Dr-Myrtle-Beach-SC-29579/2063085835_zpid/,2063085835,,SINGLE FAMILY,"$565,000",812 Gammon Dr.,Myrtle Beach,SC,29579,3,2,1968,8276.4 sqft,2200
+https://www.zillow.com/homedetails/5361-Ocean-Village-Dr-Myrtle-Beach-SC-29577/262280600_zpid/,262280600,,SINGLE FAMILY,"$984,000",5361 Ocean Village Dr.,Myrtle Beach,SC,29577,4,3,2656,4356 sqft,2646
+https://www.zillow.com/homedetails/409-64th-Ave-N-Myrtle-Beach-SC-29572/2068782972_zpid/,2068782972,,SINGLE FAMILY,"$999,999",409 64th Ave. N #Walk to the Atlantic Ocean,Myrtle Beach,SC,29572,5,6,3653,0.26 acres,3850
+https://www.zillow.com/homedetails/3815-Ed-Smith-Ave-Myrtle-Beach-SC-29588/11155499_zpid/,11155499,,SINGLE FAMILY,"$1,359,000",3815 Ed Smith Ave.,Myrtle Beach,SC,29588,5,5,2556,0.25 acres,2974
+https://www.zillow.com/homedetails/2500-N-Ocean-Blvd-PENTHOUSE-1-Myrtle-Beach-SC-29577/444452681_zpid/,444452681,,CONDO,"$1,299,900",2500 N Ocean Blvd. #PH 1,Myrtle Beach,SC,29577,4,4,2500, ,
+https://www.zillow.com/homedetails/128-Causey-St-Myrtle-Beach-SC-29577/108771968_zpid/,108771968,,SINGLE FAMILY,"$1,400,000",128 Causey St.,Myrtle Beach,SC,29577,5,5,4055,0.74 acres,4006
+https://www.zillow.com/homedetails/7268-Seville-Dr-Myrtle-Beach-SC-29572/99334300_zpid/,99334300,,SINGLE FAMILY,"$1,397,000",7268 Seville Dr.,Myrtle Beach,SC,29572,4,3,3119,0.29 acres,3071
+https://www.zillow.com/homedetails/4261-Blake-Rd-Myrtle-Beach-SC-29588/11155066_zpid/,11155066,,MANUFACTURED,"$160,000",4261 Blake Rd.,Myrtle Beach,SC,29588,3,2,1680,0.63 acres,1836
+https://www.zillow.com/homedetails/6900-N-Ocean-Blvd-Myrtle-Beach-SC-29572/11151845_zpid/,11151845,,TOWNHOUSE,"$129,000",6900 N Ocean Blvd,Myrtle Beach,SC,29572,1,1,519,1.01 acres,1354
+https://www.zillow.com/homedetails/494-Folly-Estates-Dr-69-Myrtle-Beach-SC-29588/80961595_zpid/,80961595,,MANUFACTURED,"$135,000",494 Folly Estates Dr. #69,Myrtle Beach,SC,29588,3,2,1568, ,2027
+https://www.zillow.com/homedetails/347-Leste-Rd-Myrtle-Beach-SC-29588/2078259574_zpid/,2078259574,,SINGLE FAMILY,"$407,400",347 Leste Rd.,Myrtle Beach,SC,29588,3,3,2098,6534 sqft,2430
+https://www.zillow.com/homedetails/1303-Bermuda-Grass-Dr-Myrtle-Beach-SC-29579/2067497093_zpid/,2067497093,,SINGLE FAMILY,"$575,000",1303 Bermuda Grass Dr.,Myrtle Beach,SC,29579,5,4,4035,0.3 acres,3448
+https://www.zillow.com/homedetails/1903-Francis-Ct-LOT-81-Myrtle-Beach-SC-29577/439410451_zpid/,439410451,,SINGLE FAMILY,"$587,777",1903 Francis Ct. Lot 81,Myrtle Beach,SC,29577,3,3,2158,6534 sqft,
+https://www.zillow.com/homedetails/1605-S-Ocean-Blvd-1114-Myrtle-Beach-SC-29577/11163894_zpid/,11163894,,CONDO,"$199,999",1605 S Ocean Blvd. #1114,Myrtle Beach,SC,29577,2,2,801, ,1564
+https://www.zillow.com/homedetails/518-Harbour-View-Dr-Myrtle-Beach-SC-29579/2076084195_zpid/,2076084195,,SINGLE FAMILY,"$725,000",518 Harbour View Dr.,Myrtle Beach,SC,29579,4,3,2380,8712 sqft,2631
+https://www.zillow.com/homedetails/3919-Gladiola-Ct-UNIT-304-Myrtle-Beach-SC-29588/52206740_zpid/,52206740,,CONDO,"$165,900",3919 Gladiola Ct. #304,Myrtle Beach,SC,29588,2,2,1108, ,1480
+https://www.zillow.com/homedetails/2205-Yellow-Morel-Way-Myrtle-Beach-SC-29579/108776130_zpid/,108776130,,SINGLE FAMILY,"$795,000",2205 Yellow Morel Way,Myrtle Beach,SC,29579,4,4,2633,10018.8 sqft,2873
+https://www.zillow.com/homedetails/5032-Middleton-View-Dr-Myrtle-Beach-SC-29579/108754987_zpid/,108754987,,SINGLE FAMILY,"$814,999",5032 Middleton View Dr.,Myrtle Beach,SC,29579,4,4,2696,8276.4 sqft,2815
+https://www.zillow.com/homedetails/7253-Seville-Dr-Myrtle-Beach-SC-29572/108758730_zpid/,108758730,,SINGLE FAMILY,"$970,000",7253 Seville Dr.,Myrtle Beach,SC,29572,4,4,2781,0.29 acres,2732
+https://www.zillow.com/homedetails/265-Venice-Way-1201-Myrtle-Beach-SC-29577/2061204228_zpid/,2061204228,,CONDO,"$429,983",265 Venice Way #1201,Myrtle Beach,SC,29577,3,2,2337,0.32 acres,2421
+https://www.zillow.com/homedetails/1196-Fiddlehead-Way-Myrtle-Beach-SC-29579/108733958_zpid/,108733958,,SINGLE FAMILY,"$865,000",1196 Fiddlehead Way,Myrtle Beach,SC,29579,4,4,3542,0.35 acres,3365
+https://www.zillow.com/homedetails/1202-Tiffany-Ln-APT-D-Myrtle-Beach-SC-29577/2121200219_zpid/,2121200219,,CONDO,"$142,900",1202 Tiffany Ln. #D,Myrtle Beach,SC,29577,2,2,848, ,1417
+https://www.zillow.com/homedetails/760-Carolina-Farms-Blvd-Myrtle-Beach-SC-29579/450752696_zpid/,450752696,,SINGLE FAMILY,"$425,000",760 Carolina Farms Blvd.,Myrtle Beach,SC,29579,3,2,2140,8712 sqft,
+https://www.zillow.com/homedetails/7470-Seville-Dr-Myrtle-Beach-SC-29572/92417079_zpid/,92417079,,SINGLE FAMILY,"$935,000",7470 Seville Dr.,Myrtle Beach,SC,29572,3,3,2657,0.35 acres,3746
+https://www.zillow.com/homedetails/105-Ashley-Park-Dr-UNIT-2B-Myrtle-Beach-SC-29579/2104573631_zpid/,2104573631,,CONDO,"$178,833",105 Ashley Park Dr. #2B,Myrtle Beach,SC,29579,3,2,1265, ,1624
+https://www.zillow.com/homedetails/107-S-Ocean-Blvd-1002-Myrtle-Beach-SC-29577/243462388_zpid/,243462388,,CONDO,"$469,900",107 S Ocean Blvd. #1002,Myrtle Beach,SC,29577,3,3,1347, ,1903
+https://www.zillow.com/homedetails/2710-S-Ocean-Blvd-406-Myrtle-Beach-SC-29577/11162996_zpid/,11162996,,CONDO,"$164,900",2710 Ocean Blvd. S #406,Myrtle Beach,SC,29577,2,2,518, ,1354
+https://www.zillow.com/homedetails/816-Waterton-Ave-Myrtle-Beach-SC-29579/72273418_zpid/,72273418,,SINGLE FAMILY,"$1,399,999",816 Waterton Ave.,Myrtle Beach,SC,29579,4,5,4130,0.27999999999999997 acres,3240
+https://www.zillow.com/homedetails/837-S-View-Ct-Myrtle-Beach-SC-29579/2067249454_zpid/,2067249454,,SINGLE FAMILY,"$1,063,000",837 Bluff View Dr. #Bluffs On The Waterway,Myrtle Beach,SC,29579,6,5,4909,10018.8 sqft,3622
+https://www.zillow.com/homedetails/8245-Sandlapper-Way-32-Myrtle-Beach-SC-29572/439388837_zpid/,439388837,,SINGLE FAMILY,"$890,000",8245 Sandlapper Way Lot 32,Myrtle Beach,SC,29572,3,3,2110,6534 sqft,
+https://www.zillow.com/homedetails/8418-Cape-Dutch-Loop-Myrtle-Beach-SC-29572/2072153366_zpid/,2072153366,,SINGLE FAMILY,"$1,189,000",8418 Cape Dutch Loop,Myrtle Beach,SC,29572,4,4,2612,0.25 acres,3218
+https://www.zillow.com/homedetails/125-Harbor-Oaks-Dr-Myrtle-Beach-SC-29588/108763133_zpid/,108763133,,SINGLE FAMILY,"$649,990",125 Harbor Oaks Dr.,Myrtle Beach,SC,29588,5,5,3500,4356 sqft,3332
+https://www.zillow.com/homedetails/2709-S-Ocean-Blvd-APT-1202-Myrtle-Beach-SC-29577/243471683_zpid/,243471683,,CONDO,"$744,900",2709 Ocean Blvd. S #1202,Myrtle Beach,SC,29577,4,4,2115, ,2782
+https://www.zillow.com/homedetails/2060-Woodburn-Dr-Myrtle-Beach-SC-29579/453043989_zpid/,453043989,,SINGLE FAMILY,"$825,000",2060 Woodburn Dr.,Myrtle Beach,SC,29579,4,4,3221,0.54 acres,
+https://www.zillow.com/homedetails/1315-Ashboro-Ct-Myrtle-Beach-SC-29579/108733507_zpid/,108733507,,SINGLE FAMILY,"$1,400,000",1315 Ashboro Ct. #Carolina Waterway Plantation,Myrtle Beach,SC,29579,5,5,3583,0.25 acres,3540
+https://www.zillow.com/homedetails/1719-Maplecress-Way-Myrtle-Beach-SC-29577/262275526_zpid/,262275526,,SINGLE FAMILY,"$539,000",1719 Maplecress Way,Myrtle Beach,SC,29577,3,3,2134,6969.6 sqft,2519
+https://www.zillow.com/homedetails/299-Lake-Arrowhead-Rd-APT-6-Myrtle-Beach-SC-29572/340664818_zpid/,340664818,,SINGLE FAMILY,"$595,500",299 Lake Arrowhead Rd. #6,Myrtle Beach,SC,29572,4,4,1445, ,2190
+https://www.zillow.com/homedetails/10301-N-Kings-Hwy-APT-21-6-Myrtle-Beach-SC-29572/2059308972_zpid/,2059308972,,SINGLE FAMILY,"$165,500",10301 N Kings Hwy APT 21-6,Myrtle Beach,SC,29572,2,2,1200, ,1634
+https://www.zillow.com/homedetails/5732-N-Ocean-Blvd-Myrtle-Beach-SC-29572/444492406_zpid/,444492406,,SINGLE FAMILY,"$799,000",5732 N Ocean Blvd. #Cabana Section,Myrtle Beach,SC,29572,,1,0,0.45999999999999996 acres,
+https://www.zillow.com/homedetails/5407-N-Ocean-Blvd-Myrtle-Beach-SC-29577/69575454_zpid/,69575454,,SINGLE FAMILY,"$1,100,000",5407 N Ocean Blvd.,Myrtle Beach,SC,29577,4,4,2943,8712 sqft,2857
+https://www.zillow.com/homedetails/9550-Shore-Dr-930-Myrtle-Beach-SC-29572/11142118_zpid/,11142118,,CONDO,"$175,000",9550 Shore Dr #930,Myrtle Beach,SC,29572,1,1,450, ,1356
+https://www.zillow.com/homedetails/6011-Dick-Pond-Rd-Myrtle-Beach-SC-29588/62985169_zpid/,62985169,,SINGLE FAMILY,"$775,000",6011 Dick Pond Rd.,Myrtle Beach,SC,29588,4,4,7900,2 acres,
+https://www.zillow.com/homedetails/4025-Captiva-Row-Myrtle-Beach-SC-29579/71668686_zpid/,71668686,,SINGLE FAMILY,"$539,000",4025 Captiva Row,Myrtle Beach,SC,29579,4,3,2300,9147.6 sqft,2514
+https://www.zillow.com/homedetails/3754-Annandale-Dr-Myrtle-Beach-SC-29577/2098266546_zpid/,2098266546,,SINGLE FAMILY,"$1,250,000",3754 Annandale Dr.,Myrtle Beach,SC,29577,5,4,4268,0.42000000000000004 acres,3507
+https://www.zillow.com/homedetails/840-Jeter-Ln-Myrtle-Beach-SC-29588/108714830_zpid/,108714830,,SINGLE FAMILY,"$689,000",840 Jeter Ln.,Myrtle Beach,SC,29588,4,3,2437,0.52 acres,2696
+https://www.zillow.com/homedetails/4016-Atalaya-Pl-Myrtle-Beach-SC-29579/72267869_zpid/,72267869,,SINGLE FAMILY,"$765,000",4016 Atalaya Pl.,Myrtle Beach,SC,29579,4,3,2732,0.5599999999999999 acres,
+https://www.zillow.com/homedetails/2511-S-Ocean-Blvd-1601-Myrtle-Beach-SC-29577/2100384515_zpid/,2100384515,,CONDO,"$420,000",2511 S Ocean Blvd. #1601,Myrtle Beach,SC,29577,3,2,1590, ,2135
+https://www.zillow.com/homedetails/5310-N-Ocean-Blvd-PENTHOUSE-6-1506-Myrtle-Beach-SC-29577/452934138_zpid/,452934138,,CONDO,"$1,200,000",5310 N Ocean Blvd. #Ph 6 1506,Myrtle Beach,SC,29577,5,4,2385, ,
+https://www.zillow.com/homedetails/414-Dunes-Dr-Myrtle-Beach-SC-29572/11140996_zpid/,11140996,,SINGLE FAMILY,"$898,000",414 Dunes Dr.,Myrtle Beach,SC,29572,3,3,2272,0.49000000000000005 acres,2703
+https://www.zillow.com/homedetails/9700-Kings-Rd-288-Myrtle-Beach-SC-29572/455150641_zpid/,455150641,,MANUFACTURED,"$175,000",9700 Kings Rd. #288,Myrtle Beach,SC,29572,2,2,481, ,
+https://www.zillow.com/homedetails/7076-Denim-Loop-Myrtle-Beach-SC-29579/442025912_zpid/,442025912,,SINGLE FAMILY,"$564,020",7076 Denim Loop,Myrtle Beach,SC,29579,3,2,2239,0.25 acres,
+https://www.zillow.com/homedetails/2384-Covington-Dr-Myrtle-Beach-SC-29579/68975566_zpid/,68975566,,SINGLE FAMILY,"$425,000",2384 Covington Dr.,Myrtle Beach,SC,29579,4,3,2264,10018.8 sqft,2479
+https://www.zillow.com/homedetails/4529-Weekly-Dr-Myrtle-Beach-SC-29579/262279591_zpid/,262279591,,SINGLE FAMILY,"$424,900",4529 Weekly Dr,Myrtle Beach,SC,29579,3,2,1755,8276.4 sqft,2197
+https://www.zillow.com/homedetails/1504-Saint-Thomas-Cir-Myrtle-Beach-SC-29577/69579305_zpid/,69579305,,SINGLE FAMILY,"$579,000",1504 Saint Thomas Circle,Myrtle Beach,SC,29577,4,3,2198,7405.2 sqft,2623
+https://www.zillow.com/homedetails/1662-Westminster-Dr-Myrtle-Beach-SC-29577/262276745_zpid/,262276745,,SINGLE FAMILY,"$925,000",1662 Westminster Dr.,Myrtle Beach,SC,29577,4,3,3591,0.67 acres,3874
+https://www.zillow.com/homedetails/3753-Citation-Way-APT-417-Myrtle-Beach-SC-29577/2093974937_zpid/,2093974937,,CONDO,"$129,900",3753 Citation Way #417,Myrtle Beach,SC,29577,1,1,713, ,1305
+https://www.zillow.com/homedetails/3012-Palma-Way-Myrtle-Beach-SC-29579/455175149_zpid/,455175149,,SINGLE FAMILY,"$429,990",3012 Palma Way,Myrtle Beach,SC,29579,4,3,2537, ,
+https://www.zillow.com/homedetails/4818-Harvest-Dr-Myrtle-Beach-SC-29579/69576970_zpid/,69576970,,SINGLE FAMILY,"$450,000",4818 Harvest Dr.,Myrtle Beach,SC,29579,4,3,2257,8276.4 sqft,2365
+https://www.zillow.com/community/waterway-palms/2061222069_zpid/,2061222069,,SINGLE FAMILY,"$690,000+","The Harlen Plan, Waterway Palms",Myrtle Beach,SC,29579,5,4,4060, ,3501
+https://www.zillow.com/homedetails/5907-Haskell-Cir-Myrtle-Beach-SC-29577/447481830_zpid/,447481830,,SINGLE FAMILY,"$1,275,000",5907 Haskell Circle,Myrtle Beach,SC,29577,8,4,4164,0.3 acres,
+https://www.zillow.com/homedetails/710-Yucca-Ave-Myrtle-Beach-SC-29577/11152405_zpid/,11152405,,SINGLE FAMILY,"$650,000",710 Yucca Ave.,Myrtle Beach,SC,29577,4,4,2129,0.26 acres,2443
+https://www.zillow.com/homedetails/4924-Pond-Shoals-Ct-UNIT-101-Myrtle-Beach-SC-29579/2064801255_zpid/,2064801255,,CONDO,"$199,900",4924 Pond Shoals Ct. #101,Myrtle Beach,SC,29579,3,2,1200, ,1739
+https://www.zillow.com/homedetails/1043-Harbison-Cir-Myrtle-Beach-SC-29579/2069814816_zpid/,2069814816,,SINGLE FAMILY,"$459,000",1043 Harbison Circle,Myrtle Beach,SC,29579,5,4,2445,7405.2 sqft,2614
+https://www.zillow.com/homedetails/488-River-Oaks-Dr-APT-61F-Myrtle-Beach-SC-29579/2055611877_zpid/,2055611877,,CONDO,"$145,000",488 River Oaks Dr. #61F,Myrtle Beach,SC,29579,2,2,801, ,1516
+https://www.zillow.com/homedetails/2207-S-Ocean-Blvd-718-Myrtle-Beach-SC-29577/80628187_zpid/,80628187,,CONDO,"$124,900",2207 S Ocean Blvd. #718,Myrtle Beach,SC,29577,1,1,510, ,1250
+https://www.zillow.com/homedetails/1178-Shire-Way-Myrtle-Beach-SC-29577/121888648_zpid/,121888648,,SINGLE FAMILY,"$599,900",1178 Shire Way,Myrtle Beach,SC,29577,3,3,2738,7405.2 sqft,3169
+https://www.zillow.com/homedetails/2602-Clearwater-St-Myrtle-Beach-SC-29577/55357329_zpid/,55357329,,SINGLE FAMILY,"$429,900",2602 Clearwater St.,Myrtle Beach,SC,29577,3,2,1448,4791.6 sqft,2047
+https://www.zillow.com/homedetails/422-Harbour-View-Dr-Myrtle-Beach-SC-29579/2069737732_zpid/,2069737732,,SINGLE FAMILY,"$674,900",422 Harbour View Dr.,Myrtle Beach,SC,29579,3,3,2238,7405.2 sqft,2553
+https://www.zillow.com/homedetails/5605-Whitebark-Dr-Myrtle-Beach-SC-29577/2065616993_zpid/,2065616993,,SINGLE FAMILY,"$550,000",5605 Whitebark Dr.,Myrtle Beach,SC,29577,3,2,1824,6969.6 sqft,
+https://www.zillow.com/homedetails/405-N-Highland-Way-Myrtle-Beach-SC-29572/11152207_zpid/,11152207,,SINGLE FAMILY,"$1,349,000",405 N Highland Way,Myrtle Beach,SC,29572,4,5,3076,9147.6 sqft,3789
+https://www.zillow.com/homedetails/924-Fairwood-Lakes-Ln-UNIT-24G-Myrtle-Beach-SC-29588/454951566_zpid/,454951566,,CONDO,"$100,000",924 Fairwood Lakes Ln. #24G,Myrtle Beach,SC,29588,1,1,660, ,
+https://www.zillow.com/homedetails/1286-Culbertson-Ave-Myrtle-Beach-SC-29577/262279838_zpid/,262279838,,SINGLE FAMILY,"$534,900",1286 Culbertson Ave.,Myrtle Beach,SC,29577,4,3,2339,6969.6 sqft,2604
+https://www.zillow.com/homedetails/2500-N-Ocean-Blvd-Myrtle-Beach-SC-29577/11158870_zpid/,11158870,,CONDO,"$159,500",2406 N Ocean Blvd. #104,Myrtle Beach,SC,29577,1,1,588, ,1212
+https://www.zillow.com/homedetails/2241-Sand-Dunes-Dr-Myrtle-Beach-SC-29577/2064211108_zpid/,2064211108,,SINGLE FAMILY,"$709,900",2241 Sand Dunes Dr.,Myrtle Beach,SC,29577,4,4,2537,9147.6 sqft,2992
+https://www.zillow.com/homedetails/412-N-Oak-St-Myrtle-Beach-SC-29577/444483329_zpid/,444483329,,SINGLE FAMILY,"$405,000",412 N Oak St,Myrtle Beach,SC,29577,3,3,1287,0.1 acres,
+https://www.zillow.com/homedetails/2705-S-Key-Largo-Cir-Myrtle-Beach-SC-29577/11163137_zpid/,11163137,,SINGLE FAMILY,"$495,500",2705 South Key Largo Circle,Myrtle Beach,SC,29577,3,2,1464,4791.6 sqft,1967
+https://www.zillow.com/homedetails/2311-S-Ocean-Blvd-139-Myrtle-Beach-SC-29577/72264948_zpid/,72264948,,CONDO,"$107,000",2311 S Ocean Blvd. #139,Myrtle Beach,SC,29577,1,1,349, ,986
+https://www.zillow.com/homedetails/3983-Forsythia-Ct-UNIT-204-Myrtle-Beach-SC-29588/2120228781_zpid/,2120228781,,CONDO,"$194,900",3983 Forsythia Ct. #204,Myrtle Beach,SC,29588,2,2,1035, ,1541
+https://www.zillow.com/homedetails/144-Olde-Towne-Way-UNIT-5-Myrtle-Beach-SC-29588/80976322_zpid/,80976322,,TOWNHOUSE,"$188,000",144 Olde Towne Way UNIT 5,Myrtle Beach,SC,29588,2,3,1401,6098 sqft,1836
+https://www.zillow.com/homedetails/9700-Kings-Rd-MH-259-Myrtle-Beach-SC-29572/443717521_zpid/,443717521,,MANUFACTURED,"$169,000",9700 Kings Rd. MH #259,Myrtle Beach,SC,29572,2,1,920, ,
+https://www.zillow.com/homedetails/3456-Macklen-Rd-18B-Myrtle-Beach-SC-29588/2059931624_zpid/,2059931624,,TOWNHOUSE,"$118,600",3456 Macklen Rd. #18-B,Myrtle Beach,SC,29588,2,2,964, ,1541
+https://www.zillow.com/homedetails/9590-Bellasera-Cir-Myrtle-Beach-SC-29579/108734058_zpid/,108734058,,SINGLE FAMILY,"$1,389,000",9590 Bellasera Circle,Myrtle Beach,SC,29579,3,3,3314,0.61 acres,3200
+https://www.zillow.com/homedetails/2007-S-Ocean-Blvd-607-Myrtle-Beach-SC-29577/80974570_zpid/,80974570,,CONDO,"$529,900",2007 S Ocean Blvd. #607,Myrtle Beach,SC,29577,4,3,1780, ,2287
+https://www.zillow.com/homedetails/3721-Ed-Smith-Ave-Myrtle-Beach-SC-29588/11155513_zpid/,11155513,,SINGLE FAMILY,"$795,000",3721 Ed Smith Ave.,Myrtle Beach,SC,29588,3,3,3040,0.27999999999999997 acres,2524
+https://www.zillow.com/homedetails/518-Rose-Fountain-Dr-HOMESITE-638-Myrtle-Beach-SC-29579/349906329_zpid/,349906329,,SINGLE FAMILY,"$939,900",518 Rose Fountain Dr. Waterbridge Lot 638,Myrtle Beach,SC,29579,4,4,3824,0.9099999999999999 acres,3867
+https://www.zillow.com/homedetails/6900-N-Ocean-Blvd-1509-Conway-SC-29572/180381764_zpid/,180381764,,CONDO,"$173,000",6900 N Ocean Blvd. #1509,Conway,SC,29572,1,1,519, ,1328
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-1228-Myrtle-Beach-SC-29577/72271643_zpid/,72271643,,CONDO,"$139,900",1105 S Ocean Blvd. #1228,Myrtle Beach,SC,29577,1,1,645, ,1399
+https://www.zillow.com/homedetails/9550-Shore-Dr-433-Myrtle-Beach-SC-29572/11142158_zpid/,11142158,,CONDO,"$175,000",9550 Shore Dr. #433,Myrtle Beach,SC,29572,,1,392, ,1356
+https://www.zillow.com/homedetails/3000-Chesterwood-Ct-Myrtle-Beach-SC-29579/121890996_zpid/,121890996,,SINGLE FAMILY,"$439,900",3000 Chesterwood Ct.,Myrtle Beach,SC,29579,4,3,2598,8712 sqft,2463
+https://www.zillow.com/homedetails/5717-Redgum-Dr-Myrtle-Beach-SC-29579/2071285451_zpid/,2071285451,,SINGLE FAMILY,"$415,000",5717 Redgum Dr.,Myrtle Beach,SC,29579,4,4,2452,6098.4 sqft,2452
+https://www.zillow.com/homedetails/110-Horizon-River-Dr-UNIT-I-2-Myrtle-Beach-SC-29588/2069550422_zpid/,2069550422,,CONDO,"$134,900",110 Horizon River Dr. #I-2,Myrtle Beach,SC,29588,2,2,1023, ,1411
+https://www.zillow.com/homedetails/966-Crystal-Water-Way-Myrtle-Beach-SC-29579/108782724_zpid/,108782724,,SINGLE FAMILY,"$649,900",966 Crystal Water Way,Myrtle Beach,SC,29579,4,4,2684,6098.4 sqft,2799
+https://www.zillow.com/homedetails/736-Enchantment-Loop-Myrtle-Beach-SC-29588/2057338491_zpid/,2057338491,,SINGLE FAMILY,"$479,900",736 Enchantment Loop,Myrtle Beach,SC,29588,4,3,2549,7840.8 sqft,2730
+https://www.zillow.com/homedetails/1501-S-Ocean-Blvd-430-Myrtle-Beach-SC-29577/243463883_zpid/,243463883,,CONDO,"$135,000",1501 S Ocean Blvd. #430,Myrtle Beach,SC,29577,,1,431, ,1332
+https://www.zillow.com/homedetails/1054-E-Isle-Of-Palms-Ave-Myrtle-Beach-SC-29579/108721692_zpid/,108721692,,SINGLE FAMILY,"$850,000",1054 East Isle of Palms Ave.,Myrtle Beach,SC,29579,5,4,4044,7840.8 sqft,3428
+https://www.zillow.com/homedetails/201-Air-Stream-Dr-Myrtle-Beach-SC-29577/2060513617_zpid/,2060513617,,MANUFACTURED,"$129,900",201 Air Stream Dr.,Myrtle Beach,SC,29577,3,2,1178, ,2214
+https://www.zillow.com/homedetails/2511-S-Ocean-Blvd-507G-Myrtle-Beach-SC-29577/452799318_zpid/,452799318,,CONDO,"$439,900",2511 S Ocean Blvd. #507G,Myrtle Beach,SC,29577,3,2,1568, ,
+https://www.zillow.com/homedetails/2000-N-Ocean-Blvd-1117-Myrtle-Beach-SC-29577/62979147_zpid/,62979147,,CONDO,"$469,000",2000 N Ocean Blvd. #1117,Myrtle Beach,SC,29577,3,2,1136, ,1767
+https://www.zillow.com/homedetails/832-Pembridge-Ct-Myrtle-Beach-SC-29579/71670281_zpid/,71670281,,SINGLE FAMILY,"$444,900",832 Pembridge Ct.,Myrtle Beach,SC,29579,3,2,2133,0.42000000000000004 acres,2404
+https://www.zillow.com/homedetails/3774-Hitchcock-Way-APT-836-Myrtle-Beach-SC-29577/72273043_zpid/,72273043,,CONDO,"$174,900",3774 Hitchcock Way #836,Myrtle Beach,SC,29577,3,2,1400, ,1852
+https://www.zillow.com/homedetails/576-Oxbow-Dr-Myrtle-Beach-SC-29579/72267698_zpid/,72267698,,SINGLE FAMILY,"$799,000",576 Oxbow Dr.,Myrtle Beach,SC,29579,4,4,3878,0.48 acres,3726
+https://www.zillow.com/homedetails/5819-Ledro-Ln-Myrtle-Beach-SC-29577/262284008_zpid/,262284008,,SINGLE FAMILY,"$599,900",5819 Ledro Ln.,Myrtle Beach,SC,29577,3,2,1824,6534 sqft,2191
+https://www.zillow.com/homedetails/4905-Britewater-Ct-UNIT-202-Myrtle-Beach-SC-29579/2064774172_zpid/,2064774172,,CONDO,"$169,900",4905 Britewater Ct. #202,Myrtle Beach,SC,29579,2,2,1132, ,1573
+https://www.zillow.com/homedetails/113-Preservation-Dr-Myrtle-Beach-SC-29572/121889687_zpid/,121889687,,SINGLE FAMILY,"$639,900",113 Preservation Dr.,Myrtle Beach,SC,29572,3,2,2109,0.27999999999999997 acres,2829
+https://www.zillow.com/homedetails/2858-Ellesmere-Cir-Myrtle-Beach-SC-29579/2067385305_zpid/,2067385305,,SINGLE FAMILY,"$425,000",2858 Ellesmere Circle,Myrtle Beach,SC,29579,4,4,2377,6534 sqft,2429
+https://www.zillow.com/homedetails/418-Tree-Top-Ct-C-Myrtle-Beach-SC-29588/455118420_zpid/,455118420,,CONDO,"$129,999",418 Tree Top Ct. #C,Myrtle Beach,SC,29588,1,1,665, ,
+https://www.zillow.com/homedetails/10301-N-Kings-Hwy-APT-13-5-Myrtle-Beach-SC-29572/243453081_zpid/,243453081,,CONDO,"$147,000",10301 North Kings Hwy. #13-5,Myrtle Beach,SC,29572,2,2,1020, ,1614
+https://www.zillow.com/homedetails/2406-N-Ocean-Blvd-PENTHOUSE-4-1704-Myrtle-Beach-SC-29577/441805626_zpid/,441805626,,CONDO,"$415,000",2406 N Ocean Blvd. #PH4-1704,Myrtle Beach,SC,29577,2,3,1178, ,
+https://www.zillow.com/homedetails/5825-Peachtree-Rd-Myrtle-Beach-SC-29588/2108689275_zpid/,2108689275,,SINGLE FAMILY,"$825,000",5825 Peachtree Rd.,Myrtle Beach,SC,29588,5,5,2988,1.52 acres,2917
+https://www.zillow.com/homedetails/800-Columbia-Dr-LOT-44-Myrtle-Beach-SC-29572/450158724_zpid/,450158724,,MANUFACTURED,"$129,900",800 Columbia Dr. Lot 44,Myrtle Beach,SC,29572,3,2,945, ,
+https://www.zillow.com/homedetails/701-67th-Ave-N-Myrtle-Beach-SC-29572/11138101_zpid/,11138101,,SINGLE FAMILY,"$459,000",701 67th Ave. N,Myrtle Beach,SC,29572,3,2,1595,8712 sqft,1982
+https://www.zillow.com/homedetails/321-Sanctuary-Ct-Myrtle-Beach-SC-29588/2094778224_zpid/,2094778224,,SINGLE FAMILY,"$434,000",321 Sanctuary Ct.,Myrtle Beach,SC,29588,3,2,1762,0.61 acres,2204
+https://www.zillow.com/homedetails/3735-Block-House-Way-APT-113-Myrtle-Beach-SC-29577/212992375_zpid/,212992375,,CONDO,"$187,400",3735 Block House Way #113,Myrtle Beach,SC,29577,2,2,1014, ,1531
+https://www.zillow.com/homedetails/412-43rd-Ave-N-Myrtle-Beach-SC-29577/11154408_zpid/,11154408,,SINGLE FAMILY,"$899,900",412 43rd Ave. N,Myrtle Beach,SC,29577,4,4,2755,0.31 acres,3003
+https://www.zillow.com/homedetails/6760-Ocean-Breeze-Loop-Myrtle-Beach-SC-29572/2066611591_zpid/,2066611591,,SINGLE FAMILY,"$659,000",6760 Ocean Breeze Loop,Myrtle Beach,SC,29572,4,3,2380,3920.4 sqft,2440
+https://www.zillow.com/homedetails/1590-Legacy-Loop-Myrtle-Beach-SC-29577/121890624_zpid/,121890624,,SINGLE FAMILY,"$525,000",1590 Legacy Loop,Myrtle Beach,SC,29577,4,3,2146,8276.4 sqft,
+https://www.zillow.com/homedetails/9051-Fort-Hill-Way-Myrtle-Beach-SC-29579/2059469295_zpid/,2059469295,,SINGLE FAMILY,"$498,900",9051 Fort Hill Way,Myrtle Beach,SC,29579,5,4,3221,7840.8 sqft,3033
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-505-Myrtle-Beach-SC-29577/454225497_zpid/,454225497,,CONDO,"$115,000",1304 N Ocean Blvd. #505,Myrtle Beach,SC,29577,1,1,395, ,
+https://www.zillow.com/homedetails/1415-Powhaton-Dr-Myrtle-Beach-SC-29577/87903318_zpid/,87903318,,SINGLE FAMILY,"$430,000",1415 Powhaton Dr.,Myrtle Beach,SC,29577,4,3,1631,6098.4 sqft,2270
+https://www.zillow.com/homedetails/510-Fairway-Lakes-Dr-18C-Myrtle-Beach-SC-29577/454669796_zpid/,454669796,,CONDO,"$115,000",510 Fairway Lakes Dr. #18C,Myrtle Beach,SC,29577,1,2,760, ,
+https://www.zillow.com/homedetails/7610-Driftwood-Dr-Myrtle-Beach-SC-29572/11137239_zpid/,11137239,,SINGLE FAMILY,"$724,900",7610 Driftwood Dr. #Driftwood Dr.,Myrtle Beach,SC,29572,4,4,2496,0.32999999999999996 acres,3072
+https://www.zillow.com/homedetails/756-Culbertson-Ave-Myrtle-Beach-SC-29577/262277746_zpid/,262277746,,SINGLE FAMILY,"$558,900",756 Culbertson Ave.,Myrtle Beach,SC,29577,4,3,2158,6534 sqft,2503
+https://www.zillow.com/homedetails/202-Avenue-Of-The-Palms-TOWNHOUSE-E-Myrtle-Beach-SC-29579/450366734_zpid/,450366734,,SINGLE FAMILY,"$845,000",202 Ave. of the Palms #The Bluffs On The Waterway,Myrtle Beach,SC,29579,5,4,3258,10018.8 sqft,
+https://www.zillow.com/homedetails/207-Green-Lake-Dr-Myrtle-Beach-SC-29572/11129960_zpid/,11129960,,SINGLE FAMILY,"$625,000",207 Green Lake Dr.,Myrtle Beach,SC,29572,3,3,2095,0.43 acres,2553
+https://www.zillow.com/homedetails/6774-Ocean-Breeze-Loop-Myrtle-Beach-SC-29572/2060331529_zpid/,2060331529,,SINGLE FAMILY,"$720,000",6774 Ocean Breeze Loop,Myrtle Beach,SC,29572,4,3,2328,5143 sqft,2455
+https://www.zillow.com/homedetails/3015-Old-Bryan-Dr-APT-17-2-Myrtle-Beach-SC-29577/11149187_zpid/,11149187,,CONDO,"$149,995",3015 Old Bryan Dr. #17-2,Myrtle Beach,SC,29577,2,2,869, ,1443
+https://www.zillow.com/homedetails/604-Heathrow-Dr-UNIT-1101-Myrtle-Beach-SC-29579/180361807_zpid/,180361807,,CONDO,"$149,900",604 Heathrow Dr. #1101,Myrtle Beach,SC,29579,2,2,1050, ,1576
+https://www.zillow.com/homedetails/809-Covelo-Ln-Myrtle-Beach-SC-29579/108776114_zpid/,108776114,,SINGLE FAMILY,"$459,900",809 Covelo Ln.,Myrtle Beach,SC,29579,3,3,2030,6534 sqft,2244
+https://www.zillow.com/homedetails/9700-Kings-Road-Ext-M512-Myrtle-Beach-SC-29572/454194989_zpid/,454194989,,MANUFACTURED,"$159,000",9700 Kings Rd. #Site M512,Myrtle Beach,SC,29572,2,1,850, ,
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-1224-Myrtle-Beach-SC-29577/72278402_zpid/,72278402,,CONDO,"$125,000",1105 S Ocean Blvd. #1224,Myrtle Beach,SC,29577,1,1,643, ,1398
+https://www.zillow.com/homedetails/922-Fairwood-Lakes-Ln-22-D-Myrtle-Beach-SC-29588/2053603050_zpid/,2053603050,,CONDO,"$145,000",922 Fairwood Lakes Ln. #22-D,Myrtle Beach,SC,29588,2,2,849, ,1406
+https://www.zillow.com/homedetails/9994-Beach-Club-Dr-APT-805-Myrtle-Beach-SC-29572/2095943253_zpid/,2095943253,,CONDO,"$659,000",9994 Beach Club Dr APT 805,Myrtle Beach,SC,29572,3,3,2108, ,2563
+https://www.zillow.com/homedetails/3757-Kingsley-Dr-Myrtle-Beach-SC-29588/69591690_zpid/,69591690,,SINGLE FAMILY,"$619,500",3757 Kingsley Dr.,Myrtle Beach,SC,29588,4,3,2247,0.31 acres,2705
+https://www.zillow.com/homedetails/1106-Dowling-St-Myrtle-Beach-SC-29579/108729464_zpid/,108729464,,SINGLE FAMILY,"$579,999",1106 Dowling St.,Myrtle Beach,SC,29579,5,5,3483,0.25 acres,3142
+https://www.zillow.com/homedetails/3676-Clay-Pond-Village-Ln-APT-4-Myrtle-Beach-SC-29579/2090453958_zpid/,2090453958,,CONDO,"$149,000",3676 Clay Pond Village Ln. #4,Myrtle Beach,SC,29579,2,2,978, ,1530
+https://www.zillow.com/homedetails/6550-Anterselva-Dr-Myrtle-Beach-SC-29572/2077672442_zpid/,2077672442,,SINGLE FAMILY,"$624,900",6550 Anterselva Dr.,Myrtle Beach,SC,29572,3,2,2058,6969.6 sqft,2530
+https://www.zillow.com/homedetails/300-19th-Ave-S-Myrtle-Beach-SC-29577/55357494_zpid/,55357494,,SINGLE FAMILY,"$799,900",300 19th Ave. S,Myrtle Beach,SC,29577,4,4,7049,0.45 acres,3316
+https://www.zillow.com/homedetails/6186-Chadderton-Cir-Myrtle-Beach-SC-29579/262286158_zpid/,262286158,,SINGLE FAMILY,"$569,900",6186 Chadderton Circle,Myrtle Beach,SC,29579,5,4,3802,7405.2 sqft,3205
+https://www.zillow.com/homedetails/2000-Greens-Blvd-APT-18D-Myrtle-Beach-SC-29577/11148173_zpid/,11148173,,CONDO,"$123,900",2000 Greens Blvd. #18-D,Myrtle Beach,SC,29577,2,2,1120, ,1610
+https://www.zillow.com/community/indigo-bay/345649332_zpid/,345649332,,SINGLE FAMILY,"$527,990+","Esquire Place Plan, Indigo Bay",Myrtle Beach,SC,29579,4,3,2783, ,2933
+https://www.zillow.com/homedetails/1211-Arezzo-Ave-Myrtle-Beach-SC-29572/2075147403_zpid/,2075147403,,SINGLE FAMILY,"$949,900",1211 Arezzo Ave.,Myrtle Beach,SC,29572,3,3,2833,6534 sqft,3150
+https://www.zillow.com/homedetails/854-Falkirk-St-Myrtle-Beach-SC-29579/80959207_zpid/,80959207,,SINGLE FAMILY,"$639,999",854 Falkirk St.,Myrtle Beach,SC,29579,6,3,3176,0.35 acres,2831
+https://www.zillow.com/homedetails/2085-Timmerman-Rd-Myrtle-Beach-SC-29588/92412611_zpid/,92412611,,SINGLE FAMILY,"$919,900",2085 Timmerman Rd.,Myrtle Beach,SC,29588,4,4,4900,0.45 acres,3502
+https://www.zillow.com/homedetails/416-Seabury-Ln-Myrtle-Beach-SC-29579/108769185_zpid/,108769185,,SINGLE FAMILY,"$769,650",416 Seabury Ln.,Myrtle Beach,SC,29579,4,5,3443,0.3 acres,3432
+https://www.zillow.com/homedetails/2170-Buxton-Dr-Myrtle-Beach-SC-29579/92421813_zpid/,92421813,,SINGLE FAMILY,"$450,000",2170 Buxton Dr.,Myrtle Beach,SC,29579,6,4,3637,0.41 acres,3125
+https://www.zillow.com/homedetails/3000-N-Ocean-Blvd-1601-Myrtle-Beach-SC-29577/87917451_zpid/,87917451,,CONDO,"$454,700",3000 N Ocean Blvd. #1601,Myrtle Beach,SC,29577,3,3,1487, ,2024
+https://www.zillow.com/homedetails/1200-N-Ocean-Blvd-UNIT-803-Myrtle-Beach-SC-29577/80972130_zpid/,80972130,,CONDO,"$147,900",1200 Ocean Blvd. N #803,Myrtle Beach,SC,29577,,1,384, ,1355
+https://www.zillow.com/homedetails/2761-Kruzel-St-UNIT-H-Myrtle-Beach-SC-29577/2064816154_zpid/,2064816154,,TOWNHOUSE,"$499,900",2761 Kruzel St. #H,Myrtle Beach,SC,29577,4,4,2202, ,2485
+https://www.zillow.com/homedetails/1501-S-Ocean-Blvd-551-Myrtle-Beach-SC-29577/243463911_zpid/,243463911,,CONDO,"$140,000",1501 S Ocean Blvd. #551,Myrtle Beach,SC,29577,1,1,576, ,1399
+https://www.zillow.com/homedetails/893-Barn-Owl-Ct-893-Myrtle-Beach-SC-29579/441798824_zpid/,441798824,,TOWNHOUSE,"$199,900",893 Barn Owl Ct. #893,Myrtle Beach,SC,29579,2,3,1368, ,
+https://www.zillow.com/homedetails/736-Crystal-Waterway-Dr-Myrtle-Beach-SC-29579/455093680_zpid/,455093680,,SINGLE FAMILY,"$798,000",736 Crystal Waterway Dr.,Myrtle Beach,SC,29579,4,4,2999,6098.4 sqft,
+https://www.zillow.com/homedetails/813-Devon-Estate-Ave-Myrtle-Beach-SC-29588/262276641_zpid/,262276641,,SINGLE FAMILY,"$539,000",813 Devon Estate Ave.,Myrtle Beach,SC,29588,4,3,2426,8276.4 sqft,2498
+https://www.zillow.com/homedetails/2790-Howard-Ave-UNIT-D-Myrtle-Beach-SC-29577/449340902_zpid/,449340902,,TOWNHOUSE,"$419,900",2790 Howard Ave. #D,Myrtle Beach,SC,29577,2,3,1383, ,
+https://www.zillow.com/homedetails/257-Venice-Way-H-204-Myrtle-Beach-SC-29577/2064810148_zpid/,2064810148,,CONDO,"$429,900",257 Venice Way #H-204,Myrtle Beach,SC,29577,3,2,1758, ,2184
+https://www.zillow.com/homedetails/692-Laconic-Dr-696-Myrtle-Beach-SC-29588/455129898_zpid/,455129898,,SINGLE FAMILY,"$409,510",692 Laconic Dr. #696,Myrtle Beach,SC,29588,4,3,2425,8712 sqft,
+https://www.zillow.com/homedetails/616-River-Oaks-Dr-APT-54F-Myrtle-Beach-SC-29579/2134137671_zpid/,2134137671,,CONDO,"$160,000",616 River Oaks Dr. #54F,Myrtle Beach,SC,29579,2,2,1100, ,1643
+https://www.zillow.com/homedetails/107-S-Ocean-Blvd-1402-Myrtle-Beach-SC-29577/243462400_zpid/,243462400,,CONDO,"$425,000",107 S Ocean Blvd. #1402,Myrtle Beach,SC,29577,3,3,1347, ,1903
+https://www.zillow.com/homedetails/4709-Wild-Iris-Dr-APT-305-Myrtle-Beach-SC-29577/2128192194_zpid/,2128192194,,CONDO,"$160,000",4709 Wild Iris Dr. #305,Myrtle Beach,SC,29577,1,1,800, ,1392
+https://www.zillow.com/homedetails/2305-Seaseeker-Ln-Myrtle-Beach-SC-29577/455234742_zpid/,455234742,,SINGLE FAMILY,"$695,000",2305 Seaseeker Ln.,Myrtle Beach,SC,29577,4,4,1895,871.2 sqft,
+https://www.zillow.com/homedetails/2307-Seaseeker-Ln-Myrtle-Beach-SC-29577/455234908_zpid/,455234908,,SINGLE FAMILY,"$695,000",2307 Seaseeker Ln.,Myrtle Beach,SC,29577,4,4,1895,871.2 sqft,
+https://www.zillow.com/homedetails/5164-Water-Breeze-Ct-LOT-307-Santee-W-bonus-Myrtle-Beach-SC-29588/453572626_zpid/,453572626,,SINGLE FAMILY,"$512,197",5164 Water Breeze Ct. Lot 307 Santee,Santee W/bonus Myrtle Beach,SC,29588,4,3,2359,10018.8 sqft,
+https://www.zillow.com/homedetails/6598-Torino-Ln-Myrtle-Beach-SC-29572/2054456186_zpid/,2054456186,,SINGLE FAMILY,"$445,000",6598 Torino Lane,Myrtle Beach,SC,29572,2,2,1479,3920.4 sqft,2084
+https://www.zillow.com/homedetails/5865-Creekside-Dr-Myrtle-Beach-SC-29588/447940604_zpid/,447940604,,SINGLE FAMILY,"$675,000",5865 Creekside Dr.,Myrtle Beach,SC,29588,5,5,2538,0.41 acres,
+https://www.zillow.com/community/waterway-palms/455246041_zpid/,455246041,,SINGLE FAMILY,"$900,000+","The Linden Plan, Waterway Palms",Myrtle Beach,SC,29579,6,5,5165, ,
+https://www.zillow.com/homedetails/8556-Juxa-Dr-Myrtle-Beach-SC-29579/92413811_zpid/,92413811,,SINGLE FAMILY,"$539,900",8556 Juxa Dr.,Myrtle Beach,SC,29579,3,2,2202,0.27999999999999997 acres,2437
+https://www.zillow.com/homedetails/1118-Prescott-Cir-Myrtle-Beach-SC-29577/262277124_zpid/,262277124,,SINGLE FAMILY,"$475,000",1118 Prescott Circle,Myrtle Beach,SC,29577,3,2,2013,6534 sqft,
+https://www.zillow.com/homedetails/684-Waterbridge-Blvd-Myrtle-Beach-SC-29579/104466109_zpid/,104466109,,SINGLE FAMILY,"$1,096,860",684 Waterbridge Blvd.,Myrtle Beach,SC,29579,5,5,3620,10018.8 sqft,3594
+https://www.zillow.com/homedetails/2000-N-Ocean-Blvd-301-Myrtle-Beach-SC-29577/243461577_zpid/,243461577,,CONDO,"$439,900",2000 N Ocean Blvd. #301,Myrtle Beach,SC,29577,3,2,1136, ,1786
+https://www.zillow.com/community/waterway-palms/455246042_zpid/,455246042,,SINGLE FAMILY,"$725,000+","The Selora Plan, Waterway Palms",Myrtle Beach,SC,29579,4,4,3230, ,
+https://www.zillow.com/homedetails/8500-Margate-Cir-APT-408-Myrtle-Beach-SC-29572/243458274_zpid/,243458274,,CONDO,"$789,000",8500 Margate Circle #408,Myrtle Beach,SC,29572,3,3,2238, ,2662
+https://www.zillow.com/homedetails/9550-Dunes-Gables-Dr-APT-F-Myrtle-Beach-SC-29572/180368091_zpid/,180368091,,CONDO,"$197,000",9550 Dunes Gable Dr. #F,Myrtle Beach,SC,29572,2,2,900, ,1842
+https://www.zillow.com/homedetails/800-Monarch-Dr-49-Myrtle-Beach-SC-29588/443375071_zpid/,443375071,,TOWNHOUSE,"$459,900",800 Monarch Dr. #49,Myrtle Beach,SC,29588,3,4,2461,3440 sqft,
+https://www.zillow.com/homedetails/1323-Ashboro-Ct-Myrtle-Beach-SC-29579/108740545_zpid/,108740545,,SINGLE FAMILY,"$680,000",1323 Ashboro Ct.,Myrtle Beach,SC,29579,3,3,2450,0.4 acres,2787
+https://www.zillow.com/homedetails/524-Farrow-Pkwy-Myrtle-Beach-SC-29577/262285625_zpid/,262285625,,SINGLE FAMILY,"$499,900",524 Farrow Pkwy.,Myrtle Beach,SC,29577,2,3,1293,2613.6 sqft,2201
+https://www.zillow.com/homedetails/9994-Beach-Club-Dr-APT-301-Myrtle-Beach-SC-29572/180366850_zpid/,180366850,,CONDO,"$809,900",9994 Beach Club Dr. #301,Myrtle Beach,SC,29572,3,3,2140, ,2606
+https://www.zillow.com/homedetails/853-Bluffview-Dr-Myrtle-Beach-SC-29579/69580879_zpid/,69580879,,SINGLE FAMILY,"$550,000",853 Bluffview Dr.,Myrtle Beach,SC,29579,3,3,1980,0.26 acres,2299
+https://www.zillow.com/homedetails/2928-Moss-Bridge-Ln-Myrtle-Beach-SC-29579/95063186_zpid/,95063186,,SINGLE FAMILY,"$525,000",2928 Moss Bridge Ln.,Myrtle Beach,SC,29579,4,3,1955,9147.6 sqft,2535
+https://www.zillow.com/homedetails/1808-Zodiac-Ct-Myrtle-Beach-SC-29577/2081844808_zpid/,2081844808,,SINGLE FAMILY,"$435,000",1808 Zodiac Court,Myrtle Beach,SC,29577,4,3,2364,7405.2 sqft,2667
+https://www.zillow.com/homedetails/299-Lake-Arrowhead-Rd-APT-16-Myrtle-Beach-SC-29572/11143072_zpid/,11143072,,SINGLE FAMILY,"$579,000",299 Lake Arrowhead Rd. #16 Arbor House,Myrtle Beach,SC,29572,4,3,1445, ,2139
+https://www.zillow.com/homedetails/312-Cattle-Drive-Cir-Myrtle-Beach-SC-29588/450753143_zpid/,450753143,,SINGLE FAMILY,"$535,000",312 Cattle Drive Circle,Myrtle Beach,SC,29588,5,4,3221,0.27 acres,
+https://www.zillow.com/homedetails/629-Slash-Pine-Ct-Myrtle-Beach-SC-29579/52205058_zpid/,52205058,,SINGLE FAMILY,"$409,900",629 Slash Pine Ct.,Myrtle Beach,SC,29579,4,3,1938,0.32999999999999996 acres,2361
+https://www.zillow.com/homedetails/553-White-River-Dr-UNIT-13D-Myrtle-Beach-SC-29579/2067000156_zpid/,2067000156,,CONDO,"$183,000",553 White River Dr. #13-D,Myrtle Beach,SC,29579,2,2,894, ,1559
+https://www.zillow.com/homedetails/2401-S-Ocean-Blvd-557-Myrtle-Beach-SC-29577/348029730_zpid/,348029730,,CONDO,"$147,750",2401 S Ocean Blvd. #557,Myrtle Beach,SC,29577,1,1,550, ,1191
+https://www.zillow.com/homedetails/6892-Belancino-Blvd-Myrtle-Beach-SC-29572/2066030292_zpid/,2066030292,,SINGLE FAMILY,"$1,375,000",6892 Belancino Blvd.,Myrtle Beach,SC,29572,4,5,2931,10018.8 sqft,3600
+https://www.zillow.com/homedetails/9547-Edgerton-Dr-APT-501-Myrtle-Beach-SC-29572/108766750_zpid/,108766750,,CONDO,"$929,000",9547 Edgerton Dr. #501,Myrtle Beach,SC,29572,4,4,3007, ,3379
+https://www.zillow.com/community/waterway-palms/455246038_zpid/,455246038,,SINGLE FAMILY,"$705,000+","The Solterra Plan, Waterway Palms",Myrtle Beach,SC,29579,4,4,3135, ,
+https://www.zillow.com/homedetails/1304-N-Ocean-Blvd-804-Myrtle-Beach-SC-29577/454301401_zpid/,454301401,,CONDO,"$120,000",1304 N Ocean Blvd. #804,Myrtle Beach,SC,29577,,1,407, ,
+https://www.zillow.com/homedetails/6271-Chadderton-Cir-Myrtle-Beach-SC-29579/2066431336_zpid/,2066431336,,SINGLE FAMILY,"$667,000",6271 Chadderton Circle,Myrtle Beach,SC,29579,5,4,3357,8276.4 sqft,3128
+https://www.zillow.com/homedetails/2401-S-Ocean-Blvd-253-Myrtle-Beach-SC-29577/2060640330_zpid/,2060640330,,CONDO,"$188,000",2401 Ocean Blvd. S #253,Myrtle Beach,SC,29577,1,1,550, ,1180
+https://www.zillow.com/homedetails/204-Valerio-St-Myrtle-Beach-SC-29579/455175150_zpid/,455175150,,SINGLE FAMILY,"$439,990",204 Valerio St,Myrtle Beach,SC,29579,3,3,2448, ,
+https://www.zillow.com/homedetails/1105-S-Ocean-Blvd-814-Myrtle-Beach-SC-29577/72268575_zpid/,72268575,,CONDO,"$112,900",1105 S Ocean Blvd. #814,Myrtle Beach,SC,29577,1,1,550, ,1398
+https://www.zillow.com/homedetails/5310-N-Ocean-Blvd-UNIT-301-Myrtle-Beach-SC-29577/69591362_zpid/,69591362,,CONDO,"$1,144,999",5310 N Ocean Blvd. #301,Myrtle Beach,SC,29577,4,3,1987, ,2260
+https://www.zillow.com/homedetails/1501-S-Ocean-Blvd-UNIT-939-Myrtle-Beach-SC-29577/68974265_zpid/,68974265,,CONDO,"$138,900",1501 S Ocean Blvd. #939,Myrtle Beach,SC,29577,1,1,530, ,1372
+https://www.zillow.com/homedetails/504-N-Ocean-Blvd-401-Myrtle-Beach-SC-29577/180394144_zpid/,180394144,,CONDO,"$139,900",504 N Ocean Blvd. #401,Myrtle Beach,SC,29577,1,1,606, ,1236
+https://www.zillow.com/homedetails/218-Waccamaw-Village-Dr-218-Myrtle-Beach-SC-29579/444470941_zpid/,444470941,,TOWNHOUSE,"$149,900",218 Waccamaw Village Dr. #218,Myrtle Beach,SC,29579,2,2,1020, ,
+https://www.zillow.com/homedetails/305-Duel-Ct-Myrtle-Beach-SC-29588/92417306_zpid/,92417306,,SINGLE FAMILY,"$494,895",305 Duel Ct.,Myrtle Beach,SC,29588,4,3,2271,0.71 acres,2485
+https://www.zillow.com/homedetails/3217-Shadow-Pine-Ct-Myrtle-Beach-SC-29579/2067330133_zpid/,2067330133,,SINGLE FAMILY,"$415,000",3217 Shadow Pine Ct.,Myrtle Beach,SC,29579,4,3,2438,9147.6 sqft,2559
+https://www.zillow.com/homedetails/2566-Lavender-Ln-Myrtle-Beach-SC-29579/108781832_zpid/,108781832,,SINGLE FAMILY,"$979,900",2566 Lavender Ln.,Myrtle Beach,SC,29579,4,5,3234,0.3 acres,2776
+https://www.zillow.com/homedetails/7600-Glenwood-Dr-Myrtle-Beach-SC-29572/11137256_zpid/,11137256,,SINGLE FAMILY,"$635,387",7600 Glenwood Dr.,Myrtle Beach,SC,29572,3,2,2044,0.32999999999999996 acres,2348
+https://www.zillow.com/homedetails/573-Starlit-Way-Myrtle-Beach-SC-29579/108763647_zpid/,108763647,,SINGLE FAMILY,"$950,000",573 Starlit Way,Myrtle Beach,SC,29579,4,4,3150,0.3 acres,3363
+https://www.zillow.com/homedetails/134-Avenue-Of-The-Palms-Myrtle-Beach-SC-29577/449371199_zpid/,449371199,,SINGLE FAMILY,"$1,075,000",134 Avenue of the Palms,Myrtle Beach,SC,29577,5,5,3580,9583.2 sqft,
+https://www.zillow.com/homedetails/4017-Chalmers-Ct-Myrtle-Beach-SC-29579/97302662_zpid/,97302662,,SINGLE FAMILY,"$639,000",4017 Chalmers Ct.,Myrtle Beach,SC,29579,5,4,3370,7840.8 sqft,2864
+https://www.zillow.com/homedetails/9550-Shore-Dr-1503-Myrtle-Beach-SC-29572/180367686_zpid/,180367686,,CONDO,"$149,900",9550 Shore Dr. #1503,Myrtle Beach,SC,29572,,1,378, ,1278
+https://www.zillow.com/homedetails/891-Waterton-Ave-Myrtle-Beach-SC-29579/108760400_zpid/,108760400,,SINGLE FAMILY,"$1,230,000",891 Waterton Ave.,Myrtle Beach,SC,29579,5,5,3431,9147.6 sqft,3602
+https://www.zillow.com/homedetails/5960-Bolsena-Pl-Myrtle-Beach-SC-29577/2089059097_zpid/,2089059097,,SINGLE FAMILY,"$1,068,800",5960 Bolsena Place,Myrtle Beach,SC,29577,3,3,2802,10454.4 sqft,2753
+https://www.zillow.com/homedetails/3925-Riley-Hampton-Dr-Myrtle-Beach-SC-29579/262280459_zpid/,262280459,,SINGLE FAMILY,"$624,900",3925 Riley-Hampton Dr.,Myrtle Beach,SC,29579,4,3,3323,10454.4 sqft,2909
+https://www.zillow.com/homedetails/338-Harbour-View-Dr-LOT-8-Myrtle-Beach-SC-29579/442833410_zpid/,442833410,,SINGLE FAMILY,"$869,900",338 Harbour View Dr. Lot 8 Boardwalk on the Waterway,Myrtle Beach,SC,29579,4,5,3134,7405.2 sqft,
+https://www.zillow.com/homedetails/628-River-Oaks-Dr-APT-51B-Myrtle-Beach-SC-29579/455236389_zpid/,455236389,,CONDO,"$150,000",628 River Oaks Dr. #51B,Myrtle Beach,SC,29579,2,2,995, ,
+https://www.zillow.com/homedetails/9840-Queensway-Blvd-APT-331-Myrtle-Beach-SC-29572/11140882_zpid/,11140882,,CONDO,"$779,000",9840 Queensway Blvd. #331,Myrtle Beach,SC,29572,3,3,1720, ,2507
+https://www.zillow.com/homedetails/1348-Peterson-St-Myrtle-Beach-SC-29577/262278308_zpid/,262278308,,SINGLE FAMILY,"$674,000",1348 Peterson St.,Myrtle Beach,SC,29577,3,3,2000,3920.4 sqft,2323
+https://www.zillow.com/homedetails/5009-Middleton-Dr-Myrtle-Beach-SC-29579/452127346_zpid/,452127346,,SINGLE FAMILY,"$875,000",5009 Middleton Dr.,Myrtle Beach,SC,29579,5,4,2975,7840.8 sqft,
+https://www.zillow.com/homedetails/235-Welcome-Dr-Myrtle-Beach-SC-29579/108717768_zpid/,108717768,,SINGLE FAMILY,"$715,000",235 Welcome Dr.,Myrtle Beach,SC,29579,5,3,2859,10454.4 sqft,2859
+https://www.zillow.com/homedetails/586-Indigo-Bay-Cir-Myrtle-Beach-SC-29579/262277607_zpid/,262277607,,SINGLE FAMILY,"$669,999",586 Indigo Bay Circle,Myrtle Beach,SC,29579,5,3,2829,0.29 acres,2927
+https://www.zillow.com/homedetails/305-Shuffleboard-Ct-Myrtle-Beach-SC-29572/2138963168_zpid/,2138963168,,SINGLE FAMILY,"$924,900",305 Shuffleboard Ct.,Myrtle Beach,SC,29572,5,5,2750,2613.6 sqft,3405
+https://www.zillow.com/homedetails/1115-Bluffton-Ct-Myrtle-Beach-SC-29579/98373222_zpid/,98373222,,SINGLE FAMILY,"$799,900",1115 Bluffton Ct.,Myrtle Beach,SC,29579,4,5,2632,0.25 acres,2945
+https://www.zillow.com/homedetails/400-Flounder-Way-E-Myrtle-Beach-SC-29577/455245354_zpid/,455245354,,SINGLE FAMILY,"$739,900",400 Flounder Way #E,Myrtle Beach,SC,29577,5,5,1962,871.2 sqft,
+https://www.zillow.com/homedetails/400-Flounder-Way-A-Myrtle-Beach-SC-29577/455244895_zpid/,455244895,,SINGLE FAMILY,"$739,900",400 Flounder Way #A,Myrtle Beach,SC,29577,5,5,1962,871.2 sqft,
+https://www.zillow.com/homedetails/401-Flounder-Way-A-Myrtle-Beach-SC-29577/455244106_zpid/,455244106,,SINGLE FAMILY,"$739,900",401 Flounder Way #A,Myrtle Beach,SC,29577,5,5,1962,871.2 sqft,
+https://www.zillow.com/homedetails/400-Flounder-Way-D-Myrtle-Beach-SC-29577/455245269_zpid/,455245269,,SINGLE FAMILY,"$719,900",400 Flounder Way #D,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/400-Flounder-Way-C-Myrtle-Beach-SC-29577/455245085_zpid/,455245085,,SINGLE FAMILY,"$719,900",400 Flounder Way #C,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/400-Flounder-Way-B-Myrtle-Beach-SC-29577/455245043_zpid/,455245043,,SINGLE FAMILY,"$719,900",400 Flounder Way #B,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/401-Flounder-Way-E-Myrtle-Beach-SC-29577/455244494_zpid/,455244494,,SINGLE FAMILY,"$719,900",401 Flounder Way #E,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/401-Flounder-Way-C-Myrtle-Beach-SC-29577/455244379_zpid/,455244379,,SINGLE FAMILY,"$719,900",401 Flounder Way #C,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/401-Flounder-Way-D-Myrtle-Beach-SC-29577/455244384_zpid/,455244384,,SINGLE FAMILY,"$719,900",401 Flounder Way #D,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/401-Flounder-Way-B-Myrtle-Beach-SC-29577/455244168_zpid/,455244168,,SINGLE FAMILY,"$719,900",401 Flounder Way #B,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/410-Flounder-Way-D-Myrtle-Beach-SC-29577/455243744_zpid/,455243744,,SINGLE FAMILY,"$719,900",410 Flounder Way #D,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/410-Flounder-Way-C-Myrtle-Beach-SC-29577/455243705_zpid/,455243705,,SINGLE FAMILY,"$719,900",410 Flounder Way #C,Myrtle Beach,SC,29577,4,4,1662,871.2 sqft,
+https://www.zillow.com/homedetails/8500-Margate-Cir-APT-1604-Myrtle-Beach-SC-29572/68975856_zpid/,68975856,,CONDO,"$999,900",8500 Margate Circle #1604,Myrtle Beach,SC,29572,3,3,2426, ,2846
+https://www.zillow.com/homedetails/1142-Fiddlehead-Way-LOT-549-Myrtle-Beach-SC-29579/2052897596_zpid/,2052897596,,SINGLE FAMILY,"$839,000",1142 Fiddlehead Way LOT #549,Myrtle Beach,SC,29579,5,4,3489,0.3 acres,3348
+https://www.zillow.com/homedetails/7274-Sarteano-Dr-Myrtle-Beach-SC-29572/2053561400_zpid/,2053561400,,SINGLE FAMILY,"$664,900",7274 Sarteano Dr.,Myrtle Beach,SC,29572,3,2,2096,6098.4 sqft,
+https://www.zillow.com/homedetails/5626-Woodside-Ave-Myrtle-Beach-SC-29577/11151242_zpid/,11151242,,SINGLE FAMILY,"$640,000",5626 Woodside Ave.,Myrtle Beach,SC,29577,3,2,2015,0.32 acres,1995
+https://www.zillow.com/homedetails/5310-N-Ocean-Blvd-UNIT-207-Myrtle-Beach-SC-29577/69587656_zpid/,69587656,,CONDO,"$790,000",5310 N Ocean Blvd. N #207,Myrtle Beach,SC,29577,3,3,1700, ,2076
+https://www.zillow.com/homedetails/174-Sago-Palm-Dr-Myrtle-Beach-SC-29579/262286045_zpid/,262286045,,SINGLE FAMILY,"$685,000",174 Sago Palm Dr.,Myrtle Beach,SC,29579,4,3,2238,8276.4 sqft,2339
+https://www.zillow.com/homedetails/608-Providence-Dr-Myrtle-Beach-SC-29572/11137413_zpid/,11137413,,SINGLE FAMILY,"$700,000",608 Providence Dr.,Myrtle Beach,SC,29572,3,2,1743,4791.6 sqft,2369
+https://www.zillow.com/homedetails/7040-Belancino-Blvd-Myrtle-Beach-SC-29572/2067591504_zpid/,2067591504,,SINGLE FAMILY,"$1,067,000",7040 Belancino Blvd.,Myrtle Beach,SC,29572,3,5,2735,9147.6 sqft,3694
+https://www.zillow.com/homedetails/6041-Sandy-Miles-Way-Myrtle-Beach-SC-29577/262284891_zpid/,262284891,,SINGLE FAMILY,"$1,100,000",6041 Sandy Miles Way,Myrtle Beach,SC,29577,4,4,3137,0.5 acres,1723
+https://www.zillow.com/homedetails/214-26th-Ave-S-Myrtle-Beach-SC-29577/2063404245_zpid/,2063404245,,SINGLE FAMILY,"$619,000",214 26th Ave. S,Myrtle Beach,SC,29577,3,3,1567,6098.4 sqft,2256
+https://www.zillow.com/homedetails/1210-E-Isle-Of-Palms-Ave-Myrtle-Beach-SC-29579/108720408_zpid/,108720408,,SINGLE FAMILY,"$730,000",1210 East Isle of Palms Ave.,Myrtle Beach,SC,29579,3,3,2744,9583.2 sqft,2759
+https://www.zillow.com/homedetails/616-Edgecreek-Dr-Myrtle-Beach-SC-29579/92412516_zpid/,92412516,,SINGLE FAMILY,"$1,124,000",616 Edgecreek Dr.,Myrtle Beach,SC,29579,4,4,3888,9147.6 sqft,3460
+https://www.zillow.com/homedetails/338-Saint-Julian-Ln-Myrtle-Beach-SC-29579/108719664_zpid/,108719664,,SINGLE FAMILY,"$659,900",338 St. Julian Ln.,Myrtle Beach,SC,29579,4,4,2657,5662.8 sqft,2725
+https://www.zillow.com/homedetails/8500-Margate-Cir-APT-505-Myrtle-Beach-SC-29572/243458276_zpid/,243458276,,CONDO,"$1,150,000",8500 Margate Circle #505,Myrtle Beach,SC,29572,3,3,2436, ,2760
+https://www.zillow.com/homedetails/2313-Summersweet-Ln-Myrtle-Beach-SC-29579/95058118_zpid/,95058118,,SINGLE FAMILY,"$715,000",2313 Summersweet Ln.,Myrtle Beach,SC,29579,4,4,2656,10454.4 sqft,2913
+https://www.zillow.com/homedetails/2201-S-Ocean-Blvd-2010-2011-Myrtle-Beach-SC-29577/2079401338_zpid/,2079401338,,CONDO,"$727,000",2201 S Ocean Blvd. #2010-2011,Myrtle Beach,SC,29577,4,3,1802, ,2216
+https://www.zillow.com/homedetails/873-Crystal-Water-Way-Myrtle-Beach-SC-29579/108766476_zpid/,108766476,,SINGLE FAMILY,"$795,000",873 Crystal Water Way,Myrtle Beach,SC,29579,4,3,2617,5662.8 sqft,2748
+https://www.zillow.com/homedetails/8500-Margate-Cir-APT-1104-Myrtle-Beach-SC-29572/68973960_zpid/,68973960,,CONDO,"$1,080,000",8500 Margate Circle #1104,Myrtle Beach,SC,29572,3,3,2426, ,2821
+https://www.zillow.com/homedetails/413-30th-Ave-N-Myrtle-Beach-SC-29577/11150620_zpid/,11150620,,MULTI FAMILY,"$837,900",413 30th Ave. N,Myrtle Beach,SC,29577,,,2000, ,1616
+https://www.zillow.com/homedetails/5049-Middleton-View-Dr-Myrtle-Beach-SC-29579/108738070_zpid/,108738070,,SINGLE FAMILY,"$798,000",5049 Middleton View Dr.,Myrtle Beach,SC,29579,3,3,3222,9583.2 sqft,3209
+https://www.zillow.com/homedetails/1106-Bluffton-Ct-Myrtle-Beach-SC-29579/108744285_zpid/,108744285,,SINGLE FAMILY,"$849,999",1106 Bluffton Ct.,Myrtle Beach,SC,29579,4,4,3870,0.25 acres,3371
+https://www.zillow.com/homedetails/968-Shipmaster-Ave-Myrtle-Beach-SC-29579/108735784_zpid/,108735784,,SINGLE FAMILY,"$684,900",968 Shipmaster Ave.,Myrtle Beach,SC,29579,5,5,2573,9147.6 sqft,3037
