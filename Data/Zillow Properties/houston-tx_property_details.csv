@@ -1,0 +1,432 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/5934-Miller-Valley-Dr-Houston-TX-77066/28150253_zpid/,28150253,,SINGLE FAMILY,"$250,000",5934 Miller Valley Dr,Houston,TX,77066,4,3,2312,9134 sqft,2159
+https://www.zillow.com/homedetails/10534-Twilight-Moon-Dr-Houston-TX-77064/28308613_zpid/,28308613,,SINGLE FAMILY,"$279,000",10534 Twilight Moon Dr,Houston,TX,77064,3,2,1650,7000.092 sqft,1862
+https://www.zillow.com/homedetails/10521-Cathedral-Dr-Houston-TX-77051/28005745_zpid/,28005745,,SINGLE FAMILY,"$185,900",10521 Cathedral Dr,Houston,TX,77051,4,2,1368,5606.172 sqft,1389
+https://www.zillow.com/homedetails/2215-Riverlawn-Dr-Humble-TX-77339/28226080_zpid/,28226080,,SINGLE FAMILY,"$169,950",2215 Riverlawn Dr,Humble,TX,77339,4,3,2366,9679.032 sqft,2199
+https://www.zillow.com/homedetails/3519-Barkers-Run-Dr-Houston-TX-77084/251269407_zpid/,251269407,,SINGLE FAMILY,"$339,700",3519 Barkers Run Dr,Houston,TX,77084,5,3,2671,6276.996 sqft,2622
+https://www.zillow.com/homedetails/5962-Van-Fleet-St-Houston-TX-77033/27968183_zpid/,27968183,,SINGLE FAMILY,"$120,000",5962 Van Fleet St,Houston,TX,77033,4,2,1104,8908.02 sqft,1704
+https://www.zillow.com/homedetails/5631-Rocky-Brook-Dr-Kingwood-TX-77345/28417109_zpid/,28417109,,SINGLE FAMILY,"$350,000",5631 Rocky Brook Dr,Kingwood,TX,77345,5,4,3098,10680.912 sqft,3953
+https://www.zillow.com/homedetails/4303-Appalachian-Trl-Kingwood-TX-77345/28483057_zpid/,28483057,,SINGLE FAMILY,"$269,900",4303 Appalachian Trl,Kingwood,TX,77345,4,3,2059,5174.928 sqft,2334
+https://www.zillow.com/homedetails/10030-Storm-Meadow-Dr-Houston-TX-77064/28452043_zpid/,28452043,,SINGLE FAMILY,"$299,957",10030 Storm Meadow Dr,Houston,TX,77064,4,3,2366,5776.056 sqft,2268
+https://www.zillow.com/homedetails/3818-Gladeridge-Dr-Houston-TX-77068/28168769_zpid/,28168769,,SINGLE FAMILY,"$378,000",3818 Gladeridge Dr,Houston,TX,77068,4,3,3068,0.29200000000000004 acres,2485
+https://www.zillow.com/homedetails/8207-Lanham-Ln-Houston-TX-77075/27961968_zpid/,27961968,,SINGLE FAMILY,"$278,000",8207 Lanham Ln,Houston,TX,77075,4,2,1569,9896.832 sqft,2270
+https://www.zillow.com/homedetails/2411-Riverlawn-Dr-Humble-TX-77339/28230683_zpid/,28230683,,SINGLE FAMILY,"$374,900",2411 Riverlawn Dr,Humble,TX,77339,5,4,2930,10589.436 sqft,2749
+https://www.zillow.com/homedetails/12223-Paddock-Way-Houston-TX-77065/28406965_zpid/,28406965,,SINGLE FAMILY,"$328,000",12223 Paddock Way,Houston,TX,77065,3,3,1693,8925.444 sqft,2371
+https://www.zillow.com/homedetails/15511-Rana-Ct-Houston-TX-77068/28269887_zpid/,28269887,,SINGLE FAMILY,"$395,000",15511 Rana Ct,Houston,TX,77068,5,4,3176,8468.064 sqft,3179
+https://www.zillow.com/homedetails/718-W-42nd-St-Houston-TX-77018/27873285_zpid/,27873285,,SINGLE FAMILY,"$849,000",718 W 42nd St,Houston,TX,77018,3,2,2062,0.3157 acres,3784
+https://www.zillow.com/homedetails/3239-Pleasant-Cove-Ct-Houston-TX-77059/28539041_zpid/,28539041,,SINGLE FAMILY,"$415,000",3239 Pleasant Cove Ct,Houston,TX,77059,4,3,2638,10249.668 sqft,3362
+https://www.zillow.com/homedetails/15050-Pearhaven-Dr-Houston-TX-77062/28249657_zpid/,28249657,,SINGLE FAMILY,"$385,000",15050 Pearhaven Dr,Houston,TX,77062,4,2,2615,9922.968 sqft,2695
+https://www.zillow.com/homedetails/311-Mascot-St-Houston-TX-77029/453891834_zpid/,453891834,,SINGLE FAMILY,"$279,900",311 Mascot St,Houston,TX,77029,4,3,1689,5000.688 sqft,
+https://www.zillow.com/homedetails/10015-Windriver-Dr-Houston-TX-77070/28188414_zpid/,28188414,,SINGLE FAMILY,"$295,000",10015 Windriver Dr,Houston,TX,77070,4,2,1918,8237.196 sqft,2464
+https://www.zillow.com/homedetails/8014-Wray-Ct-Houston-TX-77088/28164905_zpid/,28164905,,SINGLE FAMILY,"$339,900",8014 Wray Ct,Houston,TX,77088,5,3,2957,9448.164 sqft,2914
+https://www.zillow.com/homedetails/5411-Holly-View-Dr-Houston-TX-77091/28337060_zpid/,28337060,,SINGLE FAMILY,"$390,000",5411 Holly View Dr,Houston,TX,77091,4,3,2596,8398.368 sqft,2696
+https://www.zillow.com/homedetails/15715-Holloway-Creek-Ct-Houston-TX-77044/329224464_zpid/,329224464,,SINGLE FAMILY,"$399,900",15715 Holloway Creek Ct,Houston,TX,77044,3,2,2252,7631.712 sqft,3279
+https://www.zillow.com/homedetails/3505-Cobb-St-Houston-TX-77004/97660024_zpid/,97660024,,SINGLE FAMILY,"$428,899",3505 Cobb St,Houston,TX,77004,3,2,1604,3798.432 sqft,2172
+https://www.zillow.com/homedetails/12122-Oakcroft-Dr-Houston-TX-77070/28333668_zpid/,28333668,,SINGLE FAMILY,"$339,000",12122 Oakcroft Dr,Houston,TX,77070,3,4,2581,8598.744 sqft,2444
+https://www.zillow.com/homedetails/14814-Bramblewood-Dr-Houston-TX-77079/28124675_zpid/,28124675,,SINGLE FAMILY,"$899,000",14814 Bramblewood Dr,Houston,TX,77079,4,3,2752,7880.004 sqft,3636
+https://www.zillow.com/homedetails/8115-Fondren-Lake-Dr-Houston-TX-77071/28403860_zpid/,28403860,,SINGLE FAMILY,"$445,000",8115 Fondren Lake Dr,Houston,TX,77071,5,4,4900,9679.032 sqft,4628
+https://www.zillow.com/homedetails/1526-Sweet-Grass-Trl-Houston-TX-77090/28155951_zpid/,28155951,,SINGLE FAMILY,"$470,000",1526 Sweet Grass Trl,Houston,TX,77090,5,5,4224,0.4362 acres,3384
+https://www.zillow.com/homedetails/6718-Utah-St-Houston-TX-77091/452645285_zpid/,452645285,,SINGLE FAMILY,"$228,000",6718 Utah St,Houston,TX,77091,4,3,2349,5998.212 sqft,
+https://www.zillow.com/homedetails/5310-Oak-Cove-Dr-Houston-TX-77091/28337077_zpid/,28337077,,SINGLE FAMILY,"$349,990",5310 Oak Cove Dr,Houston,TX,77091,3,3,2552,8398.368 sqft,3016
+https://www.zillow.com/homedetails/12102-Moorcreek-Dr-Houston-TX-77070/28357615_zpid/,28357615,,SINGLE FAMILY,"$449,000",12102 Moorcreek Dr,Houston,TX,77070,4,4,3642,9600.624 sqft,3138
+https://www.zillow.com/homedetails/14410-Brentshire-Ln-Houston-TX-77069/84062615_zpid/,84062615,,SINGLE FAMILY,"$549,000",14410 Brentshire Ln,Houston,TX,77069,5,4,4338,0.2738 acres,3529
+https://www.zillow.com/homedetails/17235-Sunshine-St-Houston-TX-77049/28147784_zpid/,28147784,,SINGLE FAMILY,"$129,000",17235 Sunshine St,Houston,TX,77049,4,2,1580,0.3052 acres,1700
+https://www.zillow.com/homedetails/21143-Bastide-Ln-Kingwood-TX-77339/126240110_zpid/,126240110,,SINGLE FAMILY,"$398,000",21143 Bastide Ln,Kingwood,TX,77339,4,4,3119,6067.908 sqft,2812
+https://www.zillow.com/homedetails/4502-Tall-Ridge-Ct-Kingwood-TX-77345/28503300_zpid/,28503300,,SINGLE FAMILY,"$599,000",4502 Tall Ridge Ct,Kingwood,TX,77345,4,4,3368,10863.864 sqft,3665
+https://www.zillow.com/homedetails/5779-Easthampton-Dr-C-Houston-TX-77039/28207918_zpid/,28207918,,TOWNHOUSE,"$125,000",5779 Easthampton Dr #C,Houston,TX,77039,3,2,1623,1755.468 sqft,1556
+https://www.zillow.com/homedetails/15618-Banty-Falls-Ct-Houston-TX-77068/28239125_zpid/,28239125,,SINGLE FAMILY,"$515,000",15618 Banty Falls Ct,Houston,TX,77068,5,4,4441,10201.752 sqft,5263
+https://www.zillow.com/homedetails/6607-Apollo-Houston-TX-77091/452649960_zpid/,452649960,,SINGLE FAMILY,"$228,000",6607 Apollo,Houston,TX,77091,4,3,1645, ,
+https://www.zillow.com/homedetails/104-7700-Creekbend-Dr-104-Houston-TX-77071/455286026_zpid/,455286026,,CONDO,"$159,000",104-7700 Creekbend Dr #104,Houston,TX,77071,3,3,500,0.3 acres,
+https://www.zillow.com/homedetails/8110-Dorrcrest-Ln-Houston-TX-77070/28163168_zpid/,28163168,,SINGLE FAMILY,"$315,000",8110 Dorrcrest Ln,Houston,TX,77070,5,3,2586,9748.728 sqft,2410
+https://www.zillow.com/homedetails/7974-Fowlie-St-Houston-TX-77028/452599055_zpid/,452599055,,SINGLE FAMILY,"$228,000",7974 Fowlie St,Houston,TX,77028,3,3,2008,4199.184 sqft,
+https://www.zillow.com/homedetails/1003-Romaine-Ln-Houston-TX-77090/28160124_zpid/,28160124,,SINGLE FAMILY,"$290,000",1003 Romaine Ln,Houston,TX,77090,5,3,2973,0.3297 acres,2432
+https://www.zillow.com/homedetails/3831-Wood-Stone-Walk-Dr-Houston-TX-77084/28376512_zpid/,28376512,,SINGLE FAMILY,"$320,000",3831 Wood Stone Walk Dr,Houston,TX,77084,3,2,1943,7740.612 sqft,2218
+https://www.zillow.com/homedetails/6727-Utah-St-Houston-TX-77091/452645305_zpid/,452645305,,SINGLE FAMILY,"$228,000",6727 Utah St,Houston,TX,77091,3,3,2008,3998.808 sqft,
+https://www.zillow.com/homedetails/2226-Rolling-Meadows-Dr-Humble-TX-77339/28226019_zpid/,28226019,,SINGLE FAMILY,"$315,000",2226 Rolling Meadows Dr,Humble,TX,77339,4,3,2436,9718 sqft,2221
+https://www.zillow.com/homedetails/5343-Oak-Cove-Dr-Houston-TX-77091/80321186_zpid/,80321186,,SINGLE FAMILY,"$365,000",5343 Oak Cove Dr,Houston,TX,77091,3,3,2740,9239.076 sqft,2350
+https://www.zillow.com/homedetails/414-N-Carolina-St-A-B-Houston-TX-77029/450143125_zpid/,450143125,,MULTI FAMILY,"$375,000",414 N Carolina St #A/B,Houston,TX,77029,3,2,2310,2500.344 sqft,
+https://www.zillow.com/homedetails/16515-Willingham-Way-Houston-TX-77095/28485640_zpid/,28485640,,SINGLE FAMILY,"$320,000",16515 Willingham Way,Houston,TX,77095,4,3,2292,6664.68 sqft,2302
+https://www.zillow.com/homedetails/16935-Creek-Mountain-Dr-Houston-TX-77084/118404179_zpid/,118404179,,SINGLE FAMILY,"$255,000",16935 Creek Mountain Dr,Houston,TX,77084,3,3,1635,5501.628 sqft,1880
+https://www.zillow.com/homedetails/13214-Barrow-Point-Ln-Houston-TX-77014/84025619_zpid/,84025619,,SINGLE FAMILY,"$175,500",13214 Barrow Point Ln,Houston,TX,77014,4,3,2342,6155.028 sqft,2353
+https://www.zillow.com/homedetails/3832-W-Clay-St-Houston-TX-77019/27805234_zpid/,27805234,,TOWNHOUSE,"$267,500",3832 W Clay St,Houston,TX,77019,2,3,1351,1446.192 sqft,2258
+https://www.zillow.com/homedetails/11922-Miramar-Shores-Dr-Houston-TX-77065/52412907_zpid/,52412907,,SINGLE FAMILY,"$424,900",11922 Miramar Shores Dr,Houston,TX,77065,4,3,2319,7148.196 sqft,2269
+https://www.zillow.com/homedetails/7970-Fowlie-St-Houston-TX-77028/454275513_zpid/,454275513,,SINGLE FAMILY,"$228,000",7970 Fowlie St,Houston,TX,77028,3,3,1549,4199.184 sqft,
+https://www.zillow.com/homedetails/9209-Emnora-Ln-Houston-TX-77080/97630556_zpid/,97630556,,SINGLE FAMILY,"$1,250,000",9209 Emnora Ln,Houston,TX,77080,5,4,3700,0.3765 acres,5146
+https://www.zillow.com/homedetails/3525-Sage-Rd-APT-516-Houston-TX-77056/28494765_zpid/,28494765,,CONDO,"$195,000",3525 Sage Rd APT 516,Houston,TX,77056,2,2,1095, ,2257
+https://www.zillow.com/homedetails/5422-Windy-Lake-Dr-Kingwood-TX-77345/28382172_zpid/,28382172,,SINGLE FAMILY,"$350,000",5422 Windy Lake Dr,Kingwood,TX,77345,4,4,3249,0.25680000000000003 acres,3089
+https://www.zillow.com/homedetails/15923-Red-Willow-Dr-Houston-TX-77084/28213824_zpid/,28213824,,SINGLE FAMILY,"$260,000",15923 Red Willow Dr,Houston,TX,77084,4,2,1851,8698.932 sqft,2070
+https://www.zillow.com/homedetails/1247-Common-Park-Dr-Houston-TX-77009/27924768_zpid/,27924768,,SINGLE FAMILY,"$249,000",1247 Common Park Dr,Houston,TX,77009,2,2,1116,2914.164 sqft,1583
+https://www.zillow.com/homedetails/5531-Elm-Tree-Dr-Houston-TX-77048/28054320_zpid/,28054320,,SINGLE FAMILY,"$125,000",5531 Elm Tree Dr,Houston,TX,77048,3,2,1218,8982.072 sqft,1508
+https://www.zillow.com/homedetails/11602-Taos-Ln-Houston-TX-77070/28424116_zpid/,28424116,,SINGLE FAMILY,"$365,000",11602 Taos Ln,Houston,TX,77070,3,3,2588,7348.572 sqft,2728
+https://www.zillow.com/homedetails/12447-Versailles-Dr-Houston-TX-77015/28396962_zpid/,28396962,,SINGLE FAMILY,"$191,900",12447 Versailles Dr,Houston,TX,77015,3,2,1690,6708.24 sqft,2020
+https://www.zillow.com/homedetails/4512-Normandy-Way-Houston-TX-77021/27889859_zpid/,27889859,,SINGLE FAMILY,"$200,000",4512 Normandy Way,Houston,TX,77021,3,2,1440,7640.424 sqft,2041
+https://www.zillow.com/homedetails/15807-Eldora-Springs-Ct-Houston-TX-77070/121104998_zpid/,121104998,,SINGLE FAMILY,"$345,000",15807 Eldora Springs Ct,Houston,TX,77070,4,3,2130,5166.216 sqft,2456
+https://www.zillow.com/homedetails/4214-Hambledon-Village-Dr-Houston-TX-77014/28435219_zpid/,28435219,,SINGLE FAMILY,"$259,990",4214 Hambledon Village Dr,Houston,TX,77014,4,2,1979,6268.284 sqft,1976
+https://www.zillow.com/homedetails/4735-Brownfields-Dr-Houston-TX-77066/28414500_zpid/,28414500,,SINGLE FAMILY,"$259,750",4735 Brownfields Dr,Houston,TX,77066,4,3,1677,6899.904 sqft,1924
+https://www.zillow.com/homedetails/9438-Rosehaven-Dr-Houston-TX-77051/27991698_zpid/,27991698,,SINGLE FAMILY,"$155,000",9438 Rosehaven Dr,Houston,TX,77051,3,1,1190,5889 sqft,1464
+https://www.zillow.com/homedetails/10315-Sun-City-Ct-Houston-TX-77099/28212815_zpid/,28212815,,SINGLE FAMILY,"$299,900",10315 Sun City Ct,Houston,TX,77099,4,3,3075,8049.888 sqft,2789
+https://www.zillow.com/homedetails/3106-Rustling-Moss-Dr-Houston-TX-77068/28418837_zpid/,28418837,,SINGLE FAMILY,"$570,000",3106 Rustling Moss Dr,Houston,TX,77068,5,4,5317,0.2596 acres,4646
+https://www.zillow.com/homedetails/18806-Flagstone-Creek-Rd-Houston-TX-77084/68413829_zpid/,68413829,,SINGLE FAMILY,"$249,000",18806 Flagstone Creek Rd,Houston,TX,77084,5,4,3459,5776.056 sqft,
+https://www.zillow.com/homedetails/4711-Autumn-Dawn-Way-Houston-TX-77084/84013869_zpid/,84013869,,SINGLE FAMILY,"$319,000",4711 Autumn Dawn Way,Houston,TX,77084,4,3,2430,7148.196 sqft,2286
+https://www.zillow.com/homedetails/7826-Clover-Knoll-Ct-Houston-TX-77095/28502967_zpid/,28502967,,SINGLE FAMILY,"$320,000",7826 Clover Knoll Ct,Houston,TX,77095,4,3,2560,0.25370000000000004 acres,2446
+https://www.zillow.com/homedetails/7921-Sparta-St-Houston-TX-77028/2061810125_zpid/,2061810125,,SINGLE FAMILY,"$200,000",7921 Sparta St,Houston,TX,77028,3,2,1240,4081.572 sqft,1558
+https://www.zillow.com/homedetails/10260-Field-Stone-Dr-Houston-TX-77041/28210489_zpid/,28210489,,SINGLE FAMILY,"$220,000",10260 Field Stone Dr,Houston,TX,77041,3,2,1492,2408.868 sqft,1886
+https://www.zillow.com/homedetails/3400-Timmons-Ln-11-Houston-TX-77027/28351236_zpid/,28351236,,TOWNHOUSE,"$199,999",3400 Timmons Ln #11,Houston,TX,77027,2,2,844,1.8705 acres,1545
+https://www.zillow.com/homedetails/15114-Kingsbridge-Way-Houston-TX-77083/50211500_zpid/,50211500,,SINGLE FAMILY,"$280,000",15114 Kingsbridge Way,Houston,TX,77083,3,3,2098,8324.316 sqft,2175
+https://www.zillow.com/homedetails/414-Redway-Ln-Webster-TX-77598/28344569_zpid/,28344569,,SINGLE FAMILY,"$295,000",414 Redway Ln,Webster,TX,77598,3,3,1752,6599.34 sqft,2043
+https://www.zillow.com/homedetails/11743-Kirkmeadow-Dr-Houston-TX-77089/28118585_zpid/,28118585,,SINGLE FAMILY,"$249,900",11743 Kirkmeadow Dr,Houston,TX,77089,3,2,1765,7810.308 sqft,1895
+https://www.zillow.com/homedetails/11914-Atwell-Dr-Houston-TX-77035/28032085_zpid/,28032085,,SINGLE FAMILY,"$285,000",11914 Atwell Dr,Houston,TX,77035,3,2,1850,8624.88 sqft,2192
+https://www.zillow.com/homedetails/2000-Bagby-St-APT-9426-Houston-TX-77002/80517907_zpid/,80517907,,CONDO,"$419,900",2000 Bagby St APT 9426,Houston,TX,77002,2,2,1872, ,3058
+https://www.zillow.com/homedetails/4715-Ward-St-Houston-TX-77021/447144214_zpid/,447144214,,SINGLE FAMILY,"$230,000",4715 Ward St,Houston,TX,77021,3,3,1454,2360.952 sqft,
+https://www.zillow.com/homedetails/15723-Foxgate-Rd-Houston-TX-77079/28183900_zpid/,28183900,,SINGLE FAMILY,"$569,000",15723 Foxgate Rd,Houston,TX,77079,4,3,3270,7701.408 sqft,3636
+https://www.zillow.com/homedetails/1930-Running-Springs-Dr-Humble-TX-77339/28157903_zpid/,28157903,,SINGLE FAMILY,"$315,000",1930 Running Springs Dr,Humble,TX,77339,4,3,2818,0.25339999999999996 acres,2626
+https://www.zillow.com/homedetails/8419-Stroud-Dr-Houston-TX-77036/28070873_zpid/,28070873,,SINGLE FAMILY,"$315,000",8419 Stroud Dr,Houston,TX,77036,3,2,1583,7679.628 sqft,2143
+https://www.zillow.com/homedetails/3346-Boxelder-Dr-Houston-TX-77082/28367953_zpid/,28367953,,SINGLE FAMILY,"$274,900",3346 Boxelder Dr,Houston,TX,77082,3,2,1585,7130.772 sqft,1902
+https://www.zillow.com/homedetails/12346-Huntington-Venture-Dr-Houston-TX-77099/27567488_zpid/,27567488,,SINGLE FAMILY,"$290,000",12346 Huntington Venture Dr,Houston,TX,77099,4,2,2019,7557.66 sqft,2067
+https://www.zillow.com/homedetails/7906-Brandon-St-Houston-TX-77051/245751218_zpid/,245751218,,MULTI FAMILY,"$594,990",7906 Brandon St,Houston,TX,77051,8,6,3200,5000.688 sqft,2799
+https://www.zillow.com/homedetails/3727-Woodvalley-Dr-Houston-TX-77025/28027296_zpid/,28027296,,SINGLE FAMILY,"$440,000",3727 Woodvalley Dr,Houston,TX,77025,3,2,2002,9212.94 sqft,3229
+https://www.zillow.com/homedetails/9001-Pagewood-Ln-Houston-TX-77063/27949890_zpid/,27949890,,MULTI FAMILY,"$500,000",9001 Pagewood Ln,Houston,TX,77063,3,1,2024,10001.376 sqft,1767
+https://www.zillow.com/homedetails/5619-Darnell-St-Houston-TX-77096/28086408_zpid/,28086408,,SINGLE FAMILY,"$419,990",5619 Darnell St,Houston,TX,77096,4,2,2493,9077.904 sqft,2913
+https://www.zillow.com/homedetails/4718-Meadows-Edge-Ln-Houston-TX-77084/28482216_zpid/,28482216,,SINGLE FAMILY,"$315,000",4718 Meadows Edge Ln,Houston,TX,77084,4,3,2797,0.2561 acres,2591
+https://www.zillow.com/homedetails/4506-Honeywood-Ct-Houston-TX-77059/28539282_zpid/,28539282,,SINGLE FAMILY,$527K,4506 Honeywood Ct,Houston,TX,77059,4,4,3494,8398.368 sqft,3269
+https://www.zillow.com/homedetails/13611-Country-Green-Ct-Houston-TX-77059/28512498_zpid/,28512498,,SINGLE FAMILY,"$465,000",13611 Country Green Ct,Houston,TX,77059,4,3,2922,7361.64 sqft,3018
+https://www.zillow.com/homedetails/17511-Glenmark-Dr-Houston-TX-77084/28444221_zpid/,28444221,,SINGLE FAMILY,"$296,900",17511 Glenmark Dr,Houston,TX,77084,3,2,2020,6599.34 sqft,2061
+https://www.zillow.com/homedetails/26873-Palace-Pines-Dr-Kingwood-TX-77339/28724145_zpid/,28724145,,SINGLE FAMILY,"$245,000",26873 Palace Pines Dr,Kingwood,TX,77339,3,2,1742,8189.28 sqft,2005
+https://www.zillow.com/homedetails/3714-Siebinthaler-Ln-Houston-TX-77084/84058980_zpid/,84058980,,SINGLE FAMILY,"$285,000",3714 Siebinthaler Ln,Houston,TX,77084,3,2,1847,6551.424 sqft,2026
+https://www.zillow.com/homedetails/6802-Loch-Langham-Dr-Houston-TX-77084/28330590_zpid/,28330590,,SINGLE FAMILY,"$185,000",6802 Loch Langham Dr,Houston,TX,77084,3,2,1741,7139.484 sqft,1848
+https://www.zillow.com/homedetails/19018-Appletree-Hill-Ln-Houston-TX-77084/28534513_zpid/,28534513,,SINGLE FAMILY,"$349,000",19018 Appletree Hill Ln,Houston,TX,77084,4,3,2517,7383.42 sqft,2346
+https://www.zillow.com/homedetails/10938-Fleming-Dr-Houston-TX-77013/28121945_zpid/,28121945,,SINGLE FAMILY,"$270,000",10938 Fleming Dr,Houston,TX,77013,5,3,1460,7853.868 sqft,1763
+https://www.zillow.com/homedetails/8127-Devonwood-Ln-Houston-TX-77070/28163143_zpid/,28163143,,SINGLE FAMILY,"$320,000",8127 Devonwood Ln,Houston,TX,77070,5,3,2560,9491.724 sqft,2977
+https://www.zillow.com/homedetails/9207-Cobbleshire-Dr-Houston-TX-77037/28108429_zpid/,28108429,,SINGLE FAMILY,"$325,000",9207 Cobbleshire Dr,Houston,TX,77037,8,6,3008,7474.896 sqft,1134
+https://www.zillow.com/homedetails/13423-Highland-Park-Ct-Houston-TX-77070/58669952_zpid/,58669952,,SINGLE FAMILY,"$399,990",13423 Highland Park Ct,Houston,TX,77070,3,3,2623,6873.768 sqft,2362
+https://www.zillow.com/homedetails/1910-Lakeville-Dr-Humble-TX-77339/28301155_zpid/,28301155,,SINGLE FAMILY,"$310,000",1910 Lakeville Dr,Humble,TX,77339,4,3,2347,9265.212 sqft,2610
+https://www.zillow.com/homedetails/5211-Olympia-Fields-Ln-Houston-TX-77069/28138861_zpid/,28138861,,SINGLE FAMILY,"$289,500",5211 Olympia Fields Ln,Houston,TX,77069,4,3,2769,9191.16 sqft,2974
+https://www.zillow.com/homedetails/1118-Marne-Ln-Houston-TX-77090/28138137_zpid/,28138137,,SINGLE FAMILY,"$299,999",1118 Marne Ln,Houston,TX,77090,5,3,2616,9748.728 sqft,2302
+https://www.zillow.com/homedetails/11954-Pebble-Rock-Dr-Houston-TX-77077/28205333_zpid/,28205333,,SINGLE FAMILY,"$669,000",11954 Pebble Rock Dr,Houston,TX,77077,4,4,2489,9600.624 sqft,3108
+https://www.zillow.com/homedetails/4503-Honeywood-Ct-Houston-TX-77059/28539274_zpid/,28539274,,SINGLE FAMILY,"$609,999",4503 Honeywood Ct,Houston,TX,77059,4,4,3424,0.35450000000000004 acres,4004
+https://www.zillow.com/homedetails/13402-Hampton-Bend-Ln-Houston-TX-77070/62585145_zpid/,62585145,,SINGLE FAMILY,"$378,000",13402 Hampton Bend Ln,Houston,TX,77070,4,3,2467,8603.1 sqft,2475
+https://www.zillow.com/homedetails/5830-Ludington-Dr-Houston-TX-77035/28026747_zpid/,28026747,,SINGLE FAMILY,"$310,000",5830 Ludington Dr,Houston,TX,77035,3,2,1635,7562.016 sqft,1528
+https://www.zillow.com/homedetails/7115-Drowsy-Pine-Dr-Houston-TX-77092/28097290_zpid/,28097290,,SINGLE FAMILY,"$259,900",7115 Drowsy Pine Dr,Houston,TX,77092,3,2,1441,7148.196 sqft,1997
+https://www.zillow.com/homedetails/2222-Peppermill-Rd-Houston-TX-77080/27886314_zpid/,27886314,,SINGLE FAMILY,"$295,000",2222 Peppermill Rd,Houston,TX,77080,3,2,1328,6372.828 sqft,2060
+https://www.zillow.com/homedetails/10030-Burgoyne-Rd-Houston-TX-77042/28068559_zpid/,28068559,,SINGLE FAMILY,"$798,000",10030 Burgoyne Rd,Houston,TX,77042,3,3,2680,8302.536 sqft,2609
+https://www.zillow.com/homedetails/12739-Memorial-Dr-Houston-TX-77024/28013631_zpid/,28013631,,SINGLE FAMILY,"$825,000",12739 Memorial Dr,Houston,TX,77024,3,2,1891,0.2562 acres,3657
+https://www.zillow.com/homedetails/21539-Black-Opal-Ln-Kingwood-TX-77339/70347298_zpid/,70347298,,SINGLE FAMILY,"$399,900",21539 Black Opal Ln,Kingwood,TX,77339,4,3,3292,6599.34 sqft,2595
+https://www.zillow.com/homedetails/6319-Timbo-Ln-Houston-TX-77041/52417247_zpid/,52417247,,SINGLE FAMILY,"$395,000",6319 Timbo Ln,Houston,TX,77041,4,3,2870,7056.72 sqft,2747
+https://www.zillow.com/homedetails/9715-Therrell-Dr-Houston-TX-77064/28514164_zpid/,28514164,,SINGLE FAMILY,"$365,000",9715 Therrell Dr,Houston,TX,77064,4,3,2447,8511.624 sqft,3851
+https://www.zillow.com/homedetails/6902-Mossridge-Dr-Houston-TX-77069/28334502_zpid/,28334502,,SINGLE FAMILY,"$399,000",6902 Mossridge Dr,Houston,TX,77069,4,4,3235,8163.144 sqft,2895
+https://www.zillow.com/homedetails/18103-Ravenfield-Dr-Houston-TX-77084/28256313_zpid/,28256313,,SINGLE FAMILY,"$419,999",18103 Ravenfield Dr,Houston,TX,77084,4,4,4036,9600.624 sqft,3120
+https://www.zillow.com/homedetails/11515-Normont-Dr-Houston-TX-77070/28189965_zpid/,28189965,,SINGLE FAMILY,"$418,999",11515 Normont Dr,Houston,TX,77070,4,3,3234,10558.944 sqft,3304
+https://www.zillow.com/homedetails/8227-Ryan-Park-Dr-Houston-TX-77095/28439382_zpid/,28439382,,SINGLE FAMILY,"$360,000",8227 Ryan Park Dr,Houston,TX,77095,5,4,3298,6825.852 sqft,2823
+https://www.zillow.com/homedetails/16707-Summer-Dawn-Ln-Houston-TX-77095/28450116_zpid/,28450116,,SINGLE FAMILY,"$269,900",16707 Summer Dawn Ln,Houston,TX,77095,4,2,1545,6507.864 sqft,2006
+https://www.zillow.com/homedetails/3510-N-Braeswood-Blvd-Houston-TX-77025/27965398_zpid/,27965398,,SINGLE FAMILY,"$529,000",3510 N Braeswood Blvd,Houston,TX,77025,3,2,2797,0.321 acres,4256
+https://www.zillow.com/homedetails/3415-Bostic-St-Houston-TX-77093/27936931_zpid/,27936931,,SINGLE FAMILY,"$195,000",3415 Bostic St,Houston,TX,77093,3,2,1596,10558.944 sqft,1749
+https://www.zillow.com/homedetails/8211-Glencliffe-Ln-Houston-TX-77070/28163224_zpid/,28163224,,SINGLE FAMILY,"$364,500",8211 Glencliffe Ln,Houston,TX,77070,4,3,2540,9609.336 sqft,3051
+https://www.zillow.com/homedetails/11202-Bayou-Place-Dr-Houston-TX-77099/28313622_zpid/,28313622,,SINGLE FAMILY,"$270,000",11202 Bayou Place Dr,Houston,TX,77099,3,2,1724,5000.688 sqft,1976
+https://www.zillow.com/homedetails/17006-Maricella-Cir-Houston-TX-77084/62589800_zpid/,62589800,,SINGLE FAMILY,"$299,000",17006 Maricella Cir,Houston,TX,77084,4,3,2452,5275.116 sqft,2145
+https://www.zillow.com/homedetails/6414-Windmist-Cir-Houston-TX-77084/55483331_zpid/,55483331,,SINGLE FAMILY,"$280,000",6414 Windmist Cir,Houston,TX,77084,4,3,2348,6120.18 sqft,2225
+https://www.zillow.com/homedetails/5402-Alba-Rd-Houston-TX-77091/28137812_zpid/,28137812,,SINGLE FAMILY,"$449,000",5402 Alba Rd,Houston,TX,77091,4,3,1939,8999.496 sqft,3084
+https://www.zillow.com/homedetails/4434-Autumn-Pass-Ct-Houston-TX-77069/329226720_zpid/,329226720,,SINGLE FAMILY,"$279,900",4434 Autumn Pass Ct,Houston,TX,77069,4,2,1682,5445 sqft,2176
+https://www.zillow.com/homedetails/5803-Song-Ridge-Ct-Houston-TX-77041/28521006_zpid/,28521006,,SINGLE FAMILY,"$519,900",5803 Song Ridge Ct,Houston,TX,77041,4,4,3297,8942.868 sqft,3814
+https://www.zillow.com/homedetails/3434-Amber-Forest-Dr-Houston-TX-77068/28418983_zpid/,28418983,,SINGLE FAMILY,"$498,000",3434 Amber Forest Dr,Houston,TX,77068,4,4,4051,10715.76 sqft,3637
+https://www.zillow.com/homedetails/5522-Aspen-St-Houston-TX-77081/27941869_zpid/,27941869,,SINGLE FAMILY,"$450,000",5522 Aspen St,Houston,TX,77081,2,2,1698,6599.34 sqft,1964
+https://www.zillow.com/homedetails/14605-Branchwest-Dr-Houston-TX-77082/89646854_zpid/,89646854,,SINGLE FAMILY,"$335,000",14605 Branchwest Dr,Houston,TX,77082,4,3,2240,4451.832 sqft,2396
+https://www.zillow.com/homedetails/14105-N-Lake-Branch-Ln-Houston-TX-77044/123239985_zpid/,123239985,,SINGLE FAMILY,"$549,999",14105 N Lake Branch Ln,Houston,TX,77044,5,5,4566,9408.96 sqft,4338
+https://www.zillow.com/homedetails/2523-Moss-Hill-Dr-Houston-TX-77080/28109554_zpid/,28109554,,SINGLE FAMILY,"$489,900",2523 Moss Hill Dr,Houston,TX,77080,4,2,1946,9099.684 sqft,2531
+https://www.zillow.com/homedetails/1265-Du-Barry-Ln-Houston-TX-77018/27910232_zpid/,27910232,,SINGLE FAMILY,"$559,000",1265 Du Barry Ln,Houston,TX,77018,4,2,1889,8542.116 sqft,2766
+https://www.zillow.com/homedetails/16402-Clearcrest-Dr-Houston-TX-77059/28186737_zpid/,28186737,,SINGLE FAMILY,"$369,900",16402 Clearcrest Dr,Houston,TX,77059,4,3,2461,10711.404 sqft,3059
+https://www.zillow.com/homedetails/1319-Chelsea-Way-Kingwood-TX-77339/123227489_zpid/,123227489,,SINGLE FAMILY,"$669,000",1319 Chelsea Way,Kingwood,TX,77339,4,4,3076,10410.84 sqft,3825
+https://www.zillow.com/homedetails/1214-Fairgate-Dr-Houston-TX-77094/28506196_zpid/,28506196,,SINGLE FAMILY,"$725,000",1214 Fairgate Dr,Houston,TX,77094,5,4,3741,8864.46 sqft,4109
+https://www.zillow.com/homedetails/6366-Concho-Bay-Dr-Houston-TX-77041/68415961_zpid/,68415961,,SINGLE FAMILY,"$760,000",6366 Concho Bay Dr,Houston,TX,77041,5,3,3568,0.30910000000000004 acres,5085
+https://www.zillow.com/homedetails/1526-Big-Horn-Dr-Houston-TX-77090/28143791_zpid/,28143791,,SINGLE FAMILY,"$479,000",1526 Big Horn Dr,Houston,TX,77090,5,4,3895,0.3127 acres,2786
+https://www.zillow.com/homedetails/8360-Golf-Green-Cir-Houston-TX-77036/28549631_zpid/,28549631,,SINGLE FAMILY,"$360,000",8360 Golf Green Cir,Houston,TX,77036,4,3,2436,5066.028 sqft,2311
+https://www.zillow.com/homedetails/2904-Newington-Ln-Houston-TX-77047/442480770_zpid/,442480770,,SINGLE FAMILY,"$387,000",2904 Newington Ln,Houston,TX,77047,4,3,2322,4791.6 sqft,
+https://www.zillow.com/homedetails/6206-Antha-St-Houston-TX-77016/28073321_zpid/,28073321,,SINGLE FAMILY,"$170,000",6206 Antha St,Houston,TX,77016,3,2,1415,6216.012 sqft,1558
+https://www.zillow.com/homedetails/1401-Truxillo-St-Houston-TX-77004/2087114913_zpid/,2087114913,,SINGLE FAMILY,"$945,000",1401 Truxillo St,Houston,TX,77004,4,4,4484,9374.112 sqft,4387
+https://www.zillow.com/homedetails/3711-W-Ashford-Villa-Ln-Houston-TX-77082/70306407_zpid/,70306407,,SINGLE FAMILY,"$244,900",3711 W Ashford Villa Ln,Houston,TX,77082,4,3,1710,2522.124 sqft,2077
+https://www.zillow.com/homedetails/12413-Palmbeach-St-Houston-TX-77034/28001361_zpid/,28001361,,SINGLE FAMILY,"$175,000",12413 Palmbeach St,Houston,TX,77034,3,1,1096,7801.596 sqft,1967
+https://www.zillow.com/homedetails/3506-Prudence-Dr-Houston-TX-77045/28100550_zpid/,28100550,,SINGLE FAMILY,"$149,999",3506 Prudence Dr,Houston,TX,77045,3,2,1052,6490.44 sqft,1539
+https://www.zillow.com/homedetails/8903-Freeland-St-Houston-TX-77075/84019152_zpid/,84019152,,SINGLE FAMILY,"$225,000",8903 Freeland St,Houston,TX,77075,3,3,1458,3402.036 sqft,1958
+https://www.zillow.com/homedetails/6930-Avenue-S-Houston-TX-77011/27790565_zpid/,27790565,,SINGLE FAMILY,"$189,900",6930 Avenue S,Houston,TX,77011,3,1,1616,5000.688 sqft,1712
+https://www.zillow.com/homedetails/706-72nd-St-Houston-TX-77011/27768585_zpid/,27768585,,SINGLE FAMILY,"$260,000",706 72nd St,Houston,TX,77011,3,2,1300,3750.516 sqft,1416
+https://www.zillow.com/homedetails/1818-Augusta-Dr-APT-21-Houston-TX-77057/28347899_zpid/,28347899,,TOWNHOUSE,"$142,500",1818 Augusta Dr APT 21,Houston,TX,77057,2,1,995,1.4882 acres,1357
+https://www.zillow.com/homedetails/1609-Peden-St-Houston-TX-77006/27816132_zpid/,27816132,,TOWNHOUSE,"$525,000",1609 Peden St,Houston,TX,77006,3,3,2570,1380.852 sqft,3483
+https://www.zillow.com/homedetails/10410-Rockaway-Dr-Houston-TX-77016/28020684_zpid/,28020684,,SINGLE FAMILY,"$160,000",10410 Rockaway Dr,Houston,TX,77016,3,1,1196,6995.736 sqft,1267
+https://www.zillow.com/homedetails/1714-Merton-Dr-Houston-TX-77015/28336887_zpid/,28336887,,SINGLE FAMILY,"$175,999",1714 Merton Dr,Houston,TX,77015,3,2,1146,6568.848 sqft,1738
+https://www.zillow.com/homedetails/3388-Maroneal-St-Houston-TX-77025/27931072_zpid/,27931072,,TOWNHOUSE,"$650,000",3388 Maroneal St,Houston,TX,77025,3,3,2454,3497.868 sqft,3110
+https://www.zillow.com/homedetails/12050-Sela-Ln-Houston-TX-77072/28125885_zpid/,28125885,,SINGLE FAMILY,"$230,000",12050 Sela Ln,Houston,TX,77072,3,2,1786,6599.34 sqft,1791
+https://www.zillow.com/homedetails/14615-Jasper-Stream-Ct-Houston-TX-77069/305346470_zpid/,305346470,,SINGLE FAMILY,"$324,000",14615 Jasper Stream Ct,Houston,TX,77069,4,3,2660,4944.06 sqft,2468
+https://www.zillow.com/homedetails/7204-Crownwest-St-7204-Houston-TX-77072/28156951_zpid/,28156951,,TOWNHOUSE,"$165,000",7204 Crownwest St #7204,Houston,TX,77072,3,3,1584,1563.804 sqft,1710
+https://www.zillow.com/homedetails/4914-N-Cancun-Dr-Houston-TX-77045/89643372_zpid/,89643372,,SINGLE FAMILY,"$184,900",4914 N Cancun Dr,Houston,TX,77045,4,3,1700,2509.056 sqft,1752
+https://www.zillow.com/homedetails/1849-Portsmouth-St-Houston-TX-77098/27830488_zpid/,27830488,,SINGLE FAMILY,"$1,400,000",1849 Portsmouth St,Houston,TX,77098,3,3,2412,8624.88 sqft,3772
+https://www.zillow.com/homedetails/11815-Spruce-Mountain-Dr-Houston-TX-77067/28310529_zpid/,28310529,,SINGLE FAMILY,"$240,000",11815 Spruce Mountain Dr,Houston,TX,77067,3,2,1214,6298.776 sqft,1628
+https://www.zillow.com/homedetails/1445-Bonanza-Rd-445-Houston-TX-77062/455277577_zpid/,455277577,,TOWNHOUSE,"$200,000",1445 Bonanza Rd #445,Houston,TX,77062,3,3,1392,2125.728 sqft,
+https://www.zillow.com/homedetails/11422-Newton-St-Houston-TX-77089/28133843_zpid/,28133843,,SINGLE FAMILY,"$225,000",11422 Newton St,Houston,TX,77089,3,2,1472,8398.368 sqft,1774
+https://www.zillow.com/homedetails/15419-Bay-Lodge-Ln-Houston-TX-77086/62568530_zpid/,62568530,,SINGLE FAMILY,"$254,900",15419 Bay Lodge Ln,Houston,TX,77086,3,2,1469,5039.892 sqft,1941
+https://www.zillow.com/homedetails/1652-Norfolk-St-Houston-TX-77006/27791494_zpid/,27791494,,TOWNHOUSE,"$850,000",1652 Norfolk St,Houston,TX,77006,4,4,3202,2658 sqft,
+https://www.zillow.com/homedetails/2401-Potomac-Dr-Houston-TX-77057/27944432_zpid/,27944432,,TOWNHOUSE,"$630,000",2401 Potomac Dr,Houston,TX,77057,3,3,2898,2382.732 sqft,3522
+https://www.zillow.com/homedetails/8411-Berry-Brush-Ln-Houston-TX-77022/338049784_zpid/,338049784,,SINGLE FAMILY,"$339,000",8411 Berry Brush Ln,Houston,TX,77022,4,3,2007,1790.316 sqft,2652
+https://www.zillow.com/homedetails/15722-Falmouth-Dr-Houston-TX-77059/28249156_zpid/,28249156,,SINGLE FAMILY,"$525,000",15722 Falmouth Dr,Houston,TX,77059,4,3,3194,0.38220000000000004 acres,4168
+https://www.zillow.com/homedetails/8313-Cedarbrake-Dr-Houston-TX-77055/27981457_zpid/,27981457,,SINGLE FAMILY,"$979,000",8313 Cedarbrake Dr,Houston,TX,77055,4,2,2423,9801 sqft,3459
+https://www.zillow.com/homedetails/1130-Rouse-St-Houston-TX-77020/27907638_zpid/,27907638,,SINGLE FAMILY,"$160,000",1130 Rouse St,Houston,TX,77020,3,1,1110,6250.86 sqft,1576
+https://www.zillow.com/homedetails/1029-Martin-St-Houston-TX-77018/28121194_zpid/,28121194,,SINGLE FAMILY,"$895,000",1029 Martin St,Houston,TX,77018,5,3,2848,8999.496 sqft,7002
+https://www.zillow.com/homedetails/8666-Pearl-Point-St-Houston-TX-77044/84042598_zpid/,84042598,,SINGLE FAMILY,"$284,999",8666 Pearl Point St,Houston,TX,77044,4,3,3004,6050.484 sqft,2582
+https://www.zillow.com/homedetails/7016-S-Dairy-Ashford-Rd-Houston-TX-77072/28202870_zpid/,28202870,,TOWNHOUSE,"$190,000",7016 S Dairy Ashford Rd,Houston,TX,77072,2,2,1392,1729.332 sqft,1306
+https://www.zillow.com/homedetails/2111-Driscoll-St-Houston-TX-77019/27814366_zpid/,27814366,,TOWNHOUSE,"$834,000",2111 Driscoll St,Houston,TX,77019,3,4,3150,2500.344 sqft,4480
+https://www.zillow.com/homedetails/14722-Scenic-Sky-Way-Houston-TX-77049/161441268_zpid/,161441268,,SINGLE FAMILY,"$285,000",14722 Scenic Sky Way,Houston,TX,77049,4,3,2515,4730.616 sqft,2432
+https://www.zillow.com/homedetails/3901-Hare-St-Houston-TX-77020/97628949_zpid/,97628949,,SINGLE FAMILY,"$439,999",3901 Hare St,Houston,TX,77020,3,4,2156,1899.216 sqft,2945
+https://www.zillow.com/homedetails/5633-Cohn-Meadow-Ln-Houston-TX-77007/123231443_zpid/,123231443,,SINGLE FAMILY,"$500,000",5633 Cohn Meadow Ln,Houston,TX,77007,3,4,2324,1546.38 sqft,3481
+https://www.zillow.com/homedetails/418-Fowler-St-Houston-TX-77007/84051877_zpid/,84051877,,TOWNHOUSE,"$559,000",418 Fowler St,Houston,TX,77007,3,4,2248,1846.944 sqft,3386
+https://www.zillow.com/homedetails/1518-Bayram-Dr-Houston-TX-77055/27971600_zpid/,27971600,,SINGLE FAMILY,"$1,250,000",1518 Bayram Dr,Houston,TX,77055,3,3,3383,9975.24 sqft,6171
+https://www.zillow.com/homedetails/1306-Eberhard-St-Houston-TX-77019/84052502_zpid/,84052502,,SINGLE FAMILY,"$999,000",1306 Eberhard St,Houston,TX,77019,4,4,3590,2526.48 sqft,5531
+https://www.zillow.com/homedetails/2010-Lubbock-St-Houston-TX-77007/84038595_zpid/,84038595,,SINGLE FAMILY,"$850,000",2010 Lubbock St,Houston,TX,77007,4,3,2380,5000.688 sqft,4169
+https://www.zillow.com/homedetails/2405-Arbor-St-Houston-TX-77004/27849135_zpid/,27849135,,SINGLE FAMILY,"$495,000",2405 Arbor St,Houston,TX,77004,3,6,2374,7200.468 sqft,3844
+https://www.zillow.com/homedetails/7824-Brandon-St-Houston-TX-77051/27812520_zpid/,27812520,,SINGLE FAMILY,"$165,000",7824 Brandon St,Houston,TX,77051,3,1,972,5000.688 sqft,1324
+https://www.zillow.com/homedetails/1-Exbury-Way-Houston-TX-77056/28534037_zpid/,28534037,,SINGLE FAMILY,"$1,315,000",1 Exbury Way,Houston,TX,77056,4,4,4366,5336.1 sqft,7635
+https://www.zillow.com/homedetails/1104-Gross-St-Houston-TX-77019/337101498_zpid/,337101498,,SINGLE FAMILY,"$745,000",1104 Gross St,Houston,TX,77019,3,3,2438,2273.832 sqft,4966
+https://www.zillow.com/homedetails/5302-Weaver-Rd-Houston-TX-77016/27872288_zpid/,27872288,,SINGLE FAMILY,"$150,000",5302 Weaver Rd,Houston,TX,77016,3,1,1108,2600.532 sqft,1108
+https://www.zillow.com/homedetails/3300-Yorktown-St-APT-13-Houston-TX-77056/28276309_zpid/,28276309,,TOWNHOUSE,"$155,000",3300 Yorktown St APT 13,Houston,TX,77056,2,3,1664,1.1278 acres,2431
+https://www.zillow.com/homedetails/11609-Southlake-Dr-34-Houston-TX-77077/28292506_zpid/,28292506,,TOWNHOUSE,"$154,900",11609 Southlake Dr #34,Houston,TX,77077,3,3,1552,22.722 acres,2339
+https://www.zillow.com/homedetails/5025-Tangle-Ln-APT-A-Houston-TX-77056/453842523_zpid/,453842523,,SINGLE FAMILY,"$1,185,000",5025 Tangle Ln APT A,Houston,TX,77056,4,5,3208,3432.528 sqft,
+https://www.zillow.com/homedetails/9203-W-Montgomery-Rd-Houston-TX-77088/27754688_zpid/,27754688,,SINGLE FAMILY,"$550,000",9203 W Montgomery Rd,Houston,TX,77088,5,2,1248,1.7883 acres,2436
+https://www.zillow.com/homedetails/13530-Grand-Masterpiece-Ln-Houston-TX-77041/28526628_zpid/,28526628,,SINGLE FAMILY,"$1,150,000",13530 Grand Masterpiece Ln,Houston,TX,77041,4,5,5381,0.336 acres,5542
+https://www.zillow.com/homedetails/9450-Neuens-Rd-9450-Houston-TX-77080/28263420_zpid/,28263420,,TOWNHOUSE,"$110,000",9450 Neuens Rd #9450,Houston,TX,77080,2,1,918,5.0397 acres,1272
+https://www.zillow.com/homedetails/6161-Reims-Rd-APT-1301-Houston-TX-77036/28347007_zpid/,28347007,,TOWNHOUSE,"$100,000",6161 Reims Rd APT 1301,Houston,TX,77036,2,1,876,2.2389 acres,1207
+https://www.zillow.com/homedetails/2234-S-Piney-Point-Rd-APT-207-Houston-TX-77063/28248826_zpid/,28248826,,TOWNHOUSE,"$175,000",2234 S Piney Point Rd APT 207,Houston,TX,77063,2,2,1052,7.9016 acres,1893
+https://www.zillow.com/homedetails/5524-Jessamine-St-Houston-TX-77081/27941914_zpid/,27941914,,SINGLE FAMILY,"$892,500",5524 Jessamine St,Houston,TX,77081,4,4,4621,7501.032 sqft,4200
+https://www.zillow.com/homedetails/2410-Creekhickory-Rd-Houston-TX-77068/28046351_zpid/,28046351,,SINGLE FAMILY,"$420,000",2410 Creekhickory Rd,Houston,TX,77068,3,2,2646,0.5556 acres,2814
+https://www.zillow.com/homedetails/15619-Winding-Moss-Dr-Houston-TX-77068/28239124_zpid/,28239124,,SINGLE FAMILY,"$579,999",15619 Winding Moss Dr,Houston,TX,77068,4,5,4140,10201.752 sqft,4454
+https://www.zillow.com/homedetails/122-White-Cedar-St-Houston-TX-77015/28278411_zpid/,28278411,,SINGLE FAMILY,"$195,000",122 White Cedar St,Houston,TX,77015,4,2,1548,8102.16 sqft,1928
+https://www.zillow.com/homedetails/1701-Walnut-Ln-Humble-TX-77339/28085035_zpid/,28085035,,SINGLE FAMILY,"$799,990",1701 Walnut Ln,Humble,TX,77339,7,6,3116,1.0191 acres,4049
+https://www.zillow.com/homedetails/13908-Cravenridge-Dr-Houston-TX-77083/27569356_zpid/,27569356,,SINGLE FAMILY,"$189,000",13908 Cravenridge Dr,Houston,TX,77083,3,2,1512,6046.128 sqft,1798
+https://www.zillow.com/homedetails/2008-Bristol-Cliff-Ln-Houston-TX-77089/453169908_zpid/,453169908,,SINGLE FAMILY,"$540,000",2008 Bristol Cliff Ln,Houston,TX,77089,5,5,3460,10088.496 sqft,
+https://www.zillow.com/homedetails/16211-Florida-View-Ln-Houston-TX-77044/118401992_zpid/,118401992,,SINGLE FAMILY,"$690,000",16211 Florida View Ln,Houston,TX,77044,5,5,4515,0.3414 acres,5309
+https://www.zillow.com/homedetails/3719-Sandy-Forks-Dr-Humble-TX-77339/28261169_zpid/,28261169,,SINGLE FAMILY,"$449,000",3719 Sandy Forks Dr,Humble,TX,77339,4,4,3314,0.259 acres,2820
+https://www.zillow.com/homedetails/15811-Red-Hill-Trl-Houston-TX-77095/28516402_zpid/,28516402,,SINGLE FAMILY,"$408,000",15811 Red Hill Trl,Houston,TX,77095,3,3,2444,7801.596 sqft,2396
+https://www.zillow.com/homedetails/2131-Campbell-Rd-Houston-TX-77080/28000659_zpid/,28000659,,SINGLE FAMILY,"$474,904",2131 Campbell Rd,Houston,TX,77080,3,4,2581,7562.016 sqft,3096
+https://www.zillow.com/homedetails/11045-Landswalk-Dr-APT-113-Houston-TX-77099/62582572_zpid/,62582572,,TOWNHOUSE,"$149,000",11045 Landswalk Dr APT 113,Houston,TX,77099,3,3,1348,1.644 acres,1655
+https://www.zillow.com/homedetails/259-W-Thorn-Way-Houston-TX-77015/28544328_zpid/,28544328,,SINGLE FAMILY,"$599,000",259 W Thorn Way,Houston,TX,77015,4,4,4189,0.644 acres,4845
+https://www.zillow.com/homedetails/2409-Dolly-Wright-St-Houston-TX-77088/27755339_zpid/,27755339,,MULTI FAMILY,"$479,944",2409 Dolly Wright St,Houston,TX,77088,4,2,2488,4769.82 sqft,1246
+https://www.zillow.com/homedetails/13214-Westmont-Heights-Ln-Houston-TX-77044/337096575_zpid/,337096575,,SINGLE FAMILY,"$575,000",13214 Westmont Heights Ln,Houston,TX,77044,5,5,3861,8751.204 sqft,3960
+https://www.zillow.com/homedetails/4319-Howcher-St-Houston-TX-77047/28028906_zpid/,28028906,,SINGLE FAMILY,"$174,000",4319 Howcher St,Houston,TX,77047,3,1,1050,6599.34 sqft,1492
+https://www.zillow.com/homedetails/1146-Hempstead-Villa-Ln-Houston-TX-77008/89556647_zpid/,89556647,,SINGLE FAMILY,"$400,000",1146 Hempstead Villa Ln,Houston,TX,77008,3,4,2086,1855.656 sqft,2768
+https://www.zillow.com/homedetails/10318-Rockcrest-Dr-Houston-TX-77041/28210608_zpid/,28210608,,SINGLE FAMILY,"$199,500",10318 Rockcrest Dr,Houston,TX,77041,2,3,1273,2273.832 sqft,1687
+https://www.zillow.com/homedetails/7802-Strathclyde-Sound-Rd-Houston-TX-77095/28478632_zpid/,28478632,,SINGLE FAMILY,"$415,000",7802 Strathclyde Sound Rd,Houston,TX,77095,4,3,2640,0.2592 acres,3032
+https://www.zillow.com/homedetails/2302-Hewitt-Dr-Houston-TX-77018/27913267_zpid/,27913267,,SINGLE FAMILY,"$474,000",2302 Hewitt Dr,Houston,TX,77018,3,2,1328,7261.452 sqft,2798
+https://www.zillow.com/homedetails/5515-Dumfries-Dr-Houston-TX-77096/28081560_zpid/,28081560,,SINGLE FAMILY,"$529,000",5515 Dumfries Dr,Houston,TX,77096,4,2,2417,8999.496 sqft,4035
+https://www.zillow.com/homedetails/6214-Laguna-Del-Rey-Dr-Houston-TX-77041/55481259_zpid/,55481259,,SINGLE FAMILY,"$536,500",6214 Laguna Del Rey Dr,Houston,TX,77041,5,4,3172,8546.472 sqft,3406
+https://www.zillow.com/homedetails/7655-S-Braeswood-Blvd-APT-47-Houston-TX-77071/28225229_zpid/,28225229,,TOWNHOUSE,"$187,500",7655 S Braeswood Blvd APT 47,Houston,TX,77071,3,3,2060, ,1907
+https://www.zillow.com/homedetails/3123-Ashford-Arbor-Dr-Houston-TX-77082/28270878_zpid/,28270878,,SINGLE FAMILY,"$160,000",3123 Ashford Arbor Dr,Houston,TX,77082,3,2,1846,5000.688 sqft,1929
+https://www.zillow.com/homedetails/318-W-24th-St-Houston-TX-77008/27759280_zpid/,27759280,,SINGLE FAMILY,"$829,500",318 W 24th St,Houston,TX,77008,3,3,1846,4909.212 sqft,3886
+https://www.zillow.com/homedetails/5941-South-Loop-E-UNIT-503-Houston-TX-77033/2139674701_zpid/,2139674701,,TOWNHOUSE,"$180,000",5941 South Loop E UNIT 503,Houston,TX,77033,2,2,1030,5.3721 acres,1676
+https://www.zillow.com/homedetails/240-Asbury-St-Houston-TX-77007/27775554_zpid/,27775554,,SINGLE FAMILY,"$699,995",240 Asbury St,Houston,TX,77007,3,2,1908,5000.688 sqft,3046
+https://www.zillow.com/homedetails/5411-Saxon-Dr-Houston-TX-77092/28027976_zpid/,28027976,,SINGLE FAMILY,"$635,000",5411 Saxon Dr,Houston,TX,77092,4,3,2516,8468.064 sqft,2693
+https://www.zillow.com/homedetails/16310-Brook-Forest-Dr-Houston-TX-77059/84053486_zpid/,84053486,,SINGLE FAMILY,"$824,880",16310 Brook Forest Dr,Houston,TX,77059,6,6,5577,0.488 acres,5093
+https://www.zillow.com/homedetails/6473-Alisa-Ln-Houston-TX-77084/28377842_zpid/,28377842,,TOWNHOUSE,"$189,900",6473 Alisa Ln,Houston,TX,77084,2,2,1316,2273.832 sqft,1582
+https://www.zillow.com/homedetails/5202-Jason-St-Houston-TX-77096/28023594_zpid/,28023594,,SINGLE FAMILY,"$475,000",5202 Jason St,Houston,TX,77096,4,2,1828,10611.216 sqft,2680
+https://www.zillow.com/homedetails/11911-Mighty-Redwood-Dr-Houston-TX-77059/28501951_zpid/,28501951,,SINGLE FAMILY,"$453,000",11911 Mighty Redwood Dr,Houston,TX,77059,4,4,3218,8999.496 sqft,3377
+https://www.zillow.com/homedetails/8110-Albacore-Dr-APT-38-Houston-TX-77074/28287174_zpid/,28287174,,TOWNHOUSE,"$149,000",8110 Albacore Dr APT 38,Houston,TX,77074,2,2,1100,1.8233 acres,1442
+https://www.zillow.com/homedetails/1821-W-Main-St-APT-E-Houston-TX-77098/2098361514_zpid/,2098361514,,SINGLE FAMILY,"$475,000",1821 W Main St APT E,Houston,TX,77098,3,4,1948,1659.636 sqft,3515
+https://www.zillow.com/homedetails/17003-Creeksouth-Rd-Houston-TX-77068/28076333_zpid/,28076333,,SINGLE FAMILY,"$800,000",17003 Creeksouth Rd,Houston,TX,77068,4,3,4428,1.7008 acres,5315
+https://www.zillow.com/homedetails/2205-McKinney-St-APT-405-Houston-TX-77003/84012343_zpid/,84012343,,CONDO,"$185,000",2205 McKinney St APT 405,Houston,TX,77003,1,1,694, ,1536
+https://www.zillow.com/homedetails/14418-Mountain-Cliff-Ln-Houston-TX-77044/123229219_zpid/,123229219,,SINGLE FAMILY,"$439,000",14418 Mountain Cliff Ln,Houston,TX,77044,4,4,3181,7501.032 sqft,3093
+https://www.zillow.com/homedetails/12610-Chiswick-Rd-Houston-TX-77047/28107870_zpid/,28107870,,SINGLE FAMILY,"$167,500",12610 Chiswick Rd,Houston,TX,77047,3,2,1042,5776.056 sqft,1651
+https://www.zillow.com/homedetails/661-Bering-Dr-UNIT-807-Houston-TX-77057/28401698_zpid/,28401698,,CONDO,"$180,000",661 Bering Dr UNIT 807,Houston,TX,77057,2,2,1323, ,2154
+https://www.zillow.com/homedetails/12939-Segrest-Dr-Houston-TX-77047/28138721_zpid/,28138721,,SINGLE FAMILY,"$100,000",12939 Segrest Dr,Houston,TX,77047,3,2,2069,5723.784 sqft,1591
+https://www.zillow.com/homedetails/456-Cheatham-Rd-Huffman-TX-77336/27810986_zpid/,27810986,,SINGLE FAMILY,"$530,000",456 Cheatham Rd,Huffman,TX,77336,3,3,2073,3.5482 acres,2276
+https://www.zillow.com/homedetails/1201-McDuffie-St-UNIT-130-Houston-TX-77019/28363901_zpid/,28363901,,TOWNHOUSE,"$450,000",1201 McDuffie St UNIT 130,Houston,TX,77019,2,3,1560, ,2653
+https://www.zillow.com/homedetails/45-Bayou-Pointe-Dr-Houston-TX-77063/28185102_zpid/,28185102,,SINGLE FAMILY,"$700,000",45 Bayou Pointe Dr,Houston,TX,77063,5,5,3489,3040.488 sqft,4009
+https://www.zillow.com/homedetails/2016-Main-St-APT-1505-Houston-TX-77002/112155752_zpid/,112155752,,CONDO,"$147,000",2016 Main St APT 1505,Houston,TX,77002,1,1,817, ,1769
+https://www.zillow.com/homedetails/3271-Sul-Ross-St-APT-4-Houston-TX-77098/329226202_zpid/,329226202,,TOWNHOUSE,"$175,000",3271 Sul Ross St APT 4,Houston,TX,77098,2,2,960, ,1688
+https://www.zillow.com/homedetails/6452-Kentwick-Dr-Houston-TX-77084/28377858_zpid/,28377858,,TOWNHOUSE,"$189,000",6452 Kentwick Dr,Houston,TX,77084,3,3,1728,1659.636 sqft,1793
+https://www.zillow.com/homedetails/1710-Magnolia-Ln-Humble-TX-77339/28084906_zpid/,28084906,,SINGLE FAMILY,"$669,900",1710 Magnolia Ln,Humble,TX,77339,4,3,3174,1.0191 acres,3894
+https://www.zillow.com/homedetails/427-Lassen-Villa-Ct-Huffman-TX-77336/126299564_zpid/,126299564,,SINGLE FAMILY,"$1,250,000",427 Lassen Villa Ct,Huffman,TX,77336,4,4,5272,2.457 acres,5377
+https://www.zillow.com/homedetails/6810-Apple-Valley-Ln-Houston-TX-77069/28334458_zpid/,28334458,,SINGLE FAMILY,"$440,000",6810 Apple Valley Ln,Houston,TX,77069,5,4,2998,8049.888 sqft,2310
+https://www.zillow.com/homedetails/11715-Cypresswood-Dr-Houston-TX-77070/28189812_zpid/,28189812,,SINGLE FAMILY,"$485,000",11715 Cypresswood Dr,Houston,TX,77070,4,4,3518,9774.864 sqft,3407
+https://www.zillow.com/homedetails/1547-Sue-Barnett-Dr-Houston-TX-77018/27874053_zpid/,27874053,,SINGLE FAMILY,"$750,000",1547 Sue Barnett Dr,Houston,TX,77018,3,2,1847,7801.596 sqft,3863
+https://www.zillow.com/homedetails/8287-Kingsbrook-Rd-APT-269-Houston-TX-77024/28324733_zpid/,28324733,,TOWNHOUSE,"$125,000",8287 Kingsbrook Rd APT 269,Houston,TX,77024,2,2,1052, ,1636
+https://www.zillow.com/homedetails/2607-University-Blvd-Houston-TX-77005/27843612_zpid/,27843612,,SINGLE FAMILY,"$1,449,000",2607 University Blvd,Houston,TX,77005,3,4,2869,5048.604 sqft,5780
+https://www.zillow.com/homedetails/11806-Greenspark-Ln-Houston-TX-77044/28283080_zpid/,28283080,,SINGLE FAMILY,"$130,000",11806 Greenspark Ln,Houston,TX,77044,3,2,1378,6599.34 sqft,1679
+https://www.zillow.com/homedetails/3207-Westhampton-Dr-Houston-TX-77045/28100658_zpid/,28100658,,SINGLE FAMILY,"$140,000",3207 Westhampton Dr,Houston,TX,77045,3,2,1131,7370.352 sqft,1554
+https://www.zillow.com/homedetails/13306-Boca-Raton-Dr-Houston-TX-77069/28074071_zpid/,28074071,,SINGLE FAMILY,"$469,000",13306 Boca Raton Dr,Houston,TX,77069,3,4,2804,0.264 acres,3333
+https://www.zillow.com/homedetails/8215-Arrowhead-Ln-Houston-TX-77075/27961480_zpid/,27961480,,SINGLE FAMILY,"$769,999",8215 Arrowhead Ln,Houston,TX,77075,5,5,3153,0.7115 acres,4801
+https://www.zillow.com/homedetails/7693-Cambridge-St-7691-Houston-TX-77054/439681044_zpid/,439681044,,TOWNHOUSE,"$198,000",7693 Cambridge St #7691,Houston,TX,77054,2,3,1368,5.8475 acres,
+https://www.zillow.com/homedetails/5535-Elmlawn-Dr-Houston-TX-77033/28029043_zpid/,28029043,,SINGLE FAMILY,"$175,000",5535 Elmlawn Dr,Houston,TX,77033,3,2,1470,6268.284 sqft,1756
+https://www.zillow.com/homedetails/2023-Gentryside-Dr-APT-108-Houston-TX-77077/28488532_zpid/,28488532,,TOWNHOUSE,"$199,000",2023 Gentryside Dr APT 108,Houston,TX,77077,3,2,1081,3.7904 acres,1707
+https://www.zillow.com/homedetails/7900-N-Stadium-Dr-APT-102-Houston-TX-77030/28359004_zpid/,28359004,,TOWNHOUSE,"$164,900",7900 N Stadium Dr APT 102,Houston,TX,77030,2,2,1137,5.3017 acres,1753
+https://www.zillow.com/homedetails/206-Beaver-Bend-Rd-Houston-TX-77037/28108287_zpid/,28108287,,SINGLE FAMILY,"$186,900",206 Beaver Bend Rd,Houston,TX,77037,4,2,1470,6821.496 sqft,1842
+https://www.zillow.com/homedetails/313-E-27th-St-Houston-TX-77008/351635532_zpid/,351635532,,SINGLE FAMILY,"$640,000",313 E 27th St,Houston,TX,77008,3,3,2365,2500.344 sqft,3398
+https://www.zillow.com/homedetails/14558-Carolcrest-Dr-Houston-TX-77079/448971340_zpid/,448971340,,SINGLE FAMILY,"$765,000",14558 Carolcrest Dr,Houston,TX,77079,5,4,3043,8960.292 sqft,
+https://www.zillow.com/homedetails/12618-Ashford-Meadow-Dr-A-B-Houston-TX-77082/446741059_zpid/,446741059,,MULTI FAMILY,"$400,000",12618 Ashford Meadow Dr #A-B,Houston,TX,77082,10,8,3924,3110.184 sqft,
+https://www.zillow.com/homedetails/5204-Beaverbrook-Dr-Houston-TX-77084/28433041_zpid/,28433041,,MULTI FAMILY,"$170,000",5204 Beaverbrook Dr,Houston,TX,77084,3,2,1202,3001.284 sqft,1731
+https://www.zillow.com/homedetails/11103-Holly-Springs-Dr-Houston-TX-77042/28178597_zpid/,28178597,,SINGLE FAMILY,"$625,000",11103 Holly Springs Dr,Houston,TX,77042,4,3,2808,9600.624 sqft,2783
+https://www.zillow.com/community/houston-office/2061782200_zpid/,2061782200,,SINGLE FAMILY,"$1,000,000+","Custom Design 15218 Plan, Houston Office",Houston,TX,77043,5,6,5580, ,6623
+https://www.zillow.com/homedetails/5747-Easthampton-Dr-UNIT-D-Houston-TX-77039/28207912_zpid/,28207912,,TOWNHOUSE,"$110,000",5747 Easthampton Dr UNIT D,Houston,TX,77039,3,2,1511,2426.292 sqft,1553
+https://www.zillow.com/homedetails/5212-Lillian-St-Houston-TX-77007/68424636_zpid/,68424636,,SINGLE FAMILY,"$549,000",5212 Lillian St,Houston,TX,77007,3,4,2519,2491.632 sqft,4004
+https://www.zillow.com/homedetails/4715-Selinsky-Rd-Houston-TX-77048/118399554_zpid/,118399554,,SINGLE FAMILY,"$189,900",4715 Selinsky Rd,Houston,TX,77048,4,3,4208,0.6469 acres,2819
+https://www.zillow.com/homedetails/11310-Glenora-Dr-Houston-TX-77065/28002915_zpid/,28002915,,SINGLE FAMILY,"$750,000",11310 Glenora Dr,Houston,TX,77065,3,3,3109,1.2891 acres,4308
+https://www.zillow.com/homedetails/2127-Milford-St-Houston-TX-77098/27842629_zpid/,27842629,,SINGLE FAMILY,"$1,250,000",2127 Milford St,Houston,TX,77098,4,4,4664,6647.256 sqft,7157
+https://www.zillow.com/homedetails/3214-Prospect-St-Houston-TX-77004/27869427_zpid/,27869427,,SINGLE FAMILY,"$599,000",3214 Prospect St,Houston,TX,77004,6,5,2746,6324.912 sqft,2912
+https://www.zillow.com/homedetails/1119-Shawnee-St-Houston-TX-77034/27972164_zpid/,27972164,,SINGLE FAMILY,"$170,000",1119 Shawnee St,Houston,TX,77034,3,1,1315,6899.904 sqft,1629
+https://www.zillow.com/homedetails/1634-Marshall-St-Houston-TX-77006/27815604_zpid/,27815604,,SINGLE FAMILY,"$1,300,000",1634 Marshall St,Houston,TX,77006,2,3,2423,6250.86 sqft,4081
+https://www.zillow.com/homedetails/3525-Sage-Rd-APT-1705-Houston-TX-77056/28494970_zpid/,28494970,,CONDO,"$135,000",3525 Sage Rd APT 1705,Houston,TX,77056,1,1,794, ,1640
+https://www.zillow.com/homedetails/15502-Rana-Ct-Houston-TX-77068/28269882_zpid/,28269882,,SINGLE FAMILY,"$400,000",15502 Rana Ct,Houston,TX,77068,4,3,2441,10798.524 sqft,2493
+https://www.zillow.com/homedetails/1018-N-Commons-View-Dr-Huffman-TX-77336/68410602_zpid/,68410602,,SINGLE FAMILY,"$579,000",1018 N Commons View Dr,Huffman,TX,77336,4,4,3572,1.111 acres,3774
+https://www.zillow.com/homedetails/14022-Champions-Hamlet-Ct-Houston-TX-77069/27804290_zpid/,27804290,,SINGLE FAMILY,"$1,090,000",14022 Champions Hamlet Ct,Houston,TX,77069,5,5,5766,0.6499 acres,5967
+https://www.zillow.com/homedetails/1101-Heights-Blvd-Houston-TX-77008/84067562_zpid/,84067562,,SINGLE FAMILY,"$1,295,000",1101 Heights Blvd,Houston,TX,77008,5,4,3310,7169.976 sqft,6740
+https://www.zillow.com/homedetails/13810-Lakewood-Crossing-Blvd-Houston-TX-77070/28548396_zpid/,28548396,,SINGLE FAMILY,"$615,000",13810 Lakewood Crossing Blvd,Houston,TX,77070,4,4,3697,2.1048 acres,4918
+https://www.zillow.com/homedetails/12006-Gregory-Crossing-Way-Houston-TX-77067/121110955_zpid/,121110955,,SINGLE FAMILY,"$199,900",12006 Gregory Crossing Way,Houston,TX,77067,4,2,1464,3998.808 sqft,1798
+https://www.zillow.com/homedetails/10010-Piping-Rock-Ln-Houston-TX-77042/28068528_zpid/,28068528,,SINGLE FAMILY,"$785,000",10010 Piping Rock Ln,Houston,TX,77042,3,2,2246,8772.984 sqft,3590
+https://www.zillow.com/homedetails/221-W-25th-St-UNIT-A-Houston-TX-77008/245772527_zpid/,245772527,,SINGLE FAMILY,"$775,000",221 W 25th St UNIT A,Houston,TX,77008,3,3,2536,3275.712 sqft,3452
+https://www.zillow.com/homedetails/14827-River-Forest-Dr-Houston-TX-77079/28124692_zpid/,28124692,,SINGLE FAMILY,"$1,195,000",14827 River Forest Dr,Houston,TX,77079,4,4,3236,8799.12 sqft,4592
+https://www.zillow.com/homedetails/4026-Village-Corner-Dr-Houston-TX-77059/28505362_zpid/,28505362,,SINGLE FAMILY,"$525,000",4026 Village Corner Dr,Houston,TX,77059,4,4,3616,9326.196 sqft,4350
+https://www.zillow.com/homedetails/11514-Eaglewood-Dr-Houston-TX-77089/28447281_zpid/,28447281,,SINGLE FAMILY,"$198,000",11514 Eaglewood Dr,Houston,TX,77089,2,2,1143,4382.136 sqft,1815
+https://www.zillow.com/homedetails/1001-Lawrence-St-Houston-TX-77008/27842988_zpid/,27842988,,SINGLE FAMILY,"$1,095,000",1001 Lawrence St,Houston,TX,77008,3,4,2895,5998.212 sqft,5089
+https://www.zillow.com/homedetails/1111-Robbie-St-Houston-TX-77009/27783426_zpid/,27783426,,SINGLE FAMILY,"$565,000",1111 Robbie St,Houston,TX,77009,3,3,2217,2500.344 sqft,3885
+https://www.zillow.com/homedetails/6803-Las-Brisas-Dr-Houston-TX-77083/28253047_zpid/,28253047,,SINGLE FAMILY,"$407,000",6803 Las Brisas Dr,Houston,TX,77083,5,4,2650,6542.712 sqft,2694
+https://www.zillow.com/homedetails/12215-Cobblestone-Dr-Houston-TX-77024/28017867_zpid/,28017867,,SINGLE FAMILY,"$1,549,900",12215 Cobblestone Dr,Houston,TX,77024,5,4,3675,0.25680000000000003 acres,7173
+https://www.zillow.com/homedetails/5017-Baton-Rouge-St-Houston-TX-77028/55474226_zpid/,55474226,,SINGLE FAMILY,"$159,000",5017 Baton Rouge St,Houston,TX,77028,3,2,1080,2482.92 sqft,1482
+https://www.zillow.com/homedetails/1211-Caroline-St-UNIT-1109-Houston-TX-77046/305349952_zpid/,305349952,,CONDO,"$440,000",1211 Caroline St UNIT 1109,Houston,TX,77046,2,2,1100, ,3164
+https://www.zillow.com/homedetails/3350-McCue-Rd-APT-2404-Houston-TX-77056/28467813_zpid/,28467813,,CONDO,"$878,000",3350 McCue Rd APT 2404,Houston,TX,77056,3,3,2743, ,4695
+https://www.zillow.com/homedetails/1516-Bay-Area-Blvd-APT-M2-Houston-TX-77058/28298667_zpid/,28298667,,TOWNHOUSE,"$124,990",1516 Bay Area Blvd APT M2,Houston,TX,77058,2,2,1008,7.7464 acres,1457
+https://www.zillow.com/homedetails/15929-Oakendell-Dr-Houston-TX-77084/28432981_zpid/,28432981,,SINGLE FAMILY,"$149,950",15929 Oakendell Dr,Houston,TX,77084,2,2,1137,3201.66 sqft,1584
+https://www.zillow.com/homedetails/1515-Oakdale-St-UNIT-7-Houston-TX-77004/2134443841_zpid/,2134443841,,TOWNHOUSE,"$450,000",1515 Oakdale St UNIT 7,Houston,TX,77004,3,3,1971,1568.16 sqft,2842
+https://www.zillow.com/homedetails/781-Country-Place-Dr-APT-2083-Houston-TX-77079/28389899_zpid/,28389899,,TOWNHOUSE,"$130,000",781 Country Place Dr APT 2083,Houston,TX,77079,2,3,1490,3.7954 acres,1581
+https://www.zillow.com/homedetails/3525-Sage-Rd-APT-813-Houston-TX-77056/28494816_zpid/,28494816,,CONDO,"$180,000",3525 Sage Rd APT 813,Houston,TX,77056,2,2,1221, ,2386
+https://www.zillow.com/homedetails/1226-Peden-St-Houston-TX-77006/80514226_zpid/,80514226,,SINGLE FAMILY,"$542,500",1226 Peden St,Houston,TX,77006,3,2,2305,3005.64 sqft,3219
+https://www.zillow.com/homedetails/7728-Challie-Ln-Houston-TX-77088/28194482_zpid/,28194482,,TOWNHOUSE,"$189,900",7728 Challie Ln,Houston,TX,77088,3,3,1850,1346.004 sqft,1677
+https://www.zillow.com/homedetails/1101-Wooding-St-Houston-TX-77011/27812998_zpid/,27812998,,SINGLE FAMILY,"$107,000",1101 Wooding St,Houston,TX,77011,2,1,977,2648.448 sqft,1400
+https://www.zillow.com/homedetails/2910-Royal-Circle-Dr-Humble-TX-77339/28191860_zpid/,28191860,,SINGLE FAMILY,"$749,900",2910 Royal Circle Dr,Humble,TX,77339,4,4,3332,0.9989 acres,4242
+https://www.zillow.com/homedetails/13822-Birney-Point-Ln-Houston-TX-77044/89640806_zpid/,89640806,,SINGLE FAMILY,"$429,900",13822 Birney Point Ln,Houston,TX,77044,5,4,2944,6621.12 sqft,3302
+https://www.zillow.com/homedetails/5510-Collingsworth-St-Houston-TX-77026/27870502_zpid/,27870502,,SINGLE FAMILY,"$120,000",5510 Collingsworth St,Houston,TX,77026,3,1,1075,0.3361 acres,1497
+https://www.zillow.com/homedetails/14719-Barryknoll-Ln-APT-56-Houston-TX-77079/28262625_zpid/,28262625,,TOWNHOUSE,"$187,000",14719 Barryknoll Ln APT 56,Houston,TX,77079,3,3,1722,10.7312 acres,2777
+https://www.zillow.com/homedetails/914-Nicholson-St-Houston-TX-77008/27761953_zpid/,27761953,,SINGLE FAMILY,"$992,500",914 Nicholson St,Houston,TX,77008,3,3,2308,4356 sqft,4381
+https://www.zillow.com/homedetails/16939-Sandestine-Dr-Houston-TX-77095/28528944_zpid/,28528944,,SINGLE FAMILY,"$415,000",16939 Sandestine Dr,Houston,TX,77095,5,4,3582,9199.872 sqft,3981
+https://www.zillow.com/homedetails/6622-Annunciation-St-Houston-TX-77016/28141572_zpid/,28141572,,SINGLE FAMILY,"$120,000",6622 Annunciation St,Houston,TX,77016,3,2,1015,8751.204 sqft,1580
+https://www.zillow.com/homedetails/2819-Cedar-Woods-Pl-Houston-TX-77068/28433761_zpid/,28433761,,SINGLE FAMILY,"$1,099,000",2819 Cedar Woods Pl,Houston,TX,77068,6,6,6053,0.42010000000000003 acres,6107
+https://www.zillow.com/homedetails/18618-Point-Lookout-Dr-Houston-TX-77058/28106476_zpid/,28106476,,SINGLE FAMILY,"$585,000",18618 Point Lookout Dr,Houston,TX,77058,3,3,3274,0.2984 acres,4038
+https://www.zillow.com/homedetails/5407-John-Dreaper-Dr-Houston-TX-77056/27805277_zpid/,27805277,,SINGLE FAMILY,"$965,000",5407 John Dreaper Dr,Houston,TX,77056,3,3,2589,8712 sqft,7237
+https://www.zillow.com/homedetails/12816-Lakeside-Terrace-Dr-LOT-53-Houston-TX-77044/443053684_zpid/,443053684,,LOT,"$129,000",12816 Lakeside Terrace Dr LOT 53,Houston,TX,77044,,0,,2 acres,
+https://www.zillow.com/homedetails/1500-Bay-Area-Blvd-294-Houston-TX-77058/28350584_zpid/,28350584,,TOWNHOUSE,"$119,900",1500 Bay Area Blvd #294,Houston,TX,77058,2,2,970,8.4944 acres,1455
+https://www.zillow.com/homedetails/3928-W-Alabama-St-APT-12-Houston-TX-77027/28301798_zpid/,28301798,,CONDO,"$155,000",3928 W Alabama St APT 12,Houston,TX,77027,2,1,832, ,1534
+https://www.zillow.com/homedetails/3803-Sunset-Blvd-Houston-TX-77005/27826326_zpid/,27826326,,SINGLE FAMILY,"$1,200,000",3803 Sunset Blvd,Houston,TX,77005,5,3,2597,7200.468 sqft,4894
+https://www.zillow.com/homedetails/1501-Sweet-Gum-Ln-Humble-TX-77339/28085002_zpid/,28085002,,SINGLE FAMILY,"$699,000",1501 Sweet Gum Ln,Humble,TX,77339,6,6,4239,1.3464 acres,4750
+https://www.zillow.com/homedetails/548-Granberry-St-Houston-TX-77007/27828202_zpid/,27828202,,SINGLE FAMILY,"$535,000",548 Granberry St,Houston,TX,77007,2,2,1092,5000.688 sqft,2137
+https://www.zillow.com/homedetails/6534-Mohawk-St-Houston-TX-77016/28055236_zpid/,28055236,,SINGLE FAMILY,"$110,000",6534 Mohawk St,Houston,TX,77016,3,1,936,6825.852 sqft,1422
+https://www.zillow.com/homedetails/910-W-19th-St-A-Houston-TX-77008/126251108_zpid/,126251108,,TOWNHOUSE,"$479,000",910 W 19th St #A,Houston,TX,77008,3,4,2459,1677.06 sqft,3709
+https://www.zillow.com/homedetails/2436-Bissonnet-St-UNIT-8-Houston-TX-77005/2090590699_zpid/,2090590699,,TOWNHOUSE,"$499,900",2436 Bissonnet St UNIT 8,Houston,TX,77005,3,4,2144,1441.836 sqft,3644
+https://www.zillow.com/homedetails/5631-Spring-Lodge-Dr-Kingwood-TX-77345/28417092_zpid/,28417092,,SINGLE FAMILY,"$449,900",5631 Spring Lodge Dr,Kingwood,TX,77345,4,3,3075,8759.916 sqft,3321
+https://www.zillow.com/homedetails/1908-Greenwich-Place-Dr-Houston-TX-77019/55478430_zpid/,55478430,,TOWNHOUSE,"$525,000",1908 Greenwich Place Dr,Houston,TX,77019,3,4,2040,1197.9 sqft,3315
+https://www.zillow.com/homedetails/2514-Copper-Valley-Ct-Houston-TX-77067/28310469_zpid/,28310469,,SINGLE FAMILY,"$178,000",2514 Copper Valley Ct,Houston,TX,77067,3,2,1490,6599.34 sqft,1726
+https://www.zillow.com/homedetails/5541-Schumacher-Ln-Houston-TX-77056/28005996_zpid/,28005996,,SINGLE FAMILY,"$599,000",5541 Schumacher Ln,Houston,TX,77056,4,3,2026,8712 sqft,3773
+https://www.zillow.com/homedetails/4212-Belle-Park-Dr-4212-Houston-TX-77072/28198755_zpid/,28198755,,TOWNHOUSE,"$129,000",4212 Belle Park Dr #4212,Houston,TX,77072,2,3,1426,1363.428 sqft,1451
+https://www.zillow.com/homedetails/9809-Richmond-Ave-UNIT-B13-Houston-TX-77042/28350831_zpid/,28350831,,TOWNHOUSE,"$197,950",9809 Richmond Ave UNIT B13,Houston,TX,77042,3,2,1494,3.1344 acres,1869
+https://www.zillow.com/homedetails/2211-S-Kirkwood-Rd-23-Houston-TX-77077/28438322_zpid/,28438322,,TOWNHOUSE,"$119,900",2211 S Kirkwood Rd #23,Houston,TX,77077,2,3,1141,3.8262 acres,1808
+https://www.zillow.com/homedetails/1407-Ella-Cir-Houston-TX-77090/28155995_zpid/,28155995,,SINGLE FAMILY,"$459,000",1407 Ella Cir,Houston,TX,77090,5,4,3827,0.5452 acres,3998
+https://www.zillow.com/homedetails/11203-Cypress-Way-Dr-Houston-TX-77065/80536429_zpid/,80536429,,SINGLE FAMILY,"$550,000",11203 Cypress Way Dr,Houston,TX,77065,4,4,4096,0.4735 acres,3278
+https://www.zillow.com/homedetails/16800-Sugar-Pne-D28-Houston-TX-77090/450279188_zpid/,450279188,,TOWNHOUSE,"$117,000",16800 Sugar Pne #D28,Houston,TX,77090,2,2,1476,2.8364 acres,
+https://www.zillow.com/homedetails/14035-Stardust-Ln-Houston-TX-77041/28538419_zpid/,28538419,,SINGLE FAMILY,"$435,000",14035 Stardust Ln,Houston,TX,77041,3,3,2586,0.267 acres,3048
+https://www.zillow.com/homedetails/806-39th-St-Houston-TX-77022/338062833_zpid/,338062833,,SINGLE FAMILY,"$499,999",806 39th St,Houston,TX,77022,3,3,2011,3998.808 sqft,2799
+https://www.zillow.com/homedetails/5615-Kansas-St-C-Houston-TX-77007/243980202_zpid/,243980202,,SINGLE FAMILY,"$440,000",5615 Kansas St #C,Houston,TX,77007,3,4,2110,1724.976 sqft,3200
+https://www.zillow.com/homedetails/3014-Acorn-Wood-Way-Houston-TX-77059/52412085_zpid/,52412085,,SINGLE FAMILY,"$995,000",3014 Acorn Wood Way,Houston,TX,77059,5,5,4548,0.291 acres,5710
+https://www.zillow.com/homedetails/1020-Cortlandt-St-Houston-TX-77008/27761667_zpid/,27761667,,SINGLE FAMILY,"$590,000",1020 Cortlandt St,Houston,TX,77008,3,2,1689,6599.34 sqft,3396
+https://www.zillow.com/homedetails/4410-Buck-St-Houston-TX-77020/27764816_zpid/,27764816,,MULTI FAMILY,"$193,500",4410 Buck St,Houston,TX,77020,2,1,1344,3301.848 sqft,1247
+https://www.zillow.com/homedetails/5009-Bataan-Rd-Houston-TX-77033/27931930_zpid/,27931930,,SINGLE FAMILY,"$139,950",5009 Bataan Rd,Houston,TX,77033,3,2,1228,5806.548 sqft,1404
+https://www.zillow.com/homedetails/18318-Widcombe-Dr-Houston-TX-77084/28297398_zpid/,28297398,,SINGLE FAMILY,"$450,000",18318 Widcombe Dr,Houston,TX,77084,4,3,2829,0.2875 acres,2657
+https://www.zillow.com/homedetails/10052-Sharpton-Dr-Houston-TX-77038/28412112_zpid/,28412112,,SINGLE FAMILY,"$165,000",10052 Sharpton Dr,Houston,TX,77038,3,2,1244,3524.004 sqft,1515
+https://www.zillow.com/homedetails/11406-Inwood-Dr-Houston-TX-77077/28284547_zpid/,28284547,,SINGLE FAMILY,"$425,000",11406 Inwood Dr,Houston,TX,77077,3,3,2209,8106.516 sqft,3365
+https://www.zillow.com/homedetails/7700-Creekbend-Dr-APT-6-Houston-TX-77071/28234728_zpid/,28234728,,TOWNHOUSE,"$150,000",7700 Creekbend Dr APT 6,Houston,TX,77071,3,3,1540,10.2852 acres,1685
+https://www.zillow.com/homedetails/5109-Maywood-Dr-Houston-TX-77053/27574481_zpid/,27574481,,SINGLE FAMILY,"$130,000",5109 Maywood Dr,Houston,TX,77053,4,2,1214,7296.3 sqft,1675
+https://www.zillow.com/homedetails/6404-Quail-Meadow-Dr-Houston-TX-77035/28260576_zpid/,28260576,,SINGLE FAMILY,"$189,900",6404 Quail Meadow Dr,Houston,TX,77035,3,2,1540,5884.956 sqft,1853
+https://www.zillow.com/homedetails/6114-Sonora-Canyon-Cir-Houston-TX-77041/70310355_zpid/,70310355,,SINGLE FAMILY,"$1,299,000",6114 Sonora Canyon Cir,Houston,TX,77041,4,6,5071,0.3625 acres,5732
+https://www.zillow.com/homedetails/2350-Wroxton-Rd-Houston-TX-77005/27836896_zpid/,27836896,,SINGLE FAMILY,"$1,050,000",2350 Wroxton Rd,Houston,TX,77005,3,2,2210,5998.212 sqft,3504
+https://www.zillow.com/homedetails/14714-Broadgreen-Dr-Houston-TX-77079/28127475_zpid/,28127475,,SINGLE FAMILY,"$750,000",14714 Broadgreen Dr,Houston,TX,77079,4,3,2230,8062.956 sqft,3283
+https://www.zillow.com/homedetails/2818-Woodland-Ridge-Dr-Kingwood-TX-77345/28398601_zpid/,28398601,,SINGLE FAMILY,"$559,000",2818 Woodland Ridge Dr,Kingwood,TX,77345,4,4,3247,10680.912 sqft,3450
+https://www.zillow.com/homedetails/615-Allston-St-Houston-TX-77007/27762387_zpid/,27762387,,SINGLE FAMILY,"$679,500",615 Allston St,Houston,TX,77007,3,2,1504,4883.076 sqft,3796
+https://www.zillow.com/homedetails/3725-Murworth-Dr-Houston-TX-77025/27971739_zpid/,27971739,,SINGLE FAMILY,"$445,000",3725 Murworth Dr,Houston,TX,77025,3,2,1763,8398.368 sqft,3341
+https://www.zillow.com/homedetails/7302-Sandra-St-Houston-TX-77028/27872012_zpid/,27872012,,SINGLE FAMILY,"$139,882",7302 Sandra St,Houston,TX,77028,3,2,1460,0.3232 acres,1919
+https://www.zillow.com/homedetails/406-Bomar-St-Houston-TX-77006/28527790_zpid/,28527790,,SINGLE FAMILY,"$1,150,000",406 Bomar St,Houston,TX,77006,3,3,2095,5018.112 sqft,2589
+https://www.zillow.com/homedetails/730-Windbreak-Trl-Houston-TX-77079/28356304_zpid/,28356304,,SINGLE FAMILY,"$797,000",730 Windbreak Trl,Houston,TX,77079,3,4,3300,9291.348 sqft,4286
+https://www.zillow.com/homedetails/2403-Potomac-Dr-Houston-TX-77057/27944433_zpid/,27944433,,TOWNHOUSE,"$650,000",2403 Potomac Dr,Houston,TX,77057,3,3,3272,2940.3 sqft,3716
+https://www.zillow.com/homedetails/7147-Hemlock-St-Houston-TX-77087/27844083_zpid/,27844083,,SINGLE FAMILY,"$150,000",7147 Hemlock St,Houston,TX,77087,3,3,1228,5501.628 sqft,1719
+https://www.zillow.com/homedetails/5038-Mallow-St-Houston-TX-77033/84039469_zpid/,84039469,,MULTI FAMILY,"$785,000",5038 Mallow St,Houston,TX,77033,12,8,5296,0.2889807162534435 acres,1607
+https://www.zillow.com/homedetails/1205-Autrey-St-APT-11-Houston-TX-77006/28287057_zpid/,28287057,,TOWNHOUSE,"$194,500",1205 Autrey St APT 11,Houston,TX,77006,2,2,884,0.3521 acres,1680
+https://www.zillow.com/homedetails/102-Quitman-St-UNIT-403-Houston-TX-77009/84051618_zpid/,84051618,,CONDO,"$599,000",102 Quitman St UNIT 403,Houston,TX,77009,3,3,2817, ,3281
+https://www.zillow.com/homedetails/3121-Wilmington-St-Houston-TX-77051/27982364_zpid/,27982364,,SINGLE FAMILY,"$199,900",3121 Wilmington St,Houston,TX,77051,4,2,1128,7148.196 sqft,1678
+https://www.zillow.com/homedetails/7527-Cart-Gate-Dr-Houston-TX-77095/28319528_zpid/,28319528,,SINGLE FAMILY,"$450,000",7527 Cart Gate Dr,Houston,TX,77095,4,4,4391,10598.148 sqft,4154
+https://www.zillow.com/homedetails/10214-Inwood-Dr-Houston-TX-77042/28163312_zpid/,28163312,,SINGLE FAMILY,"$870,000",10214 Inwood Dr,Houston,TX,77042,4,3,2560,9012.564 sqft,2928
+https://www.zillow.com/homedetails/2518-Tannehill-Dr-Houston-TX-77008/28059740_zpid/,28059740,,SINGLE FAMILY,"$1,249,000",2518 Tannehill Dr,Houston,TX,77008,4,4,2750,7370.352 sqft,2722
+https://www.zillow.com/homedetails/1608-Patterson-St-A-Houston-TX-77007/442025760_zpid/,442025760,,TOWNHOUSE,"$429,990",1608 Patterson St #A,Houston,TX,77007,3,3,2071,1820.808 sqft,
+https://www.zillow.com/homedetails/8312-Jorine-Dr-8312-Houston-TX-77036/28327637_zpid/,28327637,,TOWNHOUSE,"$110,000",8312 Jorine Dr #8312,Houston,TX,77036,2,3,1406,1.4732 acres,1750
+https://www.zillow.com/homedetails/502-Enid-St-Houston-TX-77009/84026484_zpid/,84026484,,SINGLE FAMILY,"$450,000",502 Enid St,Houston,TX,77009,3,2,1200,5000.688 sqft,2371
+https://www.zillow.com/homedetails/2248-Robinhood-St-Houston-TX-77005/27819540_zpid/,27819540,,SINGLE FAMILY,"$1,550,000",2248 Robinhood St,Houston,TX,77005,3,3,2971,7095.924 sqft,4395
+https://www.zillow.com/homedetails/17326-Mesquite-Brush-Ln-Houston-TX-77095/62565553_zpid/,62565553,,SINGLE FAMILY,"$475,000",17326 Mesquite Brush Ln,Houston,TX,77095,6,4,3743,10820.304 sqft,3336
+https://www.zillow.com/homedetails/5447-Beechnut-St-Houston-TX-77096/28052115_zpid/,28052115,,SINGLE FAMILY,"$475,000",5447 Beechnut St,Houston,TX,77096,4,3,2890,10876.932 sqft,5016
+https://www.zillow.com/homedetails/2429-Briarwest-Blvd-Houston-TX-77077/28270244_zpid/,28270244,,SINGLE FAMILY,"$162,500",2429 Briarwest Blvd,Houston,TX,77077,2,2,1139,2.967 acres,1997
+https://www.zillow.com/homedetails/1133-E-14th-St-Houston-TX-77009/27853645_zpid/,27853645,,SINGLE FAMILY,"$579,000",1133 E 14th St,Houston,TX,77009,2,2,1320,5009.4 sqft,2902
+https://www.zillow.com/homedetails/5107-Beaverhill-Dr-Houston-TX-77084/28433024_zpid/,28433024,,SINGLE FAMILY,"$199,500",5107 Beaverhill Dr,Houston,TX,77084,2,1,1038,4408.272 sqft,1476
+https://www.zillow.com/homedetails/5726-Martha-Ln-Houston-TX-77032/97620084_zpid/,97620084,,SINGLE FAMILY,"$1,399,000",5726 Martha Ln,Houston,TX,77032,10,11,9512,0.49069999999999997 acres,2759
+https://www.zillow.com/homedetails/14014-Lakewood-Crossing-Blvd-Houston-TX-77070/28548409_zpid/,28548409,,SINGLE FAMILY,"$670,000",14014 Lakewood Crossing Blvd,Houston,TX,77070,5,4,4191,0.9039999999999999 acres,5128
+https://www.zillow.com/homedetails/1102-Laurentide-St-Houston-TX-77029/28012555_zpid/,28012555,,SINGLE FAMILY,"$155,000",1102 Laurentide St,Houston,TX,77029,3,2,1984,7335.504 sqft,1844
+https://www.zillow.com/homedetails/6110-Abington-Way-Houston-TX-77008/305339235_zpid/,305339235,,SINGLE FAMILY,"$1,499,900",6110 Abington Way,Houston,TX,77008,5,4,3594,8224.128 sqft,5519
+https://www.zillow.com/homedetails/4444-Victory-Dr-APT-1302-Houston-TX-77088/28485392_zpid/,28485392,,TOWNHOUSE,"$150,000",4444 Victory Dr APT 1302,Houston,TX,77088,2,2,1249,2.7587 acres,1421
+https://www.zillow.com/homedetails/1516-Dorothy-St-B-Houston-TX-77008/455183162_zpid/,455183162,,SINGLE FAMILY,"$889,900",1516 Dorothy St #B,Houston,TX,77008,4,4,3000,2500.344 sqft,
+https://www.zillow.com/homedetails/15602-Jasmine-Tree-Ln-Houston-TX-77049/80521412_zpid/,80521412,,SINGLE FAMILY,"$180,000",15602 Jasmine Tree Ln,Houston,TX,77049,3,3,1989,4399.56 sqft,1908
+https://www.zillow.com/homedetails/15431-Greens-Cove-Way-Houston-TX-77059/28546585_zpid/,28546585,,SINGLE FAMILY,"$1,025,000",15431 Greens Cove Way,Houston,TX,77059,5,4,5286,0.3253 acres,6139
+https://www.zillow.com/homedetails/18405-Sandy-Cv-Houston-TX-77058/28226456_zpid/,28226456,,TOWNHOUSE,"$475,000",18405 Sandy Cv,Houston,TX,77058,3,4,3540,3001.284 sqft,3100
+https://www.zillow.com/homedetails/5303-Beaver-Lodge-Dr-Kingwood-TX-77345/28472716_zpid/,28472716,,SINGLE FAMILY,"$865,000",5303 Beaver Lodge Dr,Kingwood,TX,77345,4,6,4000,0.3726 acres,4755
+https://www.zillow.com/homedetails/731-Reinerman-St-Houston-TX-77007/84050449_zpid/,84050449,,SINGLE FAMILY,"$465,000",731 Reinerman St,Houston,TX,77007,3,4,2088,1707.552 sqft,2922
+https://www.zillow.com/homedetails/2628-Glen-Haven-Blvd-Houston-TX-77025/28296140_zpid/,28296140,,SINGLE FAMILY,"$975,000",2628 Glen Haven Blvd,Houston,TX,77025,4,4,4152,5998.212 sqft,5389
+https://www.zillow.com/homedetails/2737-Werlein-Ave-Houston-TX-77005/84057862_zpid/,84057862,,SINGLE FAMILY,"$1,309,000",2737 Werlein Ave,Houston,TX,77005,4,3,2320,6250.86 sqft,5121
+https://www.zillow.com/homedetails/1627-Scenic-Shore-Dr-Kingwood-TX-77345/28500127_zpid/,28500127,,SINGLE FAMILY,"$1,199,900",1627 Scenic Shore Dr,Kingwood,TX,77345,5,5,7688,0.4077 acres,7108
+https://www.zillow.com/homedetails/535-Arlington-St-Houston-TX-77007/27762529_zpid/,27762529,,SINGLE FAMILY,"$650,000",535 Arlington St,Houston,TX,77007,4,3,2220,6599.34 sqft,3006
+https://www.zillow.com/homedetails/1423-Clarkdale-Ct-Houston-TX-77094/28528383_zpid/,28528383,,SINGLE FAMILY,"$650,000",1423 Clarkdale Ct,Houston,TX,77094,4,3.5,3120,0.30488980716253444 acres,4044
+https://www.zillow.com/homedetails/1715-Lofty-Maple-Trl-Kingwood-TX-77345/28500993_zpid/,28500993,,SINGLE FAMILY,"$438,000",1715 Lofty Maple Trl,Kingwood,TX,77345,4,4,3290,0.2562 acres,4052
+https://www.zillow.com/homedetails/2410-Huldy-St-Houston-TX-77019/27831647_zpid/,27831647,,SINGLE FAMILY,"$580,000",2410 Huldy St,Houston,TX,77019,4,3,2442,6298.776 sqft,3608
+https://www.zillow.com/homedetails/4300-Weaver-Rd-Houston-TX-77016/27904769_zpid/,27904769,,SINGLE FAMILY,"$125,000",4300 Weaver Rd,Houston,TX,77016,3,2,1248,7801.596 sqft,1688
+https://www.zillow.com/homedetails/33-W-Oak-Dr-Houston-TX-77056/55474247_zpid/,55474247,,SINGLE FAMILY,"$1,395,000",33 W Oak Dr,Houston,TX,77056,4,5,4306,4756.752 sqft,7156
+https://www.zillow.com/homedetails/13331-Arbor-Villa-Ln-Houston-TX-77044/243982315_zpid/,243982315,,SINGLE FAMILY,"$783,000",13331 Arbor Villa Ln,Houston,TX,77044,4,4,3402,0.317 acres,4013
+https://www.zillow.com/homedetails/1110-W-12th-St-Houston-TX-77008/251273959_zpid/,251273959,,SINGLE FAMILY,"$659,900",1110 W 12th St,Houston,TX,77008,3,4,2524,2016.828 sqft,4496
+https://www.zillow.com/homedetails/4601-Staunton-St-Houston-TX-77027/27959960_zpid/,27959960,,SINGLE FAMILY,"$979,000",4601 Staunton St,Houston,TX,77027,3,3,2357,0.28350000000000003 acres,3411
+https://www.zillow.com/homedetails/13710-Elm-Shores-Dr-Houston-TX-77044/80572003_zpid/,80572003,,SINGLE FAMILY,"$1,275,000",13710 Elm Shores Dr,Houston,TX,77044,5,4,4459,0.7474999999999999 acres,4898
+https://www.zillow.com/homedetails/412-W-24th-St-Houston-TX-77008/161431990_zpid/,161431990,,SINGLE FAMILY,"$870,000",412 W 24th St,Houston,TX,77008,3,3,2514,3275.712 sqft,3329
+https://www.zillow.com/homedetails/2907-Cedar-Woods-Pl-Houston-TX-77068/28433762_zpid/,28433762,,SINGLE FAMILY,"$1,299,000",2907 Cedar Woods Pl,Houston,TX,77068,6,8,7686,0.7316 acres,5905
+https://www.zillow.com/homedetails/710-E-13th-St-Houston-TX-77008/251275766_zpid/,251275766,,SINGLE FAMILY,"$1,499,000",710 E 13th St,Houston,TX,77008,4,5,4004,4782.888 sqft,6616
+https://www.zillow.com/homedetails/807-Woodland-St-Houston-TX-77009/27788061_zpid/,27788061,,SINGLE FAMILY,"$1,500,000",807 Woodland St,Houston,TX,77009,5,3,3628,6198.588 sqft,4284
+https://www.zillow.com/homedetails/1903-Whittington-Ct-N-Houston-TX-77077/28508707_zpid/,28508707,,SINGLE FAMILY,"$1,375,000",1903 Whittington Ct N,Houston,TX,77077,6,5,4438,0.6494 acres,7645
+https://www.zillow.com/homedetails/6104-San-Felipe-St-Houston-TX-77057/27944742_zpid/,27944742,,SINGLE FAMILY,"$1,499,900",6104 San Felipe St,Houston,TX,77057,4,4,9154,0.27459999999999996 acres,6622
+https://www.zillow.com/homedetails/5220-Hazard-St-Houston-TX-77098/62564649_zpid/,62564649,,TOWNHOUSE,"$675,000",5220 Hazard St,Houston,TX,77098,3,4,2698,1799.028 sqft,4304
+https://www.zillow.com/homedetails/4012-Ruskin-St-Houston-TX-77005/27823521_zpid/,27823521,,SINGLE FAMILY,"$1,550,000",4012 Ruskin St,Houston,TX,77005,4,5,3581,5998.212 sqft,5363
+https://www.zillow.com/homedetails/1733-Ebony-Ln-Houston-TX-77018/27911343_zpid/,27911343,,SINGLE FAMILY,"$700,000",1733 Ebony Ln,Houston,TX,77018,3,2,2046,7200.468 sqft,3169
+https://www.zillow.com/homedetails/434-E-Gaywood-Dr-Houston-TX-77079/28075513_zpid/,28075513,,SINGLE FAMILY,"$1,269,000",434 E Gaywood Dr,Houston,TX,77079,4,5,3737,0.264 acres,6755
+https://www.zillow.com/homedetails/13115-Conifer-Rd-Houston-TX-77079/28016505_zpid/,28016505,,SINGLE FAMILY,"$1,545,000",13115 Conifer Rd,Houston,TX,77079,4,4,3657,0.32630000000000003 acres,5607
+https://www.zillow.com/homedetails/1213-Archley-Dr-Houston-TX-77055/27953813_zpid/,27953813,,SINGLE FAMILY,"$1,498,000",1213 Archley Dr,Houston,TX,77055,4,4,3540,0.5580999999999999 acres,6760
+https://www.zillow.com/homedetails/234-Tamerlaine-Dr-Houston-TX-77024/28121099_zpid/,28121099,,SINGLE FAMILY,"$1,310,000",234 Tamerlaine Dr,Houston,TX,77024,4,3,3415,10001.376 sqft,6196
+https://www.zillow.com/homedetails/1529-Welch-St-Houston-TX-77006/27789126_zpid/,27789126,,MULTI FAMILY,"$675,000",1529 Welch St,Houston,TX,77006,2,1,3128,5000.688 sqft,1912
+https://www.zillow.com/homedetails/3314-Arbor-St-Houston-TX-77004/27891608_zpid/,27891608,,SINGLE FAMILY,"$715,000",3314 Arbor St,Houston,TX,77004,4,4,2892,6599.34 sqft,4181
+https://www.zillow.com/homedetails/121-E-22nd-St-Houston-TX-77008/80527542_zpid/,80527542,,SINGLE FAMILY,"$775,000",121 E 22nd St,Houston,TX,77008,3,3,2480,4835.16 sqft,3414
+https://www.zillow.com/homedetails/1706-Hewitt-Dr-Houston-TX-77018/27911763_zpid/,27911763,,SINGLE FAMILY,"$1,075,000",1706 Hewitt Dr,Houston,TX,77018,4,4,3557,7440.048 sqft,3287
+https://www.zillow.com/homedetails/1621-Cherryhurst-St-Houston-TX-77006/27789006_zpid/,27789006,,SINGLE FAMILY,"$875,000",1621 Cherryhurst St,Houston,TX,77006,4,3,1170,5998.212 sqft,3380
+https://www.zillow.com/homedetails/713-Usener-St-Houston-TX-77009/27851074_zpid/,27851074,,SINGLE FAMILY,"$635,000",713 Usener St,Houston,TX,77009,2,2,1180,4399.56 sqft,2815
+https://www.zillow.com/homedetails/2615-Newman-St-Houston-TX-77098/97654149_zpid/,97654149,,SINGLE FAMILY,"$979,000",2615 Newman St,Houston,TX,77098,4,4,3529,2500.344 sqft,6389
+https://www.zillow.com/homedetails/2411-Oakbank-Dr-Humble-TX-77339/28226923_zpid/,28226923,,SINGLE FAMILY,"$1,450,000",2411 Oakbank Dr,Humble,TX,77339,6,8,7841,1.0299 acres,6399
+https://www.zillow.com/homedetails/109-Sage-Rd-Houston-TX-77056/28153418_zpid/,28153418,,TOWNHOUSE,"$1,299,000",109 Sage Rd,Houston,TX,77056,4,5,3432,6242.148 sqft,4789
+https://www.zillow.com/homedetails/4148-Bissonnet-St-Houston-TX-77005/27825772_zpid/,27825772,,SINGLE FAMILY,"$909,000",4148 Bissonnet St,Houston,TX,77005,2,2,1773,5000.688 sqft,3147
+https://www.zillow.com/homedetails/1737-Branard-St-Houston-TX-77098/27819108_zpid/,27819108,,MULTI FAMILY,"$715,000",1737 Branard St,Houston,TX,77098,4,4,3528,5749.92 sqft,2695
+https://www.zillow.com/homedetails/1518-Beall-St-Houston-TX-77008/62566765_zpid/,62566765,,SINGLE FAMILY,"$699,999",1518 Beall St,Houston,TX,77008,3,3,2526,3920.4 sqft,4128
+https://www.zillow.com/homedetails/936-W-Cottage-St-Houston-TX-77009/27854147_zpid/,27854147,,SINGLE FAMILY,"$800,000",936 W Cottage St,Houston,TX,77009,3,3,1625,5201.064 sqft,3392
+https://www.zillow.com/homedetails/14627-Oak-Bend-Dr-Houston-TX-77079/112150898_zpid/,112150898,,SINGLE FAMILY,"$968,000",14627 Oak Bend Dr,Houston,TX,77079,4,4,2682,9517.86 sqft,5914
+https://www.zillow.com/homedetails/8-Woodstone-St-Houston-TX-77024/28102460_zpid/,28102460,,TOWNHOUSE,"$950,000",8 Woodstone St,Houston,TX,77024,4,5,4760,4896.144 sqft,6553
+https://www.zillow.com/homedetails/814-W-41st-St-Houston-TX-77018/27873349_zpid/,27873349,,SINGLE FAMILY,"$890,000",814 W 41st St,Houston,TX,77018,3,3,1822,0.28200000000000003 acres,3090
+https://www.zillow.com/homedetails/327-Cinnamon-Oak-Ln-Houston-TX-77079/28068332_zpid/,28068332,,SINGLE FAMILY,"$1,495,000",327 Cinnamon Oak Ln,Houston,TX,77079,4,4,3148,10402.128 sqft,4202
+https://www.zillow.com/homedetails/8903-Loch-Lomond-Ct-Houston-TX-77096/28518354_zpid/,28518354,,SINGLE FAMILY,"$815,000",8903 Loch Lomond Ct,Houston,TX,77096,5,5,3757,0.29 acres,4717
+https://www.zillow.com/homedetails/6532-Community-Dr-Houston-TX-77005/27841672_zpid/,27841672,,SINGLE FAMILY,"$1,350,000",6532 Community Dr,Houston,TX,77005,4,4,3622,5201.064 sqft,5377
+https://www.zillow.com/homedetails/6302-S-Royal-Point-Dr-Kingwood-TX-77345/89642867_zpid/,89642867,,SINGLE FAMILY,"$1,375,000",6302 S Royal Point Dr,Kingwood,TX,77345,5,5,4498,0.5508000000000001 acres,5470
+https://www.zillow.com/homedetails/1522-Glen-Oaks-St-Houston-TX-77008/27956637_zpid/,27956637,,SINGLE FAMILY,"$725,000",1522 Glen Oaks St,Houston,TX,77008,3,2,2015,0.374 acres,4631
+https://www.zillow.com/homedetails/4047-Mischire-Dr-Houston-TX-77025/28049763_zpid/,28049763,,SINGLE FAMILY,"$1,299,000",4047 Mischire Dr,Houston,TX,77025,5,5,3800,8376.588 sqft,2464
+https://www.zillow.com/homedetails/1009-Columbia-St-Houston-TX-77008/27761681_zpid/,27761681,,SINGLE FAMILY,"$675,000",1009 Columbia St,Houston,TX,77008,3,1,1148,6599.34 sqft,2609
+https://www.zillow.com/homedetails/1101-Tabor-St-Houston-TX-77009/27778648_zpid/,27778648,,SINGLE FAMILY,"$925,000",1101 Tabor St,Houston,TX,77009,4,3,2746,5000.688 sqft,4987
+https://www.zillow.com/homedetails/5523-Honor-Dr-Houston-TX-77041/28516773_zpid/,28516773,,SINGLE FAMILY,"$687,000",5523 Honor Dr,Houston,TX,77041,4,4,3549,0.2661 acres,5390
+https://www.zillow.com/homedetails/1904-Chimney-Rock-Rd-Houston-TX-77056/27963897_zpid/,27963897,,SINGLE FAMILY,"$1,150,000",1904 Chimney Rock Rd,Houston,TX,77056,3,4,2903,9448.164 sqft,8199
+https://www.zillow.com/homedetails/6536-Community-Dr-Houston-TX-77005/27841671_zpid/,27841671,,SINGLE FAMILY,"$1,599,000",6536 Community Dr,Houston,TX,77005,4,5,3319,5000.688 sqft,6006
+https://www.zillow.com/homedetails/4106-Lehigh-Ave-Houston-TX-77005/27826124_zpid/,27826124,,SINGLE FAMILY,"$1,499,000",4106 Lehigh Ave,Houston,TX,77005,4,4,3389,5000.688 sqft,4770
+https://www.zillow.com/homedetails/2303-Millvale-Dr-Kingwood-TX-77345/28382305_zpid/,28382305,,SINGLE FAMILY,"$600,000",2303 Millvale Dr,Kingwood,TX,77345,4,4,3495,10031.868 sqft,4154

@@ -1,0 +1,521 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/20235-SW-129th-Ave-Miami-FL-33177/62932689_zpid/,62932689,,SINGLE FAMILY,"$945,000",20235 SW 129th Ave,Miami,FL,33177,5,4,2598,7597 sqft,4464
+https://www.zillow.com/homedetails/7315-SW-39th-Ter-Miami-FL-33155/44190209_zpid/,44190209,,SINGLE FAMILY,"$699,000",7315 SW 39th Ter,Miami,FL,33155,3,1,1222,7501.032 sqft,3636
+https://www.zillow.com/homedetails/10761-SW-149th-St-Miami-FL-33176/44288949_zpid/,44288949,,SINGLE FAMILY,"$474,999",10761 SW 149th St,Miami,FL,33176,3,2,1073,7875.648 sqft,
+https://www.zillow.com/homedetails/14234-SW-49th-St-Miami-FL-33175/44248969_zpid/,44248969,,SINGLE FAMILY,"$650,000",14234 SW 49th St,Miami,FL,33175,3,2,1432,5000 sqft,3278
+https://www.zillow.com/homedetails/2919-Coconut-Ave-APT-1-Miami-FL-33133/64634733_zpid/,64634733,,TOWNHOUSE,"$925,000",2919 Coconut Ave APT 1,Miami,FL,33133,2,3,1050, ,3790
+https://www.zillow.com/homedetails/6911-SW-83rd-Ct-Miami-FL-33143/44209864_zpid/,44209864,,SINGLE FAMILY,"$875,000",6911 SW 83rd Ct,Miami,FL,33143,3,2,1558,6499.152 sqft,5972
+https://www.zillow.com/homedetails/2928-SW-4th-St-Miami-FL-33135/2064111680_zpid/,2064111680,,MULTI FAMILY,"$574,900",2928 SW 4th St,Miami,FL,33135,6,3,2148, ,4799
+https://www.zillow.com/homedetails/12754-SW-230th-St-Miami-FL-33170/338741027_zpid/,338741027,,TOWNHOUSE,"$450,000",12754 SW 230th St,Miami,FL,33170,3,3,1804, ,3054
+https://www.zillow.com/homedetails/11450-SW-60th-Ln-Miami-FL-33173/44215059_zpid/,44215059,,SINGLE FAMILY,"$599,999",11450 SW 60th Ln,Miami,FL,33173,3,2,1201,4310 sqft,
+https://www.zillow.com/homedetails/4260-SW-149th-Ct-Miami-FL-33185/44245666_zpid/,44245666,,SINGLE FAMILY,"$875,000",4260 SW 149th Ct,Miami,FL,33185,4,4,2216,7774 sqft,5196
+https://www.zillow.com/homedetails/950-Brickell-Bay-Dr-APT-5205-Miami-FL-33131/92440846_zpid/,92440846,,CONDO,"$950,000",950 Brickell Bay Dr #5205,Miami,FL,33131,2,2,1101, ,4595
+https://www.zillow.com/homedetails/12950-SW-149th-St-Miami-FL-33186/44330750_zpid/,44330750,,SINGLE FAMILY,"$890,000",12950 SW 149th St,Miami,FL,33186,4,3,2733,7500 sqft,
+https://www.zillow.com/homedetails/12217-SW-203rd-Ter-Miami-FL-33177/44364165_zpid/,44364165,,SINGLE FAMILY,"$399,999",12217 SW 203rd Ter,Miami,FL,33177,3,1,1050,2380 sqft,
+https://www.zillow.com/homedetails/13940-SW-74th-St-Miami-FL-33183/44269282_zpid/,44269282,,SINGLE FAMILY,"$1,149,000",13940 SW 74th St,Miami,FL,33183,4,3,1881,0.2731864095500459 acres,
+https://www.zillow.com/homedetails/6639-SW-116th-Pl-F1-Miami-FL-33173/44214170_zpid/,44214170,,TOWNHOUSE,"$370,000",6639 SW 116th Pl #F1,Miami,FL,33173,3,2,1550, ,
+https://www.zillow.com/homedetails/6007-SW-69th-St-74-South-Miami-FL-33143/43999066_zpid/,43999066,,TOWNHOUSE,"$289,989",6007 SW 69th St #74,South Miami,FL,33143,3,2,970, ,2607
+https://www.zillow.com/homedetails/14834-SW-140th-St-Miami-FL-33196/44328015_zpid/,44328015,,SINGLE FAMILY,"$795,000",14834 SW 140th St,Miami,FL,33196,4,4,2457,5000 sqft,
+https://www.zillow.com/homedetails/10850-SW-61st-St-Miami-FL-33173/162030974_zpid/,162030974,,SINGLE FAMILY,"$765,000",10850 SW 61st St,Miami,FL,33173,3,2,1800,7550 sqft,
+https://www.zillow.com/homedetails/4400-SW-89th-Ave-Miami-FL-33165/44205097_zpid/,44205097,,SINGLE FAMILY,"$825,000",4400 SW 89th Ave,Miami,FL,33165,3,2,1578,8000 sqft,
+https://www.zillow.com/homedetails/2937-SW-21st-St-Miami-FL-33145/43848843_zpid/,43848843,,TOWNHOUSE,"$1,590,000",2937 SW 21st St,Miami,FL,33145,4,5,2620, ,2299
+https://www.zillow.com/homedetails/244-Biscayne-Blvd-APT-645-Miami-FL-33132/92439758_zpid/,92439758,,CONDO,"$334,900",244 Biscayne Blvd APT 645,Miami,FL,33132,1,2,978, ,
+https://www.zillow.com/homedetails/8394-SW-154th-Ave-APT-43-Miami-FL-33193/44265134_zpid/,44265134,,TOWNHOUSE,"$375,000",8394 SW 154th Ave APT 43,Miami,FL,33193,2,3,1450, ,2429
+https://www.zillow.com/homedetails/1550-SW-89th-Ct-Miami-FL-33174/247700067_zpid/,247700067,,SINGLE FAMILY,"$1,100,000",1550 SW 89th Ct,Miami,FL,33174,4,3,2011,8258 sqft,
+https://www.zillow.com/homedetails/1021-NW-3rd-St-APT-106-Miami-FL-33128/82062390_zpid/,82062390,,CONDO,"$119,900",1021 NW 3rd St APT 106,Miami,FL,33128,1,1,465, ,
+https://www.zillow.com/homedetails/1612-NW-51st-Ter-Miami-FL-33142/155730374_zpid/,155730374,,SINGLE FAMILY,"$350,000",1612 NW 51st Ter,Miami,FL,33142,4,1,1195,5500 sqft,
+https://www.zillow.com/homedetails/14221-SW-160th-Ter-Miami-FL-33177/44334994_zpid/,44334994,,SINGLE FAMILY,"$659,900",14221 SW 160th Ter,Miami,FL,33177,3,3,1716,5898.024 sqft,3698
+https://www.zillow.com/homedetails/14235-SW-133rd-Ct-Miami-FL-33186/44331457_zpid/,44331457,,SINGLE FAMILY,"$550,000",14235 SW 133rd Ct,Miami,FL,33186,3,2,1624,2250 sqft,3248
+https://www.zillow.com/homedetails/999-Brickell-Bay-Dr-APT-711-Miami-FL-33131/43873860_zpid/,43873860,,CONDO,"$410,000",999 Brickell Bay Dr APT 711,Miami,FL,33131,2,2,990, ,3276
+https://www.zillow.com/homedetails/4040-SW-108th-Ave-Miami-FL-33165/44199538_zpid/,44199538,,SINGLE FAMILY,"$830,000",4040 SW 108th Avenue,Miami,FL,33165,4,3,1854,7500 sqft,5190
+https://www.zillow.com/homedetails/310-SW-31st-Ct-Miami-FL-33135/43842148_zpid/,43842148,,SINGLE FAMILY,"$625,000",310 SW 31st Ct,Miami,FL,33135,3,2,1106,7200 sqft,2829
+https://www.zillow.com/homedetails/14300-SW-52nd-St-Miami-FL-33175/44248665_zpid/,44248665,,SINGLE FAMILY,"$549,999",14300 SW 52nd St,Miami,FL,33175,3,2,1665,5000 sqft,
+https://www.zillow.com/homedetails/16560-SW-144th-Ave-Miami-FL-33177/44335198_zpid/,44335198,,SINGLE FAMILY,"$905,000",16560 SW 144th Ave,Miami,FL,33177,4,4,2537,7501.032 sqft,4382
+https://www.zillow.com/homedetails/13430-SW-25th-St-Miami-FL-33175/44233159_zpid/,44233159,,SINGLE FAMILY,"$919,000",13430 SW 25th St,Miami,FL,33175,4,3,2005,7808 sqft,4942
+https://www.zillow.com/homedetails/5744-SW-146th-Ct-Miami-FL-33183/44258196_zpid/,44258196,,SINGLE FAMILY,"$750,000",5744 SW 146th Ct,Miami,FL,33183,4,2,2091,7500 sqft,4094
+https://www.zillow.com/homedetails/20000-SW-123rd-Dr-20000-Miami-FL-33177/2118896786_zpid/,2118896786,,TOWNHOUSE,"$350,000",20000 SW 123rd Dr #20000,Miami,FL,33177,3,3,1056, ,2711
+https://www.zillow.com/homedetails/16580-SW-47th-Ter-Miami-FL-33185/58454553_zpid/,58454553,,TOWNHOUSE,"$565,000",16580 SW 47th Ter,Miami,FL,33185,4,3,1846, ,3386
+https://www.zillow.com/homedetails/801-NW-47th-Ave-APT-120W-Miami-FL-33126/70773295_zpid/,70773295,,CONDO,"$219,900",801 NW 47th Ave APT 120W,Miami,FL,33126,2,1,740, ,2160
+https://www.zillow.com/homedetails/111-E-Flagler-St-APT-501-Miami-FL-33131/82418112_zpid/,82418112,,CONDO,"$299,000",111 E Flagler St APT 501,Miami,FL,33131,2,2,850, ,
+https://www.zillow.com/homedetails/6711-N-Waterway-Dr-Miami-FL-33155/44189443_zpid/,44189443,,SINGLE FAMILY,"$945,000",6711 N Waterway Dr,Miami,FL,33155,3,2,877,9000 sqft,
+https://www.zillow.com/homedetails/8601-SW-94th-St-APT-104W-Miami-FL-33156/72561208_zpid/,72561208,,CONDO,"$345,000",8601 SW 94th St APT 104W,Miami,FL,33156,3,2,1054, ,
+https://www.zillow.com/homedetails/15060-SW-170th-Ter-Miami-FL-33187/44337750_zpid/,44337750,,SINGLE FAMILY,"$679,000",15060 SW 170th Ter,Miami,FL,33187,4,4,1581,5827 sqft,
+https://www.zillow.com/homedetails/7634-NW-4th-Ave-Miami-FL-33150/43806720_zpid/,43806720,,MULTI FAMILY,"$395,000",7634 NW 4th Ave,Miami,FL,33150,3,2,1553, ,
+https://www.zillow.com/homedetails/15685-SW-84th-Ter-APT-801-Miami-FL-33193/44265381_zpid/,44265381,,TOWNHOUSE,"$300,000",15685 SW 84th Ter APT 801,Miami,FL,33193,3,3,1660, ,2903
+https://www.zillow.com/homedetails/60-SW-13th-St-APT-2100-Miami-FL-33130/92448528_zpid/,92448528,,CONDO,"$537,000",60 SW 13th St APT 2100,Miami,FL,33130,2,3,1240, ,
+https://www.zillow.com/homedetails/1010-Brickell-Ave-UNIT-1405-Miami-FL-33131/247680391_zpid/,247680391,,CONDO,"$1,225,000",1010 Brickell Ave UNIT 1405,Miami,FL,33131,3,3,1778, ,8352
+https://www.zillow.com/homedetails/22-NW-31st-Ave-Miami-FL-33125/43840918_zpid/,43840918,,SINGLE FAMILY,"$499,000",22 NW 31st Ave,Miami,FL,33125,3,2,1080,6300 sqft,
+https://www.zillow.com/homedetails/13771-SW-84th-St-APT-C-Miami-FL-33183/44270711_zpid/,44270711,,TOWNHOUSE,"$352,000",13771 SW 84th St APT C,Miami,FL,33183,2,3,1395, ,
+https://www.zillow.com/homedetails/14755-SW-123rd-Ave-Miami-FL-33186/243893774_zpid/,243893774,,SINGLE FAMILY,"$675,000",14755 SW 123rd Ave,Miami,FL,33186,4,3,2187,4000 sqft,3824
+https://www.zillow.com/homedetails/6474-SW-152nd-Circle-Pl-74-14-Miami-FL-33193/2067202963_zpid/,2067202963,,TOWNHOUSE,"$329,999",6474 SW 152nd Cir Pl #14-74,Miami,FL,33193,2,2,840, ,2280
+https://www.zillow.com/homedetails/1560-NW-71st-St-Miami-FL-33147/43808811_zpid/,43808811,,SINGLE FAMILY,"$354,900",1560 NW 71st Street,Miami,FL,33147,4,2,1210,2730 sqft,3166
+https://www.zillow.com/homedetails/7407-SW-152nd-Ave-4-103-Miami-FL-33193/72579282_zpid/,72579282,,CONDO,"$248,900",7407 SW 152nd Ave #4-103,Miami,FL,33193,2,1,784, ,
+https://www.zillow.com/homedetails/2400-Brickell-Ave-APT-306D-Miami-FL-33129/43869545_zpid/,43869545,,TOWNHOUSE,"$549,000",2400 Brickell Ave APT 306D,Miami,FL,33129,2,2,919, ,
+https://www.zillow.com/homedetails/2427-Tequesta-Ln-Miami-FL-33133/43856648_zpid/,43856648,,SINGLE FAMILY,"$1,500,000",2427 Tequesta Ln,Miami,FL,33133,3,3,1596,3500 sqft,
+https://www.zillow.com/homedetails/5701-SW-33rd-St-Miami-FL-33155/44188156_zpid/,44188156,,SINGLE FAMILY,"$1,575,000",5701 SW 33rd St,Miami,FL,33155,4,3,1919,0.2734618916437098 acres,
+https://www.zillow.com/homedetails/1650-SW-17th-St-Miami-FL-33145/43853088_zpid/,43853088,,SINGLE FAMILY,"$899,000",1650 SW 17th St,Miami,FL,33145,3,2,1746,5450 sqft,4599
+https://www.zillow.com/homedetails/5002-SW-87th-Pl-Miami-FL-33165/44204043_zpid/,44204043,,SINGLE FAMILY,"$974,999",5002 SW 87th Pl,Miami,FL,33165,4,3,2010,7500 sqft,
+https://www.zillow.com/homedetails/41-SE-5th-St-APT-1901-Miami-FL-33131/82410261_zpid/,82410261,,CONDO,"$700,000",41 SE 5th St APT 1901,Miami,FL,33131,2,2,1267, ,4402
+https://www.zillow.com/homedetails/1100-SW-129th-Ave-Miami-FL-33184/443105947_zpid/,443105947,,SINGLE FAMILY,"$149,900",1100 SW 129th Ave,Miami,FL,33184,3,2,, ,
+https://www.zillow.com/homedetails/35719-SW-178th-Ct-Miami-FL-33034/452791695_zpid/,452791695,,TOWNHOUSE,"$378,990",35719 SW 178th Ct,Miami,FL,33034,3,3,1330, ,
+https://www.zillow.com/homedetails/1081-SW-129th-Ave-5-Miami-FL-33184/451819094_zpid/,451819094,,MANUFACTURED,"$145,000",1081 SW 129th Ave #5,Miami,FL,33184,4,3,, ,
+https://www.zillow.com/homedetails/10864-SW-222nd-Dr-Miami-FL-33170/44356476_zpid/,44356476,,SINGLE FAMILY,"$364,999",10864 SW 222nd Dr,Miami,FL,33170,3,1,1216,9480 sqft,
+https://www.zillow.com/homedetails/8450-SW-154th-Circle-Ct-APT-207-Miami-FL-33193/44265624_zpid/,44265624,,CONDO,"$385,000",8450 SW 154th Circle Ct APT 207,Miami,FL,33193,3,3,1850, ,2890
+https://www.zillow.com/homedetails/5501-NW-7th-St-APT-E408-Miami-FL-33126/43820182_zpid/,43820182,,CONDO,"$275,000",5501 NW 7th St APT E408,Miami,FL,33126,2,2,991, ,2343
+https://www.zillow.com/homedetails/19420-SW-129th-Ave-Miami-FL-33177/44361214_zpid/,44361214,,SINGLE FAMILY,"$1,190,000",19420 SW 129th Ave,Miami,FL,33177,4,3,1997,0.4693526170798898 acres,
+https://www.zillow.com/homedetails/14863-SW-139th-St-Miami-FL-33196/44328083_zpid/,44328083,,SINGLE FAMILY,"$765,999",14863 SW 139th St,Miami,FL,33196,4,4,2360,7192 sqft,5098
+https://www.zillow.com/homedetails/19231-SW-121st-Ave-Miami-FL-33177/44360604_zpid/,44360604,,SINGLE FAMILY,"$490,000",19231 SW 121st Ave,Miami,FL,33177,3,2,1098,4577 sqft,3041
+https://www.zillow.com/homedetails/520-Brickell-Key-Dr-APT-A1912-Miami-FL-33131/43872471_zpid/,43872471,,CONDO,"$369,000",520 Brickell Key Dr APT A1912,Miami,FL,33131,1,2,836, ,3012
+https://www.zillow.com/homedetails/825-Brickell-Bay-Dr-APT-445-Miami-FL-33131/43874143_zpid/,43874143,,CONDO,"$395,000",825 Brickell Bay Dr APT 445,Miami,FL,33131,2,2,990,6 acres,3276
+https://www.zillow.com/homedetails/10922-SW-181st-Ter-Miami-FL-33157/70788825_zpid/,70788825,,SINGLE FAMILY,"$449,999",10922 SW 181st Ter,Miami,FL,33157,3,2,1308,2387 sqft,2938
+https://www.zillow.com/homedetails/13926-SW-46th-Ter-A-351-Miami-FL-33175/454708303_zpid/,454708303,,TOWNHOUSE,"$330,000",13926 SW 46th Ter #A-351,Miami,FL,33175,2,1,887, ,
+https://www.zillow.com/homedetails/1794-SW-19th-St-Miami-FL-33145/43851459_zpid/,43851459,,SINGLE FAMILY,"$825,000",1794 SW 19th St,Miami,FL,33145,3,2,1720,4922 sqft,3528
+https://www.zillow.com/homedetails/16315-SW-107th-Ave-Miami-FL-33157/44297479_zpid/,44297479,,MULTI FAMILY,"$980,000",16315 SW 107th Ave,Miami,FL,33157,8,6,0, ,3660
+https://www.zillow.com/homedetails/555-NE-15th-St-APT-516-Miami-FL-33132/43833359_zpid/,43833359,,CONDO,"$215,000",555 NE 15th St APT 516,Miami,FL,33132,0,1,400, ,2098
+https://www.zillow.com/homedetails/14405-SW-159th-Ter-Miami-FL-33177/44334368_zpid/,44334368,,SINGLE FAMILY,"$635,000",14405 SW 159th Ter,Miami,FL,33177,4,2,1333,4675 sqft,3877
+https://www.zillow.com/homedetails/1453-NW-70th-St-Miami-FL-33147/43808941_zpid/,43808941,,SINGLE FAMILY,"$597,000",1453 NW 70th St,Miami,FL,33147,3,3,2088,3825 sqft,
+https://www.zillow.com/homedetails/10383-N-Kendall-Dr-APT-N5-Miami-FL-33176/44218188_zpid/,44218188,,CONDO,"$290,000",10383 N Kendall Dr APT N5,Miami,FL,33176,2,2,954, ,
+https://www.zillow.com/homedetails/7795-NE-Bayshore-Ct-APT-501-Miami-FL-33138/43828509_zpid/,43828509,,CONDO,"$140,000",7795 NE Bayshore Ct #501,Miami,FL,33138,1,1,653, ,2002
+https://www.zillow.com/homedetails/6947-SW-115th-Pl-E36-Miami-FL-33173/44214707_zpid/,44214707,,TOWNHOUSE,"$435,000",6947 SW 115th Pl #E36,Miami,FL,33173,3,2,1470, ,
+https://www.zillow.com/homedetails/1839-NW-49th-St-Miami-FL-33142/43810413_zpid/,43810413,,SINGLE FAMILY,"$319,000",1839 NW 49th Street,Miami,FL,33142,4,2,1300, ,3406
+https://www.zillow.com/homedetails/3200-SW-2nd-St-Miami-FL-33135/43841861_zpid/,43841861,,SINGLE FAMILY,"$545,000",3200 SW 2nd St,Miami,FL,33135,4,2,1486,5232 sqft,
+https://www.zillow.com/homedetails/12600-SW-108th-Ave-Miami-FL-33176/44286905_zpid/,44286905,,SINGLE FAMILY,"$1,050,000",12600 SW 108th Ave,Miami,FL,33176,4,3,1904,0.34584481175390264 acres,5398
+https://www.zillow.com/homedetails/1445-SW-127th-Ct-Miami-FL-33184/2057620878_zpid/,2057620878,,MULTI FAMILY,"$250,000",1445 SW 127th Ct,Miami,FL,33184,3,4,2000, ,2983
+https://www.zillow.com/homedetails/12226-SW-17th-Ln-APT-107-P-Miami-FL-33175/44236832_zpid/,44236832,,TOWNHOUSE,"$380,000",12226 SW 17th Ln APT 107-P,Miami,FL,33175,2,3,1284, ,
+https://www.zillow.com/homedetails/1020-SW-7th-St-APT-9-Miami-FL-33130/70774294_zpid/,70774294,,CONDO,"$219,000",1020 SW 7th St APT 9,Miami,FL,33130,2,1,510, ,
+https://www.zillow.com/homedetails/4950-SW-145th-Ave-Miami-FL-33175/44248729_zpid/,44248729,,SINGLE FAMILY,"$599,000",4950 SW 145th Ave,Miami,FL,33175,3,2,1340,3600 sqft,
+https://www.zillow.com/homedetails/11356-SW-116th-Terrace-Rd-Miami-FL-33176/447305044_zpid/,447305044,,SINGLE FAMILY,"$530,000",11356 SW 116th Terrace Rd,Miami,FL,33176,3,2,1234, ,
+https://www.zillow.com/homedetails/19614-SW-133rd-Ct-Miami-FL-33177/59085700_zpid/,59085700,,SINGLE FAMILY,"$1,100,000",19614 SW 133rd Ct,Miami,FL,33177,4,3,2158,0.40736914600550966 acres,4701
+https://www.zillow.com/homedetails/1122-SW-87th-Ave-UNIT-9-Miami-FL-33174/452077721_zpid/,452077721,,SINGLE FAMILY,"$499,000",1122 SW 87th Ave UNIT 9,Miami,FL,33174,3,3,1510, ,
+https://www.zillow.com/homedetails/5244-SW-89th-Ave-Miami-FL-33165/44203904_zpid/,44203904,,SINGLE FAMILY,"$550,000",5244 SW 89th Ave,Miami,FL,33165,3,2,1716,7500 sqft,3970
+https://www.zillow.com/homedetails/14150-SW-84th-St-APT-110I-Miami-FL-33183/44270678_zpid/,44270678,,CONDO,"$264,900",14150 SW 84th St APT 110I,Miami,FL,33183,2,2,1135, ,
+https://www.zillow.com/homedetails/851-NE-1st-Ave-1410-Miami-FL-33132/331699938_zpid/,331699938,,CONDO,"$699,000",851 NE 1st Ave #1410,Miami,FL,33132,1,2,1185, ,
+https://www.zillow.com/homedetails/1341-NW-51st-Ter-Miami-FL-33142/43813287_zpid/,43813287,,SINGLE FAMILY,"$420,000",1341 NW 51st Ter,Miami,FL,33142,3,1,1664,6000 sqft,
+https://www.zillow.com/homedetails/973-SW-88th-Ave-Miami-FL-33174/44182029_zpid/,44182029,,SINGLE FAMILY,"$650,000",973 SW 88th Ave,Miami,FL,33174,3,2,1309,6058 sqft,
+https://www.zillow.com/homedetails/15855-SW-86th-Ter-Miami-FL-33193/44264212_zpid/,44264212,,SINGLE FAMILY,"$534,900",15855 SW 86th Ter,Miami,FL,33193,3,3,1790,1475 sqft,3387
+https://www.zillow.com/homedetails/3401-SW-14th-St-Miami-FL-33145/43848202_zpid/,43848202,,SINGLE FAMILY,"$550,000",3401 SW 14th St,Miami,FL,33145,2,1,1138,7200 sqft,
+https://www.zillow.com/homedetails/6023-SW-69th-St-78-South-Miami-FL-33143/43999070_zpid/,43999070,,TOWNHOUSE,"$230,000",6023 SW 69th St #78,South Miami,FL,33143,3,2,970, ,
+https://www.zillow.com/homedetails/3045-Allamanda-St-3045-Miami-FL-33133/58449710_zpid/,58449710,,TOWNHOUSE,"$1,595,000",3045 Allamanda St #3045,Miami,FL,33133,3,3,2280, ,
+https://www.zillow.com/homedetails/5001-SW-113th-Ct-Miami-FL-33165/44200221_zpid/,44200221,,SINGLE FAMILY,"$735,000",5001 SW 113th Ct,Miami,FL,33165,5,3,1229,10000 sqft,
+https://www.zillow.com/homedetails/6721-NW-3rd-Ave-Miami-FL-33150/43807446_zpid/,43807446,,SINGLE FAMILY,"$350,000",6721 NW 3rd Ave,Miami,FL,33150,4,2,1780,6250 sqft,3580
+https://www.zillow.com/homedetails/11441-SW-33rd-Ln-Miami-FL-33165/44197574_zpid/,44197574,,SINGLE FAMILY,"$799,900",11441 SW 33rd Ln,Miami,FL,33165,4,3,2540,4900 sqft,4982
+https://www.zillow.com/homedetails/3651-William-Ave-Miami-FL-33133/43861193_zpid/,43861193,,SINGLE FAMILY,"$1,200,000",3651 William Ave,Miami,FL,33133,3,2,1380,5700 sqft,4997
+https://www.zillow.com/homedetails/690-SW-1st-Ct-APT-2711-Miami-FL-33130/72576349_zpid/,72576349,,CONDO,"$499,900",690 SW 1st Ct APT 2711,Miami,FL,33130,2,3,1113, ,
+https://www.zillow.com/homedetails/19805-SW-114th-Ave-APT-315-Miami-FL-33157/44349501_zpid/,44349501,,CONDO,"$159,900",19805 SW 114th Ave APT 315,Miami,FL,33157,2,2,800, ,1965
+https://www.zillow.com/homedetails/10361-SW-119th-St-Miami-FL-33176/44282759_zpid/,44282759,,SINGLE FAMILY,"$1,135,000",10361 SW 119th St,Miami,FL,33176,4,3,1972,0.35298438934802573 acres,5553
+https://www.zillow.com/homedetails/500-Brickell-Ave-APT-4101-Miami-FL-33131/92444758_zpid/,92444758,,CONDO,"$1,045,000",500 Brickell Ave APT 4101,Miami,FL,33131,3,3,1494, ,7140
+https://www.zillow.com/homedetails/15218-SW-181st-Ter-Miami-FL-33187/44337908_zpid/,44337908,,SINGLE FAMILY,"$685,000",15218 SW 181st Ter,Miami,FL,33187,4,2,1704,8250 sqft,
+https://www.zillow.com/homedetails/10360-SW-124th-St-Miami-FL-33176/44286301_zpid/,44286301,,SINGLE FAMILY,"$1,399,000",10360 SW 124th St,Miami,FL,33176,6,4,3267,0.4160927456382002 acres,
+https://www.zillow.com/homedetails/6967-SW-115th-Pl-B34-Miami-FL-33173/44214732_zpid/,44214732,,SINGLE FAMILY,"$400,000",6967 SW 115th Pl #B34,Miami,FL,33173,2,2,1330, ,
+https://www.zillow.com/homedetails/10794-N-Kendall-Dr-APT-B6-Miami-FL-33176/44277874_zpid/,44277874,,CONDO,"$220,000",10794 N Kendall Dr APT B6,Miami,FL,33176,2,2,920, ,
+https://www.zillow.com/homedetails/8520-SW-133rd-Avenue-Rd-APT-214-Miami-FL-33183/44273300_zpid/,44273300,,CONDO,"$299,000",8520 SW 133rd Avenue Rd APT 214,Miami,FL,33183,3,2,1040, ,
+https://www.zillow.com/homedetails/9627-SW-18th-Ter-Miami-FL-33165/44181269_zpid/,44181269,,SINGLE FAMILY,"$869,999",9627 SW 18th Ter,Miami,FL,33165,4,3,2362,7500 sqft,4883
+https://www.zillow.com/homedetails/2850-Coconut-Ave-APT-15-Miami-FL-33133/43859851_zpid/,43859851,,CONDO,"$699,000",2850 Coconut Ave APT 15,Miami,FL,33133,2,2,1080, ,
+https://www.zillow.com/homedetails/12891-SW-91st-Ct-Miami-FL-33176/44285049_zpid/,44285049,,TOWNHOUSE,"$695,000",12891 SW 91st Ct,Miami,FL,33176,2,3,1608, ,3482
+https://www.zillow.com/homedetails/11466-SW-109th-Rd-42W-Miami-FL-33176/44280578_zpid/,44280578,,TOWNHOUSE,"$360,000",11466 SW 109th Rd #42W,Miami,FL,33176,2,2,1138, ,2605
+https://www.zillow.com/homedetails/8701-SW-80th-St-Miami-FL-33173/44220237_zpid/,44220237,,SINGLE FAMILY,"$845,000",8701 SW 80th St,Miami,FL,33173,3,2,2031,0.25252525252525254 acres,5602
+https://www.zillow.com/homedetails/13805-SW-52nd-St-Miami-FL-33175/44246382_zpid/,44246382,,TOWNHOUSE,"$425,000",13805 SW 52nd St,Miami,FL,33175,3,2,1061, ,
+https://www.zillow.com/homedetails/3042-SW-27th-Ave-8-Miami-FL-33133/43861504_zpid/,43861504,,TOWNHOUSE,"$695,000",3042 SW 27th Ave #8,Miami,FL,33133,2,2,960, ,
+https://www.zillow.com/homedetails/8441-SW-21st-St-Miami-FL-33155/44182896_zpid/,44182896,,SINGLE FAMILY,"$983,000",8441 SW 21st St,Miami,FL,33155,5,4,2560,7546 sqft,4535
+https://www.zillow.com/homedetails/10480-SW-112th-St-Miami-FL-33176/455232650_zpid/,455232650,,SINGLE FAMILY,"$819,000",10480 SW 112th St,Miami,FL,33176,3,2,1524,0.381198347107438 acres,
+https://www.zillow.com/homedetails/13935-SW-84th-St-905-Miami-FL-33183/44270494_zpid/,44270494,,TOWNHOUSE,"$379,000",13935 SW 84th St #905,Miami,FL,33183,3,3,1510, ,2793
+https://www.zillow.com/homedetails/10421-SW-107th-St-Miami-FL-33176/44283017_zpid/,44283017,,SINGLE FAMILY,"$947,000",10421 SW 107th Street,Miami,FL,33176,3,2,1643,9895 sqft,4064
+https://www.zillow.com/homedetails/24-SW-4th-St-S-3406-Miami-FL-33130/455245241_zpid/,455245241,,CONDO,"$1,398,900",24 SW 4th St #S-3406,Miami,FL,33130,1,2,0, ,
+https://www.zillow.com/homedetails/24-SW-4th-St-S-2906-Miami-FL-33130/455240190_zpid/,455240190,,CONDO,"$1,375,900",24 SW 4th St #S-2906,Miami,FL,33130,1,2,0, ,
+https://www.zillow.com/homedetails/14971-Polk-St-Miami-FL-33176/44288653_zpid/,44288653,,SINGLE FAMILY,"$460,000",14971 Polk St,Miami,FL,33176,3,1,816,8000 sqft,1927
+https://www.zillow.com/homedetails/7530-NE-3rd-Ave-Miami-FL-33138/43827775_zpid/,43827775,,MULTI FAMILY,"$549,999",7530 NE 3rd Ave,Miami,FL,33138,4,2,1448, ,2651
+https://www.zillow.com/homedetails/2075-SW-122nd-Ave-APT-520-Miami-FL-33175/44237859_zpid/,44237859,,CONDO,"$245,000",2075 SW 122nd Ave APT 520,Miami,FL,33175,2,2,850, ,
+https://www.zillow.com/homedetails/22311-SW-113th-Ct-Miami-FL-33170/44356574_zpid/,44356574,,SINGLE FAMILY,"$425,000",22311 SW 113th Ct,Miami,FL,33170,3,2,966,9896 sqft,2801
+https://www.zillow.com/homedetails/10765-SW-108th-Ave-APT-208-Miami-FL-33176/64688164_zpid/,64688164,,CONDO,"$310,000",10765 SW 108th Ave APT 208,Miami,FL,33176,2,2,1050, ,2345
+https://www.zillow.com/homedetails/601-NE-36th-St-APT-2304-Miami-FL-33137/70773822_zpid/,70773822,,CONDO,"$625,000",601 NE 36th St APT 2304,Miami,FL,33137,2,3,1158, ,
+https://www.zillow.com/homedetails/11443-SW-109th-Rd-45-D-Miami-FL-33176/44280727_zpid/,44280727,,TOWNHOUSE,"$399,900",11443 SW 109th Road #45-D,Miami,FL,33176,3,2,1220, ,3378
+https://www.zillow.com/homedetails/19800-SW-180th-St-Miami-FL-33187/445784297_zpid/,445784297,,SINGLE FAMILY,"$320,000",19800 SW 180th St,Miami,FL,33187,3,2,1690,10800 sqft,
+https://www.zillow.com/homedetails/60-SW-13th-St-APT-3610-Miami-FL-33130/92435655_zpid/,92435655,,CONDO,"$615,000",60 SW 13th St APT 3610,Miami,FL,33130,2,3,1148, ,
+https://www.zillow.com/homedetails/380-NW-20th-St-8-Miami-FL-33127/448492857_zpid/,448492857,,SINGLE FAMILY,"$490,000",380 NW 20th St #8,Miami,FL,33127,3,3,1190, ,
+https://www.zillow.com/homedetails/10804-SW-88th-St-APT-P14-Miami-FL-33176/449018863_zpid/,449018863,,CONDO,"$259,000",10804 SW 88th St APT P14,Miami,FL,33176,2,2,955, ,
+https://www.zillow.com/homedetails/60-SW-13th-St-APT-3203-Miami-FL-33130/92426312_zpid/,92426312,,CONDO,"$420,000",60 SW 13th St APT 3203,Miami,FL,33130,1,2,715, ,2872
+https://www.zillow.com/homedetails/3955-SW-69th-Ave-Miami-FL-33155/44189621_zpid/,44189621,,SINGLE FAMILY,"$798,000",3955 SW 69th Ave,Miami,FL,33155,3,2,1221,5000 sqft,
+https://www.zillow.com/homedetails/300-Biscayne-Boulevard-Way-3108-Miami-FL-33131/440945506_zpid/,440945506,,CONDO,"$1,350,000",300 Biscayne Boulevard Way #3108,Miami,FL,33131,1,2,767, ,
+https://www.zillow.com/homedetails/7106-SW-103rd-Pl-Miami-FL-33173/44211748_zpid/,44211748,,SINGLE FAMILY,"$715,000",7106 SW 103rd Pl,Miami,FL,33173,3,2,1667,4000 sqft,3481
+https://www.zillow.com/homedetails/92-SW-3rd-St-APT-905-Miami-FL-33130/113378948_zpid/,113378948,,CONDO,"$860,000",92 SW 3rd St APT 905,Miami,FL,33130,3,3,1683, ,
+https://www.zillow.com/homedetails/14621-SW-106th-Ave-Miami-FL-33176/44289996_zpid/,44289996,,SINGLE FAMILY,"$569,900",14621 SW 106th Ave,Miami,FL,33176,3,2,1056,9000 sqft,3001
+https://www.zillow.com/homedetails/851-NE-1st-Ave-2901-Miami-FL-33132/337201254_zpid/,337201254,,CONDO,"$1,370,000",851 NE 1st Ave #2901,Miami,FL,33132,3,4,2204, ,9329
+https://www.zillow.com/homedetails/10112-SW-21st-Ter-Miami-FL-33165/44178819_zpid/,44178819,,SINGLE FAMILY,"$550,000",10112 SW 21st Ter,Miami,FL,33165,3,2,824,4542 sqft,
+https://www.zillow.com/homedetails/2839-SW-25th-St-Miami-FL-33133/452439850_zpid/,452439850,,SINGLE FAMILY,"$1,475,900",2839 SW 25th St,Miami,FL,33133,4,4,2560, ,
+https://www.zillow.com/homedetails/10625-SW-112th-St-Miami-FL-33176/44282329_zpid/,44282329,,SINGLE FAMILY,"$989,000",10625 SW 112th St,Miami,FL,33176,3,2,1345,0.3495867768595041 acres,4480
+https://www.zillow.com/homedetails/3900-Biscayne-Blvd-N-815-Miami-FL-33137/2071643317_zpid/,2071643317,,CONDO,"$780,000",3900 Biscayne Blvd #N-815,Miami,FL,33137,2,2,1113, ,
+https://www.zillow.com/homedetails/31-SE-5th-St-APT-2911-Miami-FL-33131/70775543_zpid/,70775543,,CONDO,"$749,000",31 SE 5th St APT 2911,Miami,FL,33131,2,2,1117, ,3887
+https://www.zillow.com/homedetails/11240-SW-47th-St-Miami-FL-33165/44199313_zpid/,44199313,,SINGLE FAMILY,"$599,900",11240 SW 47th St,Miami,FL,33165,4,2,1400,7500 sqft,4664
+https://www.zillow.com/homedetails/844-SW-134th-Pl-Miami-FL-33184/44229127_zpid/,44229127,,SINGLE FAMILY,"$600,000",844 SW 134th Pl,Miami,FL,33184,4,3,2037,3638 sqft,3688
+https://www.zillow.com/homedetails/770-Claughton-Island-Dr-APT-806-Miami-FL-33131/64864752_zpid/,64864752,,CONDO,"$300,000",770 Claughton Island Dr APT 806,Miami,FL,33131,1,1,674, ,2848
+https://www.zillow.com/homedetails/5720-NW-3rd-Ave-Miami-FL-33127/43807839_zpid/,43807839,,MULTI FAMILY,"$696,000",5720 NW 3rd Ave,Miami,FL,33127,4,2,1690, ,2978
+https://www.zillow.com/homedetails/13463-SW-66th-Ter-Miami-FL-33183/44252409_zpid/,44252409,,SINGLE FAMILY,"$799,900",13463 SW 66th Ter,Miami,FL,33183,4,3,2744,7500 sqft,
+https://www.zillow.com/homedetails/3166-Indiana-St-Coconut-Grove-FL-33133/2144703234_zpid/,2144703234,,TOWNHOUSE,"$1,599,000",3166 Indiana St,Coconut Grove,FL,33133,3,3,2160, ,7336
+https://www.zillow.com/homedetails/9101-SW-11th-St-Miami-FL-33174/44181703_zpid/,44181703,,SINGLE FAMILY,"$995,000",9101 SW 11th St,Miami,FL,33174,4,3,2039,8370 sqft,5136
+https://www.zillow.com/homedetails/14691-SW-159th-Ct-Miami-FL-33196/44327020_zpid/,44327020,,SINGLE FAMILY,"$679,900",14691 SW 159th Ct,Miami,FL,33196,3,2,1809,6000 sqft,
+https://www.zillow.com/homedetails/14500-SW-22nd-St-Miami-FL-33175/445784483_zpid/,445784483,,SINGLE FAMILY,"$945,000",14500 SW 22nd St,Miami,FL,33175,4,4,1870,5703 sqft,
+https://www.zillow.com/homedetails/10030-SW-82nd-Ter-Miami-FL-33173/44217395_zpid/,44217395,,SINGLE FAMILY,"$665,000",10030 SW 82nd Ter,Miami,FL,33173,4,2,1350,9000 sqft,
+https://www.zillow.com/homedetails/2778-Day-Ave-APT-2-Miami-FL-33133/43862211_zpid/,43862211,,TOWNHOUSE,"$749,000",2778 Day Ave APT 2,Miami,FL,33133,2,3,1321, ,
+https://www.zillow.com/homedetails/444-NE-30th-St-UNIT-402-Miami-FL-33137/70774063_zpid/,70774063,,CONDO,"$519,000",444 NE 30th St UNIT 402,Miami,FL,33137,2,2,963, ,4006
+https://www.zillow.com/homedetails/104-SW-9th-St-APT-1403-Miami-FL-33130/54692505_zpid/,54692505,,CONDO,"$545,000",104 SW 9th Street #1403,Miami,FL,33130,3,2,1050, ,
+https://www.zillow.com/homedetails/13261-SW-17th-Ln-Miami-FL-33175/453903766_zpid/,453903766,,SINGLE FAMILY,"$499,999",13261 SW 17th Ln,Miami,FL,33175,3,2,1712, ,
+https://www.zillow.com/homedetails/16065-SW-86th-Ln-Miami-FL-33193/44264266_zpid/,44264266,,SINGLE FAMILY,"$509,995",16065 SW 86th Ln,Miami,FL,33193,3,2,1790,1635 sqft,3395
+https://www.zillow.com/homedetails/10080-SW-145th-St-Miami-FL-33176/44291072_zpid/,44291072,,SINGLE FAMILY,"$1,475,000",10080 SW 145th St,Miami,FL,33176,5,4,3661,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/85-NW-47th-St-Miami-FL-33127/43814493_zpid/,43814493,,SINGLE FAMILY,"$988,000",85 NW 47th St,Miami,FL,33127,4,3,1144,5000 sqft,4910
+https://www.zillow.com/homedetails/6820-SW-32nd-St-Miami-FL-33155/44189504_zpid/,44189504,,SINGLE FAMILY,"$915,000",6820 SW 32nd St,Miami,FL,33155,4,3,1934,9901.188 sqft,4828
+https://www.zillow.com/homedetails/19741-SW-114th-Pl-Miami-FL-33157/44349174_zpid/,44349174,,SINGLE FAMILY,"$540,000",19741 SW 114th Pl,Miami,FL,33157,4,2,1835,7501.032 sqft,2777
+https://www.zillow.com/homedetails/6418-SW-39th-Ter-Miami-FL-33155/44189100_zpid/,44189100,,SINGLE FAMILY,"$799,999",6418 SW 39th Ter,Miami,FL,33155,4,2,1730,5250 sqft,
+https://www.zillow.com/homedetails/10420-SW-229th-Ln-Miami-FL-33190/72561915_zpid/,72561915,,SINGLE FAMILY,"$693,000",10420 SW 229th Ln,Miami,FL,33190,5,3,2777,5680 sqft,4503
+https://www.zillow.com/homedetails/1901-NW-South-River-Dr-APT-14-B-Miami-FL-33125/43825502_zpid/,43825502,,TOWNHOUSE,"$399,900",1901 NW South River Dr APT 14-B,Miami,FL,33125,2,2,1000, ,2588
+https://www.zillow.com/homedetails/960-NE-82nd-St-Miami-FL-33138/43827096_zpid/,43827096,,SINGLE FAMILY,"$799,000",960 NE 82nd St,Miami,FL,33138,2,2,1407,6780 sqft,
+https://www.zillow.com/homedetails/900-Brickell-Key-Blvd-APT-2005-Miami-FL-33131/92445728_zpid/,92445728,,CONDO,"$1,390,000",900 Brickell Key Blvd APT 2005,Miami,FL,33131,2,3,1326, ,5570
+https://www.zillow.com/homedetails/13910-SW-160th-Ter-Miami-FL-33177/44334520_zpid/,44334520,,SINGLE FAMILY,"$505,000",13910 SW 160th Ter,Miami,FL,33177,3,2,1245,3045 sqft,
+https://www.zillow.com/homedetails/5050-NW-7th-St-Miami-FL-33126/2054876241_zpid/,2054876241,,CONDO,"$189,000",5050 NW 7th St,Miami,FL,33126,1,1,506, ,1734
+https://www.zillow.com/homedetails/1805-SW-4th-St-Miami-FL-33135/2054727913_zpid/,2054727913,,MULTI FAMILY,"$950,000",1805 SW 4th St,Miami,FL,33135,6,4,1743, ,3502
+https://www.zillow.com/homedetails/3255-William-Ave-Miami-FL-33133/43861332_zpid/,43861332,,SINGLE FAMILY,"$1,245,000",3255 William Ave,Miami,FL,33133,4,2,1320,6200 sqft,5703
+https://www.zillow.com/homedetails/7424-SW-106th-Pl-Miami-FL-33173/44219190_zpid/,44219190,,TOWNHOUSE,"$649,900",7424 SW 106th Pl,Miami,FL,33173,2,2,1463, ,
+https://www.zillow.com/homedetails/5425-SW-112th-Ave-Miami-FL-33165/44200596_zpid/,44200596,,SINGLE FAMILY,"$685,000",5425 SW 112th Ave,Miami,FL,33165,3,2,1367,8250 sqft,
+https://www.zillow.com/homedetails/6751-SW-13th-Ter-Miami-FL-33144/44185057_zpid/,44185057,,SINGLE FAMILY,"$690,000",6751 SW 13th Ter,Miami,FL,33144,3,2,1619,6420 sqft,3707
+https://www.zillow.com/homedetails/12531-SW-37th-Ter-Miami-FL-33175/44238965_zpid/,44238965,,SINGLE FAMILY,"$750,000",12531 SW 37th Ter,Miami,FL,33175,3,2,1309,9500 sqft,
+https://www.zillow.com/homedetails/2372-NW-34th-St-Miami-FL-33142/43818433_zpid/,43818433,,SINGLE FAMILY,"$415,000",2372 NW 34th St,Miami,FL,33142,2,2,857,5600 sqft,2624
+https://www.zillow.com/homedetails/10745-SW-152nd-Ter-Miami-FL-33157/44298761_zpid/,44298761,,SINGLE FAMILY,"$550,000",10745 SW 152nd Ter,Miami,FL,33157,3,2,1620,7875 sqft,
+https://www.zillow.com/homedetails/2168-NW-28th-St-1-3-Miami-FL-33142/455247346_zpid/,455247346,,MULTI FAMILY,"$1,150,000",2168 NW 28th St #1-3,Miami,FL,33142,11,5,2822, ,
+https://www.zillow.com/homedetails/2530-SW-3rd-Ave-APT-206-Miami-FL-33129/43867273_zpid/,43867273,,CONDO,"$349,900",2530 SW 3rd Ave APT 206,Miami,FL,33129,2,2,846, ,
+https://www.zillow.com/homedetails/13120-SW-92nd-Ave-APT-B-401-Miami-FL-33176/70770810_zpid/,70770810,,CONDO,"$300,000",13120 SW 92nd Ave APT B-401,Miami,FL,33176,2,1,1077, ,2190
+https://www.zillow.com/homedetails/12856-SW-227th-St-Miami-FL-33170/337200580_zpid/,337200580,,SINGLE FAMILY,"$810,000",12856 SW 227th St,Miami,FL,33170,4,4,2620,6365 sqft,6747
+https://www.zillow.com/homedetails/7200-NW-4th-St-Miami-FL-33126/44167101_zpid/,44167101,,SINGLE FAMILY,"$465,000",7200 NW 4th St,Miami,FL,33126,2,1,858,5150 sqft,2688
+https://www.zillow.com/homedetails/41-SE-5th-St-APT-1503-Miami-FL-33131/82411255_zpid/,82411255,,CONDO,"$489,000",41 SE 5th St APT 1503,Miami,FL,33131,1,2,952, ,
+https://www.zillow.com/homedetails/851-NE-1st-Ave-UNIT-3205-Miami-FL-33132/337201337_zpid/,337201337,,CONDO,"$842,000",851 NE 1st Ave UNIT 3205,Miami,FL,33132,1,2,1254, ,5891
+https://www.zillow.com/homedetails/8225-SW-81st-Ct-Miami-FL-33143/44221541_zpid/,44221541,,TOWNHOUSE,"$675,000",8225 SW 81st Ct,Miami,FL,33143,2,3,1282, ,2921
+https://www.zillow.com/homedetails/14293-SW-150th-Ter-Miami-FL-33186/44329636_zpid/,44329636,,SINGLE FAMILY,"$650,000",14293 SW 150th Ter,Miami,FL,33186,3,3,2165,4400 sqft,
+https://www.zillow.com/homedetails/1745-NW-49th-St-Miami-FL-33142/43810795_zpid/,43810795,,SINGLE FAMILY,"$449,999",1745 NW 49th St,Miami,FL,33142,3,2,908,6106 sqft,3363
+https://www.zillow.com/homedetails/12692-NW-8th-Trl-Miami-FL-33182/44163950_zpid/,44163950,,SINGLE FAMILY,"$575,000",12692 NW 8th Trl,Miami,FL,33182,3,3,1582,2424 sqft,
+https://www.zillow.com/homedetails/5437-NW-4th-Ave-Miami-FL-33127/43807992_zpid/,43807992,,SINGLE FAMILY,"$379,900",5437 NW 4th Ave,Miami,FL,33127,2,1,848,6250 sqft,2357
+https://www.zillow.com/homedetails/6364-SW-165th-Ave-Miami-FL-33193/63620790_zpid/,63620790,,TOWNHOUSE,"$550,000",6364 SW 165th Ave,Miami,FL,33193,3,2,1739, ,3403
+https://www.zillow.com/homedetails/15235-SW-64th-Ter-9-35-Miami-FL-33193/44260516_zpid/,44260516,,TOWNHOUSE,"$349,500",15235 SW 64th Ter #9-35,Miami,FL,33193,2,2,840, ,2478
+https://www.zillow.com/homedetails/3301-NE-1st-Ave-APT-H1211-Miami-FL-33137/92444909_zpid/,92444909,,CONDO,"$480,000",3301 NE 1st Ave APT H1211,Miami,FL,33137,1,6,761, ,3327
+https://www.zillow.com/homedetails/15660-SW-82nd-Circle-Ln-6-Miami-FL-33193/44266500_zpid/,44266500,,TOWNHOUSE,"$399,000",15660 SW 82nd Circle Ln #6,Miami,FL,33193,3,3,1964, ,2914
+https://www.zillow.com/homedetails/13241-SW-190th-Ter-Miami-FL-33177/449350202_zpid/,449350202,,SINGLE FAMILY,"$1,016,770",13241 SW 190th Ter,Miami,FL,33177,5,4,3468, ,
+https://www.zillow.com/homedetails/7650-SW-64th-Ct-South-Miami-FL-33143/44000140_zpid/,44000140,,SINGLE FAMILY,"$1,290,000",7650 SW 64th Ct,South Miami,FL,33143,4,3,1830,0.2808080808080808 acres,
+https://www.zillow.com/homedetails/17707-SW-144th-Ave-Miami-FL-33177/44340557_zpid/,44340557,,SINGLE FAMILY,"$549,000",17707 SW 144th Ave,Miami,FL,33177,3,2,1244,3956 sqft,3244
+https://www.zillow.com/homedetails/818-NW-47th-St-Miami-FL-33127/43813620_zpid/,43813620,,SINGLE FAMILY,"$750,000",818 NW 47th St,Miami,FL,33127,4,3,1517,5000 sqft,
+https://www.zillow.com/homedetails/2340-SW-17th-Ave-Miami-FL-33145/43855731_zpid/,43855731,,SINGLE FAMILY,"$899,000",2340 SW 17th Ave,Miami,FL,33145,3,3,1910,5000 sqft,4203
+https://www.zillow.com/homedetails/12841-SW-146th-Ln-Miami-FL-33186/44330871_zpid/,44330871,,SINGLE FAMILY,"$485,000",12841 SW 146th Ln,Miami,FL,33186,2,2,1380,4000 sqft,
+https://www.zillow.com/homedetails/3620-SW-94th-Ave-Miami-FL-33165/44193385_zpid/,44193385,,MULTI FAMILY,"$1,540,000",3620 SW 94th Ave,Miami,FL,33165,6,6,4458, ,6170
+https://www.zillow.com/homedetails/7630-SW-94th-Ave-Miami-FL-33173/44220521_zpid/,44220521,,SINGLE FAMILY,"$890,000",7630 SW 94th Ave,Miami,FL,33173,4,3,1612,8000 sqft,
+https://www.zillow.com/homedetails/14677-SW-123rd-Ave-Miami-FL-33186/44332589_zpid/,44332589,,SINGLE FAMILY,"$535,000",14677 SW 123rd Ave,Miami,FL,33186,3,2,1350,4000 sqft,3108
+https://www.zillow.com/homedetails/11514-SW-109th-Rd-37Z-Miami-FL-33176/44280554_zpid/,44280554,,TOWNHOUSE,"$440,000",11514 SW 109th Rd #37Z,Miami,FL,33176,3,2,1170, ,
+https://www.zillow.com/homedetails/12340-SW-144th-Ter-Miami-FL-33186/44332563_zpid/,44332563,,SINGLE FAMILY,"$525,000",12340 SW 144th Ter,Miami,FL,33186,3,2,1578,3383 sqft,3243
+https://www.zillow.com/homedetails/11861-SW-92nd-Ln-Miami-FL-33186/44306387_zpid/,44306387,,SINGLE FAMILY,"$655,000",11861 SW 92nd Ln,Miami,FL,33186,3,2,1350,4776 sqft,
+https://www.zillow.com/homedetails/681-NE-70th-St-Miami-FL-33138/43828732_zpid/,43828732,,SINGLE FAMILY,"$1,450,000",681 NE 70th St,Miami,FL,33138,3,2,2289,8100 sqft,6277
+https://www.zillow.com/homedetails/1187-NW-123rd-Pl-204-Miami-FL-33182/44164362_zpid/,44164362,,TOWNHOUSE,"$440,000",1187 NW 123rd Pl #204,Miami,FL,33182,3,3,1240, ,3052
+https://www.zillow.com/homedetails/10772-N-Kendall-Dr-APT-G6-Miami-FL-33176/44277998_zpid/,44277998,,CONDO,"$295,000",10772 N Kendall Dr APT G6,Miami,FL,33176,3,2,1130, ,
+https://www.zillow.com/homedetails/12344-SW-144th-Ter-Miami-FL-33186/44332565_zpid/,44332565,,SINGLE FAMILY,"$529,987",12344 SW 144th Ter,Miami,FL,33186,3,2,1578,3435 sqft,3246
+https://www.zillow.com/homedetails/11024-SW-157th-Ter-Miami-FL-33157/44299113_zpid/,44299113,,SINGLE FAMILY,"$560,000",11024 SW 157th Ter,Miami,FL,33157,3,2,1611,7500 sqft,
+https://www.zillow.com/homedetails/17624-SW-149th-Pl-Miami-FL-33187/156369708_zpid/,156369708,,TOWNHOUSE,"$530,000",17624 SW 149th Pl,Miami,FL,33187,3,3,1564, ,3394
+https://www.zillow.com/homedetails/11000-SW-131st-Ter-Miami-FL-33176/44286986_zpid/,44286986,,SINGLE FAMILY,"$989,000",11000 SW 131st Ter,Miami,FL,33176,4,3,1948,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/14205-SW-57th-Ln-5-A-6-Miami-FL-33183/44258366_zpid/,44258366,,TOWNHOUSE,"$399,000",14205 SW 57th Lane #5-A-6,Miami,FL,33183,3,3,1300, ,3110
+https://www.zillow.com/homedetails/5324-SW-164th-Ct-Miami-FL-33185/64737785_zpid/,64737785,,SINGLE FAMILY,"$1,200,000",5324 SW 164th Ct,Miami,FL,33185,5,3,2338,6646 sqft,
+https://www.zillow.com/homedetails/14071-SW-45th-St-Miami-FL-33175/44246831_zpid/,44246831,,SINGLE FAMILY,"$695,000",14071 SW 45th St,Miami,FL,33175,3,2,1192,7500 sqft,
+https://www.zillow.com/homedetails/3182-Day-Ave-Miami-FL-33133/2102514004_zpid/,2102514004,,TOWNHOUSE,"$895,000",3182 Day Ave,Miami,FL,33133,3,3,1344, ,
+https://www.zillow.com/homedetails/8022-SW-151st-Ct-603-Miami-FL-33193/44265520_zpid/,44265520,,TOWNHOUSE,"$310,000",8022 SW 151st Ct #603,Miami,FL,33193,2,2,1033, ,2247
+https://www.zillow.com/homedetails/12302-NW-11th-St-1402-Miami-FL-33182/44164286_zpid/,44164286,,TOWNHOUSE,"$400,000",12302 NW 11th St #1402,Miami,FL,33182,3,3,1240, ,3072
+https://www.zillow.com/homedetails/2121-SW-13th-Ave-Miami-FL-33145/43867115_zpid/,43867115,,MULTI FAMILY,"$1,054,000",2121 SW 13th Ave,Miami,FL,33145,4,4,2370, ,
+https://www.zillow.com/homedetails/4410-SW-129th-Pl-Miami-FL-33175/44249559_zpid/,44249559,,TOWNHOUSE,"$450,000",4410 SW 129th Pl,Miami,FL,33175,3,1,875,2657 sqft,2636
+https://www.zillow.com/homedetails/11120-SW-138th-St-Miami-FL-33176/44289516_zpid/,44289516,,SINGLE FAMILY,"$735,000",11120 SW 138th St,Miami,FL,33176,4,3,2034,8400 sqft,
+https://www.zillow.com/homedetails/7921-SW-100th-St-Miami-FL-33156/44275002_zpid/,44275002,,SINGLE FAMILY,"$1,450,000",7921 SW 100th St,Miami,FL,33156,3,2,1358,0.31391184573002756 acres,4510
+https://www.zillow.com/homedetails/950-Brickell-Bay-Dr-APT-501-Miami-FL-33131/92444753_zpid/,92444753,,CONDO,"$499,000",950 Brickell Bay Dr APT 501,Miami,FL,33131,1,1,704, ,
+https://www.zillow.com/homedetails/6620-SW-164th-Ave-Miami-FL-33193/60113513_zpid/,60113513,,SINGLE FAMILY,"$889,000",6620 SW 164th Ave,Miami,FL,33193,5,3,2528,6001 sqft,
+https://www.zillow.com/homedetails/10341-SW-179th-St-Miami-FL-33157/82060423_zpid/,82060423,,SINGLE FAMILY,"$500,000",10341 SW 179th St,Miami,FL,33157,3,2,1271,5000 sqft,
+https://www.zillow.com/homedetails/1900-N-Bayshore-Dr-APT-2003-Miami-FL-33132/83159442_zpid/,83159442,,CONDO,"$409,000",1900 N Bayshore Dr APT 2003,Miami,FL,33132,1,1,651, ,2606
+https://www.zillow.com/homedetails/9841-SW-122nd-St-Miami-FL-33176/44285881_zpid/,44285881,,SINGLE FAMILY,"$1,150,000",9841 SW 122nd St,Miami,FL,33176,4,3,1941,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/4211-SW-135th-Ave-Miami-FL-33175/44251803_zpid/,44251803,,SINGLE FAMILY,"$699,000",4211 SW 135th Ave,Miami,FL,33175,4,2,1692,8500 sqft,4373
+https://www.zillow.com/homedetails/17543-SW-153rd-Path-Miami-FL-33187/123207367_zpid/,123207367,,TOWNHOUSE,"$494,900",17543 SW 153rd Path,Miami,FL,33187,3,3,1616, ,
+https://www.zillow.com/homedetails/1730-NW-58th-St-Miami-FL-33142/43810916_zpid/,43810916,,SINGLE FAMILY,"$460,000",1730 NW 58th St,Miami,FL,33142,3,2,1120,5300 sqft,2845
+https://www.zillow.com/homedetails/13481-SW-103rd-St-Miami-FL-33186/44309347_zpid/,44309347,,SINGLE FAMILY,"$625,000",13481 SW 103rd St,Miami,FL,33186,3,2,1422,5507 sqft,
+https://www.zillow.com/homedetails/10982-SW-75th-Ter-Miami-FL-33173/44216489_zpid/,44216489,,TOWNHOUSE,"$465,000",10982 SW 75th Ter,Miami,FL,33173,2,3,1177,1477 sqft,2872
+https://www.zillow.com/homedetails/1114-SW-11th-Ave-Miami-FL-33129/43852784_zpid/,43852784,,SINGLE FAMILY,"$999,000",1114 SW 11th Ave,Miami,FL,33129,5,3,2100,5000 sqft,7385
+https://www.zillow.com/homedetails/905-Brickell-Bay-Dr-APT-2028-Miami-FL-33131/43874009_zpid/,43874009,,CONDO,"$498,000",905 Brickell Bay Dr APT 2028,Miami,FL,33131,2,2,1060, ,
+https://www.zillow.com/homedetails/465-Brickell-Ave-APT-3505-Miami-FL-33131/92446834_zpid/,92446834,,CONDO,"$1,099,000",465 Brickell Ave APT 3505,Miami,FL,33131,2,2,, ,5484
+https://www.zillow.com/homedetails/6440-SW-42nd-St-Miami-FL-33155/44208440_zpid/,44208440,,SINGLE FAMILY,"$930,000",6440 SW 42nd St,Miami,FL,33155,3,2,1418,6420 sqft,
+https://www.zillow.com/homedetails/770-Claughton-Island-Dr-PENTHOUSE-18-Miami-FL-33131/452272114_zpid/,452272114,,CONDO,"$499,000",770 Claughton Island Dr PENTHOUSE 18,Miami,FL,33131,2,2,1086, ,
+https://www.zillow.com/homedetails/20310-SW-116th-Ave-Miami-FL-33189/44350504_zpid/,44350504,,SINGLE FAMILY,"$574,990",20310 SW 116th Ave,Miami,FL,33189,3,2,2086,7500 sqft,
+https://www.zillow.com/homedetails/1900-N-Bayshore-Dr-APT-3715-Miami-FL-33132/87937804_zpid/,87937804,,CONDO,"$575,000",1900 N Bayshore Dr APT 3715,Miami,FL,33132,2,3,1325, ,
+https://www.zillow.com/homedetails/5851-SW-49th-St-Miami-FL-33155/44207702_zpid/,44207702,,SINGLE FAMILY,"$1,200,000",5851 SW 49th St,Miami,FL,33155,3,2,1607,7494 sqft,
+https://www.zillow.com/homedetails/11420-SW-44th-St-Miami-FL-33165/44199189_zpid/,44199189,,SINGLE FAMILY,"$720,000",11420 SW 44th St,Miami,FL,33165,3,3,1233,10000 sqft,
+https://www.zillow.com/homedetails/16549-SW-48th-Ter-Miami-FL-33185/58454618_zpid/,58454618,,TOWNHOUSE,"$550,000",16549 SW 48th Ter,Miami,FL,33185,3,3,1753, ,3244
+https://www.zillow.com/homedetails/501-SW-1st-St-APT-308-Miami-FL-33130/43866358_zpid/,43866358,,CONDO,"$210,000",501 SW 1st St APT 308,Miami,FL,33130,2,1,791, ,2223
+https://www.zillow.com/homedetails/2125-SW-26th-St-Miami-FL-33133/43854782_zpid/,43854782,,SINGLE FAMILY,"$799,999",2125 SW 26th St,Miami,FL,33133,3,2,1173,6000 sqft,4194
+https://www.zillow.com/homedetails/16173-SW-72nd-Ter-Miami-FL-33193/44262503_zpid/,44262503,,SINGLE FAMILY,"$749,000",16173 SW 72nd Ter,Miami,FL,33193,4,3,2212,6899 sqft,4177
+https://www.zillow.com/homedetails/10441-SW-150th-Ter-Miami-FL-33176/44290221_zpid/,44290221,,SINGLE FAMILY,"$625,000",10441 SW 150th Ter,Miami,FL,33176,3,3,1768,7500 sqft,4463
+https://www.zillow.com/homedetails/2835-SW-37th-Ct-Miami-FL-33134/43859976_zpid/,43859976,,MULTI FAMILY,"$845,000",2835 SW 37th Ct,Miami,FL,33134,3,2,2355, ,2552
+https://www.zillow.com/homedetails/8445-SW-80th-Pl-Miami-FL-33143/44221913_zpid/,44221913,,SINGLE FAMILY,"$889,995",8445 SW 80th Pl,Miami,FL,33143,3,2,1832,5818 sqft,
+https://www.zillow.com/homedetails/22542-SW-103rd-Ct-Miami-FL-33190/62932129_zpid/,62932129,,SINGLE FAMILY,"$744,449",22542 SW 103rd Ct,Miami,FL,33190,4,3,2581,5000 sqft,4593
+https://www.zillow.com/homedetails/12355-SW-124th-Ter-Miami-FL-33186/62924902_zpid/,62924902,,SINGLE FAMILY,"$850,000",12355 SW 124th Ter,Miami,FL,33186,4,3,2831,6000 sqft,
+https://www.zillow.com/homedetails/23235-SW-129th-Path-Homestead-FL-33032/2060344315_zpid/,2060344315,,SINGLE FAMILY,"$450,000",23235 SW 129th Path,Homestead,FL,33032,3,3,1393, ,2968
+https://www.zillow.com/homedetails/1401-SW-82nd-Ct-Miami-FL-33144/44182537_zpid/,44182537,,SINGLE FAMILY,"$799,999",1401 SW 82nd Ct,Miami,FL,33144,3,2,1614,7500 sqft,4881
+https://www.zillow.com/homedetails/2390-SW-17th-Ter-Miami-FL-33145/43852604_zpid/,43852604,,SINGLE FAMILY,"$885,000",2390 SW 17th Ter,Miami,FL,33145,2,2,937,5739 sqft,3250
+https://www.zillow.com/homedetails/10860-SW-116th-St-Miami-FL-33176/44279626_zpid/,44279626,,SINGLE FAMILY,"$1,375,000",10860 SW 116th St,Miami,FL,33176,4,4,3582,0.36960514233241504 acres,7832
+https://www.zillow.com/homedetails/10700-SW-108th-Ave-APT-C316-Miami-FL-33176/44282026_zpid/,44282026,,CONDO,"$330,000",10700 SW 108th Ave APT C316,Miami,FL,33176,3,3,1190, ,
+https://www.zillow.com/homedetails/1800-NW-24th-Ave-APT-205-Miami-FL-33125/43824814_zpid/,43824814,,CONDO,"$240,000",1800 NW 24th Ave APT 205,Miami,FL,33125,2,2,767, ,2236
+https://www.zillow.com/homedetails/3295-SW-75th-Ct-Miami-FL-33155/44189927_zpid/,44189927,,SINGLE FAMILY,"$635,000",3295 SW 75th Ct,Miami,FL,33155,3,2,1365,5000 sqft,
+https://www.zillow.com/homedetails/10371-SW-146th-St-Miami-FL-33176/44290649_zpid/,44290649,,SINGLE FAMILY,"$748,500",10371 SW 146th St,Miami,FL,33176,5,3,1592,0.27892561983471076 acres,
+https://www.zillow.com/homedetails/12505-SW-99th-Ave-Miami-FL-33176/44286104_zpid/,44286104,,SINGLE FAMILY,"$1,299,000",12505 SW 99th Ave,Miami,FL,33176,4,2,2057,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/8075-SW-107th-Ave-APT-320-Miami-FL-33173/44219885_zpid/,44219885,,CONDO,"$290,000",8075 SW 107th Ave APT 320,Miami,FL,33173,2,2,965, ,
+https://www.zillow.com/homedetails/15041-Pierce-St-Miami-FL-33176/44289115_zpid/,44289115,,SINGLE FAMILY,"$600,000",15041 Pierce St,Miami,FL,33176,3,2,1122,7500 sqft,3948
+https://www.zillow.com/homedetails/521-SW-40th-Ct-Miami-FL-33134/43844335_zpid/,43844335,,SINGLE FAMILY,"$875,000",521 SW 40th Ct,Miami,FL,33134,3,2,2718,6751.8 sqft,5587
+https://www.zillow.com/homedetails/10703-SW-113th-Pl-100B-Miami-FL-33176/44281136_zpid/,44281136,,TOWNHOUSE,"$405,500",10703 SW 113th Pl #100B,Miami,FL,33176,3,2,1400, ,3352
+https://www.zillow.com/homedetails/1712-SW-13th-St-Miami-FL-33145/43852521_zpid/,43852521,,SINGLE FAMILY,"$1,350,000",1712 SW 13th St,Miami,FL,33145,5,3,2514,5900 sqft,
+https://www.zillow.com/homedetails/1937-SW-16th-Ave-Miami-FL-33145/43853311_zpid/,43853311,,SINGLE FAMILY,"$849,000",1937 SW 16th Ave,Miami,FL,33145,3,3,1475,5400 sqft,
+https://www.zillow.com/homedetails/3025-SW-13th-St-Miami-FL-33145/43847375_zpid/,43847375,,SINGLE FAMILY,"$799,000",3025 SW 13th St,Miami,FL,33145,3,2,1176,2253 sqft,
+https://www.zillow.com/homedetails/13110-SW-104th-Ave-Miami-FL-33176/44286210_zpid/,44286210,,SINGLE FAMILY,"$1,400,000",13110 SW 104th Ave,Miami,FL,33176,4,3,2460,0.40771349862258954 acres,6278
+https://www.zillow.com/homedetails/8650-West-Plz-S-Miami-FL-33147/449655949_zpid/,449655949,,CONDO,"$255,000",8650 West Plz #S,Miami,FL,33147,2,2,965,2500 sqft,
+https://www.zillow.com/homedetails/11150-SW-64th-St-Miami-FL-33173/44212727_zpid/,44212727,,SINGLE FAMILY,"$840,000",11150 SW 64th St,Miami,FL,33173,3,2,1400,7500 sqft,
+https://www.zillow.com/homedetails/2801-SW-64th-Ave-Miami-FL-33155/44187343_zpid/,44187343,,SINGLE FAMILY,"$1,350,000",2801 SW 64th Ave,Miami,FL,33155,4,3,2130,7500 sqft,
+https://www.zillow.com/homedetails/6211-SW-116th-Pl-Miami-FL-33173/44214225_zpid/,44214225,,SINGLE FAMILY,"$535,000",6211 SW 116th Pl,Miami,FL,33173,2,2,1330, ,2702
+https://www.zillow.com/homedetails/10140-SW-228th-Ter-Miami-FL-33190/451126545_zpid/,451126545,,TOWNHOUSE,"$440,000",10140 SW 228th Ter,Miami,FL,33190,3,3,1362, ,
+https://www.zillow.com/homedetails/14103-SW-55th-St-Miami-FL-33175/44247045_zpid/,44247045,,TOWNHOUSE,"$420,000",14103 SW 55th St,Miami,FL,33175,2,1,835, ,2431
+https://www.zillow.com/homedetails/12000-SW-187th-St-Miami-FL-33177/44348898_zpid/,44348898,,SINGLE FAMILY,"$565,000",12000 SW 187th St,Miami,FL,33177,3,2,1212,7744.968 sqft,3179
+https://www.zillow.com/homedetails/8370-SW-46th-St-Miami-FL-33155/44205904_zpid/,44205904,,SINGLE FAMILY,"$719,000",8370 SW 46th St,Miami,FL,33155,3,2,1955,8104 sqft,
+https://www.zillow.com/homedetails/7045-SW-67th-Ave-40-South-Miami-FL-33143/43999157_zpid/,43999157,,TOWNHOUSE,"$1,150,000",7045 SW 67th Ave #40,South Miami,FL,33143,4,3,2200, ,6079
+https://www.zillow.com/homedetails/3020-SW-2nd-Ave-Miami-FL-33129/43867078_zpid/,43867078,,SINGLE FAMILY,"$1,475,000",3020 SW 2nd Ave,Miami,FL,33129,3,2,1402,6175 sqft,
+https://www.zillow.com/homedetails/2814-SW-27th-St-A-Miami-FL-33133/70774606_zpid/,70774606,,TOWNHOUSE,"$666,666",2814 SW 27th St #A,Miami,FL,33133,3,3,1346, ,
+https://www.zillow.com/homedetails/6908-SW-104th-Ct-Miami-FL-33173/44211792_zpid/,44211792,,SINGLE FAMILY,"$609,000",6908 SW 104th Ct,Miami,FL,33173,3,2,1667,4267 sqft,4435
+https://www.zillow.com/homedetails/2231-SW-57th-Ct-Miami-FL-33155/44186793_zpid/,44186793,,SINGLE FAMILY,"$710,000",2231 SW 57th Ct,Miami,FL,33155,5,3,2692,6040 sqft,7570
+https://www.zillow.com/homedetails/10921-SW-102nd-Ct-Miami-FL-33176/44282906_zpid/,44282906,,SINGLE FAMILY,"$1,499,000",10921 SW 102nd Ct,Miami,FL,33176,3,2,1997,0.3606290174471993 acres,
+https://www.zillow.com/homedetails/14117-SW-149th-Ave-Miami-FL-33196/44329115_zpid/,44329115,,SINGLE FAMILY,"$555,000",14117 SW 149th Ave,Miami,FL,33196,3,2,1301,3200 sqft,3185
+https://www.zillow.com/homedetails/20620-SW-120th-Pl-Miami-FL-33177/44362865_zpid/,44362865,,SINGLE FAMILY,"$599,000",20620 SW 120th Pl,Miami,FL,33177,3,2,1367,7764 sqft,3420
+https://www.zillow.com/homedetails/7907-SW-104th-St-APT-204-H-Miami-FL-33156/64494804_zpid/,64494804,,CONDO,"$270,000",7907 SW 104th St APT 204-H,Miami,FL,33156,1,1,854, ,2007
+https://www.zillow.com/homedetails/11253-SW-33rd-Circle-Pl-Miami-FL-33165/452125206_zpid/,452125206,,TOWNHOUSE,"$560,000",11253 SW 33rd Circle Pl,Miami,FL,33165,4,3,1740, ,
+https://www.zillow.com/homedetails/6430-NE-1st-Ct-Miami-FL-33138/43807349_zpid/,43807349,,MULTI FAMILY,"$570,000",6430 NE 1st Ct,Miami,FL,33138,4,2,1452, ,3186
+https://www.zillow.com/homedetails/2425-SW-27th-Ave-APT-701-Miami-FL-33143/64469463_zpid/,64469463,,CONDO,"$535,000",2425 SW 27th Ave APT 701,Miami,FL,33143,2,2,1296, ,3340
+https://www.zillow.com/homedetails/110-SW-64th-Ct-Miami-FL-33144/43834785_zpid/,43834785,,SINGLE FAMILY,"$549,000",110 SW 64th Ct,Miami,FL,33144,2,2,1105,6750 sqft,
+https://www.zillow.com/homedetails/1556-NW-68th-Ter-Miami-FL-33147/443766418_zpid/,443766418,,SINGLE FAMILY,"$499,000",1556 NW 68th Ter,Miami,FL,33147,3,2,1081,3400 sqft,
+https://www.zillow.com/homedetails/1720-NW-North-River-Dr-APT-411-Miami-FL-33125/70773487_zpid/,70773487,,CONDO,"$259,000",1720 NW North River Dr APT 411,Miami,FL,33125,2,1,830, ,
+https://www.zillow.com/homedetails/15018-SW-80th-Ter-907-Miami-FL-33193/44265568_zpid/,44265568,,TOWNHOUSE,"$282,500",15018 SW 80th Ter #907,Miami,FL,33193,2,1,1033, ,2078
+https://www.zillow.com/homedetails/244-Biscayne-Blvd-APT-1508-Miami-FL-33132/92449931_zpid/,92449931,,CONDO,"$499,999",244 Biscayne Blvd APT 1508,Miami,FL,33132,2,2,1006, ,3405
+https://www.zillow.com/homedetails/8236-SW-36th-St-Miami-FL-33155/250191096_zpid/,250191096,,SINGLE FAMILY,"$1,325,000",8236 SW 36th St,Miami,FL,33155,4,3,2149,8750 sqft,
+https://www.zillow.com/homedetails/9456-SW-77th-Ave-APT-T8-Miami-FL-33156/44275662_zpid/,44275662,,CONDO,"$360,000",9456 SW 77th Ave APT T8,Miami,FL,33156,3,2,1262, ,
+https://www.zillow.com/homedetails/9701-SW-56th-Ter-Miami-FL-33173/44212089_zpid/,44212089,,SINGLE FAMILY,"$1,398,000",9701 SW 56th Ter,Miami,FL,33173,4,4,2578,0.28909550045913684 acres,7538
+https://www.zillow.com/homedetails/9471-SW-10th-St-Miami-FL-33174/44181586_zpid/,44181586,,SINGLE FAMILY,"$999,900",9471 SW 10th St,Miami,FL,33174,5,3,2488,10407 sqft,4688
+https://www.zillow.com/homedetails/2761-SW-33rd-Ct-Miami-FL-33133/43858806_zpid/,43858806,,SINGLE FAMILY,"$985,000",2761 SW 33rd Ct,Miami,FL,33133,5,5,2056,6250 sqft,6542
+https://www.zillow.com/homedetails/5059-SW-71st-Pl-Miami-FL-33155/44206794_zpid/,44206794,,TOWNHOUSE,"$884,000",5059 SW 71st Pl,Miami,FL,33155,2,3,1552, ,
+https://www.zillow.com/homedetails/3905-SW-125th-Ave-Miami-FL-33175/44238919_zpid/,44238919,,SINGLE FAMILY,"$825,000",3905 SW 125th Ave,Miami,FL,33175,3,2,1408,7500 sqft,
+https://www.zillow.com/homedetails/1781-SW-24th-St-Miami-FL-33145/43856696_zpid/,43856696,,SINGLE FAMILY,"$895,000",1781 SW 24th St,Miami,FL,33145,2,2,1351,6300 sqft,
+https://www.zillow.com/homedetails/13887-SW-64th-St-Miami-FL-33183/44258755_zpid/,44258755,,TOWNHOUSE,"$440,000",13887 SW 64th St,Miami,FL,33183,2,3,1200, ,
+https://www.zillow.com/homedetails/1750-N-Bayshore-Dr-APT-2506-Miami-FL-33132/82416933_zpid/,82416933,,CONDO,"$348,900",1750 N Bayshore Dr APT 2506,Miami,FL,33132,1,1,821, ,
+https://www.zillow.com/homedetails/18849-SW-314th-St-Homestead-FL-33030/453502809_zpid/,453502809,,SINGLE FAMILY,"$575,990",18849 SW 314th St,Homestead,FL,33030,3,3,1670,4000 sqft,
+https://www.zillow.com/homedetails/1858-NW-47th-Ter-Miami-FL-33142/43810471_zpid/,43810471,,SINGLE FAMILY,"$450,000",1858 NW 47th Ter,Miami,FL,33142,3,3,1246,4796 sqft,3218
+https://www.zillow.com/homedetails/7909-SW-105th-Ave-Miami-FL-33173/44218437_zpid/,44218437,,TOWNHOUSE,"$575,000",7909 SW 105th Ave,Miami,FL,33173,3,3,1680, ,
+https://www.zillow.com/homedetails/2023-SW-99th-Ave-Miami-FL-33165/44178643_zpid/,44178643,,SINGLE FAMILY,"$789,000",2023 SW 99th Ave,Miami,FL,33165,4,3,1798,7500 sqft,4168
+https://www.zillow.com/homedetails/9970-SW-161st-St-Miami-FL-33157/44296522_zpid/,44296522,,SINGLE FAMILY,"$624,000",9970 SW 161st St,Miami,FL,33157,4,2,1522,7500 sqft,
+https://www.zillow.com/homedetails/16296-SW-83rd-Ln-Miami-FL-33193/44263405_zpid/,44263405,,SINGLE FAMILY,"$699,000",16296 SW 83rd Ln,Miami,FL,33193,4,3,1986,4250 sqft,4052
+https://www.zillow.com/homedetails/999-Brickell-Bay-Dr-APT-2007-Miami-FL-33131/43873805_zpid/,43873805,,CONDO,"$490,000",999 Brickell Bay Dr APT 2007,Miami,FL,33131,2,2,990, ,
+https://www.zillow.com/homedetails/253-NE-2nd-St-APT-228-Miami-FL-33132/92443130_zpid/,92443130,,CONDO,"$499,999",253 NE 2nd St APT 228,Miami,FL,33132,2,2,1000, ,
+https://www.zillow.com/homedetails/9350-SW-88th-Ter-Miami-FL-33176/44276361_zpid/,44276361,,SINGLE FAMILY,"$1,200,000",9350 SW 88th Ter,Miami,FL,33176,5,3,3137,10000 sqft,6600
+https://www.zillow.com/homedetails/1300-NW-29th-Ave-Miami-FL-33125/43822676_zpid/,43822676,,SINGLE FAMILY,"$645,000",1300 NW 29th Ave,Miami,FL,33125,3,2,1371,7700 sqft,
+https://www.zillow.com/homedetails/11300-SW-107th-Ave-Miami-FL-33176/44279554_zpid/,44279554,,SINGLE FAMILY,"$1,225,000",11300 SW 107th Ave,Miami,FL,33176,3,3,1772,0.3820018365472911 acres,5124
+https://www.zillow.com/homedetails/9857-SW-7th-St-Miami-FL-33174/44175974_zpid/,44175974,,SINGLE FAMILY,"$699,000",9857 SW 7th St,Miami,FL,33174,3,2,1736,4334 sqft,
+https://www.zillow.com/homedetails/2025-SW-19th-St-Miami-FL-33145/43851585_zpid/,43851585,,SINGLE FAMILY,"$675,000",2025 SW 19th St,Miami,FL,33145,2,1,1117,6120 sqft,
+https://www.zillow.com/homedetails/38-SW-25th-Rd-Miami-FL-33129/43866643_zpid/,43866643,,SINGLE FAMILY,"$1,595,000",38 SW 25th Rd,Miami,FL,33129,3,3,1618,9513 sqft,7161
+https://www.zillow.com/homedetails/5831-SW-52nd-Ter-Miami-FL-33155/44207562_zpid/,44207562,,SINGLE FAMILY,"$1,250,000",5831 SW 52nd Ter,Miami,FL,33155,3,2,1692,10143 sqft,
+https://www.zillow.com/homedetails/2475-Brickell-Ave-APT-1110-Miami-FL-33129/60760982_zpid/,60760982,,CONDO,"$607,000",2475 Brickell Av #1110,Miami,FL,33129,2,2,1170, ,4746
+https://www.zillow.com/homedetails/9433-SW-17th-St-Miami-FL-33165/44181455_zpid/,44181455,,SINGLE FAMILY,"$949,000",9433 SW 17th St,Miami,FL,33165,4,3,3022,0.31085858585858583 acres,5371
+https://www.zillow.com/homedetails/3610-SW-59th-Ave-Miami-FL-33155/44188749_zpid/,44188749,,SINGLE FAMILY,"$875,000",3610 SW 59th Ave,Miami,FL,33155,3,3,1749,7875 sqft,4584
+https://www.zillow.com/homedetails/650-NE-32nd-St-UNIT-4206-Miami-FL-33137/306394975_zpid/,306394975,,CONDO,"$985,000",650 NE 32nd St UNIT 4206,Miami,FL,33137,2,2,1067, ,5797
+https://www.zillow.com/homedetails/2490-SW-17th-St-Miami-FL-33145/43852122_zpid/,43852122,,MULTI FAMILY,"$1,000,000",2490 SW 17th St,Miami,FL,33145,7,4,2821, ,2247
+https://www.zillow.com/homedetails/9159-SW-77th-Ave-APT-314-Miami-FL-33156/44274398_zpid/,44274398,,CONDO,"$249,900",9159 SW 77th Ave APT 314,Miami,FL,33156,2,2,1115, ,2478
+https://www.zillow.com/homedetails/3172-Virginia-St-Miami-FL-33133/451015045_zpid/,451015045,,TOWNHOUSE,"$1,299,000",3172 Virginia St,Miami,FL,33133,3,3,1845, ,
+https://www.zillow.com/homedetails/2465-SW-18th-Ave-APT-3208-Miami-FL-33145/43856867_zpid/,43856867,,CONDO,"$280,000",2465 SW 18th Ave APT 3208,Miami,FL,33145,1,1,611, ,
+https://www.zillow.com/homedetails/56-NW-70th-St-Miami-FL-33150/43808251_zpid/,43808251,,SINGLE FAMILY,"$465,000",56 NW 70th St,Miami,FL,33150,3,2,1100,5350 sqft,3153
+https://www.zillow.com/homedetails/79-SW-12th-St-PENTHOUSE-3812S-Miami-FL-33130/454220571_zpid/,454220571,,CONDO,"$699,900",79 SW 12th St PENTHOUSE 3812S,Miami,FL,33130,2,2,1108, ,
+https://www.zillow.com/homedetails/9105-SW-78th-Ct-Miami-FL-33156/44275366_zpid/,44275366,,SINGLE FAMILY,"$895,000",9105 SW 78th Ct,Miami,FL,33156,3,3,2320,2800 sqft,5082
+https://www.zillow.com/homedetails/816-NW-11th-St-APT-505-Miami-FL-33136/64445186_zpid/,64445186,,CONDO,"$285,000",816 NW 11th St APT 505,Miami,FL,33136,2,2,882, ,2555
+https://www.zillow.com/homedetails/6619-SW-116th-Pl-G7-Miami-FL-33173/44214187_zpid/,44214187,,TOWNHOUSE,"$350,000",6619 SW 116th Pl #G7,Miami,FL,33173,2,2,1330, ,2716
+https://www.zillow.com/homedetails/3025-Mary-St-APT-12-Miami-FL-33133/43861855_zpid/,43861855,,TOWNHOUSE,"$400,000",3025 Mary St APT 12,Miami,FL,33133,1,2,700, ,
+https://www.zillow.com/homedetails/11020-SW-55th-St-Miami-FL-33165/44200580_zpid/,44200580,,SINGLE FAMILY,"$799,000",11020 SW 55th St,Miami,FL,33165,5,4,1891,7500 sqft,4764
+https://www.zillow.com/homedetails/1750-N-Bayshore-Dr-APT-2202-Miami-FL-33132/82411846_zpid/,82411846,,CONDO,"$490,000",1750 N Bayshore Dr APT 2202,Miami,FL,33132,2,2,1048, ,3859
+https://www.zillow.com/homedetails/5651-SW-139th-Pl-Miami-FL-33183/44257866_zpid/,44257866,,TOWNHOUSE,"$435,000",5651 SW 139th Pl,Miami,FL,33183,2,1,896, ,2396
+https://www.zillow.com/homedetails/8693-SW-137th-Ave-8693-Miami-FL-33183/44270214_zpid/,44270214,,TOWNHOUSE,"$440,000",8693 SW 137th Ave #8693,Miami,FL,33183,3,3,1582, ,
+https://www.zillow.com/homedetails/5781-SW-25th-St-Miami-FL-33155/44188263_zpid/,44188263,,SINGLE FAMILY,"$975,000",5781 SW 25th St,Miami,FL,33155,3,2,1468,7000 sqft,4628
+https://www.zillow.com/homedetails/6403-SW-162nd-Path-Miami-FL-33193/60797434_zpid/,60797434,,SINGLE FAMILY,"$1,370,000",6403 SW 162nd Path,Miami,FL,33193,5,6,3371,6866 sqft,6802
+https://www.zillow.com/homedetails/17855-SW-105th-Ave-Miami-FL-33157/44302365_zpid/,44302365,,SINGLE FAMILY,"$549,900",17855 SW 105th Ave,Miami,FL,33157,4,2,1152,0.28992194674012856 acres,
+https://www.zillow.com/homedetails/4314-SW-97th-Ct-Miami-FL-33165/44202594_zpid/,44202594,,SINGLE FAMILY,"$849,000",4314 SW 97th Ct,Miami,FL,33165,5,2,1801,8025 sqft,
+https://www.zillow.com/homedetails/5701-SW-50th-Ter-Miami-FL-33155/44208255_zpid/,44208255,,SINGLE FAMILY,"$1,099,000",5701 SW 50th Ter,Miami,FL,33155,4,3,2174,10000 sqft,7234
+https://www.zillow.com/homedetails/5410-SW-2nd-St-Miami-FL-33134/43845022_zpid/,43845022,,SINGLE FAMILY,"$800,000",5410 SW 2nd St,Miami,FL,33134,4,2,1729,7910 sqft,
+https://www.zillow.com/homedetails/3806-SW-84th-Ave-17-Miami-FL-33155/44192705_zpid/,44192705,,TOWNHOUSE,"$425,000",3806 SW 84th Ave #17,Miami,FL,33155,3,3,1347, ,3342
+https://www.zillow.com/homedetails/14945-SW-49th-Ln-6G-Miami-FL-33185/44244688_zpid/,44244688,,TOWNHOUSE,"$325,000",14945 SW 49th Ln #6G,Miami,FL,33185,2,1,710, ,
+https://www.zillow.com/homedetails/1239-NW-31st-St-Miami-FL-33142/43816781_zpid/,43816781,,SINGLE FAMILY,"$380,000",1239 NW 31st St,Miami,FL,33142,2,1,864,6125 sqft,2236
+https://www.zillow.com/homedetails/7855-SW-28th-St-Miami-FL-33155/44191305_zpid/,44191305,,SINGLE FAMILY,"$860,000",7855 SW 28th St,Miami,FL,33155,4,2,1504,0.2768595041322314 acres,
+https://www.zillow.com/homedetails/6728-SW-140th-Ct-Miami-FL-33183/44256583_zpid/,44256583,,TOWNHOUSE,"$520,000",6728 SW 140th Ct,Miami,FL,33183,3,3,1592, ,3195
+https://www.zillow.com/homedetails/2801-SW-107th-Ave-Miami-FL-33165/44195699_zpid/,44195699,,SINGLE FAMILY,"$749,000",2801 SW 107th Ave,Miami,FL,33165,3,2,1374,7984 sqft,
+https://www.zillow.com/homedetails/851-NE-1st-Ave-UNIT-2204-Miami-FL-33132/337200884_zpid/,337200884,,CONDO,"$649,000",851 NE 1st Ave UNIT 2204,Miami,FL,33132,2,2,1185, ,5604
+https://www.zillow.com/homedetails/12833-SW-229th-Ter-Miami-FL-33170/338741331_zpid/,338741331,,SINGLE FAMILY,"$794,998",12833 SW 229th Ter,Miami,FL,33170,5,4,3191,8677 sqft,
+https://www.zillow.com/homedetails/14233-SW-76th-St-Miami-FL-33183/44270099_zpid/,44270099,,SINGLE FAMILY,"$1,099,900",14233 SW 76th St,Miami,FL,33183,4,3,1900,0.2657254361799816 acres,4058
+https://www.zillow.com/homedetails/20956-SW-123rd-Ave-Miami-FL-33177/44363284_zpid/,44363284,,SINGLE FAMILY,"$599,000",20956 SW 123rd Ave,Miami,FL,33177,3,2,1411,5232 sqft,3272
+https://www.zillow.com/homedetails/15314-SW-102nd-Ct-Miami-FL-33157/44298027_zpid/,44298027,,SINGLE FAMILY,"$574,000",15314 SW 102nd Ct,Miami,FL,33157,3,2,1380,7700 sqft,3416
+https://www.zillow.com/homedetails/790-NW-55th-Ter-Miami-FL-33127/43809440_zpid/,43809440,,SINGLE FAMILY,"$375,000",790 NW 55th Ter,Miami,FL,33127,2,1,1515,6800 sqft,2563
+https://www.zillow.com/homedetails/13325-SW-32nd-St-Miami-FL-33175/44240099_zpid/,44240099,,SINGLE FAMILY,"$1,082,000",13325 SW 32nd St,Miami,FL,33175,4,2,2088,0.6349862258953168 acres,4783
+https://www.zillow.com/homedetails/11030-SW-42nd-St-Miami-FL-33165/44199686_zpid/,44199686,,SINGLE FAMILY,"$699,000",11030 SW 42nd St,Miami,FL,33165,3,3,1556,7500 sqft,3705
+https://www.zillow.com/homedetails/10415-SW-87th-Ave-Miami-FL-33176/44284161_zpid/,44284161,,SINGLE FAMILY,"$910,000",10415 SW 87th Ave,Miami,FL,33176,3,2,2112,0.32231404958677684 acres,
+https://www.zillow.com/homedetails/2665-SW-17th-Ave-Miami-FL-33133/43853927_zpid/,43853927,,SINGLE FAMILY,"$1,579,000",2665 SW 17th Ave,Miami,FL,33133,2,2,1281,6600 sqft,
+https://www.zillow.com/homedetails/9031-SW-66th-Ter-Miami-FL-33173/44210532_zpid/,44210532,,SINGLE FAMILY,"$1,295,000",9031 SW 66th Ter,Miami,FL,33173,4,3,2250,8925 sqft,
+https://www.zillow.com/homedetails/9720-SW-104th-Ct-Miami-FL-33176/44277146_zpid/,44277146,,SINGLE FAMILY,"$979,000",9720 SW 104th Ct,Miami,FL,33176,3,2,1701,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/253-NE-2nd-St-APT-3208-Miami-FL-33132/92436176_zpid/,92436176,,CONDO,"$600,000",253 NE 2nd Street #3208,Miami,FL,33132,2,2,1203, ,
+https://www.zillow.com/homedetails/3429-SW-23rd-Ter-Miami-FL-33145/43857551_zpid/,43857551,,MULTI FAMILY,"$855,000",3429 SW 23rd Ter,Miami,FL,33145,5,4,1205, ,
+https://www.zillow.com/homedetails/9821-SW-157th-Ter-Miami-FL-33157/44297195_zpid/,44297195,,SINGLE FAMILY,"$750,000",9821 SW 157th Ter,Miami,FL,33157,4,2,1790,0.255050505050505 acres,4288
+https://www.zillow.com/homedetails/9720-SW-140th-St-Miami-FL-33176/44290369_zpid/,44290369,,SINGLE FAMILY,"$1,395,000",9720 SW 140th St,Miami,FL,33176,5,3,2172,0.3410927456382002 acres,
+https://www.zillow.com/homedetails/10801-SW-123rd-St-Miami-FL-33176/44286730_zpid/,44286730,,SINGLE FAMILY,"$1,277,777",10801 SW 123rd St,Miami,FL,33176,4,3,1352,0.34545454545454546 acres,4543
+https://www.zillow.com/homedetails/601-NE-36th-St-APT-1504-Miami-FL-33137/70773817_zpid/,70773817,,CONDO,"$600,000",601 NE 36th St APT 1504,Miami,FL,33137,2,3,1158, ,4211
+https://www.zillow.com/homedetails/9360-SW-16th-St-Miami-FL-33165/44180959_zpid/,44180959,,SINGLE FAMILY,"$799,900",9360 SW 16th St,Miami,FL,33165,3,2,1886,7500 sqft,3747
+https://www.zillow.com/homedetails/200-SE-15th-Rd-APT-9I-Miami-FL-33129/43869670_zpid/,43869670,,CONDO,"$680,000",200 SE 15th Rd APT 9I,Miami,FL,33129,2,2,1028, ,3943
+https://www.zillow.com/homedetails/7430-SW-153rd-Pl-APT-106-1-Miami-FL-33193/44267079_zpid/,44267079,,CONDO,"$329,000",7430 SW 153rd Pl APT 106-1,Miami,FL,33193,2,2,847, ,
+https://www.zillow.com/homedetails/9370-SW-61st-St-Miami-FL-33173/44210365_zpid/,44210365,,SINGLE FAMILY,"$790,000",9370 SW 61st St,Miami,FL,33173,4,2,1704,7875 sqft,4520
+https://www.zillow.com/homedetails/6051-SW-110th-Ave-Miami-FL-33173/44212635_zpid/,44212635,,SINGLE FAMILY,"$825,000",6051 SW 110th Ave,Miami,FL,33173,4,3,2061,0.25252525252525254 acres,
+https://www.zillow.com/homedetails/9230-SW-100th-Avenue-Rd-Miami-FL-33176/448088201_zpid/,448088201,,SINGLE FAMILY,"$695,000",9230 SW 100th Avenue Rd,Miami,FL,33176,4,3,, ,
+https://www.zillow.com/homedetails/600-NE-27th-St-APT-1102-Miami-FL-33137/162032696_zpid/,162032696,,CONDO,"$875,000",600 NE 27th St APT 1102,Miami,FL,33137,3,3,1435, ,
+https://www.zillow.com/homedetails/8415-SW-107th-Ave-APT-130W-Miami-FL-33173/44218913_zpid/,44218913,,CONDO,"$315,000",8415 SW 107th Ave APT 130W,Miami,FL,33173,2,2,985, ,
+https://www.zillow.com/homedetails/4840-SW-149th-Ct-16H-Miami-FL-33185/44244728_zpid/,44244728,,TOWNHOUSE,"$379,500",4840 SW 149th Ct #16H,Miami,FL,33185,2,2,885, ,
+https://www.zillow.com/homedetails/1800-SW-3rd-St-APT-D-Miami-FL-33135/43838861_zpid/,43838861,,SINGLE FAMILY,"$359,000",1800 SW 3rd St APT D,Miami,FL,33135,2,2,802,2040 sqft,2753
+https://www.zillow.com/homedetails/7344-SW-82nd-St-APT-C113-Miami-FL-33143/64761163_zpid/,64761163,,TOWNHOUSE,"$279,900",7344 SW 82nd St APT C113,Miami,FL,33143,2,2,1000, ,
+https://www.zillow.com/homedetails/920-SW-8th-Ct-Miami-FL-33130/43865821_zpid/,43865821,,SINGLE FAMILY,"$699,900",920 SW 8th Ct,Miami,FL,33130,6,2,1688,4850 sqft,
+https://www.zillow.com/homedetails/1895-SW-25th-St-Miami-FL-33133/43856753_zpid/,43856753,,SINGLE FAMILY,"$1,299,000",1895 SW 25th St,Miami,FL,33133,3,3,1854,8195 sqft,
+https://www.zillow.com/homedetails/2946-SW-26th-St-Miami-FL-33133/43858131_zpid/,43858131,,MULTI FAMILY,"$1,050,000",2946 SW 26th St,Miami,FL,33133,5,6,2174, ,5154
+https://www.zillow.com/homedetails/7835-SW-17th-St-Miami-FL-33155/44183155_zpid/,44183155,,SINGLE FAMILY,"$690,000",7835 SW 17th St,Miami,FL,33155,4,3,1980,8790 sqft,
+https://www.zillow.com/homedetails/12440-SW-107th-Ave-Miami-FL-33176/44286866_zpid/,44286866,,SINGLE FAMILY,"$875,000",12440 SW 107th Ave,Miami,FL,33176,3,2,1528,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/9401-SW-78th-St-Miami-FL-33173/44220577_zpid/,44220577,,SINGLE FAMILY,"$725,000",9401 SW 78th St,Miami,FL,33173,3,2,1938,8755 sqft,
+https://www.zillow.com/homedetails/22980-SW-130th-Ave-Miami-FL-33170/338743249_zpid/,338743249,,SINGLE FAMILY,"$775,000",22980 SW 130th Ave,Miami,FL,33170,5,4,3094,5782 sqft,
+https://www.zillow.com/homedetails/2708-NW-22nd-Ct-Miami-FL-33142/43818225_zpid/,43818225,,SINGLE FAMILY,"$670,000",2708 NW 22nd Ct,Miami,FL,33142,5,3,1917,5400 sqft,
+https://www.zillow.com/homedetails/696-NE-67th-St-Miami-FL-33138/43828806_zpid/,43828806,,SINGLE FAMILY,"$1,195,000",696 NE 67th St,Miami,FL,33138,3,3,1736,5400 sqft,6421
+https://www.zillow.com/homedetails/11510-SW-141st-St-Miami-FL-33176/2063143119_zpid/,2063143119,,SINGLE FAMILY,"$860,000",11510 SW 141st St,Miami,FL,33176,4,3,2100,8400 sqft,
+https://www.zillow.com/homedetails/1010-SW-2nd-Ave-LPH04-Miami-FL-33130/2069302734_zpid/,2069302734,,CONDO,"$800,000",1010 SW 2nd Ave #LPH04,Miami,FL,33130,3,4,1634, ,7986
+https://www.zillow.com/homedetails/9745-SW-126th-Ter-Miami-FL-33176/44286146_zpid/,44286146,,SINGLE FAMILY,"$1,280,000",9745 SW 126th Ter,Miami,FL,33176,4,3,2043,0.3443526170798898 acres,
+https://www.zillow.com/homedetails/11755-SW-18th-St-APT-107-Miami-FL-33175/44235251_zpid/,44235251,,CONDO,"$338,000",11755 SW 18th St APT 107,Miami,FL,33175,3,2,1362, ,2589
+https://www.zillow.com/homedetails/7525-SW-153rd-Pl-20311-Miami-FL-33193/44267268_zpid/,44267268,,CONDO,"$338,000",7525 SW 153rd Pl #20311,Miami,FL,33193,2,2,917, ,2255
+https://www.zillow.com/homedetails/4202-SW-98th-Ave-Miami-FL-33165/44203166_zpid/,44203166,,SINGLE FAMILY,"$934,900",4202 SW 98th Ave,Miami,FL,33165,4,3,2182,8159 sqft,
+https://www.zillow.com/homedetails/7415-SW-98th-Ct-Miami-FL-33173/44217052_zpid/,44217052,,SINGLE FAMILY,"$699,000",7415 SW 98th Ct,Miami,FL,33173,3,2,1300,10183 sqft,4093
+https://www.zillow.com/homedetails/15391-SW-155th-Ter-Miami-FL-33187/455163188_zpid/,455163188,,SINGLE FAMILY,"$869,000",15391 SW 155th Ter,Miami,FL,33187,4,3,2918,0.3305785123966942 acres,
+https://www.zillow.com/homedetails/15133-SW-62nd-St-Miami-FL-33193/44261290_zpid/,44261290,,SINGLE FAMILY,"$750,000",15133 SW 62nd St,Miami,FL,33193,4,3,2412, ,
+https://www.zillow.com/homedetails/9751-SW-35th-St-Miami-FL-33165/71743503_zpid/,71743503,,SINGLE FAMILY,"$1,250,000",9751 SW 35th St,Miami,FL,33165,4,3,3044,8092 sqft,
+https://www.zillow.com/homedetails/1045-NW-32nd-St-Miami-FL-33127/43816360_zpid/,43816360,,MULTI FAMILY,"$650,000",1045 NW 32nd St,Miami,FL,33127,4,2,1784, ,
+https://www.zillow.com/homedetails/10360-SW-22nd-St-Miami-FL-33165/44180345_zpid/,44180345,,SINGLE FAMILY,"$630,000",10360 SW 22nd St,Miami,FL,33165,3,2,1634,3701 sqft,
+https://www.zillow.com/homedetails/19980-SW-207th-Ave-Miami-FL-33187/44357584_zpid/,44357584,,SINGLE FAMILY,"$845,000",19980 SW 207th Ave,Miami,FL,33187,2,2,1780,2 acres,3202
+https://www.zillow.com/homedetails/5976-SW-88th-Pl-Miami-FL-33173/44211258_zpid/,44211258,,SINGLE FAMILY,"$1,270,000",5976 SW 88th Pl,Miami,FL,33173,4,3,2114,7700 sqft,4507
+https://www.zillow.com/homedetails/2692-SW-31st-Ave-Miami-FL-33133/448382504_zpid/,448382504,,SINGLE FAMILY,"$849,900",2692 SW 31st Ave,Miami,FL,33133,3,3,1440,2263 sqft,
+https://www.zillow.com/homedetails/8365-SW-152nd-Ave-C-201-Miami-FL-33193/64901952_zpid/,64901952,,CONDO,"$234,900",8365 SW 152nd Ave #C-201,Miami,FL,33193,2,1,828, ,
+https://www.zillow.com/homedetails/13305-SW-22nd-Ter-Miami-FL-33175/44233430_zpid/,44233430,,SINGLE FAMILY,"$849,000",13305 SW 22nd Ter,Miami,FL,33175,3,2,1767,8494 sqft,3935
+https://www.zillow.com/homedetails/7311-SW-139th-Ave-Miami-FL-33183/44269433_zpid/,44269433,,SINGLE FAMILY,"$795,900",7311 SW 139th Avenue,Miami,FL,33183,4,2,2242,9484 sqft,1883
+https://www.zillow.com/homedetails/9300-SW-52nd-Ter-Miami-FL-33165/44204624_zpid/,44204624,,SINGLE FAMILY,"$675,000",9300 SW 52nd Ter,Miami,FL,33165,4,2,1434,7900 sqft,
+https://www.zillow.com/homedetails/1968-NW-4th-Ct-323-Miami-FL-33136/63614326_zpid/,63614326,,TOWNHOUSE,"$217,000",1968 NW 4th Ct #323,Miami,FL,33136,2,1,782, ,
+https://www.zillow.com/homedetails/1150-NW-135th-Ct-Miami-FL-33182/44166833_zpid/,44166833,,SINGLE FAMILY,"$850,000",1150 NW 135th Ct,Miami,FL,33182,4,4,1933,5606 sqft,4707
+https://www.zillow.com/homedetails/1300-S-Miami-Ave-UNIT-3405-Miami-FL-33130/450785605_zpid/,450785605,,CONDO,"$990,000",1300 S Miami Ave UNIT 3405,Miami,FL,33130,3,3,1281, ,
+https://www.zillow.com/homedetails/2309-SW-62nd-Ct-Miami-FL-33155/44186694_zpid/,44186694,,SINGLE FAMILY,"$799,000",2309 SW 62nd Ct,Miami,FL,33155,4,2,1528,5680 sqft,4595
+https://www.zillow.com/homedetails/3145-Day-Ave-1-Miami-FL-33133/72561965_zpid/,72561965,,CONDO,"$775,000",3145 Day Ave #1,Miami,FL,33133,2,2,1084, ,4952
+https://www.zillow.com/homedetails/8485-SW-156th-Pl-APT-106-Miami-FL-33193/44265316_zpid/,44265316,,TOWNHOUSE,"$334,900",8485 SW 156th Pl APT 106,Miami,FL,33193,3,3,1484, ,2868
+https://www.zillow.com/homedetails/7680-SW-153rd-Ct-APT-208-Miami-FL-33193/44268453_zpid/,44268453,,CONDO,"$357,500",7680 SW 153rd Ct APT 208,Miami,FL,33193,2,2,820, ,
+https://www.zillow.com/homedetails/6209-SW-78th-St-2E-South-Miami-FL-33143/44000303_zpid/,44000303,,TOWNHOUSE,"$699,000",6209 SW 78th St #2E,South Miami,FL,33143,3,3,1632, ,4744
+https://www.zillow.com/homedetails/31-SE-6th-St-APT-805-Miami-FL-33131/123869575_zpid/,123869575,,CONDO,"$340,000",31 SE 6th St APT 805,Miami,FL,33131,0,1,545, ,2770
+https://www.zillow.com/homedetails/3731-SW-88th-Pl-Miami-FL-33165/44193840_zpid/,44193840,,SINGLE FAMILY,"$665,000",3731 SW 88th Pl,Miami,FL,33165,3,2,1344,5350 sqft,
+https://www.zillow.com/homedetails/1785-SW-10th-St-Miami-FL-33135/43852381_zpid/,43852381,,MULTI FAMILY,"$949,000",1785 SW 10th St,Miami,FL,33135,4,3,2026, ,
+https://www.zillow.com/homedetails/770-NE-69th-St-APT-4H-Miami-FL-33138/43829316_zpid/,43829316,,CONDO,"$399,000",770 NE 69th St APT 4H,Miami,FL,33138,1,2,1042, ,
+https://www.zillow.com/homedetails/2980-SW-30th-Ct-2980-Miami-FL-33133/70774617_zpid/,70774617,,TOWNHOUSE,"$775,000",2980 SW 30th Ct #2980,Miami,FL,33133,2,2,1080, ,3786
+https://www.zillow.com/homedetails/876-SW-2nd-St-Miami-FL-33130/43865087_zpid/,43865087,,MULTI FAMILY,"$890,000",876 SW 2nd St,Miami,FL,33130,5,3,1686, ,
+https://www.zillow.com/homedetails/3452-Margaret-St-Miami-FL-33133/43861321_zpid/,43861321,,SINGLE FAMILY,"$925,000",3452 Margaret St,Miami,FL,33133,3,3,1056,4725 sqft,
+https://www.zillow.com/homedetails/8196-SW-163rd-Ct-Miami-FL-33193/44263384_zpid/,44263384,,SINGLE FAMILY,"$648,998",8196 SW 163rd Ct,Miami,FL,33193,3,3,1839,4500 sqft,3341
+https://www.zillow.com/homedetails/9215-SW-44th-St-Miami-FL-33165/44203772_zpid/,44203772,,SINGLE FAMILY,"$690,000",9215 SW 44th St,Miami,FL,33165,3,3,1433,7500 sqft,
+https://www.zillow.com/homedetails/10520-SW-160th-St-Miami-FL-33157/44297014_zpid/,44297014,,SINGLE FAMILY,"$629,900",10520 SW 160th St,Miami,FL,33157,4,3,1684,8100 sqft,
+https://www.zillow.com/homedetails/1170-NW-65th-St-Miami-FL-33150/43809208_zpid/,43809208,,SINGLE FAMILY,"$350,000",1170 NW 65th St,Miami,FL,33150,3,1,1098,4240 sqft,2567
+https://www.zillow.com/homedetails/6914-SW-114th-Pl-B57-Miami-FL-33173/44214668_zpid/,44214668,,TOWNHOUSE,"$375,000",6914 SW 114th Pl #B57,Miami,FL,33173,2,3,1340, ,2858
+https://www.zillow.com/homedetails/8420-SW-133rd-Ave-Rd-APT-416-Miami-FL-33183/2084605293_zpid/,2084605293,,CONDO,"$250,000",8420 SW 133rd Ave Rd APT 416,Miami,FL,33183,2,2,965, ,2232
+https://www.zillow.com/homedetails/19120-SW-127th-Pl-Miami-FL-33177/156389235_zpid/,156389235,,SINGLE FAMILY,"$1,080,000",19120 SW 127th Pl,Miami,FL,33177,4,4,2381,0.3445133149678604 acres,4870
+https://www.zillow.com/homedetails/508-NW-11th-St-Miami-FL-33136/43826738_zpid/,43826738,,TOWNHOUSE,"$399,700",508 NW 11th St,Miami,FL,33136,3,2,1344, ,3013
+https://www.zillow.com/homedetails/801-S-Miami-Ave-UNIT-4204-Miami-FL-33130/306398965_zpid/,306398965,,CONDO,"$1,149,000",801 S Miami Ave UNIT 4204,Miami,FL,33130,3,3,1334, ,7266
+https://www.zillow.com/homedetails/10375-SW-111th-St-Miami-FL-33176/44282354_zpid/,44282354,,SINGLE FAMILY,"$1,375,000",10375 SW 111th St,Miami,FL,33176,5,4,3180,0.36577134986225895 acres,7821
+https://www.zillow.com/homedetails/12861-SW-229th-Ter-Miami-FL-33170/337201301_zpid/,337201301,,SINGLE FAMILY,"$800,000",12861 SW 229th Ter,Miami,FL,33170,5,3,3170, ,4713
+https://www.zillow.com/homedetails/8015-SW-107th-Ave-APT-119-Miami-FL-33173/44219664_zpid/,44219664,,CONDO,"$285,000",8015 SW 107th Ave APT 119,Miami,FL,33173,4,2,1040, ,
+https://www.zillow.com/homedetails/918-SW-7th-Ave-3-2-Miami-FL-33130/43866043_zpid/,43866043,,TOWNHOUSE,"$307,000",918 SW 7th Ave #3-2,Miami,FL,33130,2,2,814, ,
+https://www.zillow.com/homedetails/15863-SW-55th-Ter-Miami-FL-33185/58454505_zpid/,58454505,,SINGLE FAMILY,"$974,990",15863 SW 55th Ter,Miami,FL,33185,4,3,2510,5374 sqft,
+https://www.zillow.com/homedetails/1800-SW-3rd-St-APT-B-Miami-FL-33135/43838862_zpid/,43838862,,SINGLE FAMILY,"$359,000",1800 SW 3rd St APT B,Miami,FL,33135,2,1,530,1920 sqft,1932
+https://www.zillow.com/homedetails/3360-3362-SW-22nd-Ter-Miami-FL-33145/452773807_zpid/,452773807,,MULTI FAMILY,"$955,000",3360-3362 SW 22nd Ter,Miami,FL,33145,5,3,2863, ,
+https://www.zillow.com/homedetails/8415-SW-107th-Ave-APT-363W-Miami-FL-33173/44219102_zpid/,44219102,,CONDO,"$333,000",8415 SW 107th Ave APT 363W,Miami,FL,33173,3,2,1300, ,
+https://www.zillow.com/homedetails/11780-SW-18th-St-APT-321-2-Miami-FL-33175/44235665_zpid/,44235665,,CONDO,"$185,500",11780 SW 18th St APT 321-2,Miami,FL,33175,1,1,708, ,1959
+https://www.zillow.com/homedetails/7925-SW-104th-St-APT-203-E-Coral-Gables-FL-33156/64442558_zpid/,64442558,,CONDO,"$319,000",7925 SW 104th St #203E,Coral Gables,FL,33156,2,1,1020, ,2429
+https://www.zillow.com/homedetails/7100-SW-56th-St-Miami-FL-33143/44209153_zpid/,44209153,,SINGLE FAMILY,"$1,570,000",7100 SW 56th St,Miami,FL,33143,5,4,3645,0.375 acres,
+https://www.zillow.com/homedetails/9925-SW-82nd-Ave-Miami-FL-33156/44274886_zpid/,44274886,,SINGLE FAMILY,"$1,299,000",9925 SW 82nd Ave,Miami,FL,33156,3,2,2247,0.3306703397612489 acres,5510
+https://www.zillow.com/homedetails/1852-SW-7th-St-APT-109-Miami-FL-33135/43840197_zpid/,43840197,,CONDO,"$237,000",1852 SW 7th St APT 109,Miami,FL,33135,2,1,640, ,2194
+https://www.zillow.com/homedetails/9240-SW-57th-Ter-Miami-FL-33173/44210238_zpid/,44210238,,SINGLE FAMILY,"$950,000",9240 SW 57th Ter,Miami,FL,33173,4,4,1541,8160 sqft,5500
+https://www.zillow.com/homedetails/9033-SW-78th-Pl-Miami-FL-33156/44275316_zpid/,44275316,,SINGLE FAMILY,"$898,000",9033 SW 78th Pl,Miami,FL,33156,3,3,2320,2800 sqft,
+https://www.zillow.com/homedetails/6102-SW-159th-Ct-Miami-FL-33193/66174513_zpid/,66174513,,SINGLE FAMILY,"$1,050,000",6102 SW 159th Ct,Miami,FL,33193,4,3,2351,8366 sqft,
+https://www.zillow.com/homedetails/15040-SW-156th-Ave-Miami-FL-33196/44328668_zpid/,44328668,,SINGLE FAMILY,"$897,500",15040 SW 156th Ave,Miami,FL,33196,5,3,2774,10000 sqft,5105
+https://www.zillow.com/homedetails/3156-3158-SW-27th-St-Miami-FL-33133/2068089740_zpid/,2068089740,,MULTI FAMILY,"$885,000",3156-3158 SW 27th St,Miami,FL,33133,5,3,1929, ,
+https://www.zillow.com/homedetails/2025-NW-6th-Pl-Miami-FL-33127/43815915_zpid/,43815915,,SINGLE FAMILY,"$319,000",2025 NW 6th Pl,Miami,FL,33127,2,1,956,2250 sqft,
+https://www.zillow.com/homedetails/1800-SW-13th-St-Miami-FL-33145/2089306568_zpid/,2089306568,,SINGLE FAMILY,"$1,450,000",1800 SW 13th St,Miami,FL,33145,7,5,4879,0.27901744719926536 acres,
+https://www.zillow.com/homedetails/7759-SW-99th-St-Miami-FL-33156/306393390_zpid/,306393390,,SINGLE FAMILY,"$1,350,000",7759 SW 99th St,Miami,FL,33156,5,4,2837,4300 sqft,6917
+https://www.zillow.com/homedetails/7765-SW-54th-Ct-UNIT-7765-Miami-FL-33143/2071327063_zpid/,2071327063,,TOWNHOUSE,"$1,495,000",7765 SW 54th Ct UNIT 7765,Miami,FL,33143,3,3,2046, ,5087
+https://www.zillow.com/homedetails/8930-SW-50th-Ter-Miami-FL-33165/44204068_zpid/,44204068,,SINGLE FAMILY,"$865,000",8930 SW 50th Ter,Miami,FL,33165,4,3,1732,7500 sqft,5497
+https://www.zillow.com/homedetails/2920-SW-28th-Ter-APT-407-Miami-FL-33133/64902766_zpid/,64902766,,CONDO,"$395,000",2920 SW 28th Ter APT 407,Miami,FL,33133,2,1,702, ,
+https://www.zillow.com/homedetails/7823-Miller-Dr-APT-C208-Miami-FL-33155/347561982_zpid/,347561982,,CONDO,"$219,900",7823 Miller Dr APT C208,Miami,FL,33155,2,1,840, ,
+https://www.zillow.com/homedetails/3121-SW-85th-Ave-Miami-FL-33155/44192181_zpid/,44192181,,SINGLE FAMILY,"$862,999",3121 SW 85th Ave,Miami,FL,33155,5,3,2435,9350 sqft,
+https://www.zillow.com/homedetails/539-NE-82nd-Ter-Miami-FL-33138/2070064481_zpid/,2070064481,,MULTI FAMILY,"$1,100,000",539 NE 82nd Ter,Miami,FL,33138,8,5,3964, ,3919
+https://www.zillow.com/homedetails/350-NE-24th-St-APT-714-Miami-FL-33137/83160394_zpid/,83160394,,CONDO,"$340,000",350 NE 24th St APT 714,Miami,FL,33137,1,1,679, ,
+https://www.zillow.com/homedetails/13953-Kendale-Lakes-Cir-103B-Miami-FL-33183/44257426_zpid/,44257426,,CONDO,"$299,999",13953 Kendale Lakes Cir #103B,Miami,FL,33183,2,2,1248, ,
+https://www.zillow.com/homedetails/11193-SW-113th-Ter-Miami-FL-33176/250760914_zpid/,250760914,,SINGLE FAMILY,"$900,000",11193 SW 113th Ter,Miami,FL,33176,4,2,, ,
+https://www.zillow.com/homedetails/10806-N-Kendall-Dr-APT-P26-Miami-FL-33176/44278190_zpid/,44278190,,TOWNHOUSE,"$295,900",10806 N Kendall Dr APT P26,Miami,FL,33176,2,2,1205, ,
+https://www.zillow.com/homedetails/8821-SW-87th-St-Miami-FL-33173/44220026_zpid/,44220026,,SINGLE FAMILY,"$1,180,000",8821 SW 87th St,Miami,FL,33173,4,2,2182,10000 sqft,
+https://www.zillow.com/homedetails/3165-Jackson-St-3-Miami-FL-33133/43862227_zpid/,43862227,,TOWNHOUSE,"$1,200,000",3165 Jackson St #3,Miami,FL,33133,3,2,1560, ,
+https://www.zillow.com/homedetails/1063-NW-55th-Ter-Miami-FL-33127/43809501_zpid/,43809501,,SINGLE FAMILY,"$299,000",1063 NW 55th Ter,Miami,FL,33127,2,1,576,6300 sqft,2140
+https://www.zillow.com/homedetails/1539-SW-103rd-Ave-Miami-FL-33174/44180065_zpid/,44180065,,SINGLE FAMILY,"$854,900",1539 SW 103rd Ave,Miami,FL,33174,4,3,2270,7376 sqft,4571
+https://www.zillow.com/homedetails/9601-SW-66th-St-Miami-FL-33173/44210914_zpid/,44210914,,SINGLE FAMILY,"$1,150,000",9601 SW 66th St,Miami,FL,33173,5,4,2539,10200 sqft,
+https://www.zillow.com/homedetails/8331-SW-157th-Ave-APT-405-Miami-FL-33193/44267018_zpid/,44267018,,CONDO,"$219,000",8331 SW 157th Ave APT 405,Miami,FL,33193,1,1,860, ,
+https://www.zillow.com/homedetails/2501-SW-27th-St-2-Miami-FL-33133/2054619492_zpid/,2054619492,,TOWNHOUSE,"$1,397,000",2501 SW 27th St #2,Miami,FL,33133,3,3,2306, ,
+https://www.zillow.com/homedetails/94-NE-56th-St-Miami-FL-33137/43807760_zpid/,43807760,,LOT,"$199,999",94 NE 56th St,Miami,FL,33137,,,,2744.28 sqft,
+https://www.zillow.com/homedetails/1678-SW-11th-St-Miami-FL-33135/2129715761_zpid/,2129715761,,MULTI FAMILY,"$1,195,000",1678 SW 11th St,Miami,FL,33135,9,7,4900, ,
+https://www.zillow.com/homedetails/861-NE-82nd-St-Miami-FL-33138/43827087_zpid/,43827087,,SINGLE FAMILY,"$1,550,000",861 NE 82nd St,Miami,FL,33138,4,3,2356,8525 sqft,
+https://www.zillow.com/homedetails/17360-SW-232nd-St-50-Miami-FL-33170/440731583_zpid/,440731583,,MANUFACTURED,"$125,000",17360 SW 232nd St #50,Miami,FL,33170,3,2,1120, ,
+https://www.zillow.com/homedetails/2705-SW-108th-Ct-Miami-FL-33165/44197343_zpid/,44197343,,SINGLE FAMILY,"$1,100,000",2705 SW 108th Ct,Miami,FL,33165,5,5,3692,7650 sqft,
+https://www.zillow.com/homedetails/3421-SW-4th-St-Miami-FL-33135/43841067_zpid/,43841067,,MULTI FAMILY,"$908,000",3421 SW 4th St,Miami,FL,33135,5,3,2390, ,3506
+https://www.zillow.com/homedetails/7530-SW-82nd-St-APT-G203-Miami-FL-33143/66177141_zpid/,66177141,,CONDO,"$195,000",7530 SW 82nd St APT G203,Miami,FL,33143,1,1,700, ,
+https://www.zillow.com/homedetails/10861-SW-126th-St-Miami-FL-33176/44286919_zpid/,44286919,,SINGLE FAMILY,"$1,395,000",10861 SW 126th St,Miami,FL,33176,5,4,3236,0.38016528925619836 acres,
+https://www.zillow.com/homedetails/1152-SW-131st-Ct-Miami-FL-33184/2057325251_zpid/,2057325251,,SINGLE FAMILY,"$185,000",1152 SW 131st Ct,Miami,FL,33184,0,8,1400, ,2961
+https://www.zillow.com/homedetails/10733-SW-97th-Ter-Miami-FL-33176/92437008_zpid/,92437008,,SINGLE FAMILY,"$1,525,000",10733 SW 97th Ter,Miami,FL,33176,4,3,4093,0.31827364554637283 acres,8057
+https://www.zillow.com/homedetails/1901-NW-South-River-Dr-APT-16B-Miami-FL-33125/43825504_zpid/,43825504,,TOWNHOUSE,"$399,000",1901 NW South River Dr APT 16B,Miami,FL,33125,2,2,1000, ,2588
+https://www.zillow.com/homedetails/2401-SW-132nd-Ave-Miami-FL-33175/44233319_zpid/,44233319,,SINGLE FAMILY,"$835,000",2401 SW 132nd Ave,Miami,FL,33175,3,3,1947,7968 sqft,
+https://www.zillow.com/homedetails/1145-SW-20th-Ave-Miami-FL-33135/43850337_zpid/,43850337,,SINGLE FAMILY,"$1,495,000",1145 SW 20th Ave,Miami,FL,33135,5,4,2336,7100 sqft,
+https://www.zillow.com/homedetails/9881-SW-103rd-St-Miami-FL-33176/44277498_zpid/,44277498,,SINGLE FAMILY,"$1,595,000",9881 SW 103rd St,Miami,FL,33176,4,3,3561,0.407 acres,7352
+https://www.zillow.com/homedetails/13230-SW-231st-St-Goulds-FL-33170/308909039_zpid/,308909039,,SINGLE FAMILY,"$1,100,000",13230 SW 231st St,Goulds,FL,33170,5,4,2603,0.30596877869605144 acres,5490
+https://www.zillow.com/homedetails/3324-SW-20th-St-Miami-FL-33145/43847781_zpid/,43847781,,SINGLE FAMILY,"$800,000",3324 SW 20th St,Miami,FL,33145,3,2,1601,6280 sqft,4906
+https://www.zillow.com/homedetails/12421-SW-76th-St-Miami-FL-33183/44274286_zpid/,44274286,,SINGLE FAMILY,"$1,330,000",12421 SW 76th St,Miami,FL,33183,4,3,2657,0.3483241505968779 acres,6337
+https://www.zillow.com/homedetails/7997-SW-98th-Ter-Miami-FL-33156/44274705_zpid/,44274705,,SINGLE FAMILY,"$995,000",7997 SW 98th Ter,Miami,FL,33156,2,2,990,0.35376492194674014 acres,
+https://www.zillow.com/homedetails/5050-NW-7th-St-APT-709-Miami-FL-33126/43847087_zpid/,43847087,,CONDO,"$185,000",5050 NW 7th St APT 709,Miami,FL,33126,1,1,506, ,1761
+https://www.zillow.com/homedetails/545-SW-11th-St-105-Miami-FL-33129/337202920_zpid/,337202920,,CONDO,"$1,150,000",545 SW 11th St #105,Miami,FL,33129,2,3,1474, ,7761
+https://www.zillow.com/homedetails/120-NW-41st-St-Miami-FL-33127/43815142_zpid/,43815142,,SINGLE FAMILY,"$1,495,000",120 NW 41st St,Miami,FL,33127,3,4,1837,5300 sqft,
+https://www.zillow.com/homedetails/15802-SW-63rd-Ter-Miami-FL-33193/58455229_zpid/,58455229,,SINGLE FAMILY,"$875,000",15802 SW 63rd Ter,Miami,FL,33193,5,4,3748,8079 sqft,6192
+https://www.zillow.com/homedetails/11520-SW-57th-St-Miami-FL-33173/44212208_zpid/,44212208,,SINGLE FAMILY,"$899,999",11520 SW 57th St,Miami,FL,33173,5,4,2110,7500 sqft,
+https://www.zillow.com/homedetails/14540-SW-77th-St-Miami-FL-33183/44270009_zpid/,44270009,,SINGLE FAMILY,"$899,999",14540 SW 77th St,Miami,FL,33183,3,2,1984,0.303168044077135 acres,3691
+https://www.zillow.com/homedetails/2271-SW-19th-Ter-Miami-FL-33145/43850736_zpid/,43850736,,SINGLE FAMILY,"$950,000",2271 SW 19th Ter,Miami,FL,33145,4,3,1818,6551.424 sqft,5132
+https://www.zillow.com/homedetails/15261-SW-139th-St-Miami-FL-33196/44328651_zpid/,44328651,,SINGLE FAMILY,"$849,999",15261 SW 139th St,Miami,FL,33196,5,3,2546,8649 sqft,5198
+https://www.zillow.com/homedetails/8751-SW-110th-St-Miami-FL-33176/44283629_zpid/,44283629,,SINGLE FAMILY,"$1,400,000",8751 SW 110th St,Miami,FL,33176,4,3,2365,0.5036501377410468 acres,6153
+https://www.zillow.com/homedetails/8631-SW-16th-Ter-Miami-FL-33155/44183576_zpid/,44183576,,SINGLE FAMILY,"$949,900",8631 SW 16th Ter,Miami,FL,33155,4,3,2218,8650 sqft,5790
+https://www.zillow.com/homedetails/6432-SW-33rd-St-Miami-FL-33155/44187745_zpid/,44187745,,SINGLE FAMILY,"$950,000",6432 SW 33rd St,Miami,FL,33155,4,3,1622,7500 sqft,
+https://www.zillow.com/homedetails/15242-SW-147th-Ter-Miami-FL-33196/44327414_zpid/,44327414,,SINGLE FAMILY,"$849,990",15242 SW 147th Ter,Miami,FL,33196,4,3,2795,0.32036271808999084 acres,5884
+https://www.zillow.com/homedetails/19851-SW-114th-Ave-APT-302-Miami-FL-33157/44349467_zpid/,44349467,,CONDO,"$185,000",19851 SW 114th Ave APT 302,Miami,FL,33157,2,2,800, ,
+https://www.zillow.com/homedetails/3268-SW-23rd-Ter-Miami-FL-33145/43857603_zpid/,43857603,,TOWNHOUSE,"$1,099,000",3268 SW 23rd Ter,Miami,FL,33145,3,4,1968, ,
+https://www.zillow.com/homedetails/19994-SW-129th-Ct-Miami-FL-33177/80791104_zpid/,80791104,,SINGLE FAMILY,"$1,100,000",19994 SW 129th Ct,Miami,FL,33177,5,5,3645,0.34178145087235995 acres,
+https://www.zillow.com/homedetails/16063-SW-63rd-Ter-Miami-FL-33193/58455205_zpid/,58455205,,SINGLE FAMILY,"$884,000",16063 SW 63rd Ter,Miami,FL,33193,5,3,3286,6019 sqft,6029
+https://www.zillow.com/homedetails/8235-SW-42nd-St-Miami-FL-33155/44205599_zpid/,44205599,,SINGLE FAMILY,"$1,185,000",8235 SW 42nd St,Miami,FL,33155,4,3,2226,0.26859504132231404 acres,
+https://www.zillow.com/homedetails/12230-SW-102nd-Ave-Miami-FL-33176/44285716_zpid/,44285716,,SINGLE FAMILY,"$1,080,000",12230 SW 102nd Ave,Miami,FL,33176,3,2,2401,0.4077 acres,
+https://www.zillow.com/homedetails/1344-SW-18th-St-Miami-FL-33145/43853263_zpid/,43853263,,SINGLE FAMILY,"$1,580,000",1344 SW 18th St,Miami,FL,33145,4,3,2857,6540 sqft,6514
+https://www.zillow.com/homedetails/8980-SW-59th-St-Miami-FL-33173/44210174_zpid/,44210174,,SINGLE FAMILY,"$899,900",8980 SW 59th St,Miami,FL,33173,4,2,1952,7875 sqft,
+https://www.zillow.com/homedetails/10741-SW-217th-St-Miami-FL-33170/453461338_zpid/,453461338,,MULTI FAMILY,"$999,987",10741 SW 217th St,Miami,FL,33170,8,6,2670, ,
+https://www.zillow.com/homedetails/1525-NW-19th-Ter-APT-15-Miami-FL-33125/62926085_zpid/,62926085,,CONDO,"$156,899",1525 NW 19th Ter APT 15,Miami,FL,33125,1,1,496, ,
+https://www.zillow.com/homedetails/8803-SW-93rd-Ct-Miami-FL-33176/44276330_zpid/,44276330,,SINGLE FAMILY,"$1,439,900",8803 SW 93rd Ct,Miami,FL,33176,4,2,2618,9975 sqft,5428
+https://www.zillow.com/homedetails/8375-SW-89th-St-Miami-FL-33156/44275129_zpid/,44275129,,SINGLE FAMILY,"$1,599,000",8375 SW 89th St,Miami,FL,33156,4,3,2890,0.33608815426997246 acres,
+https://www.zillow.com/homedetails/2949-Shipping-Ave-2949-Miami-FL-33133/70767087_zpid/,70767087,,TOWNHOUSE,"$1,550,000",2949 Shipping Ave #2949,Miami,FL,33133,3,3,2114, ,
+https://www.zillow.com/homedetails/19715-SW-114th-Ave-APT-357-Miami-FL-33157/44349621_zpid/,44349621,,CONDO,"$169,000",19715 SW 114th Ave APT 357,Miami,FL,33157,2,2,800, ,1965
+https://www.zillow.com/homedetails/3245-SW-23rd-St-B-Miami-FL-33145/337202120_zpid/,337202120,,TOWNHOUSE,"$1,384,000",3245 SW 23rd St #B,Miami,FL,33145,4,4,2600, ,
+https://www.zillow.com/homedetails/19520-SW-206th-St-Miami-FL-33187/66173889_zpid/,66173889,,SINGLE FAMILY,"$1,595,000",19520 SW 206th St,Miami,FL,33187,5,4,3094,1.26 acres,6662
+https://www.zillow.com/homedetails/20230-SW-184th-St-Miami-FL-33187/44357522_zpid/,44357522,,SINGLE FAMILY,"$1,199,999",20230 SW 184th St,Miami,FL,33187,4,4,1980,2.026 acres,
+https://www.zillow.com/homedetails/460-NE-28th-St-APT-1708-Miami-FL-33137/121345412_zpid/,121345412,,CONDO,"$1,190,000",460 NE 28th St APT 1708,Miami,FL,33137,3,3,1395, ,
+https://www.zillow.com/homedetails/4251-SW-95th-Ave-Miami-FL-33165/44203551_zpid/,44203551,,SINGLE FAMILY,"$1,195,000",4251 SW 95th Ave,Miami,FL,33165,4,3,1685,0.33287419651056016 acres,5393
+https://www.zillow.com/homedetails/6634-SW-76th-Ter-South-Miami-FL-33143/44000163_zpid/,44000163,,SINGLE FAMILY,"$1,500,000",6634 SW 76th Ter,South Miami,FL,33143,3,3,2127,10725 sqft,
+https://www.zillow.com/homedetails/548-NE-70th-St-Miami-FL-33138/43828696_zpid/,43828696,,SINGLE FAMILY,"$1,150,000",548 NE 70th St,Miami,FL,33138,3,2,1696,5100 sqft,5208

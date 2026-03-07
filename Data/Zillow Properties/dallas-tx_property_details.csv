@@ -1,0 +1,554 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/2927-Kingston-St-Dallas-TX-75211/26733915_zpid/,26733915,,SINGLE FAMILY,"$309,900",2927 Kingston St,Dallas,TX,75211,3,2,1220,7405.2 sqft,
+https://www.zillow.com/homedetails/6643-Gretchen-Ln-Dallas-TX-75252/26653346_zpid/,26653346,,SINGLE FAMILY,"$869,900",6643 Gretchen Ln,Dallas,TX,75252,4,4,3712,8276.4 sqft,6027
+https://www.zillow.com/homedetails/8914-Diceman-Dr-Dallas-TX-75218/26739819_zpid/,26739819,,SINGLE FAMILY,"$625,000",8914 Diceman Dr,Dallas,TX,75218,3,2,1441,7710.12 sqft,
+https://www.zillow.com/homedetails/6625-Rolling-Vista-Dr-Dallas-TX-75248/26872739_zpid/,26872739,,SINGLE FAMILY,"$1,225,000",6625 Rolling Vista Dr,Dallas,TX,75248,4,4,3534,0.323 acres,5578
+https://www.zillow.com/homedetails/3105-Gladiolus-Ln-Dallas-TX-75233/26780311_zpid/,26780311,,SINGLE FAMILY,"$620,000",3105 Gladiolus Ln,Dallas,TX,75233,4,2,2330,0.35200000000000004 acres,2791
+https://www.zillow.com/homedetails/2535-Exline-St-Dallas-TX-75215/26687182_zpid/,26687182,,SINGLE FAMILY,"$399,000",2535 Exline St,Dallas,TX,75215,4,2,2000,7535.88 sqft,2747
+https://www.zillow.com/homedetails/3051-Michigan-Ave-Dallas-TX-75216/96507075_zpid/,96507075,,SINGLE FAMILY,"$370,000",3051 Michigan Ave,Dallas,TX,75216,4,2,2200,7666.56 sqft,2850
+https://www.zillow.com/homedetails/3512-Mayhew-Dr-Dallas-TX-75228/26849952_zpid/,26849952,,SINGLE FAMILY,"$249,900",3512 Mayhew Dr,Dallas,TX,75228,3,2,1440,8189.28 sqft,2150
+https://www.zillow.com/homedetails/10739-Saint-Lazare-Dr-Dallas-TX-75229/26758331_zpid/,26758331,,SINGLE FAMILY,"$1,475,000",10739 Saint Lazare Dr,Dallas,TX,75229,5,4,3686,0.387 acres,
+https://www.zillow.com/homedetails/1806-Morrell-Ave-Dallas-TX-75203/452165753_zpid/,452165753,,SINGLE FAMILY,"$288,000",1806 Morrell Ave,Dallas,TX,75203,4,2,1600,6141.96 sqft,
+https://www.zillow.com/homedetails/5303-Colonial-Ave-Dallas-TX-75215/2056602642_zpid/,2056602642,,SINGLE FAMILY,"$360,000",5303 Colonial Ave,Dallas,TX,75215,4,4,2122,7013.16 sqft,3168
+https://www.zillow.com/homedetails/10224-Woodleaf-Dr-Dallas-TX-75227/26908014_zpid/,26908014,,SINGLE FAMILY,"$170,000",10224 Woodleaf Dr,Dallas,TX,75227,3,2,1468,3876.84 sqft,
+https://www.zillow.com/homedetails/2461-Volga-Ave-Dallas-TX-75216/26767311_zpid/,26767311,,SINGLE FAMILY,"$135,000",2461 Volga Ave,Dallas,TX,75216,3,2,996,6664.68 sqft,1642
+https://www.zillow.com/homedetails/1338-E-Kiest-Blvd-Dallas-TX-75216/96524362_zpid/,96524362,,SINGLE FAMILY,"$378,000",1338 E Kiest Blvd,Dallas,TX,75216,4,3,2163,7710.12 sqft,3012
+https://www.zillow.com/homedetails/1608-Matagorda-Dr-Dallas-TX-75232/26825607_zpid/,26825607,,SINGLE FAMILY,"$859,000",1608 Matagorda Dr,Dallas,TX,75232,4,6,3887,9016.92 sqft,6707
+https://www.zillow.com/homedetails/1505-Elm-St-APT-805-Dallas-TX-75201/67964618_zpid/,67964618,,CONDO,"$175,000",1505 Elm St APT 805,Dallas,TX,75201,1,2,1324,10018.8 sqft,
+https://www.zillow.com/homedetails/4645-Country-Creek-Dr-APT-1098-Dallas-TX-75236/26862988_zpid/,26862988,,CONDO,"$140,000",4645 Country Creek Dr APT 1098,Dallas,TX,75236,3,2,1368,19.864 acres,
+https://www.zillow.com/homedetails/15111-Athena-Dr-Dallas-TX-75253/442921718_zpid/,442921718,,SINGLE FAMILY,"$379,900",15111 Athena Dr,Dallas,TX,75253,4,3,2624,10628.64 sqft,
+https://www.zillow.com/homedetails/2503-Conklin-St-Dallas-TX-75212/339377145_zpid/,339377145,,SINGLE FAMILY,"$615,000",2503 Conklin St,Dallas,TX,75212,4,3,2468,2613.6 sqft,3929
+https://www.zillow.com/homedetails/10119-Chisholm-Trl-Dallas-TX-75243/26882919_zpid/,26882919,,SINGLE FAMILY,"$400,000",10119 Chisholm Trl,Dallas,TX,75243,4,3,2189,8886.24 sqft,3794
+https://www.zillow.com/homedetails/2626-Southland-St-Dallas-TX-75215/26691188_zpid/,26691188,,SINGLE FAMILY,"$430,000",2626 Southland St,Dallas,TX,75215,4,3,2169,6777.936 sqft,3449
+https://www.zillow.com/homedetails/10369-Country-Club-Dr-Dallas-TX-75218/26850641_zpid/,26850641,,SINGLE FAMILY,"$699,000",10369 Country Club Dr,Dallas,TX,75218,3,2,2413,8232.84 sqft,3335
+https://www.zillow.com/homedetails/1614-Garden-Dr-Dallas-TX-75215/26694410_zpid/,26694410,,SINGLE FAMILY,"$360,000",1614 Garden Dr,Dallas,TX,75215,3,3,1681,5009.4 sqft,
+https://www.zillow.com/homedetails/4106-Baker-Ave-Dallas-TX-75212/26834311_zpid/,26834311,,SINGLE FAMILY,"$839,999",4106 Baker Ave,Dallas,TX,75212,4,5,4846,0.393 acres,2261
+https://www.zillow.com/homedetails/9814-Bluffcreek-Dr-Dallas-TX-75227/26820414_zpid/,26820414,,SINGLE FAMILY,"$257,400",9814 Bluffcreek Dr,Dallas,TX,75227,4,3,1400,7492.32 sqft,1627
+https://www.zillow.com/homedetails/4426-Forest-Bend-Rd-Dallas-TX-75244/26881181_zpid/,26881181,,SINGLE FAMILY,"$1,075,000",4426 Forest Bend Rd,Dallas,TX,75244,4,4,3543,0.344 acres,7164
+https://www.zillow.com/homedetails/6440-Knoll-Ridge-Dr-Dallas-TX-75249/26914222_zpid/,26914222,,SINGLE FAMILY,"$449,000",6440 Knoll Ridge Dr,Dallas,TX,75249,5,3,2153,8276.4 sqft,
+https://www.zillow.com/homedetails/1817-Cooper-St-Dallas-TX-75215/96527325_zpid/,96527325,,SINGLE FAMILY,"$220,000",1817 Cooper St,Dallas,TX,75215,3,3,1405,4486.68 sqft,1613
+https://www.zillow.com/homedetails/711-W-Pentagon-Pkwy-Dallas-TX-75224/26773737_zpid/,26773737,,SINGLE FAMILY,"$210,000",711 W Pentagon Pkwy,Dallas,TX,75224,3,2,1322,7318.08 sqft,1992
+https://www.zillow.com/homedetails/9825-Walnut-St-206-Dallas-TX-75243/26931713_zpid/,26931713,,CONDO,"$118,000",9825 Walnut St #206,Dallas,TX,75243,2,2,1031,8.814 acres,1510
+https://www.zillow.com/homedetails/8663-Ballifeary-Pl-Dallas-TX-75238/125234474_zpid/,125234474,,SINGLE FAMILY,"$650,000",8663 Ballifeary Pl,Dallas,TX,75238,4,4,2602,3092.76 sqft,
+https://www.zillow.com/homedetails/8401-Bluebonnet-Rd-Dallas-TX-75209/26734413_zpid/,26734413,,SINGLE FAMILY,"$1,250,000",8401 Bluebonnet Rd,Dallas,TX,75209,4,4,4053,9670.32 sqft,7529
+https://www.zillow.com/homedetails/9848-Smokefeather-Ln-Dallas-TX-75243/26888150_zpid/,26888150,,TOWNHOUSE,"$250,000",9848 Smokefeather Ln,Dallas,TX,75243,3,3,1905,2744.28 sqft,2786
+https://www.zillow.com/homedetails/5909-Luther-Ln-APT-2200-Dallas-TX-75225/26932883_zpid/,26932883,,CONDO,"$649,000",5909 Luther Ln APT 2200,Dallas,TX,75225,2,2,1369,1.5152 acres,3129
+https://www.zillow.com/homedetails/3709-Atlanta-St-Dallas-TX-75215/96530333_zpid/,96530333,,SINGLE FAMILY,"$299,900",3709 Atlanta St,Dallas,TX,75215,3,2,1523,5924.16 sqft,2542
+https://www.zillow.com/homedetails/5917-Ellsworth-Ave-Dallas-TX-75206/26703889_zpid/,26703889,,SINGLE FAMILY,"$1,499,000",5917 Ellsworth Ave,Dallas,TX,75206,4,4,3782,6098.4 sqft,
+https://www.zillow.com/homedetails/4334-Buena-Vista-St-APT-B-Dallas-TX-75205/26923632_zpid/,26923632,,CONDO,"$485,000",4334 Buena Vista St APT B,Dallas,TX,75205,2,2,1264,10149.48 sqft,3507
+https://www.zillow.com/homedetails/413-N-Moore-St-Dallas-TX-75203/26857852_zpid/,26857852,,SINGLE FAMILY,"$250,000",413 N Moore St,Dallas,TX,75203,3,3,1615,2378.376 sqft,2854
+https://www.zillow.com/homedetails/4123-Firewood-Dr-Dallas-TX-75241/26821940_zpid/,26821940,,SINGLE FAMILY,"$249,000",4123 Firewood Dr,Dallas,TX,75241,4,2,1754,7666.56 sqft,
+https://www.zillow.com/homedetails/905-Grandview-Ave-Dallas-TX-75223/26684795_zpid/,26684795,,SINGLE FAMILY,"$315,000",905 Grandview Ave,Dallas,TX,75223,3,2,1500,7230.96 sqft,2466
+https://www.zillow.com/homedetails/3150-Saint-Sophia-Dr-Dallas-TX-75233/80236515_zpid/,80236515,,SINGLE FAMILY,"$300,000",3150 Saint Sophia Dr,Dallas,TX,75233,4,3,1992,4007.52 sqft,2591
+https://www.zillow.com/homedetails/3510-Michigan-Ave-Dallas-TX-75216/26774833_zpid/,26774833,,SINGLE FAMILY,"$295,000",3510 Michigan Ave,Dallas,TX,75216,5,2,1833,8537.76 sqft,2545
+https://www.zillow.com/homedetails/5927-Lindenshire-Ln-Dallas-TX-75230/26910247_zpid/,26910247,,SINGLE FAMILY,"$875,000",5927 Lindenshire Ln,Dallas,TX,75230,3,3,2924,4356 sqft,5832
+https://www.zillow.com/homedetails/6065-Dilbeck-Ln-Dallas-TX-75240/26911030_zpid/,26911030,,SINGLE FAMILY,"$1,224,000",6065 Dilbeck Ln,Dallas,TX,75240,4,5,4247,0.377 acres,6549
+https://www.zillow.com/homedetails/4023-Wycliff-Ave-APT-104-Dallas-TX-75219/26927699_zpid/,26927699,,CONDO,"$324,900",4023 Wycliff Ave APT 104,Dallas,TX,75219,3,2,1470,0.263 acres,3177
+https://www.zillow.com/homedetails/5936-Spring-Glen-Dr-Dallas-TX-75232/26825505_zpid/,26825505,,SINGLE FAMILY,"$524,900",5936 Spring Glen Dr,Dallas,TX,75232,5,4,2880,10236.6 sqft,2271
+https://www.zillow.com/homedetails/3234-Culver-St-Dallas-TX-75223/26694310_zpid/,26694310,,SINGLE FAMILY,"$340,000",3234 Culver St,Dallas,TX,75223,3,2,2220,7492.32 sqft,2870
+https://www.zillow.com/homedetails/1643-Seabreeze-Dr-Dallas-TX-75051/2059856658_zpid/,2059856658,,SINGLE FAMILY,"$365,000",1643 Seabreeze Dr,Dallas,TX,75051,5,4,2394,5096.52 sqft,2827
+https://www.zillow.com/homedetails/2567-Summit-Ln-Dallas-TX-75227/26908180_zpid/,26908180,,SINGLE FAMILY,"$199,900",2567 Summit Ln,Dallas,TX,75227,3,2,1326,4443.12 sqft,
+https://www.zillow.com/homedetails/7405-Daingerfield-Dr-Dallas-TX-75227/26793582_zpid/,26793582,,SINGLE FAMILY,"$298,000",7405 Daingerfield Dr,Dallas,TX,75227,3,2,1738,9408.96 sqft,1986
+https://www.zillow.com/homedetails/7007-Mumford-St-Dallas-TX-75252/53070054_zpid/,53070054,,SINGLE FAMILY,"$850,000",7007 Mumford St,Dallas,TX,75252,5,4,3102,0.38 acres,5597
+https://www.zillow.com/homedetails/3313-Thibet-St-Dallas-TX-75211/26727405_zpid/,26727405,,SINGLE FAMILY,"$259,000",3313 Thibet St,Dallas,TX,75211,3,2,973,6708.24 sqft,1718
+https://www.zillow.com/homedetails/4708-Collier-St-Dallas-TX-75223/96525424_zpid/,96525424,,SINGLE FAMILY,"$305,000",4708 Collier St,Dallas,TX,75223,3,2,1400,4835.16 sqft,1465
+https://www.zillow.com/homedetails/3235-Cole-Ave-APT-20-Dallas-TX-75204/26935545_zpid/,26935545,,CONDO,"$425,000",3235 Cole Ave APT 20,Dallas,TX,75204,2,3,1220,1.248 sqft,
+https://www.zillow.com/homedetails/826-W-Canty-St-Dallas-TX-75208/26713068_zpid/,26713068,,SINGLE FAMILY,"$550,000",826 W Canty St,Dallas,TX,75208,3,2,1482,5357.88 sqft,
+https://www.zillow.com/homedetails/1331-S-Denley-Dr-Dallas-TX-75216/26716309_zpid/,26716309,,SINGLE FAMILY,"$300,000",1331 S Denley Dr,Dallas,TX,75216,3,2,1462,7535.88 sqft,
+https://www.zillow.com/homedetails/1109-Morrell-Ave-Dallas-TX-75203/26710849_zpid/,26710849,,SINGLE FAMILY,"$200,000",1109 Morrell Ave,Dallas,TX,75203,3,1,1414,0.33473370064279157 acres,2257
+https://www.zillow.com/homedetails/2948-S-Bend-Dr-Dallas-TX-75229/26906085_zpid/,26906085,,SINGLE FAMILY,"$350,000",2948 S Bend Dr,Dallas,TX,75229,3,3,1351,3484.8 sqft,2074
+https://www.zillow.com/homedetails/1573-Harris-Ct-Dallas-TX-75223/26682504_zpid/,26682504,,SINGLE FAMILY,"$279,900",1573 Harris Ct,Dallas,TX,75223,3,2,1228,4007.52 sqft,
+https://www.zillow.com/homedetails/9412-Hunters-Creek-Dr-Dallas-TX-75243/26869202_zpid/,26869202,,SINGLE FAMILY,"$645,000",9412 Hunters Creek Dr,Dallas,TX,75243,4,3,2354,8494.2 sqft,3668
+https://www.zillow.com/homedetails/3525-Turtle-Creek-Blvd-APT-8B-Dallas-TX-75219/26679936_zpid/,26679936,,CONDO,"$695,000",3525 Turtle Creek Blvd APT 8B,Dallas,TX,75219,2,2,2014,2.824 acres,3243
+https://www.zillow.com/homedetails/944-Timber-Dell-Ln-Dallas-TX-75232/26825038_zpid/,26825038,,SINGLE FAMILY,"$390,000",944 Timber Dell Ln,Dallas,TX,75232,3,3,1902,0.322 acres,2312
+https://www.zillow.com/homedetails/7608-Meadow-Oaks-Dr-Dallas-TX-75230/26838650_zpid/,26838650,,SINGLE FAMILY,"$890,000",7608 Meadow Oaks Dr,Dallas,TX,75230,7,5,4498,0.348 acres,3385
+https://www.zillow.com/homedetails/3763-Wenatche-Dr-Dallas-TX-75233/446068700_zpid/,446068700,,SINGLE FAMILY,"$440,000",3763 Wenatche Dr,Dallas,TX,75233,4,4,2900,6011.28 sqft,
+https://www.zillow.com/homedetails/7614-Woodthrush-Dr-Dallas-TX-75230/26838382_zpid/,26838382,,TOWNHOUSE,"$380,000",7614 Woodthrush Dr,Dallas,TX,75230,3,3,1520,0.52 acres,3078
+https://www.zillow.com/homedetails/5822-Knightsbridge-Dr-Dallas-TX-75252/26609875_zpid/,26609875,,SINGLE FAMILY,"$1,400,000",5822 Knightsbridge Dr,Dallas,TX,75252,5,5,5648,0.3 acres,
+https://www.zillow.com/homedetails/8314-Ellery-Dr-Dallas-TX-75243/96515130_zpid/,96515130,,SINGLE FAMILY,"$699,000",8314 Ellery Dr,Dallas,TX,75243,4,5,2960,7579.44 sqft,3771
+https://www.zillow.com/homedetails/7006-Aspen-Creek-Ln-Dallas-TX-75252/53096003_zpid/,53096003,,SINGLE FAMILY,"$580,000",7006 Aspen Creek Ln,Dallas,TX,75252,3,3,2737,7405.2 sqft,3447
+https://www.zillow.com/homedetails/10215-Regal-Oaks-Dr-10215-Dallas-TX-75230/67964899_zpid/,67964899,,CONDO,"$300,000",10215 Regal Oaks Dr #10215,Dallas,TX,75230,2,2,1461,2.237 acres,2626
+https://www.zillow.com/homedetails/10406-Coleridge-St-Dallas-TX-75218/26746792_zpid/,26746792,,SINGLE FAMILY,"$579,500",10406 Coleridge St,Dallas,TX,75218,3,3,2622,10149.48 sqft,3822
+https://www.zillow.com/homedetails/4025-4031-Mather-Ct-Dallas-TX-75211/452683500_zpid/,452683500,,MULTI FAMILY,"$485,000",4025-4031 Mather Ct,Dallas,TX,75211,5,5,3420,3419.46 sqft,
+https://www.zillow.com/homedetails/2524-Jeffries-St-Dallas-TX-75215/452068415_zpid/,452068415,,SINGLE FAMILY,"$379,000",2524 Jeffries St,Dallas,TX,75215,3,3,1870,7492.32 sqft,
+https://www.zillow.com/homedetails/6029-Spring-Flower-Trl-Dallas-TX-75248/2112579356_zpid/,2112579356,,SINGLE FAMILY,"$600,000",6029 Spring Flower Trl,Dallas,TX,75248,3,3,2242,7666.56 sqft,3618
+https://www.zillow.com/homedetails/6029-Buffridge-Trl-Dallas-TX-75252/26631632_zpid/,26631632,,SINGLE FAMILY,"$615,000",6029 Buffridge Trl,Dallas,TX,75252,4,3,2776,6046.128 sqft,3141
+https://www.zillow.com/homedetails/6535-Barkwood-Ln-Dallas-TX-75248/26889965_zpid/,26889965,,SINGLE FAMILY,"$1,150,000",6535 Barkwood Ln,Dallas,TX,75248,4,4,3485,9452.52 sqft,5494
+https://www.zillow.com/homedetails/9740-Edgepine-Dr-Dallas-TX-75238/26866817_zpid/,26866817,,SINGLE FAMILY,"$1,285,000",9740 Edgepine Dr,Dallas,TX,75238,4,3,2904,9496.08 sqft,3177
+https://www.zillow.com/homedetails/4916-Junius-St-Dallas-TX-75214/26678445_zpid/,26678445,,SINGLE FAMILY,"$649,900",4916 Junius St,Dallas,TX,75214,3,4,2893,7143.84 sqft,6294
+https://www.zillow.com/homedetails/4336-Hollow-Oak-Dr-Dallas-TX-75287/26643548_zpid/,26643548,,SINGLE FAMILY,"$715,000",4336 Hollow Oak Dr,Dallas,TX,75287,4,4,3206,8712 sqft,4777
+https://www.zillow.com/homedetails/8542-Sweetwood-Dr-Dallas-TX-75228/26831243_zpid/,26831243,,SINGLE FAMILY,"$429,000",8542 Sweetwood Dr,Dallas,TX,75228,4,3,2284,8494.2 sqft,3300
+https://www.zillow.com/homedetails/8539-Bretshire-Dr-Dallas-TX-75228/26831006_zpid/,26831006,,SINGLE FAMILY,"$429,900",8539 Bretshire Dr,Dallas,TX,75228,3,2,1664,10802.88 sqft,2486
+https://www.zillow.com/homedetails/3555-Delford-Cir-Dallas-TX-75228/26860249_zpid/,26860249,,SINGLE FAMILY,"$359,900",3555 Delford Cir,Dallas,TX,75228,4,3,1998,7884.36 sqft,2203
+https://www.zillow.com/homedetails/711-Colten-James-Ln-Dallas-TX-75204/69674961_zpid/,69674961,,TOWNHOUSE,"$510,000",711 Colten James Ln,Dallas,TX,75204,3,3,1799,1263.24 sqft,3167
+https://www.zillow.com/homedetails/2725-1st-Ave-Dallas-TX-75210/26688370_zpid/,26688370,,SINGLE FAMILY,"$265,000",2725 1st Ave,Dallas,TX,75210,3,3,1800,5575.68 sqft,1821
+https://www.zillow.com/homedetails/2505-Wedglea-Dr-APT-209-Dallas-TX-75211/248828159_zpid/,248828159,,CONDO,"$214,000",2505 Wedglea Dr APT 209,Dallas,TX,75211,2,2,958,5.488 acres,1708
+https://www.zillow.com/homedetails/3512-Wendelkin-St-Dallas-TX-75215/455149928_zpid/,455149928,,SINGLE FAMILY,"$449,900",3512 Wendelkin St,Dallas,TX,75215,4,5,2754,7013.16 sqft,
+https://www.zillow.com/homedetails/3121-Park-Ln-APT-1105-Dallas-TX-75220/26810699_zpid/,26810699,,TOWNHOUSE,"$109,999",3121 Park Ln APT 1105,Dallas,TX,75220,3,2,1193,9.125 acres,2157
+https://www.zillow.com/homedetails/2931-Linfield-Rd-Dallas-TX-75216/26885267_zpid/,26885267,,SINGLE FAMILY,"$248,000",2931 Linfield Rd,Dallas,TX,75216,6,5,4226,0.5670000000000001 acres,4533
+https://www.zillow.com/homedetails/1715-Duet-Dr-Dallas-TX-75241/67962595_zpid/,67962595,,SINGLE FAMILY,"$285,000",1715 Duet Dr,Dallas,TX,75241,3,3,1983,4965.84 sqft,2213
+https://www.zillow.com/homedetails/6928-Mountain-Cedar-Ln-Dallas-TX-75236/26914076_zpid/,26914076,,SINGLE FAMILY,"$365,000",6928 Mountain Cedar Ln,Dallas,TX,75236,3,2,1713,6316.2 sqft,2325
+https://www.zillow.com/homedetails/7319-Kirkham-Dr-Dallas-TX-75252/26592970_zpid/,26592970,,SINGLE FAMILY,"$765,000",7319 Kirkham Dr,Dallas,TX,75252,4,3,2559,10454.4 sqft,4597
+https://www.zillow.com/homedetails/7155-Penshire-Ln-Dallas-TX-75227/455280488_zpid/,455280488,,SINGLE FAMILY,"$295,000",7155 Penshire Ln,Dallas,TX,75227,3,2,1629,7492.32 sqft,
+https://www.zillow.com/homedetails/4426-Cinnabar-Dr-Dallas-TX-75227/26785001_zpid/,26785001,,SINGLE FAMILY,"$300,000",4426 Cinnabar Dr,Dallas,TX,75227,4,2,2278,8450.64 sqft,
+https://www.zillow.com/homedetails/2126-Idaho-Ave-Dallas-TX-75216/26715377_zpid/,26715377,,SINGLE FAMILY,"$259,000",2126 Idaho Ave,Dallas,TX,75216,3,2,1442,7753.68 sqft,2112
+https://www.zillow.com/homedetails/535-Crete-St-Dallas-TX-75203/26768871_zpid/,26768871,,MULTI FAMILY,"$549,000",535 Crete St,Dallas,TX,75203,4,4,2584,4268.88 sqft,3567
+https://www.zillow.com/homedetails/9206-Flickering-Shadow-Dr-Dallas-TX-75243/26888039_zpid/,26888039,,SINGLE FAMILY,"$255,000",9206 Flickering Shadow Dr,Dallas,TX,75243,3,3,, ,2743
+https://www.zillow.com/homedetails/4510-Solar-Ln-Dallas-TX-75216/26857245_zpid/,26857245,,SINGLE FAMILY,"$273,999",4510 Solar Ln,Dallas,TX,75216,3,2,1441,6926.04 sqft,2132
+https://www.zillow.com/homedetails/2421-N-Garrett-Ave-3-Dallas-TX-75206/245228912_zpid/,245228912,,CONDO,"$645,000",2421 N Garrett Ave #3,Dallas,TX,75206,3,4,1858,0.34099999999999997 acres,4173
+https://www.zillow.com/homedetails/5118-Bonnie-View-Rd-Dallas-TX-75241/26821277_zpid/,26821277,,SINGLE FAMILY,"$115,000",5118 Bonnie View Rd,Dallas,TX,75241,3,3,2044,0.7040000000000001 acres,1922
+https://www.zillow.com/homedetails/3612-Reagan-St-Dallas-TX-75219/60331415_zpid/,60331415,,TOWNHOUSE,"$899,000",3612 Reagan St,Dallas,TX,75219,3,4,2588,2613.6 sqft,4490
+https://www.zillow.com/homedetails/1504-Rowan-Ave-Dallas-TX-75223/26682569_zpid/,26682569,,SINGLE FAMILY,"$205,000",1504 Rowan Ave,Dallas,TX,75223,3,2,1194,9016.92 sqft,1792
+https://www.zillow.com/homedetails/3714-Meyers-St-Dallas-TX-75215/26691312_zpid/,26691312,,SINGLE FAMILY,"$150,000",3714 Meyers St,Dallas,TX,75215,3,1,1248,5488.56 sqft,1639
+https://www.zillow.com/homedetails/2721-San-Marcus-Ave-Dallas-TX-75228/26840468_zpid/,26840468,,SINGLE FAMILY,"$295,000",2721 San Marcus Ave,Dallas,TX,75228,3,2,1403,7666.56 sqft,2030
+https://www.zillow.com/homedetails/8312-Granis-St-Dallas-TX-75243/26844104_zpid/,26844104,,SINGLE FAMILY,"$250,000",8312 Granis St,Dallas,TX,75243,5,2,1737,8929.8 sqft,3152
+https://www.zillow.com/homedetails/2008-Waleska-Plz-Dallas-TX-75211/26912452_zpid/,26912452,,SINGLE FAMILY,"$235,000",2008 Waleska Plz,Dallas,TX,75211,3,3,1323,1132.56 sqft,
+https://www.zillow.com/homedetails/3413-Utah-Ave-Dallas-TX-75216/26774975_zpid/,26774975,,SINGLE FAMILY,"$229,999",3413 Utah Ave,Dallas,TX,75216,4,2,1147,9496.08 sqft,2133
+https://www.zillow.com/homedetails/6777-Lakefair-Cir-Dallas-TX-75214/26706074_zpid/,26706074,,SINGLE FAMILY,"$950,000",6777 Lakefair Cir,Dallas,TX,75214,4,3,2824,7666.56 sqft,6297
+https://www.zillow.com/homedetails/10215-Shelburne-Dr-Dallas-TX-75227/26908781_zpid/,26908781,,SINGLE FAMILY,"$249,999",10215 Shelburne Dr,Dallas,TX,75227,3,2,1150,4704.48 sqft,1684
+https://www.zillow.com/homedetails/5632-Centeridge-Dr-Dallas-TX-75249/26914542_zpid/,26914542,,SINGLE FAMILY,"$315,000",5632 Centeridge Dr,Dallas,TX,75249,4,3,1953,9844.56 sqft,2696
+https://www.zillow.com/homedetails/1626-Sax-Leigh-Dr-Dallas-TX-75241/67962525_zpid/,67962525,,SINGLE FAMILY,"$245,000",1626 Sax Leigh Dr,Dallas,TX,75241,3,2,1494,4965.84 sqft,1943
+https://www.zillow.com/homedetails/4125-Junius-St-Dallas-TX-75246/26679002_zpid/,26679002,,SINGLE FAMILY,"$1,350,000",4125 Junius St,Dallas,TX,75246,6,8,4736,0.31 acres,6342
+https://www.zillow.com/homedetails/2026-Cedar-Valley-Ln-Dallas-TX-75232/26825999_zpid/,26825999,,SINGLE FAMILY,"$315,000",2026 Cedar Valley Ln,Dallas,TX,75232,4,3,2838,8886.24 sqft,4662
+https://www.zillow.com/homedetails/3112-Cowboy-Dr-Dallas-TX-75237/80230285_zpid/,80230285,,SINGLE FAMILY,"$275,000",3112 Cowboy Dr,Dallas,TX,75237,4,3,1587,5749.92 sqft,2149
+https://www.zillow.com/homedetails/6416-Beckwith-Ct-Dallas-TX-75248/26875979_zpid/,26875979,,SINGLE FAMILY,"$493,000",6416 Beckwith Ct,Dallas,TX,75248,3,2,1805,6098.4 sqft,3519
+https://www.zillow.com/homedetails/5506-Druid-Ln-Dallas-TX-75209/26761094_zpid/,26761094,,SINGLE FAMILY,"$1,150,000",5506 Druid Ln,Dallas,TX,75209,4,2,2408,8507.268 sqft,5361
+https://www.zillow.com/homedetails/619-Elwayne-Ave-Dallas-TX-75217/26796365_zpid/,26796365,,SINGLE FAMILY,"$299,900",619 Elwayne Ave,Dallas,TX,75217,4,2,1612,7971.48 sqft,1053
+https://www.zillow.com/homedetails/2626-Madera-St-Dallas-TX-75206/26691724_zpid/,26691724,,SINGLE FAMILY,"$600,000",2626 Madera St,Dallas,TX,75206,3,2,1548,5052.96 sqft,
+https://www.zillow.com/homedetails/6930-Joyce-Way-Dallas-TX-75225/26752462_zpid/,26752462,,SINGLE FAMILY,"$1,299,000",6930 Joyce Way,Dallas,TX,75225,4,4,2952,0.29 acres,
+https://www.zillow.com/homedetails/11460-Audelia-Rd-Dallas-TX-75243/2069123236_zpid/,2069123236,,MULTI FAMILY,"$850,000",11460 Audelia Rd,Dallas,TX,75243,13,10,5681,9.99 acres,1687
+https://www.zillow.com/homedetails/6259-Ravendale-Ln-Dallas-TX-75214/26704919_zpid/,26704919,,SINGLE FAMILY,"$799,000",6259 Ravendale Ln,Dallas,TX,75214,4,3,2141,8015.04 sqft,2857
+https://www.zillow.com/homedetails/2422-Loving-Ave-Dallas-TX-75214/26701087_zpid/,26701087,,SINGLE FAMILY,"$875,000",2422 Loving Ave,Dallas,TX,75214,3,2,1792,7927.92 sqft,
+https://www.zillow.com/homedetails/4939-Terry-St-Dallas-TX-75223/26680879_zpid/,26680879,,SINGLE FAMILY,"$299,000",4939 Terry St,Dallas,TX,75223,3,2,1066,7230.96 sqft,1804
+https://www.zillow.com/homedetails/1211-Dacki-Ave-Dallas-TX-75211/96528035_zpid/,96528035,,SINGLE FAMILY,"$330,000",1211 Dacki Ave,Dallas,TX,75211,4,3,2381,8145.72 sqft,3411
+https://www.zillow.com/homedetails/7505-Larchmont-Dr-Dallas-TX-75252/53116016_zpid/,53116016,,SINGLE FAMILY,"$1,049,000",7505 Larchmont Dr,Dallas,TX,75252,7,5,4206,9147.6 sqft,4537
+https://www.zillow.com/homedetails/4030-Buena-Vista-St-Dallas-TX-75204/26683227_zpid/,26683227,,TOWNHOUSE,"$1,149,500",4030 Buena Vista St,Dallas,TX,75204,2,2,1863,3267 sqft,3349
+https://www.zillow.com/homedetails/7734-Bruton-Rd-Dallas-TX-75217/26793781_zpid/,26793781,,SINGLE FAMILY,"$269,000",7734 Bruton Rd,Dallas,TX,75217,3,2,1562,7579.44 sqft,1756
+https://www.zillow.com/homedetails/8511-Strathmore-Dr-Dallas-TX-75238/26858654_zpid/,26858654,,SINGLE FAMILY,"$429,000",8511 Strathmore Dr,Dallas,TX,75238,4,2,2144,7797.24 sqft,3217
+https://www.zillow.com/homedetails/6517-Blue-Valley-Ln-Dallas-TX-75214/26706097_zpid/,26706097,,SINGLE FAMILY,"$995,000",6517 Blue Valley Ln,Dallas,TX,75214,3,3,2100,10497.96 sqft,6336
+https://www.zillow.com/homedetails/5638-Winton-St-Dallas-TX-75206/453242743_zpid/,453242743,,SINGLE FAMILY,"$1,200,000",5638 Winton St,Dallas,TX,75206,4,6,3232,4094.64 sqft,
+https://www.zillow.com/homedetails/2617-Fordham-Rd-Dallas-TX-75216/26767403_zpid/,26767403,,SINGLE FAMILY,"$195,995",2617 Fordham Rd,Dallas,TX,75216,3,2,1392,6664.68 sqft,2171
+https://www.zillow.com/homedetails/2939-Idaho-Ave-Dallas-TX-75216/26721768_zpid/,26721768,,SINGLE FAMILY,"$370,000",2939 Idaho Ave,Dallas,TX,75216,4,2,2300,7579.44 sqft,2863
+https://www.zillow.com/homedetails/8601-Park-Ln-APT-121-Dallas-TX-75231/26935579_zpid/,26935579,,CONDO,"$269,000",8601 Park Ln APT 121,Dallas,TX,75231,2,2,1062,4.332 acres,
+https://www.zillow.com/homedetails/2188-Echo-Lake-Dr-Dallas-TX-75253/96495174_zpid/,96495174,,SINGLE FAMILY,"$298,000",2188 Echo Lake Dr,Dallas,TX,75253,3,3,1597,7405.2 sqft,1827
+https://www.zillow.com/homedetails/4408-Worth-St-Dallas-TX-75246/26679147_zpid/,26679147,,SINGLE FAMILY,"$499,900",4408 Worth St,Dallas,TX,75246,6,5,3160,7710.12 sqft,
+https://www.zillow.com/homedetails/13103-Halwin-Cir-Dallas-TX-75243/26882623_zpid/,26882623,,SINGLE FAMILY,"$399,000",13103 Halwin Cir,Dallas,TX,75243,4,3,2015,9801 sqft,3321
+https://www.zillow.com/homedetails/7007-Spanky-Branch-Ct-Dallas-TX-75248/26913043_zpid/,26913043,,SINGLE FAMILY,"$1,500,000",7007 Spanky Branch Ct,Dallas,TX,75248,6,9,7907,0.812 acres,4985
+https://www.zillow.com/homedetails/6107-Worth-St-Dallas-TX-75214/26686023_zpid/,26686023,,SINGLE FAMILY,"$749,900",6107 Worth St,Dallas,TX,75214,4,2,2640,0.268 acres,3614
+https://www.zillow.com/homedetails/214-Delicias-Plz-Dallas-TX-75211/26912379_zpid/,26912379,,SINGLE FAMILY,"$205,000",214 Delicias Plz,Dallas,TX,75211,4,3,1526,2570.04 sqft,2314
+https://www.zillow.com/homedetails/6122-Symphony-Ln-Dallas-TX-75227/26784976_zpid/,26784976,,SINGLE FAMILY,"$250,000",6122 Symphony Ln,Dallas,TX,75227,4,2,1728,8315.604 sqft,3688
+https://www.zillow.com/homedetails/10611-Wyatt-St-Dallas-TX-75218/26743291_zpid/,26743291,,SINGLE FAMILY,"$700,000",10611 Wyatt St,Dallas,TX,75218,3,3,2285,9496.08 sqft,3215
+https://www.zillow.com/homedetails/9412-Peninsula-Dr-Dallas-TX-75218/26746976_zpid/,26746976,,SINGLE FAMILY,"$799,000",9412 Peninsula Dr,Dallas,TX,75218,3,2,1800,0.278 acres,3755
+https://www.zillow.com/homedetails/4420-Voss-Hills-Pl-Dallas-TX-75287/26651163_zpid/,26651163,,SINGLE FAMILY,"$550,000",4420 Voss Hills Pl,Dallas,TX,75287,4,3,2788,6534 sqft,4074
+https://www.zillow.com/homedetails/2410-Jeffries-St-Dallas-TX-75215/453934889_zpid/,453934889,,SINGLE FAMILY,"$375,000",2410 Jeffries St,Dallas,TX,75215,3,4,1800,3354.12 sqft,
+https://www.zillow.com/homedetails/2016-Ebbtide-Ln-Dallas-TX-75224/26779678_zpid/,26779678,,SINGLE FAMILY,"$395,000",2016 Ebbtide Ln,Dallas,TX,75224,4,2,2300,7753.68 sqft,2233
+https://www.zillow.com/homedetails/6926-Wakefield-St-Dallas-TX-75231/26750969_zpid/,26750969,,SINGLE FAMILY,"$549,000",6926 Wakefield St,Dallas,TX,75231,3,2,1358,7797.24 sqft,2615
+https://www.zillow.com/homedetails/6822-Victoria-Ave-Dallas-TX-75209/26699887_zpid/,26699887,,SINGLE FAMILY,"$1,225,000",6822 Victoria Ave,Dallas,TX,75209,4,5,2360,5967.72 sqft,6589
+https://www.zillow.com/homedetails/6317-E-Lovers-Ln-Dallas-TX-75214/26748728_zpid/,26748728,,SINGLE FAMILY,"$495,000",6317 E Lovers Ln,Dallas,TX,75214,3,2,1488,8537.76 sqft,2780
+https://www.zillow.com/homedetails/1001-Belleview-St-708-Dallas-TX-75215/89391271_zpid/,89391271,,CONDO,"$450,000",1001 Belleview St #708,Dallas,TX,75215,2,2,1305,0.9430000000000001 acres,2606
+https://www.zillow.com/homedetails/7617-Texridge-Dr-Dallas-TX-75232/26855618_zpid/,26855618,,SINGLE FAMILY,"$250,000",7617 Texridge Dr,Dallas,TX,75232,3,2,1488,0.257 acres,1883
+https://www.zillow.com/homedetails/10125-Lanshire-Dr-Dallas-TX-75238/26850346_zpid/,26850346,,SINGLE FAMILY,"$599,000",10125 Lanshire Dr,Dallas,TX,75238,4,2,2036,9670.32 sqft,3347
+https://www.zillow.com/homedetails/3127-McDermott-Ave-Dallas-TX-75215/26688032_zpid/,26688032,,SINGLE FAMILY,"$259,990",3127 McDermott Ave,Dallas,TX,75215,3,2,1400,5052.96 sqft,1679
+https://www.zillow.com/homedetails/1423-Toronto-St-Dallas-TX-75212/26833123_zpid/,26833123,,SINGLE FAMILY,"$295,000",1423 Toronto St,Dallas,TX,75212,3,2,1428,5662.8 sqft,2705
+https://www.zillow.com/homedetails/11906-Oak-Highlands-Dr-Dallas-TX-75243/336886054_zpid/,336886054,,SINGLE FAMILY,"$535,000",11906 Oak Highlands Dr,Dallas,TX,75243,5,4,3830,9191.16 sqft,6157
+https://www.zillow.com/homedetails/1316-S-Waverly-Dr-Dallas-TX-75208/26723367_zpid/,26723367,,SINGLE FAMILY,"$325,000",1316 S Waverly Dr,Dallas,TX,75208,3,3,1186,8624.88 sqft,2003
+https://www.zillow.com/homedetails/5712-Goldfinch-Way-Dallas-TX-75249/67963950_zpid/,67963950,,SINGLE FAMILY,"$396,900",5712 Goldfinch Way,Dallas,TX,75249,4,3,2980,10323.72 sqft,2843
+https://www.zillow.com/homedetails/3418-La-Verne-Ave-Dallas-TX-75227/454944762_zpid/,454944762,,SINGLE FAMILY,"$162,500",3418 La Verne Ave,Dallas,TX,75227,3,1,1413,0.253 acres,
+https://www.zillow.com/homedetails/15151-Berry-Trl-APT-801-Dallas-TX-75248/26872358_zpid/,26872358,,CONDO,"$165,000",15151 Berry Trl APT 801,Dallas,TX,75248,1,1,745,5.069 acres,1634
+https://www.zillow.com/homedetails/5866-Farquhar-Ln-Dallas-TX-75209/26760443_zpid/,26760443,,SINGLE FAMILY,"$1,495,000",5866 Farquhar Ln,Dallas,TX,75209,3,5,4068,5227.2 sqft,6185
+https://www.zillow.com/homedetails/702-Lipscomb-Ave-Dallas-TX-75214/26689486_zpid/,26689486,,SINGLE FAMILY,"$745,000",702 Lipscomb Ave,Dallas,TX,75214,3,2,1969,8145.72 sqft,3229
+https://www.zillow.com/homedetails/3260-High-Vista-Dr-Dallas-TX-75234/26813195_zpid/,26813195,,SINGLE FAMILY,"$400,000",3260 High Vista Dr,Dallas,TX,75234,3,2,1560,7710.12 sqft,2494
+https://www.zillow.com/homedetails/609-Valencia-St-Dallas-TX-75223/26695931_zpid/,26695931,,SINGLE FAMILY,"$525,000",609 Valencia St,Dallas,TX,75223,3,2,1376,6838.92 sqft,2101
+https://www.zillow.com/homedetails/9614-Blackwillow-Ct-Dallas-TX-75249/26892553_zpid/,26892553,,SINGLE FAMILY,"$325,000",9614 Blackwillow Ct,Dallas,TX,75249,3,2,1968,0.272 acres,2044
+https://www.zillow.com/homedetails/1910-Leacrest-Dr-Dallas-TX-75216/26725339_zpid/,26725339,,SINGLE FAMILY,"$357,500",1910 Leacrest Dr,Dallas,TX,75216,4,2,1882,6272.64 sqft,2445
+https://www.zillow.com/homedetails/3333-Saint-Cloud-Cir-Dallas-TX-75229/26809512_zpid/,26809512,,SINGLE FAMILY,"$650,000",3333 Saint Cloud Cir,Dallas,TX,75229,4,2,1849,0.26 acres,3640
+https://www.zillow.com/homedetails/8120-Bromley-Dr-Dallas-TX-75231/339349830_zpid/,339349830,,SINGLE FAMILY,"$685,000",8120 Bromley Dr,Dallas,TX,75231,3,3,2399,1611.72 sqft,4084
+https://www.zillow.com/homedetails/9044-Church-Rd-Dallas-TX-75231/26867925_zpid/,26867925,,SINGLE FAMILY,"$850,000",9044 Church Rd,Dallas,TX,75231,4,3,2550,0.27999999999999997 acres,4102
+https://www.zillow.com/homedetails/3116-Sharpview-Ln-Dallas-TX-75228/26883738_zpid/,26883738,,SINGLE FAMILY,"$487,000",3116 Sharpview Ln,Dallas,TX,75228,3,3,2048,9496.08 sqft,3145
+https://www.zillow.com/homedetails/3608-Oak-Creek-Cir-Dallas-TX-75227/26784717_zpid/,26784717,,SINGLE FAMILY,"$270,000",3608 Oak Creek Cir,Dallas,TX,75227,3,2,1729,9670.32 sqft,2008
+https://www.zillow.com/homedetails/3221-Woodwind-Ln-Dallas-TX-75229/26807970_zpid/,26807970,,SINGLE FAMILY,"$699,900",3221 Woodwind Ln,Dallas,TX,75229,4,3,2327,0.278 acres,4524
+https://www.zillow.com/homedetails/10564-Cox-Ln-Dallas-TX-75229/26806508_zpid/,26806508,,SINGLE FAMILY,"$850,000",10564 Cox Ln,Dallas,TX,75229,4,4,2853,0.287 acres,
+https://www.zillow.com/homedetails/1819-Peavy-Rd-Dallas-TX-75228/26741755_zpid/,26741755,,SINGLE FAMILY,"$374,999",1819 Peavy Rd,Dallas,TX,75228,3,2,1424,10672.2 sqft,2742
+https://www.zillow.com/homedetails/2522-Seevers-Ave-Dallas-TX-75216/96508927_zpid/,96508927,,SINGLE FAMILY,"$419,999",2522 Seevers Ave,Dallas,TX,75216,4,3,2174,7623 sqft,2044
+https://www.zillow.com/homedetails/8202-Marvel-Dr-Dallas-TX-75217/26801664_zpid/,26801664,,SINGLE FAMILY,"$287,900",8202 Marvel Dr,Dallas,TX,75217,4,3,1828,8015.04 sqft,2419
+https://www.zillow.com/homedetails/511-N-Akard-St-APT-1502-Dallas-TX-75201/111960545_zpid/,111960545,,CONDO,"$485,000",511 N Akard St APT 1502,Dallas,TX,75201,3,3,1523,0.893 acres,2966
+https://www.zillow.com/homedetails/3022-Kinkaid-Dr-Dallas-TX-75220/26810380_zpid/,26810380,,SINGLE FAMILY,"$415,000",3022 Kinkaid Dr,Dallas,TX,75220,4,3,2033,7666.56 sqft,3145
+https://www.zillow.com/homedetails/2533-Tristian-Ct-Dallas-TX-75211/60331599_zpid/,60331599,,SINGLE FAMILY,"$200,000",2533 Tristian Ct,Dallas,TX,75211,3,2,1346,5227.2 sqft,
+https://www.zillow.com/homedetails/960-Glen-Oaks-Blvd-Dallas-TX-75232/26824659_zpid/,26824659,,SINGLE FAMILY,"$399,999",960 Glen Oaks Blvd,Dallas,TX,75232,3,2,2232,0.42000000000000004 acres,2573
+https://www.zillow.com/homedetails/6104-Bluff-Point-Dr-Dallas-TX-75248/26887135_zpid/,26887135,,SINGLE FAMILY,"$880,000",6104 Bluff Point Dr,Dallas,TX,75248,5,4,2891,0.263 acres,5419
+https://www.zillow.com/homedetails/12608-Breckenridge-Dr-Dallas-TX-75230/26849798_zpid/,26849798,,SINGLE FAMILY,"$750,000",12608 Breckenridge Dr,Dallas,TX,75230,4,4,2955,5575.68 sqft,5194
+https://www.zillow.com/homedetails/3566-Royal-Ln-Dallas-TX-75229/26807506_zpid/,26807506,,SINGLE FAMILY,"$549,999",3566 Royal Ln,Dallas,TX,75229,4,3,2061,9931.68 sqft,3614
+https://www.zillow.com/homedetails/13115-Chandler-Dr-Dallas-TX-75243/26888318_zpid/,26888318,,SINGLE FAMILY,"$290,000",13115 Chandler Dr,Dallas,TX,75243,3,3,1844,5009.4 sqft,2395
+https://www.zillow.com/homedetails/422-S-Montreal-Ave-Dallas-TX-75208/26712584_zpid/,26712584,,SINGLE FAMILY,"$245,000",422 S Montreal Ave,Dallas,TX,75208,5,1,1432,8929.8 sqft,2551
+https://www.zillow.com/homedetails/9705-Estate-Ln-Dallas-TX-75238/26866616_zpid/,26866616,,SINGLE FAMILY,"$1,095,000",9705 Estate Ln,Dallas,TX,75238,4,4,3431,0.251 acres,7221
+https://www.zillow.com/homedetails/7845-Blackbird-Ln-Dallas-TX-75238/26751658_zpid/,26751658,,SINGLE FAMILY,"$799,000",7845 Blackbird Ln,Dallas,TX,75238,3,2,1840,10802.88 sqft,
+https://www.zillow.com/homedetails/13616-Rolling-Hills-Ln-Dallas-TX-75240/26851989_zpid/,26851989,,SINGLE FAMILY,"$849,000",13616 Rolling Hills Ln,Dallas,TX,75240,4,4,2921,9496.08 sqft,5205
+https://www.zillow.com/homedetails/10506-Berry-Knoll-Dr-Dallas-TX-75230/26838954_zpid/,26838954,,SINGLE FAMILY,"$550,000",10506 Berry Knoll Dr,Dallas,TX,75230,3,3,2816,0.2539944903581267 acres,5662
+https://www.zillow.com/homedetails/2111-Brookhaven-Dr-Dallas-TX-75224/448833826_zpid/,448833826,,SINGLE FAMILY,"$380,000",2111 Brookhaven Dr,Dallas,TX,75224,5,3,1829,4791.6 sqft,
+https://www.zillow.com/homedetails/3151-Kinkaid-Dr-Dallas-TX-75220/26810370_zpid/,26810370,,SINGLE FAMILY,"$580,000",3151 Kinkaid Dr,Dallas,TX,75220,4,3,2329,10032 sqft,4193
+https://www.zillow.com/homedetails/17207-Graystone-Dr-Dallas-TX-75248/26890891_zpid/,26890891,,SINGLE FAMILY,"$1,380,000",17207 Graystone Dr,Dallas,TX,75248,8,7,5051,0.323 acres,6286
+https://www.zillow.com/homedetails/912-Brookwood-Dr-Dallas-TX-75224/96502900_zpid/,96502900,,SINGLE FAMILY,"$670,000",912 Brookwood Dr,Dallas,TX,75224,4,3,2600,0.3503 acres,2385
+https://www.zillow.com/homedetails/3526-Boulder-Dr-Dallas-TX-75233/26828461_zpid/,26828461,,SINGLE FAMILY,"$475,000",3526 Boulder Dr,Dallas,TX,75233,3,2,2070,0.308 acres,
+https://www.zillow.com/homedetails/4127-Buena-Vista-St-Dallas-TX-75204/26683308_zpid/,26683308,,TOWNHOUSE,"$1,425,000",4127 Buena Vista St,Dallas,TX,75204,2,3,2117,2526.48 sqft,
+https://www.zillow.com/homedetails/5015-N-Hall-St-Dallas-TX-75235/26934704_zpid/,26934704,,SINGLE FAMILY,"$160,000",5015 N Hall St,Dallas,TX,75235,2,2,1147,6.27 acres,1894
+https://www.zillow.com/homedetails/8109-Skillman-St-APT-3026-Dallas-TX-75231/26899691_zpid/,26899691,,CONDO,"$185,000",8109 Skillman St APT 3026,Dallas,TX,75231,3,2,1205,3.915 acres,1911
+https://www.zillow.com/homedetails/5623-Ridgedale-Ave-Dallas-TX-75206/26695164_zpid/,26695164,,SINGLE FAMILY,"$1,250,000",5623 Ridgedale Ave,Dallas,TX,75206,5,3,2819,7230.96 sqft,6075
+https://www.zillow.com/homedetails/9315-Moss-Circle-Dr-Dallas-TX-75243/26893436_zpid/,26893436,,SINGLE FAMILY,"$995,000",9315 Moss Circle Dr,Dallas,TX,75243,5,4,3389,7361.64 sqft,6077
+https://www.zillow.com/homedetails/10203-Ridge-Oak-St-Dallas-TX-75227/26908459_zpid/,26908459,,SINGLE FAMILY,"$273,900",10203 Ridge Oak St,Dallas,TX,75227,4,2,1490,5052.96 sqft,2045
+https://www.zillow.com/homedetails/2647-Kellogg-Ave-Dallas-TX-75216/26767664_zpid/,26767664,,SINGLE FAMILY,"$275,000",2647 Kellogg Ave,Dallas,TX,75216,3,2,1449,7100.28 sqft,2556
+https://www.zillow.com/homedetails/2405-Peabody-Ave-Dallas-TX-75215/26681382_zpid/,26681382,,SINGLE FAMILY,"$575,000",2405 Peabody Ave,Dallas,TX,75215,4,3,2700,7884.36 sqft,1586
+https://www.zillow.com/homedetails/3709-Colonial-Ave-Dallas-TX-75215/26680608_zpid/,26680608,,SINGLE FAMILY,"$435,000",3709 Colonial Ave,Dallas,TX,75215,4,3,2217,6141.96 sqft,1439
+https://www.zillow.com/homedetails/2522-El-Cerrito-Dr-Dallas-TX-75228/26830397_zpid/,26830397,,SINGLE FAMILY,"$400,000",2522 El Cerrito Dr,Dallas,TX,75228,3,2,1663,8886.24 sqft,
+https://www.zillow.com/homedetails/9819-Baseline-Dr-Dallas-TX-75243/26888404_zpid/,26888404,,TOWNHOUSE,"$345,400",9819 Baseline Dr,Dallas,TX,75243,3,2,1400,2700.72 sqft,1865
+https://www.zillow.com/homedetails/5314-Mercedes-Ave-Dallas-TX-75206/26696325_zpid/,26696325,,SINGLE FAMILY,"$861,000",5314 Mercedes Ave,Dallas,TX,75206,3,2,1744,7797.24 sqft,
+https://www.zillow.com/homedetails/704-Kessler-Lake-Dr-Dallas-TX-75208/67961963_zpid/,67961963,,SINGLE FAMILY,"$1,200,000",704 Kessler Lake Dr,Dallas,TX,75208,4,6,4566,0.41800000000000004 acres,7516
+https://www.zillow.com/homedetails/5757-E-University-Blvd-27-Z-Dallas-TX-75206/26899050_zpid/,26899050,,CONDO,"$190,000",5757 E University Blvd #27-Z,Dallas,TX,75206,2,3,902,5.7 acres,1823
+https://www.zillow.com/homedetails/1404-Sylvan-Ave-Dallas-TX-75208/26730640_zpid/,26730640,,SINGLE FAMILY,"$1,445,000",1404 Sylvan Ave,Dallas,TX,75208,4,5,4460,0.406 acres,8002
+https://www.zillow.com/homedetails/3403-Mundy-Dr-Dallas-TX-75216/96524054_zpid/,96524054,,SINGLE FAMILY,"$450,000",3403 Mundy Dr,Dallas,TX,75216,5,3,2345,9670.32 sqft,3596
+https://www.zillow.com/homedetails/13516-Spring-Grove-Ave-Dallas-TX-75240/26852019_zpid/,26852019,,SINGLE FAMILY,"$380,000",13516 Spring Grove Ave,Dallas,TX,75240,3,2,1664,9888.12 sqft,1994
+https://www.zillow.com/homedetails/5407-Merrimac-Ave-Dallas-TX-75206/26695854_zpid/,26695854,,SINGLE FAMILY,"$999,000",5407 Merrimac Ave,Dallas,TX,75206,4,2,2209,7797.24 sqft,4533
+https://www.zillow.com/homedetails/7432-Wellcrest-Dr-Dallas-TX-75230/26838701_zpid/,26838701,,SINGLE FAMILY,"$460,000",7432 Wellcrest Dr,Dallas,TX,75230,3,3,1944,10193.04 sqft,3088
+https://www.zillow.com/homedetails/9231-Chimney-Corner-Ln-Dallas-TX-75243/2059889297_zpid/,2059889297,,TOWNHOUSE,"$275,000",9231 Chimney Corner Ln,Dallas,TX,75243,3,3,1905,2962.08 sqft,2754
+https://www.zillow.com/homedetails/3219-Purple-Ash-Dr-Dallas-TX-75253/455208507_zpid/,455208507,,SINGLE FAMILY,"$337,900",3219 Purple Ash Dr,Dallas,TX,75253,4,3,2132, ,
+https://www.zillow.com/homedetails/5511-Tamaron-Ct-Dallas-TX-75287/26586022_zpid/,26586022,,SINGLE FAMILY,"$1,495,000",5511 Tamaron Ct,Dallas,TX,75287,4,4,4310,0.25 acres,
+https://www.zillow.com/homedetails/6536-Patrick-Dr-Dallas-TX-75214/26705531_zpid/,26705531,,SINGLE FAMILY,"$545,000",6536 Patrick Dr,Dallas,TX,75214,3,2,1492,8877.528 sqft,
+https://www.zillow.com/homedetails/9431-Hobart-St-Dallas-TX-75218/26747034_zpid/,26747034,,SINGLE FAMILY,"$1,150,000",9431 Hobart St,Dallas,TX,75218,3,2,2436,7797.24 sqft,5520
+https://www.zillow.com/homedetails/3764-Waldorf-Dr-Dallas-TX-75229/26809051_zpid/,26809051,,SINGLE FAMILY,"$925,000",3764 Waldorf Dr,Dallas,TX,75229,3,3,2211,0.377 acres,
+https://www.zillow.com/homedetails/619-Edgedale-Dr-Dallas-TX-75232/26855456_zpid/,26855456,,SINGLE FAMILY,"$215,000",619 Edgedale Dr,Dallas,TX,75232,3,2,1278,7840.8 sqft,1800
+https://www.zillow.com/homedetails/4625-Willow-Ln-Dallas-TX-75244/26881845_zpid/,26881845,,SINGLE FAMILY,"$1,099,000",4625 Willow Ln,Dallas,TX,75244,5,3,2997,0.376 acres,6722
+https://www.zillow.com/homedetails/567-Peavy-Rd-Dallas-TX-75218/26747230_zpid/,26747230,,SINGLE FAMILY,"$475,000",567 Peavy Rd,Dallas,TX,75218,2,2,1473,9278.28 sqft,3057
+https://www.zillow.com/homedetails/10909-Ridgemeadow-Dr-Dallas-TX-75218/26858882_zpid/,26858882,,SINGLE FAMILY,"$1,125,000",10909 Ridgemeadow Dr,Dallas,TX,75218,5,4,2921,8537.76 sqft,
+https://www.zillow.com/homedetails/11490-Audelia-Rd-APT-227-Dallas-TX-75243/26864075_zpid/,26864075,,CONDO,"$155,900",11490 Audelia Rd APT 227,Dallas,TX,75243,2,2,1087,930 acres,1568
+https://www.zillow.com/homedetails/17515-Torrey-Pine-Dr-Dallas-TX-75287/26648863_zpid/,26648863,,SINGLE FAMILY,"$1,495,000",17515 Torrey Pine Dr,Dallas,TX,75287,4,4,4671,0.27 acres,7060
+https://www.zillow.com/homedetails/1126-Cordova-St-Dallas-TX-75223/26696229_zpid/,26696229,,SINGLE FAMILY,"$649,900",1126 Cordova St,Dallas,TX,75223,3,2,1649,8407.08 sqft,4173
+https://www.zillow.com/homedetails/13426-Mill-Grove-Ln-Dallas-TX-75240/26851878_zpid/,26851878,,SINGLE FAMILY,"$665,000",13426 Mill Grove Ln,Dallas,TX,75240,4,3,2540,9757.44 sqft,3361
+https://www.zillow.com/homedetails/4839-Junius-St-Dallas-TX-75246/26678977_zpid/,26678977,,SINGLE FAMILY,"$699,000",4839 Junius St,Dallas,TX,75246,3,3,2784,7623 sqft,4705
+https://www.zillow.com/homedetails/8750-Park-Ln-APT-151-Dallas-TX-75231/2083304167_zpid/,2083304167,,TOWNHOUSE,"$195,500",8750 Park Ln APT 151,Dallas,TX,75231,2,2,1257,2.126 acres,
+https://www.zillow.com/homedetails/3633-Oak-Lawn-Ave-Dallas-TX-75219/55826199_zpid/,55826199,,TOWNHOUSE,"$849,000",3633 Oak Lawn Ave,Dallas,TX,75219,2,3,2490,2265.12 sqft,3732
+https://www.zillow.com/homedetails/6407-Laurel-Valley-Rd-Dallas-TX-75248/26889435_zpid/,26889435,,SINGLE FAMILY,"$940,000",6407 Laurel Valley Rd,Dallas,TX,75248,5,4,3073,10585.08 sqft,5697
+https://www.zillow.com/homedetails/16710-Cleary-Cir-Dallas-TX-75248/26913027_zpid/,26913027,,SINGLE FAMILY,"$415,000",16710 Cleary Cir,Dallas,TX,75248,2,2,1679,5009.4 sqft,2858
+https://www.zillow.com/homedetails/11490-Audelia-Rd-APT-224-Dallas-TX-75243/26864072_zpid/,26864072,,CONDO,"$100,000",11490 Audelia Rd APT 224,Dallas,TX,75243,2,2,985,9.993 acres,1578
+https://www.zillow.com/homedetails/4910-W-Amherst-Ave-Dallas-TX-75209/26734706_zpid/,26734706,,SINGLE FAMILY,"$975,000",4910 W Amherst Ave,Dallas,TX,75209,2,2,1750,7318.08 sqft,3906
+https://www.zillow.com/homedetails/6019-Ridgecrest-Rd-APT-201A-Dallas-TX-75231/26739338_zpid/,26739338,,CONDO,"$105,000",6019 Ridgecrest Rd APT 201A,Dallas,TX,75231,2,2,984,0.783 acres,1627
+https://www.zillow.com/homedetails/5837-Llano-Ave-Dallas-TX-75206/448081805_zpid/,448081805,,SINGLE FAMILY,"$1,490,000",5837 Llano Ave,Dallas,TX,75206,5,4,3636,7013.16 sqft,
+https://www.zillow.com/homedetails/9940-Kirkhaven-Dr-Dallas-TX-75238/26865300_zpid/,26865300,,SINGLE FAMILY,"$633,000",9940 Kirkhaven Dr,Dallas,TX,75238,4,2,2064,8450.64 sqft,3391
+https://www.zillow.com/homedetails/13833-Indian-Wells-Rd-Dallas-TX-75253/26897224_zpid/,26897224,,SINGLE FAMILY,"$349,990",13833 Indian Wells Rd,Dallas,TX,75253,5,3,3063,0.404 acres,2922
+https://www.zillow.com/homedetails/2200-Victory-Ave-APT-1105-Dallas-TX-75219/83995116_zpid/,83995116,,CONDO,"$695,000",2200 Victory Ave APT 1105,Dallas,TX,75219,1,2,1528,1.233 acres,4358
+https://www.zillow.com/homedetails/841-Lake-Terrace-Cir-Dallas-TX-75218/26786536_zpid/,26786536,,SINGLE FAMILY,"$509,900",841 Lake Terrace Cir,Dallas,TX,75218,3,2,1340,9365.4 sqft,2551
+https://www.zillow.com/homedetails/7123-Vivian-Ave-Dallas-TX-75223/26700488_zpid/,26700488,,SINGLE FAMILY,"$849,999",7123 Vivian Ave,Dallas,TX,75223,3,2,2070,7187.4 sqft,2798
+https://www.zillow.com/homedetails/3322-Royal-Ln-Dallas-TX-75229/26808160_zpid/,26808160,,SINGLE FAMILY,"$899,000",3322 Royal Ln,Dallas,TX,75229,4,3,2848,0.261 acres,4573
+https://www.zillow.com/homedetails/7319-Rutgers-Dr-Dallas-TX-75214/26749704_zpid/,26749704,,SINGLE FAMILY,"$629,000",7319 Rutgers Dr,Dallas,TX,75214,3,2,1606,7492.32 sqft,3200
+https://www.zillow.com/homedetails/1321-Lucchese-Ln-Dallas-TX-75253/96535947_zpid/,96535947,,SINGLE FAMILY,"$315,000",1321 Lucchese Ln,Dallas,TX,75253,4,3,2105,5749.92 sqft,2532
+https://www.zillow.com/homedetails/10649-Sylvia-Dr-Dallas-TX-75228/26742199_zpid/,26742199,,SINGLE FAMILY,"$399,900",10649 Sylvia Dr,Dallas,TX,75228,3,2,1538,7492.32 sqft,2240
+https://www.zillow.com/homedetails/1310-Grigsby-Ave-Dallas-TX-75204/69674986_zpid/,69674986,,SINGLE FAMILY,"$485,000",1310 Grigsby Ave,Dallas,TX,75204,3,3,1598,3136.32 sqft,
+https://www.zillow.com/homedetails/1720-Mapleton-Dr-Dallas-TX-75228/26847253_zpid/,26847253,,SINGLE FAMILY,"$457,000",1720 Mapleton Dr,Dallas,TX,75228,3,2,1794,10585.08 sqft,2574
+https://www.zillow.com/homedetails/6227-Lakeshore-Dr-Dallas-TX-75214/26693870_zpid/,26693870,,SINGLE FAMILY,"$840,000",6227 Lakeshore Dr,Dallas,TX,75214,3,3,2422,7492.32 sqft,5384
+https://www.zillow.com/homedetails/5735-Belmont-Ave-Dallas-TX-75206/26689661_zpid/,26689661,,SINGLE FAMILY,"$1,050,000",5735 Belmont Ave,Dallas,TX,75206,4,3,2650,0.28400000000000003 acres,6084
+https://www.zillow.com/homedetails/1022-N-Edgefield-Ave-Dallas-TX-75208/26717404_zpid/,26717404,,SINGLE FAMILY,"$549,000",1022 N Edgefield Ave,Dallas,TX,75208,3,1,2086,7753.68 sqft,3499
+https://www.zillow.com/homedetails/4136-Rainsong-Dr-Dallas-TX-75287/26639504_zpid/,26639504,,SINGLE FAMILY,"$850,000",4136 Rainsong Dr,Dallas,TX,75287,4,4,3526,9147.6 sqft,5056
+https://www.zillow.com/homedetails/5800-Still-Forest-Dr-Dallas-TX-75252/53072022_zpid/,53072022,,SINGLE FAMILY,"$925,000",5800 Still Forest Dr,Dallas,TX,75252,4,4,3432,9583.2 sqft,5946
+https://www.zillow.com/homedetails/610-Dogwood-Trl-Dallas-TX-75224/26772532_zpid/,26772532,,SINGLE FAMILY,"$279,500",610 Dogwood Trl,Dallas,TX,75224,4,2,1400,7405.2 sqft,1604
+https://www.zillow.com/homedetails/7160-Winterberry-Dr-Dallas-TX-75249/26893093_zpid/,26893093,,SINGLE FAMILY,"$289,999",7160 Winterberry Dr,Dallas,TX,75249,3,2,1453,9496.08 sqft,1826
+https://www.zillow.com/homedetails/17812-Cypress-Falls-Dr-Dallas-TX-75287/27292052_zpid/,27292052,,SINGLE FAMILY,"$520,000",17812 Cypress Falls Dr,Dallas,TX,75287,4,4,2906,7492.32 sqft,4572
+https://www.zillow.com/homedetails/4117-Moler-St-Dallas-TX-75211/26736853_zpid/,26736853,,SINGLE FAMILY,"$309,000",4117 Moler St,Dallas,TX,75211,3,2,1104,6272.64 sqft,2027
+https://www.zillow.com/homedetails/3603-High-Bluff-Dr-Dallas-TX-75234/26813560_zpid/,26813560,,SINGLE FAMILY,"$445,000",3603 High Bluff Dr,Dallas,TX,75234,4,3,2382,7744.968 sqft,2965
+https://www.zillow.com/homedetails/411-Hillvale-Dr-Dallas-TX-75241/26776365_zpid/,26776365,,SINGLE FAMILY,"$200,000",411 Hillvale Dr,Dallas,TX,75241,3,2,1610,10585.08 sqft,2032
+https://www.zillow.com/homedetails/5315-Manett-St-Dallas-TX-75206/26691726_zpid/,26691726,,SINGLE FAMILY,"$1,350,000",5315 Manett St,Dallas,TX,75206,3,4,3227,4748.04 sqft,5924
+https://www.zillow.com/homedetails/15311-Leavalley-Dr-Dallas-TX-75248/26872279_zpid/,26872279,,SINGLE FAMILY,"$1,050,000",15311 Leavalley Dr,Dallas,TX,75248,5,4,3307,0.303 acres,
+https://www.zillow.com/homedetails/12916-Jennifer-Pl-Dallas-TX-75243/26882951_zpid/,26882951,,SINGLE FAMILY,"$460,000",12916 Jennifer Pl,Dallas,TX,75243,4,3,2253,9578.844 sqft,4768
+https://www.zillow.com/homedetails/4726-Swiss-Ave-Dallas-TX-75204/61869582_zpid/,61869582,,SINGLE FAMILY,"$839,000",4726 Swiss Ave,Dallas,TX,75204,3,3,2528,7492.32 sqft,4943
+https://www.zillow.com/homedetails/315-N-Marlborough-Ave-Dallas-TX-75208/26710381_zpid/,26710381,,SINGLE FAMILY,"$275,000",315 N Marlborough Ave,Dallas,TX,75208,2,1,1132,9234.72 sqft,2066
+https://www.zillow.com/homedetails/7031-Holly-Hill-Dr-APT-4-Dallas-TX-75231/26738962_zpid/,26738962,,TOWNHOUSE,"$265,000",7031 Holly Hill Dr APT 4,Dallas,TX,75231,2,3,1283,1.265 acres,1958
+https://www.zillow.com/homedetails/6622-Brentfield-Dr-Dallas-TX-75248/26889546_zpid/,26889546,,SINGLE FAMILY,"$775,000",6622 Brentfield Dr,Dallas,TX,75248,4,3,2721,8363.52 sqft,3815
+https://www.zillow.com/homedetails/4736-Holly-Tree-Dr-Dallas-TX-75287/26645690_zpid/,26645690,,SINGLE FAMILY,"$1,550,000",4736 Holly Tree Dr,Dallas,TX,75287,5,5,4113,8712 sqft,4890
+https://www.zillow.com/homedetails/6251-Palo-Pinto-Ave-Dallas-TX-75214/26693900_zpid/,26693900,,SINGLE FAMILY,"$675,000",6251 Palo Pinto Ave,Dallas,TX,75214,3,2,1655,7500 sqft,4102
+https://www.zillow.com/homedetails/3037-Grafton-Ave-Dallas-TX-75211/26734047_zpid/,26734047,,SINGLE FAMILY,"$266,000",3037 Grafton Ave,Dallas,TX,75211,3,2,1312,5880.6 sqft,1947
+https://www.zillow.com/homedetails/7219-Claybrook-Dr-Dallas-TX-75231/26867834_zpid/,26867834,,SINGLE FAMILY,"$750,000",7219 Claybrook Dr,Dallas,TX,75231,3,3,2394,8537.76 sqft,
+https://www.zillow.com/homedetails/7715-La-Cosa-Dr-Dallas-TX-75248/26874277_zpid/,26874277,,SINGLE FAMILY,"$714,500",7715 La Cosa Dr,Dallas,TX,75248,4,3,2383,8624.88 sqft,4649
+https://www.zillow.com/homedetails/2650-Sutton-St-Dallas-TX-75210/26688587_zpid/,26688587,,SINGLE FAMILY,"$249,000",2650 Sutton St,Dallas,TX,75210,3,3,1604,4007.52 sqft,1345
+https://www.zillow.com/homedetails/4414-Ridgeside-Dr-Dallas-TX-75244/26857919_zpid/,26857919,,SINGLE FAMILY,"$1,050,000",4414 Ridgeside Dr,Dallas,TX,75244,4,4,3506,0.37900000000000006 acres,5564
+https://www.zillow.com/homedetails/3535-Michigan-Ave-Dallas-TX-75216/26774825_zpid/,26774825,,SINGLE FAMILY,"$250,000",3535 Michigan Ave,Dallas,TX,75216,3,2,1150,4704.48 sqft,
+https://www.zillow.com/homedetails/5805-Lindell-Ave-UNIT-101-Dallas-TX-75206/303983671_zpid/,303983671,,CONDO,"$519,000",5805 Lindell Ave UNIT 101,Dallas,TX,75206,2,3,1463,7187.4 sqft,3251
+https://www.zillow.com/homedetails/6611-Harvest-Glen-Dr-Dallas-TX-75248/26872768_zpid/,26872768,,SINGLE FAMILY,"$1,520,000",6611 Harvest Glen Dr,Dallas,TX,75248,4,4,3971,0.361 acres,6592
+https://www.zillow.com/homedetails/616-Newell-Ave-Dallas-TX-75223/26700758_zpid/,26700758,,SINGLE FAMILY,"$1,275,000",616 Newell Ave,Dallas,TX,75223,3,2,1699,0.298 acres,
+https://www.zillow.com/homedetails/5931-Kenwood-Ave-Dallas-TX-75206/26703900_zpid/,26703900,,SINGLE FAMILY,"$1,350,000",5931 Kenwood Ave,Dallas,TX,75206,5,5,3825,6098.4 sqft,
+https://www.zillow.com/homedetails/1110-Haines-Ave-Dallas-TX-75208/80239789_zpid/,80239789,,SINGLE FAMILY,"$775,000",1110 Haines Ave,Dallas,TX,75208,3,2,2007,7884.36 sqft,
+https://www.zillow.com/homedetails/5431-Merrimac-Ave-Dallas-TX-75206/26695848_zpid/,26695848,,SINGLE FAMILY,"$1,250,000",5431 Merrimac Ave,Dallas,TX,75206,3,2,2804,7797.24 sqft,6801
+https://www.zillow.com/homedetails/6026-Meadowcreek-Dr-Dallas-TX-75248/26872027_zpid/,26872027,,SINGLE FAMILY,"$1,325,000",6026 Meadowcreek Dr,Dallas,TX,75248,5,6,4056,0.727 acres,7499
+https://www.zillow.com/homedetails/3245-Dartmoor-Ct-Dallas-TX-75229/26809632_zpid/,26809632,,SINGLE FAMILY,"$1,249,000",3245 Dartmoor Ct,Dallas,TX,75229,4,4,4139,0.36 acres,5433
+https://www.zillow.com/homedetails/2640-Heatherwood-Dr-Dallas-TX-75228/26847304_zpid/,26847304,,SINGLE FAMILY,"$599,000",2640 Heatherwood Dr,Dallas,TX,75228,3,3,2236,8232.84 sqft,2860
+https://www.zillow.com/homedetails/3105-Pastor-St-Dallas-TX-75212/96501075_zpid/,96501075,,SINGLE FAMILY,"$785,000",3105 Pastor St,Dallas,TX,75212,4,3,2656,3876.84 sqft,3492
+https://www.zillow.com/homedetails/3916-Granbury-Dr-Dallas-TX-75287/27291567_zpid/,27291567,,SINGLE FAMILY,"$569,950",3916 Granbury Dr,Dallas,TX,75287,4,4,2375,7492.32 sqft,4497
+https://www.zillow.com/homedetails/5819-Vanderbilt-Ave-Dallas-TX-75206/26694777_zpid/,26694777,,SINGLE FAMILY,"$849,000",5819 Vanderbilt Ave,Dallas,TX,75206,4,3,2412,8494.2 sqft,5789
+https://www.zillow.com/homedetails/6837-Trammel-Dr-Dallas-TX-75214/26750110_zpid/,26750110,,SINGLE FAMILY,"$489,900",6837 Trammel Dr,Dallas,TX,75214,2,2,1337,7535.88 sqft,3425
+https://www.zillow.com/homedetails/9410-Fieldcrest-Dr-Dallas-TX-75238/26866827_zpid/,26866827,,SINGLE FAMILY,"$775,000",9410 Fieldcrest Dr,Dallas,TX,75238,4,3,2605,7797.24 sqft,3720
+https://www.zillow.com/homedetails/5626-Riverside-Dr-Dallas-TX-75235/303980793_zpid/,303980793,,SINGLE FAMILY,"$450,000",5626 Riverside Dr,Dallas,TX,75235,3,2,2220,6751.8 sqft,3809
+https://www.zillow.com/homedetails/11417-Park-Central-Pl-Dallas-TX-75230/26838194_zpid/,26838194,,SINGLE FAMILY,"$1,099,900",11417 Park Central Pl,Dallas,TX,75230,6,6,4271,0.29 acres,3351
+https://www.zillow.com/homedetails/10832-Cinderella-Ln-Dallas-TX-75229/26789483_zpid/,26789483,,SINGLE FAMILY,"$997,000",10832 Cinderella Ln,Dallas,TX,75229,3,2,1930,0.368 acres,4782
+https://www.zillow.com/homedetails/10678-Le-Mans-Dr-Dallas-TX-75238/26832032_zpid/,26832032,,SINGLE FAMILY,"$480,000",10678 Le Mans Dr,Dallas,TX,75238,3,2,1613,8746.848 sqft,2993
+https://www.zillow.com/homedetails/4942-Thunder-Rd-Dallas-TX-75244/26881511_zpid/,26881511,,SINGLE FAMILY,"$610,000",4942 Thunder Rd,Dallas,TX,75244,5,4,3200,4225.32 sqft,4672
+https://www.zillow.com/homedetails/15627-Golden-Creek-Rd-Dallas-TX-75248/26887149_zpid/,26887149,,SINGLE FAMILY,"$755,000",15627 Golden Creek Rd,Dallas,TX,75248,4,3,2590,7884.36 sqft,3689
+https://www.zillow.com/homedetails/9974-Witham-St-Dallas-TX-75220/26787502_zpid/,26787502,,SINGLE FAMILY,"$1,050,000",9974 Witham St,Dallas,TX,75220,5,6,4561,7797.24 sqft,7046
+https://www.zillow.com/homedetails/3923-Cole-Ave-301-Dallas-TX-75204/248831228_zpid/,248831228,,CONDO,"$895,000",3923 Cole Ave #301,Dallas,TX,75204,2,2,1958,0.327 acres,4818
+https://www.zillow.com/homedetails/6900-Skillman-St-APT-102-Dallas-TX-75231/26867073_zpid/,26867073,,CONDO,"$140,000",6900 Skillman St APT 102,Dallas,TX,75231,1,1,565,3.88 acres,
+https://www.zillow.com/homedetails/5620-Victor-St-Dallas-TX-75214/26684168_zpid/,26684168,,SINGLE FAMILY,"$499,995",5620 Victor St,Dallas,TX,75214,4,3,2400,7501.032 sqft,4105
+https://www.zillow.com/homedetails/3739-N-Versailles-Ave-Dallas-TX-75209/26698911_zpid/,26698911,,SINGLE FAMILY,"$1,500,000",3739 N Versailles Ave,Dallas,TX,75209,5,6,5242,8886.24 sqft,4433
+https://www.zillow.com/homedetails/10541-Barrywood-Dr-Dallas-TX-75230/26838973_zpid/,26838973,,SINGLE FAMILY,"$485,000",10541 Barrywood Dr,Dallas,TX,75230,3,2,1984,6359.76 sqft,3526
+https://www.zillow.com/homedetails/7015-Vivian-Ave-Dallas-TX-75223/26700646_zpid/,26700646,,SINGLE FAMILY,"$630,000",7015 Vivian Ave,Dallas,TX,75223,2,1,1254,7884.36 sqft,1946
+https://www.zillow.com/homedetails/3320-High-Lark-Dr-Dallas-TX-75234/26813133_zpid/,26813133,,SINGLE FAMILY,"$449,999",3320 High Lark Dr,Dallas,TX,75234,3,2,1504,7710.12 sqft,2542
+https://www.zillow.com/homedetails/5931-Mapleshade-Ln-Dallas-TX-75252/26586933_zpid/,26586933,,SINGLE FAMILY,"$998,000",5931 Mapleshade Ln,Dallas,TX,75252,4,3,3571,0.31 acres,4767
+https://www.zillow.com/homedetails/11011-Milhof-Dr-Dallas-TX-75228/26845251_zpid/,26845251,,SINGLE FAMILY,"$525,000",11011 Milhof Dr,Dallas,TX,75228,3,2,2054,0.281 acres,2484
+https://www.zillow.com/homedetails/16302-Shadybank-Dr-Dallas-TX-75248/26889951_zpid/,26889951,,SINGLE FAMILY,"$1,049,000",16302 Shadybank Dr,Dallas,TX,75248,4,4,3762,0.309 acres,5453
+https://www.zillow.com/homedetails/7212-Claybrook-Dr-Dallas-TX-75231/26867800_zpid/,26867800,,SINGLE FAMILY,"$739,000",7212 Claybrook Dr,Dallas,TX,75231,4,3,2284,8581.32 sqft,3647
+https://www.zillow.com/homedetails/9306-Ferndale-Rd-Dallas-TX-75238/26843784_zpid/,26843784,,SINGLE FAMILY,"$599,900",9306 Ferndale Rd,Dallas,TX,75238,3,3,1905,7710.12 sqft,4127
+https://www.zillow.com/homedetails/17174-Yellow-Bells-Dr-Dallas-TX-75252/303981945_zpid/,303981945,,SINGLE FAMILY,"$815,000",17174 Yellow Bells Dr,Dallas,TX,75252,4,4,2941,5749.92 sqft,4936
+https://www.zillow.com/homedetails/1507-Abrams-Rd-Dallas-TX-75214/26685872_zpid/,26685872,,SINGLE FAMILY,"$750,000",1507 Abrams Rd,Dallas,TX,75214,3,4,3206,7318.08 sqft,
+https://www.zillow.com/homedetails/2703-Marjorie-Ave-Dallas-TX-75216/26737888_zpid/,26737888,,SINGLE FAMILY,"$115,000",2703 Marjorie Ave,Dallas,TX,75216,3,1,1320,8842.68 sqft,1464
+https://www.zillow.com/homedetails/2616-Pasadena-Pl-Dallas-TX-75214/26701077_zpid/,26701077,,SINGLE FAMILY,"$1,225,000",2616 Pasadena Pl,Dallas,TX,75214,3,2,1973,0.27 acres,4439
+https://www.zillow.com/homedetails/9254-Forest-Ln-APT-105-Dallas-TX-75243/2120297011_zpid/,2120297011,,SINGLE FAMILY,"$169,900",9254 Forest Ln APT 105,Dallas,TX,75243,3,2,1189,4356 sqft,1786
+https://www.zillow.com/homedetails/3110-Sunny-Brae-Dr-Dallas-TX-75204/96498015_zpid/,96498015,,TOWNHOUSE,"$529,900",3110 Sunny Brae Dr,Dallas,TX,75204,3,3,1906,1306.8 sqft,
+https://www.zillow.com/homedetails/9683-Whitehurst-Dr-Dallas-TX-75243/26869045_zpid/,26869045,,SINGLE FAMILY,"$749,900",9683 Whitehurst Dr,Dallas,TX,75243,5,3,3324,10672.2 sqft,4760
+https://www.zillow.com/homedetails/5219-Boca-Raton-Dr-Dallas-TX-75229/26803926_zpid/,26803926,,SINGLE FAMILY,"$1,295,000",5219 Boca Raton Dr,Dallas,TX,75229,4,5,3402,0.368 acres,
+https://www.zillow.com/homedetails/17828-Cedar-Creek-Canyon-Dr-Dallas-TX-75252/26608850_zpid/,26608850,,SINGLE FAMILY,"$1,310,000",17828 Cedar Creek Canyon Dr,Dallas,TX,75252,5,5,4563,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/5702-Glen-Heather-Dr-Dallas-TX-75252/26599354_zpid/,26599354,,SINGLE FAMILY,"$1,325,000",5702 Glen Heather Dr,Dallas,TX,75252,4,5,3803,10018.8 sqft,6516
+https://www.zillow.com/homedetails/627-N-Hampton-Rd-Dallas-TX-75208/95016544_zpid/,95016544,,SINGLE FAMILY,"$400,000",627 N Hampton Rd,Dallas,TX,75208,4,3,1575,9844.56 sqft,3377
+https://www.zillow.com/homedetails/3611-Marsh-Lane-Pl-Dallas-TX-75220/26787721_zpid/,26787721,,SINGLE FAMILY,"$625,000",3611 Marsh Lane Pl,Dallas,TX,75220,3,3,2512,10846.44 sqft,
+https://www.zillow.com/homedetails/3227-Elizabeth-St-Dallas-TX-75204/26683298_zpid/,26683298,,CONDO,"$497,000",3227 Elizabeth St,Dallas,TX,75204,2,3,1450,0.828 acres,3087
+https://www.zillow.com/homedetails/309-S-Montclair-Ave-Dallas-TX-75208/26710101_zpid/,26710101,,SINGLE FAMILY,"$799,000",309 S Montclair Ave,Dallas,TX,75208,4,4,3312,7535.88 sqft,5939
+https://www.zillow.com/homedetails/5102-Goodwin-Ave-Dallas-TX-75206/26690940_zpid/,26690940,,SINGLE FAMILY,"$849,900",5102 Goodwin Ave,Dallas,TX,75206,3,4,2400,8015.04 sqft,5964
+https://www.zillow.com/homedetails/6650-Santa-Anita-Dr-Dallas-TX-75214/26749574_zpid/,26749574,,SINGLE FAMILY,"$715,000",6650 Santa Anita Dr,Dallas,TX,75214,3,2,1805,8973.36 sqft,3498
+https://www.zillow.com/homedetails/7716-Roundrock-Rd-Dallas-TX-75248/26871377_zpid/,26871377,,SINGLE FAMILY,"$799,900",7716 Roundrock Rd,Dallas,TX,75248,4,3,2247,0.304 acres,3894
+https://www.zillow.com/homedetails/6810-Rocky-Top-Cir-Dallas-TX-75252/26591197_zpid/,26591197,,SINGLE FAMILY,"$700,000",6810 Rocky Top Cir,Dallas,TX,75252,4,4,3103,0.33999999999999997 acres,3473
+https://www.zillow.com/homedetails/4510-Sycamore-St-Dallas-TX-75204/2075666786_zpid/,2075666786,,SINGLE FAMILY,"$774,000",4510 Sycamore St,Dallas,TX,75204,4,3,2899,6098.4 sqft,6386
+https://www.zillow.com/homedetails/6619-Aintree-Cir-Dallas-TX-75214/26750286_zpid/,26750286,,SINGLE FAMILY,"$715,000",6619 Aintree Cir,Dallas,TX,75214,3,3,1783,8537.76 sqft,
+https://www.zillow.com/homedetails/10305-Robindale-Dr-Dallas-TX-75238/26865365_zpid/,26865365,,SINGLE FAMILY,"$650,000",10305 Robindale Dr,Dallas,TX,75238,4,2,2219,8319.96 sqft,
+https://www.zillow.com/homedetails/3235-Cole-Ave-85-Dallas-TX-75204/26935558_zpid/,26935558,,CONDO,"$425,000",3235 Cole Ave #85,Dallas,TX,75204,2,3,1678,1.248 acres,3570
+https://www.zillow.com/homedetails/9415-Hillview-Dr-Dallas-TX-75231/26868671_zpid/,26868671,,SINGLE FAMILY,"$1,175,000",9415 Hillview Dr,Dallas,TX,75231,4,3,2763,0.27299999999999996 acres,5809
+https://www.zillow.com/homedetails/7046-Gaston-Ave-Dallas-TX-75214/26701194_zpid/,26701194,,SINGLE FAMILY,"$795,000",7046 Gaston Ave,Dallas,TX,75214,2,2,1633,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/6443-Velasco-Ave-Dallas-TX-75214/162187485_zpid/,162187485,,SINGLE FAMILY,"$1,175,000",6443 Velasco Ave,Dallas,TX,75214,4,3,2490,7274.52 sqft,5196
+https://www.zillow.com/homedetails/9020-Rock-Valley-Cv-Dallas-TX-75238/26912708_zpid/,26912708,,SINGLE FAMILY,"$650,000",9020 Rock Valley Cv,Dallas,TX,75238,4,3,2481,4573.8 sqft,3830
+https://www.zillow.com/homedetails/5927-Bent-Creek-Trl-Dallas-TX-75252/26586759_zpid/,26586759,,SINGLE FAMILY,"$975,000",5927 Bent Creek Trl,Dallas,TX,75252,5,5,3720,0.38 acres,4721
+https://www.zillow.com/homedetails/509-Elm-St-504-Dallas-TX-75202/53390346_zpid/,53390346,,CONDO,"$485,000",509 Elm St #504,Dallas,TX,75202,2,2,1550,1 acres,2305
+https://www.zillow.com/homedetails/6536-Prairie-Flower-Trl-Dallas-TX-75227/96511517_zpid/,96511517,,SINGLE FAMILY,"$500,000",6536 Prairie Flower Trl,Dallas,TX,75227,4,4,2757,7492.32 sqft,
+https://www.zillow.com/homedetails/9217-Livenshire-Dr-Dallas-TX-75238/26843876_zpid/,26843876,,SINGLE FAMILY,"$650,000",9217 Livenshire Dr,Dallas,TX,75238,4,3,1729,8692 sqft,3205
+https://www.zillow.com/homedetails/7048-Aspen-Creek-Ln-Dallas-TX-75252/53095997_zpid/,53095997,,SINGLE FAMILY,"$444,900",7048 Aspen Creek Ln,Dallas,TX,75252,3,2,2135,5662.8 sqft,2848
+https://www.zillow.com/homedetails/4115-Lakehurst-Ct-Dallas-TX-75211/162221703_zpid/,162221703,,MULTI FAMILY,"$450,000",4115 Lakehurst Ct,Dallas,TX,75211,10,4,2552,7470.54 sqft,2453
+https://www.zillow.com/homedetails/439-Avenue-F-Dallas-TX-75203/26768825_zpid/,26768825,,SINGLE FAMILY,"$180,000",439 Avenue F,Dallas,TX,75203,3,2,1200,6446.88 sqft,
+https://www.zillow.com/homedetails/15710-Nedra-Way-Dallas-TX-75248/26890082_zpid/,26890082,,SINGLE FAMILY,"$1,199,500",15710 Nedra Way,Dallas,TX,75248,5,4,3204,7840.8 sqft,
+https://www.zillow.com/homedetails/6003-Ellsworth-Ave-Dallas-TX-75206/26703691_zpid/,26703691,,SINGLE FAMILY,"$750,000",6003 Ellsworth Ave,Dallas,TX,75206,3,2,1400,5837.04 sqft,3260
+https://www.zillow.com/homedetails/6926-Lindsley-Ave-Dallas-TX-75223/26700623_zpid/,26700623,,SINGLE FAMILY,"$839,000",6926 Lindsley Ave,Dallas,TX,75223,3,2,1605,7274.52 sqft,2360
+https://www.zillow.com/homedetails/3125-Waldrop-Dr-Dallas-TX-75229/26811191_zpid/,26811191,,SINGLE FAMILY,"$499,900",3125 Waldrop Dr,Dallas,TX,75229,4,4,2410,0.251 acres,
+https://www.zillow.com/homedetails/9662-Ferndale-Rd-Dallas-TX-75238/26854081_zpid/,26854081,,SINGLE FAMILY,"$520,000",9662 Ferndale Rd,Dallas,TX,75238,3,2,1748,9365.4 sqft,3167
+https://www.zillow.com/homedetails/13414-Belmark-Cir-Dallas-TX-75243/26882791_zpid/,26882791,,SINGLE FAMILY,"$434,900",13414 Belmark Cir,Dallas,TX,75243,3,3,2149,8624.88 sqft,3118
+https://www.zillow.com/homedetails/1200-Main-St-APT-701-Dallas-TX-75202/80224298_zpid/,80224298,,CONDO,"$449,750",1200 Main St APT 701,Dallas,TX,75202,3,3,1551,1.033 acres,3042
+https://www.zillow.com/homedetails/5203-Ridgedale-Ave-Dallas-TX-75206/26695510_zpid/,26695510,,SINGLE FAMILY,"$905,000",5203 Ridgedale Ave,Dallas,TX,75206,3,2,1697,7248.384 sqft,4684
+https://www.zillow.com/homedetails/4242-Travis-St-APT-111-Dallas-TX-75205/26898281_zpid/,26898281,,TOWNHOUSE,"$524,900",4242 Travis St APT 111,Dallas,TX,75205,2,3,1328,1132.56 sqft,
+https://www.zillow.com/homedetails/5740-Llano-Ave-Dallas-TX-75206/26689506_zpid/,26689506,,MULTI FAMILY,"$1,089,900",5740 Llano Ave,Dallas,TX,75206,7,4,2045,7753.68 sqft,6629
+https://www.zillow.com/homedetails/2010-Mayflower-Dr-Dallas-TX-75208/26728442_zpid/,26728442,,SINGLE FAMILY,"$1,250,000",2010 Mayflower Dr,Dallas,TX,75208,4,4,2638,7361.64 sqft,
+https://www.zillow.com/homedetails/7338-Walling-Ln-Dallas-TX-75231/26902849_zpid/,26902849,,SINGLE FAMILY,"$705,000",7338 Walling Ln,Dallas,TX,75231,4,4,2799,0.35 acres,2210
+https://www.zillow.com/homedetails/3306-Lockmoor-Ln-Dallas-TX-75220/26810533_zpid/,26810533,,SINGLE FAMILY,"$429,900",3306 Lockmoor Ln,Dallas,TX,75220,3,2,1679,10497.96 sqft,2777
+https://www.zillow.com/homedetails/5253-Bonita-Ave-Dallas-TX-75206/26691691_zpid/,26691691,,SINGLE FAMILY,"$1,449,000",5253 Bonita Ave,Dallas,TX,75206,5,6,4403,4748.04 sqft,7841
+https://www.zillow.com/homedetails/6018-Blue-Bay-Dr-Dallas-TX-75248/26872833_zpid/,26872833,,SINGLE FAMILY,"$524,900",6018 Blue Bay Dr,Dallas,TX,75248,4,3,1731,10062.36 sqft,3516
+https://www.zillow.com/homedetails/10027-Silvertree-Dr-Dallas-TX-75243/26883386_zpid/,26883386,,SINGLE FAMILY,"$620,000",10027 Silvertree Dr,Dallas,TX,75243,4,3,3247,10672.2 sqft,3747
+https://www.zillow.com/homedetails/9357-Creel-Creek-Dr-Dallas-TX-75228/26840194_zpid/,26840194,,SINGLE FAMILY,"$919,000",9357 Creel Creek Dr,Dallas,TX,75228,4,5,3276,10802.88 sqft,5472
+https://www.zillow.com/homedetails/7506-W-Northwest-Hwy-APT-9-Dallas-TX-75225/26751767_zpid/,26751767,,CONDO,"$495,000",7506 W Northwest Hwy APT 9,Dallas,TX,75225,3,3,1522,3.072 acres,
+https://www.zillow.com/homedetails/6135-Marquita-Ave-Dallas-TX-75214/26702599_zpid/,26702599,,SINGLE FAMILY,"$1,350,000",6135 Marquita Ave,Dallas,TX,75214,4,3,3362,9365.4 sqft,5602
+https://www.zillow.com/homedetails/16114-Shadybank-Dr-Dallas-TX-75248/26889936_zpid/,26889936,,SINGLE FAMILY,"$799,000",16114 Shadybank Dr,Dallas,TX,75248,4,3,2883,9321.84 sqft,4774
+https://www.zillow.com/homedetails/5715-Preston-Fairways-Dr-Dallas-TX-75252/53077436_zpid/,53077436,,SINGLE FAMILY,"$895,000",5715 Preston Fairways Dr,Dallas,TX,75252,2,4,3876,9147.6 sqft,4893
+https://www.zillow.com/homedetails/1066-N-Buckner-Blvd-Dallas-TX-75218/26744349_zpid/,26744349,,SINGLE FAMILY,"$875,000",1066 N Buckner Blvd,Dallas,TX,75218,4,4,3128,0.467 acres,4893
+https://www.zillow.com/homedetails/17327-Davenport-Rd-Dallas-TX-75248/26876041_zpid/,26876041,,SINGLE FAMILY,"$1,295,000",17327 Davenport Rd,Dallas,TX,75248,4,4,4148,0.33999999999999997 acres,6752
+https://www.zillow.com/homedetails/9505-Meadowknoll-Dr-Dallas-TX-75243/26869257_zpid/,26869257,,SINGLE FAMILY,"$639,000",9505 Meadowknoll Dr,Dallas,TX,75243,4,3,2891,8624.88 sqft,3532
+https://www.zillow.com/homedetails/3762-Wenatche-Dr-Dallas-TX-75233/443856551_zpid/,443856551,,SINGLE FAMILY,"$440,000",3762 Wenatche Dr,Dallas,TX,75233,4,4,2900,6011.28 sqft,
+https://www.zillow.com/homedetails/1322-Caldwell-Ave-Dallas-TX-75223/448042399_zpid/,448042399,,MULTI FAMILY,"$490,000",1322 Caldwell Ave,Dallas,TX,75223,8,4,3192,7501.032 sqft,
+https://www.zillow.com/homedetails/6841-Arboreal-Dr-Dallas-TX-75231/26751018_zpid/,26751018,,SINGLE FAMILY,"$650,000",6841 Arboreal Dr,Dallas,TX,75231,4,3,2264,9147.6 sqft,2700
+https://www.zillow.com/homedetails/9601-Faircrest-Dr-Dallas-TX-75238/26866022_zpid/,26866022,,SINGLE FAMILY,"$1,125,000",9601 Faircrest Dr,Dallas,TX,75238,4,4,3915,0.267 acres,
+https://www.zillow.com/homedetails/450-Brookhurst-Dr-Dallas-TX-75218/26786723_zpid/,26786723,,SINGLE FAMILY,"$775,000",450 Brookhurst Dr,Dallas,TX,75218,4,3,2659,8450.64 sqft,3245
+https://www.zillow.com/homedetails/3959-Bowie-Ln-Dallas-TX-75220/336872214_zpid/,336872214,,SINGLE FAMILY,"$730,000",3959 Bowie Ln,Dallas,TX,75220,3,3,2200,2613.6 sqft,
+https://www.zillow.com/homedetails/930-N-Clinton-Ave-Dallas-TX-75208/26712665_zpid/,26712665,,SINGLE FAMILY,"$825,000",930 N Clinton Ave,Dallas,TX,75208,3,3,2152,7405.2 sqft,4897
+https://www.zillow.com/homedetails/8911-Diceman-Dr-Dallas-TX-75218/26740939_zpid/,26740939,,SINGLE FAMILY,"$699,999",8911 Diceman Dr,Dallas,TX,75218,4,3,2314,7927.92 sqft,1656
+https://www.zillow.com/homedetails/6405-Glennox-Ln-Dallas-TX-75214/26749347_zpid/,26749347,,SINGLE FAMILY,"$873,500",6405 Glennox Ln,Dallas,TX,75214,5,4,2871,0.256 acres,
+https://www.zillow.com/homedetails/1934-Kessler-Pkwy-Dallas-TX-75208/26717647_zpid/,26717647,,SINGLE FAMILY,"$824,900",1934 Kessler Pkwy,Dallas,TX,75208,3,2,2372,0.332 acres,3695
+https://www.zillow.com/homedetails/5801-Orchid-Ln-Dallas-TX-75230/26757574_zpid/,26757574,,SINGLE FAMILY,"$850,000",5801 Orchid Ln,Dallas,TX,75230,4,3,3117,5445 sqft,
+https://www.zillow.com/homedetails/5334-Preservation-Ln-Dallas-TX-75236/96513259_zpid/,96513259,,SINGLE FAMILY,"$595,000",5334 Preservation Ln,Dallas,TX,75236,5,4,4238,0.351 acres,4682
+https://www.zillow.com/homedetails/6817-Velasco-Ave-Dallas-TX-75214/26706901_zpid/,26706901,,SINGLE FAMILY,"$1,445,000",6817 Velasco Ave,Dallas,TX,75214,4,3,2839,10628.64 sqft,5527
+https://www.zillow.com/homedetails/6815-Kingshollow-Dr-Dallas-TX-75248/26893711_zpid/,26893711,,SINGLE FAMILY,"$949,400",6815 Kingshollow Dr,Dallas,TX,75248,5,3,3061,8799.12 sqft,4854
+https://www.zillow.com/homedetails/1505-Elm-St-APT-1003-Dallas-TX-75201/67964626_zpid/,67964626,,CONDO,"$419,900",1505 Elm St APT 1003,Dallas,TX,75201,3,3,2045,10018.8 sqft,3660
+https://www.zillow.com/homedetails/1311-Compton-St-Dallas-TX-75203/96515004_zpid/,96515004,,SINGLE FAMILY,"$545,000",1311 Compton St,Dallas,TX,75203,4,3,2236,3179.88 sqft,1675
+https://www.zillow.com/homedetails/5013-Denton-Dr-Dallas-TX-75235/26696958_zpid/,26696958,,SINGLE FAMILY,"$650,000",5013 Denton Dr,Dallas,TX,75235,3,3,2610,6926.04 sqft,2897
+https://www.zillow.com/homedetails/9823-Kilarney-Dr-Dallas-TX-75218/26744274_zpid/,26744274,,SINGLE FAMILY,"$999,999",9823 Kilarney Dr,Dallas,TX,75218,3,3,2868,0.29 acres,5074
+https://www.zillow.com/homedetails/6515-Genstar-Ln-Dallas-TX-75252/53071135_zpid/,53071135,,SINGLE FAMILY,"$575,000",6515 Genstar Ln,Dallas,TX,75252,4,3,2430,7840.8 sqft,3136
+https://www.zillow.com/homedetails/13745-Rolling-Hills-Ln-Dallas-TX-75240/26852389_zpid/,26852389,,SINGLE FAMILY,"$520,000",13745 Rolling Hills Ln,Dallas,TX,75240,4,3,2164,10410.84 sqft,3260
+https://www.zillow.com/homedetails/911-Turner-Ave-Dallas-TX-75208/26714242_zpid/,26714242,,SINGLE FAMILY,"$749,999",911 Turner Ave,Dallas,TX,75208,4,4,3239,10158 sqft,6600
+https://www.zillow.com/homedetails/6702-Rolling-Vista-Dr-Dallas-TX-75248/26872752_zpid/,26872752,,SINGLE FAMILY,"$1,298,000",6702 Rolling Vista Dr,Dallas,TX,75248,5,4,3665,0.322 acres,5634
+https://www.zillow.com/homedetails/114-W-Ohio-Ave-Dallas-TX-75224/96497476_zpid/,96497476,,SINGLE FAMILY,"$436,999",114 W Ohio Ave,Dallas,TX,75224,5,4,2100,5924.16 sqft,
+https://www.zillow.com/homedetails/1450-N-Buckner-Blvd-Dallas-TX-75218/26741209_zpid/,26741209,,SINGLE FAMILY,"$1,550,000",1450 N Buckner Blvd,Dallas,TX,75218,4,3,3834,0.8800000000000001 acres,
+https://www.zillow.com/homedetails/5815-Morningside-Ave-Dallas-TX-75206/26694865_zpid/,26694865,,SINGLE FAMILY,"$889,000",5815 Morningside Ave,Dallas,TX,75206,3,2,1995,7013.16 sqft,4024
+https://www.zillow.com/homedetails/18512-Featherwood-Dr-Dallas-TX-75252/53071173_zpid/,53071173,,SINGLE FAMILY,"$560,000",18512 Featherwood Dr,Dallas,TX,75252,4,3,2210,7840.8 sqft,3250
+https://www.zillow.com/homedetails/4310-Rawlins-St-Dallas-TX-75219/26693395_zpid/,26693395,,SINGLE FAMILY,"$1,495,000",4310 Rawlins St,Dallas,TX,75219,3,3,3616,10062.36 sqft,
+https://www.zillow.com/homedetails/3003-Satsuma-Dr-Dallas-TX-75229/26812655_zpid/,26812655,,SINGLE FAMILY,"$419,000",3003 Satsuma Dr,Dallas,TX,75229,4,2,2255,9539.64 sqft,
+https://www.zillow.com/homedetails/4221-Shady-Hill-Dr-Dallas-TX-75229/26804857_zpid/,26804857,,SINGLE FAMILY,"$1,350,000",4221 Shady Hill Dr,Dallas,TX,75229,5,6,4003,0.397 acres,7701
+https://www.zillow.com/homedetails/7219-Haverford-Rd-Dallas-TX-75214/452060212_zpid/,452060212,,SINGLE FAMILY,"$675,000",7219 Haverford Rd,Dallas,TX,75214,3,2,1687,7623 sqft,
+https://www.zillow.com/homedetails/6607-Leameadow-Dr-Dallas-TX-75248/26872630_zpid/,26872630,,SINGLE FAMILY,"$669,900",6607 Leameadow Dr,Dallas,TX,75248,4,3,2517,9670.32 sqft,
+https://www.zillow.com/homedetails/9667-Timberleaf-Dr-Dallas-TX-75243/26869356_zpid/,26869356,,SINGLE FAMILY,"$589,000",9667 Timberleaf Dr,Dallas,TX,75243,4,2,2091,9365.4 sqft,3539
+https://www.zillow.com/homedetails/3309-Citation-Dr-Dallas-TX-75229/26807882_zpid/,26807882,,SINGLE FAMILY,"$560,000",3309 Citation Dr,Dallas,TX,75229,3,3,2418,10018.8 sqft,3370
+https://www.zillow.com/homedetails/7363-Meadow-Oaks-Dr-Dallas-TX-75230/26838708_zpid/,26838708,,SINGLE FAMILY,"$1,399,000",7363 Meadow Oaks Dr,Dallas,TX,75230,5,5,3710,10628.64 sqft,
+https://www.zillow.com/homedetails/4924-Milam-St-Dallas-TX-75206/26692320_zpid/,26692320,,SINGLE FAMILY,"$649,000",4924 Milam St,Dallas,TX,75206,3,3,2373,3615.48 sqft,4566
+https://www.zillow.com/homedetails/11832-Cromwell-Dr-Dallas-TX-75234/26813416_zpid/,26813416,,SINGLE FAMILY,"$599,500",11832 Cromwell Dr,Dallas,TX,75234,5,4,2800,7927.92 sqft,2442
+https://www.zillow.com/homedetails/10654-Sandpiper-Ln-Dallas-TX-75230/26838826_zpid/,26838826,,SINGLE FAMILY,"$610,000",10654 Sandpiper Ln,Dallas,TX,75230,3,3,2328,0.255 acres,3559
+https://www.zillow.com/homedetails/3474-Whirlaway-Rd-Dallas-TX-75229/26806927_zpid/,26806927,,SINGLE FAMILY,"$675,000",3474 Whirlaway Rd,Dallas,TX,75229,4,3,2427,10018.8 sqft,
+https://www.zillow.com/homedetails/8234-Zoysia-Ln-Dallas-TX-75252/304023900_zpid/,304023900,,SINGLE FAMILY,"$675,000",8234 Zoysia Ln,Dallas,TX,75252,4,4,2879,4399.56 sqft,
+https://www.zillow.com/homedetails/5712-Hudson-St-Dallas-TX-75206/26898183_zpid/,26898183,,SINGLE FAMILY,"$425,000",5712 Hudson St,Dallas,TX,75206,3,1,1042,3876.84 sqft,2503
+https://www.zillow.com/homedetails/803-Brookhurst-Dr-Dallas-TX-75218/26786477_zpid/,26786477,,SINGLE FAMILY,"$929,990",803 Brookhurst Dr,Dallas,TX,75218,4,4,2804,7492.32 sqft,6866
+https://www.zillow.com/homedetails/8712-Tudor-Pl-Dallas-TX-75228/96525471_zpid/,96525471,,TOWNHOUSE,"$420,000",8712 Tudor Pl,Dallas,TX,75228,3,3,2162,2265.12 sqft,2984
+https://www.zillow.com/homedetails/10009-Apple-Creek-Dr-Dallas-TX-75243/26888676_zpid/,26888676,,SINGLE FAMILY,"$449,900",10009 Apple Creek Dr,Dallas,TX,75243,4,3,2701,8886.24 sqft,2948
+https://www.zillow.com/homedetails/9809-Angora-St-Dallas-TX-75218/26741653_zpid/,26741653,,SINGLE FAMILY,"$750,000",9809 Angora St,Dallas,TX,75218,3,3,2157,0.43199999999999994 acres,3487
+https://www.zillow.com/homedetails/2519-W-Lovers-Ln-Dallas-TX-75235/26726633_zpid/,26726633,,SINGLE FAMILY,"$855,000",2519 W Lovers Ln,Dallas,TX,75235,5,4,4068,7187.4 sqft,
+https://www.zillow.com/homedetails/10234-Bridgegate-Way-Dallas-TX-75243/26890252_zpid/,26890252,,SINGLE FAMILY,"$549,000",10234 Bridgegate Way,Dallas,TX,75243,4,3,2745,9888.12 sqft,
+https://www.zillow.com/homedetails/2925-State-St-Dallas-TX-75204/26897926_zpid/,26897926,,TOWNHOUSE,"$710,000",2925 State St,Dallas,TX,75204,2,3,1861,1219.68 sqft,4153
+https://www.zillow.com/homedetails/3756-Matador-Dr-Dallas-TX-75220/26790554_zpid/,26790554,,SINGLE FAMILY,"$1,390,000",3756 Matador Dr,Dallas,TX,75220,4,5,3876,7927.92 sqft,7095
+https://www.zillow.com/homedetails/1524-Britainway-Ln-Dallas-TX-75228/26846635_zpid/,26846635,,SINGLE FAMILY,"$175,000",1524 Britainway Ln,Dallas,TX,75228,2,2,1198,3659.04 sqft,1515
+https://www.zillow.com/homedetails/6930-Rocky-Top-Cir-Dallas-TX-75252/26591184_zpid/,26591184,,SINGLE FAMILY,"$800,000",6930 Rocky Top Cir,Dallas,TX,75252,4,3,3326,0.27999999999999997 acres,
+https://www.zillow.com/homedetails/2627-Douglas-Ave-APT-130-Dallas-TX-75219/26930554_zpid/,26930554,,CONDO,"$150,000",2627 Douglas Ave APT 130,Dallas,TX,75219,2,2,818,1.552 acres,1879
+https://www.zillow.com/homedetails/10315-Cimmaron-Trl-Dallas-TX-75243/26890218_zpid/,26890218,,SINGLE FAMILY,"$630,000",10315 Cimmaron Trl,Dallas,TX,75243,6,5,4391,9016.92 sqft,7715
+https://www.zillow.com/homedetails/1902-Caddo-St-UNIT-7-Dallas-TX-75204/303983632_zpid/,303983632,,CONDO,"$515,000",1902 Caddo St UNIT 7,Dallas,TX,75204,2,3,1450,0.281 acres,3124
+https://www.zillow.com/homedetails/6918-Woodland-Dr-Dallas-TX-75225/26752152_zpid/,26752152,,SINGLE FAMILY,"$1,325,000",6918 Woodland Dr,Dallas,TX,75225,3,3,2813,7971.48 sqft,6985
+https://www.zillow.com/homedetails/12136-Madeleine-Cir-Dallas-TX-75230/26911216_zpid/,26911216,,SINGLE FAMILY,"$1,199,500",12136 Madeleine Cir,Dallas,TX,75230,3,4,3335,10802.88 sqft,7423
+https://www.zillow.com/homedetails/9742-Amberley-Dr-Dallas-TX-75243/26888752_zpid/,26888752,,SINGLE FAMILY,"$540,000",9742 Amberley Dr,Dallas,TX,75243,3,3,2498,8886.24 sqft,3198
+https://www.zillow.com/homedetails/1946-Calypso-St-Dallas-TX-75212/26834106_zpid/,26834106,,SINGLE FAMILY,"$899,900",1946 Calypso St,Dallas,TX,75212,4,4,4000,6534 sqft,2086
+https://www.zillow.com/homedetails/9120-Whitehurst-Dr-Dallas-TX-75243/26870108_zpid/,26870108,,SINGLE FAMILY,"$725,000",9120 Whitehurst Dr,Dallas,TX,75243,4,3,2422,9496.08 sqft,3734
+https://www.zillow.com/homedetails/3228-Townsend-Dr-Dallas-TX-75229/26808616_zpid/,26808616,,SINGLE FAMILY,"$1,595,000",3228 Townsend Dr,Dallas,TX,75229,5,7,4489,10193.04 sqft,7976
+https://www.zillow.com/homedetails/10536-Egret-Ln-Dallas-TX-75230/26838810_zpid/,26838810,,SINGLE FAMILY,"$969,000",10536 Egret Ln,Dallas,TX,75230,3,4,3639,10672.2 sqft,5604
+https://www.zillow.com/homedetails/6931-Bob-O-Link-Dr-Dallas-TX-75214/26706256_zpid/,26706256,,SINGLE FAMILY,"$1,195,000",6931 Bob O Link Dr,Dallas,TX,75214,3,2,2467,9713.88 sqft,4849
+https://www.zillow.com/homedetails/4223-Lawngate-Dr-Dallas-TX-75287/26609029_zpid/,26609029,,SINGLE FAMILY,"$485,000",4223 Lawngate Dr,Dallas,TX,75287,3,2,1807,8276.4 sqft,2713
+https://www.zillow.com/homedetails/9606-Windy-Crest-Ct-Dallas-TX-75243/26869786_zpid/,26869786,,SINGLE FAMILY,"$799,000",9606 Windy Crest Ct,Dallas,TX,75243,4,4,2534,4835.16 sqft,3519
+https://www.zillow.com/homedetails/1011-S-Montclair-Ave-Dallas-TX-75208/162200367_zpid/,162200367,,MULTI FAMILY,"$600,000",1011 S Montclair Ave,Dallas,TX,75208,4,4,1920,7884.36 sqft,
+https://www.zillow.com/homedetails/3855-Crest-Cove-Cir-Dallas-TX-75244/26805743_zpid/,26805743,,SINGLE FAMILY,"$731,000",3855 Crest Cove Cir,Dallas,TX,75244,5,3,3065,0.3323 acres,
+https://www.zillow.com/homedetails/6329-Richmond-Ave-Dallas-TX-75214/26693591_zpid/,26693591,,SINGLE FAMILY,"$1,160,000",6329 Richmond Ave,Dallas,TX,75214,4,3,3192,8276.4 sqft,7770
+https://www.zillow.com/homedetails/923-Leatrice-Dr-Dallas-TX-75208/26769043_zpid/,26769043,,SINGLE FAMILY,"$1,400,000",923 Leatrice Dr,Dallas,TX,75208,5,3,3830,0.37 acres,5472
+https://www.zillow.com/homedetails/5947-Goodwin-Ave-Dallas-TX-75206/26695084_zpid/,26695084,,SINGLE FAMILY,"$889,000",5947 Goodwin Ave,Dallas,TX,75206,3,3,2070,6534 sqft,3838
+https://www.zillow.com/homedetails/1007-Strickland-St-Dallas-TX-75216/26711292_zpid/,26711292,,SINGLE FAMILY,"$139,999",1007 Strickland St,Dallas,TX,75216,3,1,1020,6734.376 sqft,1668
+https://www.zillow.com/homedetails/10321-Lakemere-Dr-Dallas-TX-75238/26844030_zpid/,26844030,,SINGLE FAMILY,"$1,449,000",10321 Lakemere Dr,Dallas,TX,75238,5,4,4274,7435.692 sqft,6101
+https://www.zillow.com/homedetails/3076-Walnut-Hill-Ln-Dallas-TX-75229/26810480_zpid/,26810480,,SINGLE FAMILY,"$400,000",3076 Walnut Hill Ln,Dallas,TX,75229,4,2,1669,9801 sqft,3151
+https://www.zillow.com/homedetails/18727-Greenside-Dr-Dallas-TX-75252/26651492_zpid/,26651492,,SINGLE FAMILY,"$848,630",18727 Greenside Dr,Dallas,TX,75252,5,5,3755,7840.8 sqft,5906
+https://www.zillow.com/homedetails/6521-Del-Norte-Ln-Dallas-TX-75225/69676659_zpid/,69676659,,SINGLE FAMILY,"$1,099,000",6521 Del Norte Ln,Dallas,TX,75225,3,3,2968,10105.92 sqft,5593
+https://www.zillow.com/homedetails/6349-Highgate-Ln-Dallas-TX-75214/26748671_zpid/,26748671,,SINGLE FAMILY,"$860,000",6349 Highgate Ln,Dallas,TX,75214,4,4,2794,0.262 acres,5602
+https://www.zillow.com/homedetails/802-Salmon-Dr-Dallas-TX-75208/26718152_zpid/,26718152,,SINGLE FAMILY,"$650,000",802 Salmon Dr,Dallas,TX,75208,2,2,1408,7492.32 sqft,
+https://www.zillow.com/homedetails/6306-Tremont-St-Dallas-TX-75214/26701474_zpid/,26701474,,SINGLE FAMILY,"$1,285,000",6306 Tremont St,Dallas,TX,75214,4,3,2558,7013.16 sqft,4795
+https://www.zillow.com/homedetails/1621-Stella-Ave-Dallas-TX-75216/26768359_zpid/,26768359,,SINGLE FAMILY,"$475,000",1621 Stella Ave,Dallas,TX,75216,4,3,3324,0.39899999999999997 acres,3574
+https://www.zillow.com/homedetails/6910-Midcrest-Dr-Dallas-TX-75254/26870972_zpid/,26870972,,SINGLE FAMILY,"$960,000",6910 Midcrest Dr,Dallas,TX,75254,4,5,3531,0.41500000000000004 acres,5599
+https://www.zillow.com/homedetails/1425-Mapleton-Dr-Dallas-TX-75228/26847373_zpid/,26847373,,SINGLE FAMILY,"$659,000",1425 Mapleton Dr,Dallas,TX,75228,3,2,2068,8799.12 sqft,2703
+https://www.zillow.com/homedetails/5724-Still-Forest-Dr-Dallas-TX-75252/53072019_zpid/,53072019,,SINGLE FAMILY,"$1,099,000",5724 Still Forest Dr,Dallas,TX,75252,5,4,3427,9583.2 sqft,
+https://www.zillow.com/homedetails/8242-Horsetail-Ct-Dallas-TX-75252/303981957_zpid/,303981957,,SINGLE FAMILY,"$819,999",8242 Horsetail Ct,Dallas,TX,75252,4,4,3120,7143.84 sqft,4968
+https://www.zillow.com/homedetails/404-Cleaves-St-Dallas-TX-75203/96524472_zpid/,96524472,,SINGLE FAMILY,"$535,000",404 Cleaves St,Dallas,TX,75203,4,4,2472,3659.04 sqft,1622
+https://www.zillow.com/homedetails/7326-Carta-Valley-Dr-Dallas-TX-75248/26873581_zpid/,26873581,,SINGLE FAMILY,"$699,000",7326 Carta Valley Dr,Dallas,TX,75248,4,3,2169,8189.28 sqft,4303
+https://www.zillow.com/homedetails/901-S-Montreal-Ave-Dallas-TX-75208/26712390_zpid/,26712390,,SINGLE FAMILY,"$625,000",901 S Montreal Ave,Dallas,TX,75208,3,4,2438,7405.2 sqft,4047
+https://www.zillow.com/homedetails/2220-Canton-St-507-Dallas-TX-75201/26926331_zpid/,26926331,,CONDO,"$789,000",2220 Canton St #507,Dallas,TX,75201,2,2,2296,0.9590000000000001 acres,4336
+https://www.zillow.com/homedetails/3719-Douglas-Ave-Dallas-TX-75219/26898319_zpid/,26898319,,SINGLE FAMILY,"$749,000",3719 Douglas Ave,Dallas,TX,75219,3,3,2144,3484.8 sqft,4071
+https://www.zillow.com/homedetails/7015-Lovett-Ave-Dallas-TX-75227/26764995_zpid/,26764995,,SINGLE FAMILY,"$169,000",7015 Lovett Ave,Dallas,TX,75227,3,2,1400,0.219 sqft,1552
+https://www.zillow.com/homedetails/4158-Briargrove-Ln-Dallas-TX-75287/26586381_zpid/,26586381,,SINGLE FAMILY,"$699,900",4158 Briargrove Ln,Dallas,TX,75287,5,4,3099,0.25 acres,3721
+https://www.zillow.com/homedetails/13312-Cloverbrook-Ln-Dallas-TX-75253/26922202_zpid/,26922202,,SINGLE FAMILY,"$190,000",13312 Cloverbrook Ln,Dallas,TX,75253,3,2,1085,5998.212 sqft,1562
+https://www.zillow.com/homedetails/11911-Edgestone-Rd-Dallas-TX-75230/26911373_zpid/,26911373,,SINGLE FAMILY,"$1,415,000",11911 Edgestone Rd,Dallas,TX,75230,5,6,3879,0.3 acres,8278
+https://www.zillow.com/homedetails/6222-E-University-Blvd-Dallas-TX-75214/26747564_zpid/,26747564,,SINGLE FAMILY,"$1,235,000",6222 E University Blvd,Dallas,TX,75214,4,4,3234,9583.2 sqft,
+https://www.zillow.com/homedetails/10544-Cox-Ln-Dallas-TX-75229/26806510_zpid/,26806510,,SINGLE FAMILY,"$949,000",10544 Cox Ln,Dallas,TX,75229,4,3,3301,0.32 acres,
+https://www.zillow.com/homedetails/18128-Aramis-Ln-Dallas-TX-75252/26593012_zpid/,26593012,,SINGLE FAMILY,"$698,500",18128 Aramis Ln,Dallas,TX,75252,4,3,2626,9147.6 sqft,3708
+https://www.zillow.com/homedetails/3641-Espanola-Dr-Dallas-TX-75220/26788004_zpid/,26788004,,SINGLE FAMILY,"$875,000",3641 Espanola Dr,Dallas,TX,75220,4,4,3000,8537.76 sqft,1829
+https://www.zillow.com/homedetails/310-Old-Mill-Ln-Dallas-TX-75217/26861557_zpid/,26861557,,SINGLE FAMILY,"$175,000",310 Old Mill Ln,Dallas,TX,75217,3,2,1300,0.421 acres,1895
+https://www.zillow.com/homedetails/4207-Allencrest-Ln-Dallas-TX-75244/26880565_zpid/,26880565,,SINGLE FAMILY,"$1,200,000",4207 Allencrest Ln,Dallas,TX,75244,4,3,3217,0.381 acres,6416
+https://www.zillow.com/homedetails/1123-Waterford-Dr-Dallas-TX-75218/26744354_zpid/,26744354,,SINGLE FAMILY,"$649,000",1123 Waterford Dr,Dallas,TX,75218,3,2,2174,0.474 acres,
+https://www.zillow.com/homedetails/5200-Milam-St-Dallas-TX-75206/26692156_zpid/,26692156,,SINGLE FAMILY,"$749,000",5200 Milam St,Dallas,TX,75206,2,2,1460,9104.04 sqft,2550
+https://www.zillow.com/homedetails/3831-Kynard-St-Dallas-TX-75215/26686846_zpid/,26686846,,SINGLE FAMILY,"$179,900",3831 Kynard St,Dallas,TX,75215,4,2,720,7405.2 sqft,1450
+https://www.zillow.com/homedetails/6746-Braeburn-Dr-Dallas-TX-75214/26705372_zpid/,26705372,,SINGLE FAMILY,"$785,000",6746 Braeburn Dr,Dallas,TX,75214,3,2,1600,8276.4 sqft,3740
+https://www.zillow.com/homedetails/7239-Casa-Loma-Ave-Dallas-TX-75214/26700946_zpid/,26700946,,SINGLE FAMILY,"$875,000",7239 Casa Loma Ave,Dallas,TX,75214,3,3,2168,7230.96 sqft,4078
+https://www.zillow.com/homedetails/4052-Park-Ln-Dallas-TX-75220/26788868_zpid/,26788868,,SINGLE FAMILY,"$1,390,000",4052 Park Ln,Dallas,TX,75220,4,4,3245,8145.72 sqft,7449
+https://www.zillow.com/homedetails/321-Levant-Ave-Dallas-TX-75217/26860503_zpid/,26860503,,SINGLE FAMILY,"$195,000",321 Levant Ave,Dallas,TX,75217,3,1,1224,0.26899999999999996 acres,1761
+https://www.zillow.com/homedetails/5320-Laurel-Branch-Dr-Dallas-TX-75209/336872776_zpid/,336872776,,SINGLE FAMILY,"$725,000",5320 Laurel Branch Dr,Dallas,TX,75209,3,4,1977,1742.4 sqft,4182
+https://www.zillow.com/homedetails/6645-Lange-Cir-Dallas-TX-75214/26705479_zpid/,26705479,,SINGLE FAMILY,"$675,000",6645 Lange Cir,Dallas,TX,75214,2,2,1737,8755.56 sqft,3368
+https://www.zillow.com/homedetails/5412-Morningside-Ave-Dallas-TX-75206/26695806_zpid/,26695806,,SINGLE FAMILY,"$900,000",5412 Morningside Ave,Dallas,TX,75206,5,3,2582,7797.24 sqft,5129
+https://www.zillow.com/homedetails/5836-Oram-St-Dallas-TX-75206/26898465_zpid/,26898465,,SINGLE FAMILY,"$670,000",5836 Oram St,Dallas,TX,75206,3,3,2115,4094.64 sqft,4422
+https://www.zillow.com/homedetails/2230-Kessler-Pkwy-Dallas-TX-75208/26718034_zpid/,26718034,,SINGLE FAMILY,"$1,295,000",2230 Kessler Pkwy,Dallas,TX,75208,4,4,3159,8189.28 sqft,5778
+https://www.zillow.com/homedetails/4039-Cole-Ave-APT-106-Dallas-TX-75204/26683272_zpid/,26683272,,CONDO,"$189,000",4039 Cole Ave APT 106,Dallas,TX,75204,2,2,822, ,1912
+https://www.zillow.com/homedetails/3245-Latham-Dr-Dallas-TX-75229/26808668_zpid/,26808668,,SINGLE FAMILY,"$757,777",3245 Latham Dr,Dallas,TX,75229,4,4,2358,10193.04 sqft,
+https://www.zillow.com/homedetails/3385-Northaven-Rd-Dallas-TX-75229/26809331_zpid/,26809331,,SINGLE FAMILY,"$860,000",3385 Northaven Rd,Dallas,TX,75229,4,4,2264,0.353 acres,
+https://www.zillow.com/homedetails/6036-Richmond-Ave-Dallas-TX-75206/26690032_zpid/,26690032,,SINGLE FAMILY,"$1,375,000",6036 Richmond Ave,Dallas,TX,75206,4,6,2964,9234.72 sqft,7407
+https://www.zillow.com/homedetails/5913-Lewis-St-Dallas-TX-75206/162813442_zpid/,162813442,,SINGLE FAMILY,"$770,000",5913 Lewis St,Dallas,TX,75206,3,4,2958,3484.8 sqft,4394
+https://www.zillow.com/homedetails/5415-Preston-Fairways-Cir-Dallas-TX-75252/53077421_zpid/,53077421,,SINGLE FAMILY,"$1,170,000",5415 Preston Fairways Cir,Dallas,TX,75252,3,3,4060,9583.2 sqft,5621
+https://www.zillow.com/homedetails/1238-E-Louisiana-Ave-Dallas-TX-75216/26715966_zpid/,26715966,,SINGLE FAMILY,"$169,900",1238 E Louisiana Ave,Dallas,TX,75216,3,1,1072,8189.28 sqft,1766
+https://www.zillow.com/homedetails/4410-Briargrove-Ln-Dallas-TX-75287/26586100_zpid/,26586100,,SINGLE FAMILY,"$850,000",4410 Briargrove Ln,Dallas,TX,75287,4,3,3874,10454.4 sqft,5714
+https://www.zillow.com/homedetails/4221-Somerville-Ave-Dallas-TX-75206/26704656_zpid/,26704656,,SINGLE FAMILY,"$659,000",4221 Somerville Ave,Dallas,TX,75206,3,2,1374,7448.76 sqft,3129
+https://www.zillow.com/homedetails/3923-Cole-Ave-303-Dallas-TX-75204/248829146_zpid/,248829146,,SINGLE FAMILY,"$779,900",3923 Cole Ave #303,Dallas,TX,75204,2,3,1750,0.327 acres,4069
+https://www.zillow.com/homedetails/5807-Reiger-Ave-Dallas-TX-75214/26685961_zpid/,26685961,,SINGLE FAMILY,"$795,000",5807 Reiger Ave,Dallas,TX,75214,3,3,2066,8842.68 sqft,3393
+https://www.zillow.com/homedetails/16102-Red-Cedar-Trl-Dallas-TX-75248/26889907_zpid/,26889907,,SINGLE FAMILY,"$840,000",16102 Red Cedar Trl,Dallas,TX,75248,4,3,3341,0.25 acres,6054
+https://www.zillow.com/homedetails/5919-Lindenshire-Ln-Dallas-TX-75230/26910245_zpid/,26910245,,SINGLE FAMILY,"$899,000",5919 Lindenshire Ln,Dallas,TX,75230,3,3,2920,4443.12 sqft,
+https://www.zillow.com/homedetails/10915-Ridgemeadow-Dr-Dallas-TX-75218/26858881_zpid/,26858881,,SINGLE FAMILY,"$949,000",10915 Ridgemeadow Dr,Dallas,TX,75218,4,3,3517,8799.12 sqft,4948
+https://www.zillow.com/homedetails/6721-Meadowcreek-Dr-Dallas-TX-75254/26870834_zpid/,26870834,,SINGLE FAMILY,"$1,570,000",6721 Meadowcreek Dr,Dallas,TX,75254,5,4,3474,0.504 acres,4266
+https://www.zillow.com/homedetails/7340-Lehigh-Dr-Dallas-TX-75214/26749834_zpid/,26749834,,SINGLE FAMILY,"$850,000",7340 Lehigh Dr,Dallas,TX,75214,3,3,2032,9016.92 sqft,
+https://www.zillow.com/homedetails/1030-Parkview-Ave-Dallas-TX-75223/26684661_zpid/,26684661,,SINGLE FAMILY,"$1,000,000",1030 Parkview Ave,Dallas,TX,75223,4,4,3786,7187.4 sqft,6534
+https://www.zillow.com/homedetails/9801-Royal-Ln-APT-703-Dallas-TX-75231/26899598_zpid/,26899598,,SINGLE FAMILY,"$165,000",9801 Royal Ln APT 703,Dallas,TX,75231,2,3,1111,5.727 acres,
+https://www.zillow.com/homedetails/3715-Congress-Ave-Dallas-TX-75219/61870937_zpid/,61870937,,TOWNHOUSE,"$1,199,000",3715 Congress Ave,Dallas,TX,75219,4,5,3274,2657.16 sqft,5516
+https://www.zillow.com/homedetails/4023-Wycliff-Ave-APT-102-Dallas-TX-75219/26927703_zpid/,26927703,,MULTI FAMILY,"$1,300,000",4023 Wycliff Ave APT 102,Dallas,TX,75219,12,8,11460,0.263 acres,2950
+https://www.zillow.com/homedetails/4309-Boca-Bay-Dr-Dallas-TX-75244/26880693_zpid/,26880693,,SINGLE FAMILY,"$875,000",4309 Boca Bay Dr,Dallas,TX,75244,4,4,3295,0.331 acres,5759
+https://www.zillow.com/homedetails/9015-Vinewood-Dr-Dallas-TX-75228/26840159_zpid/,26840159,,SINGLE FAMILY,"$875,000",9015 Vinewood Dr,Dallas,TX,75228,4,3,2470,0.4 acres,
+https://www.zillow.com/homedetails/7919-Olusta-Dr-Dallas-TX-75217/26798387_zpid/,26798387,,SINGLE FAMILY,"$175,000",7919 Olusta Dr,Dallas,TX,75217,3,1,950,10454.4 sqft,1627
+https://www.zillow.com/homedetails/7222-Kaywood-Dr-Dallas-TX-75209/26731347_zpid/,26731347,,SINGLE FAMILY,"$1,569,000",7222 Kaywood Dr,Dallas,TX,75209,4,4,3550,8145.72 sqft,
+https://www.zillow.com/homedetails/13311-Purple-Sage-Rd-Dallas-TX-75240/26851756_zpid/,26851756,,SINGLE FAMILY,"$999,500",13311 Purple Sage Rd,Dallas,TX,75240,4,5,3834,0.323 acres,5147
+https://www.zillow.com/homedetails/7315-Danashire-Ave-Dallas-TX-75231/96492407_zpid/,96492407,,SINGLE FAMILY,"$1,595,000",7315 Danashire Ave,Dallas,TX,75231,4,5,4429,8842.68 sqft,
+https://www.zillow.com/homedetails/13756-Danvers-Dr-Dallas-TX-75240/26848335_zpid/,26848335,,SINGLE FAMILY,"$1,495,000",13756 Danvers Dr,Dallas,TX,75240,4,4,2956,0.369 acres,
+https://www.zillow.com/homedetails/3544-Linda-Dr-Dallas-TX-75220/26788185_zpid/,26788185,,SINGLE FAMILY,"$850,000",3544 Linda Dr,Dallas,TX,75220,4,3,3157,9626.76 sqft,4544
+https://www.zillow.com/homedetails/9803-Walnut-St-205-Dallas-TX-75243/26931396_zpid/,26931396,,CONDO,"$117,000",9803 Walnut St #205,Dallas,TX,75243,2,2,1040,8.814 acres,1545
+https://www.zillow.com/homedetails/4845-Cedar-Springs-Rd-APT-368-Dallas-TX-75219/26697784_zpid/,26697784,,CONDO,"$145,000",4845 Cedar Springs Rd APT 368,Dallas,TX,75219,2,2,961,6.609 acres,
+https://www.zillow.com/homedetails/7104-Winedale-Dr-Dallas-TX-75231/26867526_zpid/,26867526,,SINGLE FAMILY,"$815,000",7104 Winedale Dr,Dallas,TX,75231,4,3,3367,0.361 acres,6077
+https://www.zillow.com/homedetails/1107-Cameron-Ave-Dallas-TX-75223/333138929_zpid/,333138929,,SINGLE FAMILY,"$975,000",1107 Cameron Ave,Dallas,TX,75223,4,3,3013,6490.44 sqft,5657
+https://www.zillow.com/homedetails/1220-North-St-Dallas-TX-75203/26708445_zpid/,26708445,,SINGLE FAMILY,"$115,000",1220 North St,Dallas,TX,75203,1,1,432,4364.712 sqft,
+https://www.zillow.com/homedetails/4322-Sexton-Ln-Dallas-TX-75229/26758511_zpid/,26758511,,SINGLE FAMILY,"$1,595,000",4322 Sexton Ln,Dallas,TX,75229,5,6,4181,6490.44 sqft,
+https://www.zillow.com/homedetails/435-Allison-Dr-Dallas-TX-75208/26728751_zpid/,26728751,,SINGLE FAMILY,"$1,399,000",435 Allison Dr,Dallas,TX,75208,4,5,2800,6185.52 sqft,6474
+https://www.zillow.com/homedetails/10940-Rylie-Crest-Dr-Dallas-TX-75217/26921814_zpid/,26921814,,SINGLE FAMILY,"$195,000",10940 Rylie Crest Dr,Dallas,TX,75217,2,1,879,9583.2 sqft,1343
+https://www.zillow.com/homedetails/3315-Miro-Pl-Dallas-TX-75204/26898236_zpid/,26898236,,TOWNHOUSE,"$915,000",3315 Miro Pl,Dallas,TX,75204,3,3,3136,1916.64 sqft,
+https://www.zillow.com/homedetails/6417-Malcolm-Dr-Dallas-TX-75214/26706409_zpid/,26706409,,SINGLE FAMILY,"$1,389,000",6417 Malcolm Dr,Dallas,TX,75214,4,3,3538,10628.64 sqft,6512
+https://www.zillow.com/homedetails/7904-Briar-Brook-Ct-Dallas-TX-75218/26902633_zpid/,26902633,,SINGLE FAMILY,"$875,000",7904 Briar Brook Ct,Dallas,TX,75218,4,4,3110,6359.76 sqft,3860
+https://www.zillow.com/homedetails/2449-Stovall-Dr-Dallas-TX-75216/26782869_zpid/,26782869,,SINGLE FAMILY,"$134,900",2449 Stovall Dr,Dallas,TX,75216,3,2,816,5924.16 sqft,1394
+https://www.zillow.com/homedetails/1924-Oak-Hill-Cir-Dallas-TX-75217/26800180_zpid/,26800180,,SINGLE FAMILY,"$150,000",1924 Oak Hill Cir,Dallas,TX,75217,3,2,1146,7583.796 sqft,1771
+https://www.zillow.com/homedetails/349-Emerald-Rd-349-Wylie-TX-75098/442925094_zpid/,442925094,,MANUFACTURED,"$156,499",349 Emerald Rd #349,Wylie,TX,75098,3,2,1792, ,
+https://www.zillow.com/homedetails/215-Satinwood-Dr-Dallas-TX-75217/26797935_zpid/,26797935,,SINGLE FAMILY,"$189,000",215 Satinwood Dr,Dallas,TX,75217,3,1,945,7797.24 sqft,1533
+https://www.zillow.com/homedetails/7024-Irongate-Ln-Dallas-TX-75214/26707251_zpid/,26707251,,SINGLE FAMILY,"$840,000",7024 Irongate Ln,Dallas,TX,75214,3,2,1793,7187.4 sqft,3398
+https://www.zillow.com/homedetails/4838-Stony-Ford-Dr-Dallas-TX-75287/26645680_zpid/,26645680,,SINGLE FAMILY,"$1,150,000",4838 Stony Ford Dr,Dallas,TX,75287,4,4,4263,0.26 acres,5737
+https://www.zillow.com/homedetails/4707-Linnet-Ln-Dallas-TX-75209/26735455_zpid/,26735455,,SINGLE FAMILY,"$1,350,000",4707 Linnet Ln,Dallas,TX,75209,6,5,4326,6664.68 sqft,8348
+https://www.zillow.com/homedetails/9318-Trail-Hill-Dr-Dallas-TX-75238/26866092_zpid/,26866092,,SINGLE FAMILY,"$949,000",9318 Trail Hill Dr,Dallas,TX,75238,4,4,3600,0.26599999999999996 acres,5339
+https://www.zillow.com/homedetails/433-Alcorn-Ave-Dallas-TX-75217/26797649_zpid/,26797649,,SINGLE FAMILY,"$174,950",433 Alcorn Ave,Dallas,TX,75217,3,2,1192,8973.36 sqft,1802
+https://www.zillow.com/homedetails/10578-High-Hollows-Dr-APT-266-Dallas-TX-75230/26839451_zpid/,26839451,,SINGLE FAMILY,"$190,000",10578 High Hollows Dr APT 266,Dallas,TX,75230,2,2,1141,10.396 acres,2412
+https://www.zillow.com/homedetails/9363-Hunters-Creek-Dr-Dallas-TX-75243/26869227_zpid/,26869227,,SINGLE FAMILY,"$839,900",9363 Hunters Creek Dr,Dallas,TX,75243,4,4,3599,8886.24 sqft,4029
+https://www.zillow.com/homedetails/5739-Ellsworth-Ave-Dallas-TX-75206/26704021_zpid/,26704021,,SINGLE FAMILY,"$873,500",5739 Ellsworth Ave,Dallas,TX,75206,3,2,1702,7492.32 sqft,3601
+https://www.zillow.com/homedetails/6834-Overlook-Dr-Dallas-TX-75227/26763970_zpid/,26763970,,SINGLE FAMILY,"$149,000",6834 Overlook Dr,Dallas,TX,75227,2,2,1378,6359.76 sqft,1887
+https://www.zillow.com/homedetails/3811-Mehalia-Dr-Dallas-TX-75241/26822094_zpid/,26822094,,SINGLE FAMILY,"$189,000",3811 Mehalia Dr,Dallas,TX,75241,4,2,1782,6577.56 sqft,1422
+https://www.zillow.com/homedetails/3851-Davila-Dr-Dallas-TX-75220/26790102_zpid/,26790102,,SINGLE FAMILY,"$1,549,000",3851 Davila Dr,Dallas,TX,75220,5,6,4404,7056.72 sqft,9049
+https://www.zillow.com/homedetails/4219-Hollow-Oak-Dr-Dallas-TX-75287/26643578_zpid/,26643578,,SINGLE FAMILY,"$1,020,000",4219 Hollow Oak Dr,Dallas,TX,75287,5,4,4327,8712 sqft,6731
+https://www.zillow.com/homedetails/5123-Malcolm-X-Blvd-Dallas-TX-75215/448089295_zpid/,448089295,,SINGLE FAMILY,"$130,000",5123 Malcolm X Blvd,Dallas,TX,75215,3,1,652,5401.44 sqft,
+https://www.zillow.com/homedetails/3831-Turtle-Creek-Blvd-APT-7E-Dallas-TX-75219/26898566_zpid/,26898566,,CONDO,"$1,000,000",3831 Turtle Creek Blvd APT 7E,Dallas,TX,75219,3,2,2077,2.109 acres,3236
+https://www.zillow.com/homedetails/3883-Turtle-Creek-Blvd-APT-1109-Dallas-TX-75219/26681948_zpid/,26681948,,CONDO,"$165,000",3883 Turtle Creek Blvd APT 1109,Dallas,TX,75219,1,1,787,3.159 acres,1931
+https://www.zillow.com/homedetails/4055-Fawnhollow-Dr-Dallas-TX-75244/26880346_zpid/,26880346,,SINGLE FAMILY,"$1,165,000",4055 Fawnhollow Dr,Dallas,TX,75244,4,3,3157,0.293 acres,4673
+https://www.zillow.com/homedetails/6522-Willow-Ln-Dallas-TX-75230/26849471_zpid/,26849471,,SINGLE FAMILY,"$1,500,000",6522 Willow Ln,Dallas,TX,75230,5,5,3834,0.408 acres,
+https://www.zillow.com/homedetails/4107-Rockford-Dr-Dallas-TX-75211/26738525_zpid/,26738525,,SINGLE FAMILY,"$199,900",4107 Rockford Dr,Dallas,TX,75211,4,2,192,7187.4 sqft,2251
+https://www.zillow.com/homedetails/9517-Redondo-Dr-Dallas-TX-75218/26741430_zpid/,26741430,,SINGLE FAMILY,"$1,099,000",9517 Redondo Dr,Dallas,TX,75218,5,4,3980,0.422 acres,5882
+https://www.zillow.com/homedetails/6543-Kenwell-St-Dallas-TX-75209/26761163_zpid/,26761163,,SINGLE FAMILY,"$1,199,000",6543 Kenwell St,Dallas,TX,75209,5,4,4308,8420.148 sqft,7260
+https://www.zillow.com/homedetails/1706-Homeland-St-Dallas-TX-75212/96504067_zpid/,96504067,,SINGLE FAMILY,"$875,000",1706 Homeland St,Dallas,TX,75212,5,4,3850,5427.576 sqft,5846
+https://www.zillow.com/homedetails/6578-Axton-Ln-Dallas-TX-75214/26749548_zpid/,26749548,,SINGLE FAMILY,"$1,435,000",6578 Axton Ln,Dallas,TX,75214,5,5,3907,0.344 acres,
+https://www.zillow.com/homedetails/2308-Kirby-St-Dallas-TX-75204/303982086_zpid/,303982086,,SINGLE FAMILY,"$999,000",2308 Kirby St,Dallas,TX,75204,3,3,2574,4225.32 sqft,6671
+https://www.zillow.com/homedetails/714-Neomi-Ave-Dallas-TX-75217/444093375_zpid/,444093375,,SINGLE FAMILY,"$175,000",714 Neomi Ave,Dallas,TX,75217,2,1,672,7187.4 sqft,
+https://www.zillow.com/homedetails/4139-Herschel-Ave-Dallas-TX-75219/26899117_zpid/,26899117,,SINGLE FAMILY,"$1,375,000",4139 Herschel Ave,Dallas,TX,75219,3,4,3094,3571.92 sqft,5639
+https://www.zillow.com/homedetails/6035-Velasco-Ave-Dallas-TX-75206/26689708_zpid/,26689708,,SINGLE FAMILY,"$1,599,990",6035 Velasco Ave,Dallas,TX,75206,4,4,3162,7927.92 sqft,2289
+https://www.zillow.com/homedetails/17120-Lacebark-Ln-Dallas-TX-75252/303984371_zpid/,303984371,,SINGLE FAMILY,"$815,000",17120 Lacebark Ln,Dallas,TX,75252,4,4,2895,5706.36 sqft,5350
+https://www.zillow.com/homedetails/10500-Lake-June-Rd-APT-K8-Dallas-TX-75217/454992311_zpid/,454992311,,CONDO,"$105,000",10500 Lake June Rd APT K8,Dallas,TX,75217,2,3,1171,7.74 acres,
+https://www.zillow.com/homedetails/3847-Durango-Dr-Dallas-TX-75220/26789829_zpid/,26789829,,SINGLE FAMILY,"$1,550,000",3847 Durango Dr,Dallas,TX,75220,5,5,4370,8280.756 sqft,8983
+https://www.zillow.com/homedetails/7-Duncannon-Ct-Dallas-TX-75225/26752593_zpid/,26752593,,SINGLE FAMILY,"$1,499,000",7 Duncannon Ct,Dallas,TX,75225,4,4,4558,7100.28 sqft,6686
+https://www.zillow.com/homedetails/5313-Livingston-Ave-Dallas-TX-75209/26698823_zpid/,26698823,,SINGLE FAMILY,"$1,450,000",5313 Livingston Ave,Dallas,TX,75209,3,4,1929,10846.44 sqft,
+https://www.zillow.com/homedetails/6922-San-Mateo-Blvd-Dallas-TX-75223/26700597_zpid/,26700597,,SINGLE FAMILY,"$880,000",6922 San Mateo Blvd,Dallas,TX,75223,5,3,2935,7143.84 sqft,4298
+https://www.zillow.com/homedetails/8815-Forest-Hills-Blvd-Dallas-TX-75218/26740763_zpid/,26740763,,SINGLE FAMILY,"$1,199,000",8815 Forest Hills Blvd,Dallas,TX,75218,4,3,3548,8407.08 sqft,4899
+https://www.zillow.com/homedetails/10746-Lathrop-Dr-Dallas-TX-75229/26807627_zpid/,26807627,,SINGLE FAMILY,"$1,549,900",10746 Lathrop Dr,Dallas,TX,75229,5,6,4802,0.2672 acres,2928
+https://www.zillow.com/homedetails/5343-Ellsworth-Ave-Dallas-TX-75206/26704630_zpid/,26704630,,SINGLE FAMILY,"$925,000",5343 Ellsworth Ave,Dallas,TX,75206,4,3,2525,4573.8 sqft,5412
+https://www.zillow.com/homedetails/3504-Parkridge-Dr-111-Dallas-TX-75234/26923825_zpid/,26923825,,SINGLE FAMILY,"$165,000",3504 Parkridge Dr #111,Dallas,TX,75234,2,3,1125,7.526 acres,2095
+https://www.zillow.com/homedetails/5325-Bent-Tree-Forest-Dr-APT-2230-Dallas-TX-75248/26930368_zpid/,26930368,,TOWNHOUSE,"$179,000",5325 Bent Tree Forest Dr APT 2230,Dallas,TX,75248,1,2,1028,2.564 acres,1682
+https://www.zillow.com/homedetails/3722-Gillespie-St-Dallas-TX-75219/26898128_zpid/,26898128,,TOWNHOUSE,"$899,000",3722 Gillespie St,Dallas,TX,75219,2,3,2500,2482.92 sqft,3565
+https://www.zillow.com/homedetails/5822-Preston-Fairways-Dr-Dallas-TX-75252/53077405_zpid/,53077405,,SINGLE FAMILY,"$874,900",5822 Preston Fairways Dr,Dallas,TX,75252,3,4,3745,5662.8 sqft,5792
+https://www.zillow.com/homedetails/400-Cristler-Ave-Dallas-TX-75223/26685412_zpid/,26685412,,SINGLE FAMILY,"$1,059,000",400 Cristler Ave,Dallas,TX,75223,4,4,3750,6490.44 sqft,5398
+https://www.zillow.com/homedetails/10328-Countess-Dr-Dallas-TX-75229/26808448_zpid/,26808448,,SINGLE FAMILY,"$864,900",10328 Countess Dr,Dallas,TX,75229,4,3,2882,0.299 acres,4268
+https://www.zillow.com/homedetails/7150-Blairview-Dr-Dallas-TX-75230/26752718_zpid/,26752718,,SINGLE FAMILY,"$1,595,000",7150 Blairview Dr,Dallas,TX,75230,4,5,3211,0.27899999999999997 acres,
+https://www.zillow.com/homedetails/4708-Sugar-Mill-Rd-Dallas-TX-75244/26881438_zpid/,26881438,,SINGLE FAMILY,"$1,425,000",4708 Sugar Mill Rd,Dallas,TX,75244,4,3,2992,0.373 acres,6050

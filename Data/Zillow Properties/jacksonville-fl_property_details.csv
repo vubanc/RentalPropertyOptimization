@@ -1,0 +1,450 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/10621-Oak-Crest-Dr-Jacksonville-FL-32225/83004457_zpid/,83004457,,SINGLE FAMILY,"$260,000",10621 OAK CREST Drive,Jacksonville,FL,32225,3,2,1169,8712 sqft,
+https://www.zillow.com/homedetails/11061-Frisco-Ln-Jacksonville-FL-32257/44564599_zpid/,44564599,,SINGLE FAMILY,"$550,000",11061 FRISCO Lane,Jacksonville,FL,32257,4,3,3048,9583.2 sqft,3460
+https://www.zillow.com/homedetails/12274-Franklin-Brook-Ln-S-Jacksonville-FL-32225/44591150_zpid/,44591150,,SINGLE FAMILY,"$406,999",12274 FRANKLIN BROOK Lane,Jacksonville,FL,32225,3,2,2240,0.39 acres,2676
+https://www.zillow.com/homedetails/1808-Grassington-Way-N-Jacksonville-FL-32223/44506690_zpid/,44506690,,SINGLE FAMILY,"$539,000",1808 GRASSINGTON Way N,Jacksonville,FL,32223,5,4,2550,0.38 acres,3043
+https://www.zillow.com/homedetails/5033-Lexington-Ave-Jacksonville-FL-32210/44474950_zpid/,44474950,,SINGLE FAMILY,"$179,500",5033 LEXINGTON Avenue,Jacksonville,FL,32210,2,1,1166,7840.8 sqft,1435
+https://www.zillow.com/homedetails/7961-Evening-Flower-Ln-Jacksonville-FL-32244/44428175_zpid/,44428175,,SINGLE FAMILY,"$252,000",7961 EVENING FLOWER Lane,Jacksonville,FL,32244,3,2,1160,7405.2 sqft,1673
+https://www.zillow.com/homedetails/2842-Lucoma-Dr-Jacksonville-FL-32254/44483944_zpid/,44483944,,SINGLE FAMILY,"$130,000",2842 Lucoma Drive,Jacksonville,FL,32254,3,1,924,5194 sqft,1307
+https://www.zillow.com/homedetails/6511-Ginnie-Springs-Rd-Jacksonville-FL-32258/82992468_zpid/,82992468,,SINGLE FAMILY,"$499,000",6511 GINNIE SPRINGS Road,Jacksonville,FL,32258,5,3,2200,8712 sqft,3537
+https://www.zillow.com/homedetails/2535-Hazel-Dr-Jacksonville-FL-32216/44537503_zpid/,44537503,,SINGLE FAMILY,"$309,000",2535 HAZEL Drive,Jacksonville,FL,32216,4,2,1638,0.26 acres,2249
+https://www.zillow.com/homedetails/11125-Saddle-Club-Dr-Jacksonville-FL-32219/102990397_zpid/,102990397,,SINGLE FAMILY,"$595,000",11125 SADDLE CLUB Drive,Jacksonville,FL,32219,5,3,2823,1.56 acres,2862
+https://www.zillow.com/homedetails/3424-Stuart-St-Jacksonville-FL-32209/44484353_zpid/,44484353,,SINGLE FAMILY,"$129,900",3424 STUART Street,Jacksonville,FL,32209,3,1,1102,4791.6 sqft,1144
+https://www.zillow.com/homedetails/8550-Argyle-Business-Loop-UNIT-1507-Jacksonville-FL-32244/82048037_zpid/,82048037,,CONDO,"$205,000",8550 ARGYLE BUSINESS Loop #1507,Jacksonville,FL,32244,3,3,1486,435.6 sqft,1631
+https://www.zillow.com/homedetails/11896-Ashbrook-Cir-S-Jacksonville-FL-32225/44585790_zpid/,44585790,,SINGLE FAMILY,"$226,000",11896 ASHBROOK Circle,Jacksonville,FL,32225,3,2,1323,10454.4 sqft,2035
+https://www.zillow.com/homedetails/5419-S-River-Rd-Jacksonville-FL-32211/44530444_zpid/,44530444,,SINGLE FAMILY,"$295,999",5419 S RIVER Road,Jacksonville,FL,32211,3,2,1180, ,1791
+https://www.zillow.com/homedetails/2180-Mareeba-Rd-E-Jacksonville-FL-32246/44595707_zpid/,44595707,,SINGLE FAMILY,"$190,000",2180 MAREEBA Road E,Jacksonville,FL,32246,3,2,1184,6098.4 sqft,1872
+https://www.zillow.com/homedetails/2956-Bright-Eagle-Dr-Jacksonville-FL-32226/82983211_zpid/,82983211,,SINGLE FAMILY,"$440,000",2956 BRIGHT EAGLE Drive,Jacksonville,FL,32226,5,3,2666,0.36 acres,2579
+https://www.zillow.com/homedetails/15625-Shark-Rd-W-Jacksonville-FL-32226/44580795_zpid/,44580795,,SINGLE FAMILY,"$540,000",15625 SHARK Road W,Jacksonville,FL,32226,3,3,2068,2.07 acres,2561
+https://www.zillow.com/homedetails/6310-Harlow-Blvd-Jacksonville-FL-32210/252229233_zpid/,252229233,,SINGLE FAMILY,"$299,000",6310 HARLOW Boulevard,Jacksonville,FL,32210,4,3,1764,8276.4 sqft,2120
+https://www.zillow.com/homedetails/10559-Rocky-Garden-Ln-Jacksonville-FL-32257/44565709_zpid/,44565709,,SINGLE FAMILY,"$265,000",10559 ROCKY GARDEN Lane,Jacksonville,FL,32257,3,2,1614,10454.4 sqft,1978
+https://www.zillow.com/homedetails/1900-Dalamon-St-Jacksonville-FL-32211/44525141_zpid/,44525141,,SINGLE FAMILY,"$365,000",1900 DALAMON Street,Jacksonville,FL,32211,4,3,1776,0.25 acres,2342
+https://www.zillow.com/homedetails/1020-Candlebark-Dr-Jacksonville-FL-32225/82992689_zpid/,82992689,,SINGLE FAMILY,"$464,900",1020 CANDLEBARK Drive,Jacksonville,FL,32225,4,3,2701,8712 sqft,2765
+https://www.zillow.com/homedetails/9671-Old-Plank-Rd-Jacksonville-FL-32220/44408812_zpid/,44408812,,SINGLE FAMILY,"$249,900",9671 OLD PLANK Road,Jacksonville,FL,32220,3,2,1206,6.77 acres,1625
+https://www.zillow.com/homedetails/9039-Berens-St-Jacksonville-FL-32210/44417990_zpid/,44417990,,SINGLE FAMILY,"$180,000",9039 BERENS Street,Jacksonville,FL,32210,4,2,1974,8712 sqft,2105
+https://www.zillow.com/homedetails/2805-Post-St-Jacksonville-FL-32205/44471430_zpid/,44471430,,SINGLE FAMILY,"$225,000",2805 POST Street,Jacksonville,FL,32205,3,1,1144,4356 sqft,1858
+https://www.zillow.com/homedetails/472-W-66th-St-Jacksonville-FL-32208/44446756_zpid/,44446756,,SINGLE FAMILY,"$185,000",472 W 66TH Street,Jacksonville,FL,32208,4,2,1554,6098.4 sqft,1601
+https://www.zillow.com/homedetails/3165-Sweetwater-Oaks-Dr-N-Jacksonville-FL-32223/44568326_zpid/,44568326,,SINGLE FAMILY,"$340,000",3165 SWEETWATER OAKS Drive N,Jacksonville,FL,32223,4,2,1670,6969.6 sqft,2181
+https://www.zillow.com/homedetails/1402-Harrison-Ct-Jacksonville-FL-32208/338005275_zpid/,338005275,,SINGLE FAMILY,"$375,000",1402 HARRISON Court,Jacksonville,FL,32208,4,2,1829,1.11 acres,1759
+https://www.zillow.com/homedetails/11040-Campus-Heights-Ln-Jacksonville-FL-32218/109766134_zpid/,109766134,,SINGLE FAMILY,"$259,900",11040 Campus Heights Ln,Jacksonville,FL,32218,3,2,1437,5360 sqft,1872
+https://www.zillow.com/homedetails/3037-Ribault-Scenic-Dr-Jacksonville-FL-32208/44438788_zpid/,44438788,,SINGLE FAMILY,"$200,000",3037 RIBAULT SCENIC Drive,Jacksonville,FL,32208,4,2,1636,1.3 acres,1886
+https://www.zillow.com/homedetails/8820-Bandera-Cir-S-Jacksonville-FL-32244/44426302_zpid/,44426302,,SINGLE FAMILY,"$314,990",8820 BANDERA Circle S,Jacksonville,FL,32244,3,3,1874,0.53 acres,1921
+https://www.zillow.com/homedetails/5477-River-Trail-Rd-S-Jacksonville-FL-32277/44511189_zpid/,44511189,,SINGLE FAMILY,"$575,000",5477 RIVER TRAIL Road S,Jacksonville,FL,32277,5,2,3763,0.32 acres,3857
+https://www.zillow.com/homedetails/11155-Windy-Oaks-Dr-N-Jacksonville-FL-32225/44588585_zpid/,44588585,,SINGLE FAMILY,"$314,900",11155 WINDY OAKS Drive N,Jacksonville,FL,32225,3,2,1656,7840.8 sqft,2356
+https://www.zillow.com/homedetails/6812-Caballero-Dr-Jacksonville-FL-32217/44558593_zpid/,44558593,,SINGLE FAMILY,"$540,000",6812 CABALLERO Drive,Jacksonville,FL,32217,3,3,2400,9147.6 sqft,
+https://www.zillow.com/homedetails/8657-Pine-Park-Dr-Jacksonville-FL-32219/44450885_zpid/,44450885,,SINGLE FAMILY,"$199,000",8657 PINE PARK Drive,Jacksonville,FL,32219,3,2,1403,0.61 acres,1507
+https://www.zillow.com/homedetails/2321-Camden-Ave-Jacksonville-FL-32207/44527689_zpid/,44527689,,SINGLE FAMILY,"$325,000",2321 CAMDEN Avenue,Jacksonville,FL,32207,3,2,1612,0.41 acres,1816
+https://www.zillow.com/homedetails/12818-Micanopy-Ln-Jacksonville-FL-32223/108860059_zpid/,108860059,,SINGLE FAMILY,"$1,175,000",12818 MICANOPY Lane,Jacksonville,FL,32223,4,4,3806,0.9199999999999999 acres,4873
+https://www.zillow.com/homedetails/1417-Clock-St-Jacksonville-FL-32211/44540826_zpid/,44540826,,SINGLE FAMILY,"$299,900",1417 CLOCK Street,Jacksonville,FL,32211,3,2,1728,7405.2 sqft,1823
+https://www.zillow.com/homedetails/3867-N-Juliet-Leia-Cir-Jacksonville-FL-32218/82982544_zpid/,82982544,,SINGLE FAMILY,"$374,900",3867 N JULIET LEIA Circle,Jacksonville,FL,32218,4,2,2138,0.35 acres,2283
+https://www.zillow.com/homedetails/2429-Saint-Leger-Dr-Jacksonville-FL-32208/44439118_zpid/,44439118,,SINGLE FAMILY,"$262,500",2429 ST LEGER Drive,Jacksonville,FL,32208,4,3,2615,10018.8 sqft,2620
+https://www.zillow.com/homedetails/5904-Ortega-Farms-Blvd-Jacksonville-FL-32244/44501403_zpid/,44501403,,SINGLE FAMILY,"$285,000",5904 ORTEGA FARMS Boulevard,Jacksonville,FL,32244,4,3,1560,0.25 acres,1569
+https://www.zillow.com/homedetails/2936-Brettungar-Dr-Jacksonville-FL-32246/125999787_zpid/,125999787,,SINGLE FAMILY,"$1,200,000",2936 BRETTUNGAR Drive,Jacksonville,FL,32246,4,4,3226, ,3782
+https://www.zillow.com/homedetails/12327-Patty-Dr-Jacksonville-FL-32220/44403292_zpid/,44403292,,SINGLE FAMILY,"$470,000",12327 PATTY Drive,Jacksonville,FL,32220,4,3,2084,2.8 acres,2313
+https://www.zillow.com/homedetails/2103-Indian-Springs-Dr-Jacksonville-FL-32246/44596647_zpid/,44596647,,SINGLE FAMILY,"$450,000",2103 INDIAN SPRINGS Drive,Jacksonville,FL,32246,4,2,2070,0.26 acres,3225
+https://www.zillow.com/homedetails/3582-Lita-Rd-E-Jacksonville-FL-32257/44556036_zpid/,44556036,,SINGLE FAMILY,"$549,900",3582 LITA Road E,Jacksonville,FL,32257,4,3,2480,0.32999999999999996 acres,3147
+https://www.zillow.com/homedetails/15014-Venosa-Cir-Jacksonville-FL-32258/126047561_zpid/,126047561,,TOWNHOUSE,"$359,000",15014 VENOSA Circle,Jacksonville,FL,32258,2,2,1444,5227.2 sqft,2261
+https://www.zillow.com/homedetails/4480-Deerwood-Lake-Pkwy-UNIT-131-Jacksonville-FL-32216/82986426_zpid/,82986426,,CONDO,"$325,000",4480 DEERWOOD LAKE Parkway #131,Jacksonville,FL,32216,3,2,1649, ,2044
+https://www.zillow.com/homedetails/2541-Forbes-St-Jacksonville-FL-32204/44488650_zpid/,44488650,,SINGLE FAMILY,"$510,000",2541 FORBES Street,Jacksonville,FL,32204,4,3,2152,4356 sqft,
+https://www.zillow.com/homedetails/11333-Americana-Ln-Jacksonville-FL-32218/44513381_zpid/,44513381,,SINGLE FAMILY,"$232,700",11333 AMERICANA Lane,Jacksonville,FL,32218,3,2,1489,7405.2 sqft,1875
+https://www.zillow.com/homedetails/503-Candlebark-Dr-Jacksonville-FL-32225/89841646_zpid/,89841646,,SINGLE FAMILY,"$495,000",503 CANDLEBARK Drive,Jacksonville,FL,32225,4,3,2910, ,3004
+https://www.zillow.com/homedetails/2764-Acorn-Park-Dr-N-Jacksonville-FL-32218/2065356988_zpid/,2065356988,,SINGLE FAMILY,"$249,900",2764 ACORN PARK Drive N,Jacksonville,FL,32218,4,2,1713,7405.2 sqft,2047
+https://www.zillow.com/homedetails/1431-Riverplace-Blvd-APT-1004-Jacksonville-FL-32207/89840127_zpid/,89840127,,CONDO,"$525,000",1431 RIVERPLACE Boulevard #1004,Jacksonville,FL,32207,2,2,1382, ,2585
+https://www.zillow.com/homedetails/12322-Mastin-Cove-Rd-Jacksonville-FL-32225/44591909_zpid/,44591909,,SINGLE FAMILY,"$375,000",12322 MASTIN COVE Road,Jacksonville,FL,32225,3,2,1158,5227.2 sqft,2343
+https://www.zillow.com/homedetails/14378-Cherry-Lake-Dr-E-Jacksonville-FL-32258/71037546_zpid/,71037546,,SINGLE FAMILY,"$675,000",14378 Cherry Lake Dr E,Jacksonville,FL,32258,5,4,3066,0.7 acres,4483
+https://www.zillow.com/homedetails/11010-Bridges-Rd-Jacksonville-FL-32218/124858283_zpid/,124858283,,SINGLE FAMILY,"$300,000",11010 BRIDGES Road,Jacksonville,FL,32218,3,5,4396,3.38 acres,4243
+https://www.zillow.com/homedetails/7854-Timberlin-Park-Blvd-Jacksonville-FL-32256/44555331_zpid/,44555331,,SINGLE FAMILY,"$599,000",7854 TIMBERLIN PARK Boulevard,Jacksonville,FL,32256,5,4,2834, ,4082
+https://www.zillow.com/homedetails/394-Pablo-Point-Dr-Jacksonville-FL-32225/44603157_zpid/,44603157,,SINGLE FAMILY,"$625,000",394 PABLO POINT Drive,Jacksonville,FL,32225,3,2,2021,0.49000000000000005 acres,3252
+https://www.zillow.com/homedetails/5013-Brierwood-Ct-Jacksonville-FL-32217/44549013_zpid/,44549013,,SINGLE FAMILY,"$460,000",5013 BRIERWOOD Court,Jacksonville,FL,32217,4,2,2033,0.27 acres,2847
+https://www.zillow.com/homedetails/1515-Landau-Rd-Jacksonville-FL-32225/82999584_zpid/,82999584,,TOWNHOUSE,"$220,000",1515 LANDAU Road,Jacksonville,FL,32225,2,3,1380,1742.4 sqft,1764
+https://www.zillow.com/homedetails/1215-Bluehill-Dr-N-Jacksonville-FL-32218/44455130_zpid/,44455130,,SINGLE FAMILY,"$315,000",1215 BLUEHILL Drive N,Jacksonville,FL,32218,3,2,1526,0.33999999999999997 acres,1913
+https://www.zillow.com/homedetails/794-La-Marche-Dr-Jacksonville-FL-32205/44415198_zpid/,44415198,,SINGLE FAMILY,"$217,000",794 LA MARCHE Drive,Jacksonville,FL,32205,4,2,1744,7405.2 sqft,1651
+https://www.zillow.com/homedetails/13703-Richmond-Park-Dr-N-APT-3203-Jacksonville-FL-32224/81798353_zpid/,81798353,,CONDO,"$218,000",13703 RICHMOND PARK Drive N #3203,Jacksonville,FL,32224,2,2,1015,435.6 sqft,1551
+https://www.zillow.com/homedetails/2269-Parkin-Rd-Jacksonville-FL-32218/44513808_zpid/,44513808,,SINGLE FAMILY,"$245,000",2269 PARKIN Road,Jacksonville,FL,32218,4,2,1552,0.35 acres,1847
+https://www.zillow.com/homedetails/7929-Smart-Ave-Jacksonville-FL-32219/154576791_zpid/,154576791,,MULTI FAMILY,"$390,000",7929 Smart Ave,Jacksonville,FL,32219,40,20,120000,3 acres,1289
+https://www.zillow.com/homedetails/4539-Barrington-Oaks-Dr-Jacksonville-FL-32257/44555713_zpid/,44555713,,SINGLE FAMILY,"$425,000",4539 Barrington Oaks Dr,Jacksonville,FL,32257,4,3,2646,0.27 acres,2347
+https://www.zillow.com/homedetails/12325-Field-Bluff-Rd-Jacksonville-FL-32223/44574547_zpid/,44574547,,SINGLE FAMILY,"$435,000",12325 FIELD BLUFF Road,Jacksonville,FL,32223,4,3,1949, ,
+https://www.zillow.com/homedetails/7685-Arancio-Dr-Jacksonville-FL-32244/44423580_zpid/,44423580,,SINGLE FAMILY,"$305,000",7685 ARANCIO Drive,Jacksonville,FL,32244,3,2,1724,8276.4 sqft,1708
+https://www.zillow.com/homedetails/8263-Caravelle-Dr-Jacksonville-FL-32244/44494392_zpid/,44494392,,SINGLE FAMILY,"$195,000",8263 CARAVELLE Drive,Jacksonville,FL,32244,4,3,1855,7840.8 sqft,2415
+https://www.zillow.com/homedetails/4537-Carrara-Ct-Jacksonville-FL-32224/82981245_zpid/,82981245,,SINGLE FAMILY,"$1,095,000",4537 CARRARA CT. Court,Jacksonville,FL,32224,4,4,3586,0.49000000000000005 acres,
+https://www.zillow.com/homedetails/4605-Delta-Ave-Jacksonville-FL-32205/44472404_zpid/,44472404,,SINGLE FAMILY,"$249,000",4605 DELTA Avenue,Jacksonville,FL,32205,3,1,943,7405.2 sqft,1561
+https://www.zillow.com/homedetails/12447-Blackwater-Ct-Jacksonville-FL-32223/82993502_zpid/,82993502,,SINGLE FAMILY,"$399,900",12447 BLACKWATER Court,Jacksonville,FL,32223,3,2,1976,7405.2 sqft,2371
+https://www.zillow.com/homedetails/6155-Lake-Tahoe-Dr-Jacksonville-FL-32256/44551574_zpid/,44551574,,CONDO,"$149,000",6155 LAKE TAHOE Drive,Jacksonville,FL,32256,2,2,1448,1742.4 sqft,1578
+https://www.zillow.com/homedetails/6014-Woodside-Dr-Jacksonville-FL-32210/450248450_zpid/,450248450,,SINGLE FAMILY,"$265,000",6014 WOODSIDE Drive,Jacksonville,FL,32210,3,2,1236,7840.8 sqft,
+https://www.zillow.com/homedetails/4036-Alfred-Mill-Ave-Jacksonville-FL-32208/44441797_zpid/,44441797,,SINGLE FAMILY,"$187,000",4036 ALFRED MILL Avenue,Jacksonville,FL,32208,3,2,1176,6098.4 sqft,1479
+https://www.zillow.com/homedetails/3074-Captiva-Bluff-Cir-Jacksonville-FL-32226/60525537_zpid/,60525537,,SINGLE FAMILY,"$349,900",3074 CAPTIVA BLUFF Circle,Jacksonville,FL,32226,3,2,1830,8276.4 sqft,2060
+https://www.zillow.com/homedetails/1766-N-Myrtle-Ave-Jacksonville-FL-32209/44464224_zpid/,44464224,,SINGLE FAMILY,"$148,000",1766 MYRTLE Avenue N,Jacksonville,FL,32209,3,2,1378,4356 sqft,1371
+https://www.zillow.com/homedetails/3127-Blue-Heron-Dr-N-Jacksonville-FL-32223/44580149_zpid/,44580149,,SINGLE FAMILY,"$345,000",3127 BLUE HERON Drive N,Jacksonville,FL,32223,3,2,1492,10454.4 sqft,2246
+https://www.zillow.com/homedetails/1117-E-16th-St-Jacksonville-FL-32206/44518438_zpid/,44518438,,SINGLE FAMILY,"$149,900",1117 E 16TH Street,Jacksonville,FL,32206,3,1,1217,3920.4 sqft,1267
+https://www.zillow.com/homedetails/6171-Hill-View-Ct-Jacksonville-FL-32244/44420957_zpid/,44420957,,SINGLE FAMILY,"$230,000",6171 Hill View Ct,Jacksonville,FL,32244,3,2,1458,9796 sqft,1788
+https://www.zillow.com/homedetails/8691-Moss-Haven-Rd-Jacksonville-FL-32221/44411531_zpid/,44411531,,SINGLE FAMILY,"$225,000",8691 MOSS HAVEN Road,Jacksonville,FL,32221,3,2,1388,0.35 acres,1780
+https://www.zillow.com/homedetails/12040-Calais-St-Jacksonville-FL-32224/450549189_zpid/,450549189,,SINGLE FAMILY,"$359,900",12040 CALAIS Street,Jacksonville,FL,32224,4,2,1698,0.31 acres,
+https://www.zillow.com/homedetails/3413-Eve-Dr-E-Jacksonville-FL-32246/44527004_zpid/,44527004,,SINGLE FAMILY,"$249,900",3413 EVE Drive E,Jacksonville,FL,32246,3,2,1100,10454.4 sqft,1574
+https://www.zillow.com/homedetails/2356-3rd-Ave-Jacksonville-FL-32208/44441871_zpid/,44441871,,SINGLE FAMILY,"$169,000",2356 3RD Avenue,Jacksonville,FL,32208,3,2,1032,4791.6 sqft,1328
+https://www.zillow.com/homedetails/1685-Mount-Vernon-Dr-Jacksonville-FL-32210/44415917_zpid/,44415917,,SINGLE FAMILY,"$305,000",1685 MT VERNON Drive,Jacksonville,FL,32210,3,3,1802,0.27 acres,1908
+https://www.zillow.com/homedetails/2674-Trollie-Ln-APT-3-Jacksonville-FL-32211/44519837_zpid/,44519837,,TOWNHOUSE,"$138,000",2674 TROLLIE Lane #3,Jacksonville,FL,32211,2,2,960,2178 sqft,1126
+https://www.zillow.com/homedetails/4225-Homer-Rd-N-Jacksonville-FL-32209/2136834598_zpid/,2136834598,,SINGLE FAMILY,"$135,000",4225 HOMER Road N,Jacksonville,FL,32209,3,1,924,7840.8 sqft,1367
+https://www.zillow.com/homedetails/1620-Cherry-St-Jacksonville-FL-32205/44479239_zpid/,44479239,,SINGLE FAMILY,"$549,900",1620 CHERRY Street,Jacksonville,FL,32205,3,3,1987,6098.4 sqft,
+https://www.zillow.com/homedetails/7356-Bloxham-Ave-Jacksonville-FL-32208/454926141_zpid/,454926141,,SINGLE FAMILY,"$239,000",7356 BLOXHAM Avenue,Jacksonville,FL,32208,3,2,1269, ,
+https://www.zillow.com/homedetails/2541-Grand-St-Jacksonville-FL-32208/44447439_zpid/,44447439,,SINGLE FAMILY,"$385,000",2541 GRAND Street,Jacksonville,FL,32208,6,3,3242,0.8699999999999999 acres,2904
+https://www.zillow.com/homedetails/11954-Canterwood-Dr-Jacksonville-FL-32246/61277709_zpid/,61277709,,SINGLE FAMILY,"$350,000",11954 CANTERWOOD Drive,Jacksonville,FL,32246,4,3,2169,6969.6 sqft,2712
+https://www.zillow.com/homedetails/3314-Warrington-St-Jacksonville-FL-32254/2062789683_zpid/,2062789683,,SINGLE FAMILY,"$230,000",3314 Warrington Street,Jacksonville,FL,32254,3,2,1196,4503 sqft,1673
+https://www.zillow.com/homedetails/548-Aiken-Rd-Jacksonville-FL-32216/44538484_zpid/,44538484,,SINGLE FAMILY,"$298,000",548 AIKEN Road,Jacksonville,FL,32216,4,2,1320,8712 sqft,1717
+https://www.zillow.com/homedetails/433-W-70th-St-Jacksonville-FL-32208/44444689_zpid/,44444689,,SINGLE FAMILY,"$256,500",433 W 70TH Street,Jacksonville,FL,32208,3,2,1314,9147.6 sqft,1644
+https://www.zillow.com/homedetails/11432-Duval-Rd-Jacksonville-FL-32218/44456520_zpid/,44456520,,SINGLE FAMILY,"$345,000",11432 DUVAL Road,Jacksonville,FL,32218,4,2,1835,0.6799999999999999 acres,1695
+https://www.zillow.com/homedetails/14800-Eagerton-Rd-1-Jacksonville-FL-32218/316820248_zpid/,316820248,,SINGLE FAMILY,"$425,000",14800 EAGERTON Road #1,Jacksonville,FL,32218,3,3,1791,3.29 acres,1964
+https://www.zillow.com/homedetails/11513-Driftwood-Creek-Dr-Jacksonville-FL-32218/109755010_zpid/,109755010,,SINGLE FAMILY,"$295,000",11513 DRIFTWOOD CREEK Drive,Jacksonville,FL,32218,4,2,1701,7840.8 sqft,2021
+https://www.zillow.com/homedetails/10284-Oxford-Lakes-Dr-Jacksonville-FL-32257/109772188_zpid/,109772188,,SINGLE FAMILY,"$740,000",10284 OXFORD LAKES Drive,Jacksonville,FL,32257,4,4,3193,0.8800000000000001 acres,4415
+https://www.zillow.com/homedetails/1551-Mar-Vic-Ln-Jacksonville-FL-32218/44455280_zpid/,44455280,,SINGLE FAMILY,"$159,900",1551 MAR VIC Lane,Jacksonville,FL,32218,3,2,1304,0.26 acres,1847
+https://www.zillow.com/homedetails/1129-Grothe-St-Jacksonville-FL-32209/154610790_zpid/,154610790,,MULTI FAMILY,"$240,000",1129 Grothe St,Jacksonville,FL,32209,7,4,, ,
+https://www.zillow.com/homedetails/1632-Bermuda-Rd-Jacksonville-FL-32224/338718813_zpid/,338718813,,SINGLE FAMILY,"$395,000",1632 BERMUDA Road,Jacksonville,FL,32224,4,2,1470, ,2440
+https://www.zillow.com/homedetails/4845-Louisa-Ter-Jacksonville-FL-32205/44472858_zpid/,44472858,,SINGLE FAMILY,"$199,900",4845 LOUISA Terrace,Jacksonville,FL,32205,2,1,800,4791.6 sqft,1247
+https://www.zillow.com/homedetails/4149-Julington-Creek-Rd-Jacksonville-FL-32223/44575954_zpid/,44575954,,SINGLE FAMILY,"$379,900",4149 JULINGTON CREEK Road,Jacksonville,FL,32223,3,2,1890,0.26 acres,2786
+https://www.zillow.com/homedetails/9254-Beauclerc-Cir-E-Jacksonville-FL-32257/44555799_zpid/,44555799,,SINGLE FAMILY,"$995,700",9254 BEAUCLERC Circle E,Jacksonville,FL,32257,4,5,4144,0.85 acres,4546
+https://www.zillow.com/homedetails/3947-Sarah-Brooke-Ct-Jacksonville-FL-32277/44512242_zpid/,44512242,,SINGLE FAMILY,"$900,000",3947 SARAH BROOKE Court,Jacksonville,FL,32277,5,5,4805,1.07 acres,
+https://www.zillow.com/homedetails/11855-Alexandra-Dr-Jacksonville-FL-32218/109747806_zpid/,109747806,,SINGLE FAMILY,"$326,900",11855 ALEXANDRA Drive,Jacksonville,FL,32218,4,3,2400,6098.4 sqft,2343
+https://www.zillow.com/homedetails/2806-Hilsdale-Harbor-Way-Jacksonville-FL-32216/44562647_zpid/,44562647,,SINGLE FAMILY,"$389,900",2806 HILSDALE HARBOR Way,Jacksonville,FL,32216,3,2,1860,0.32 acres,2166
+https://www.zillow.com/homedetails/5715-Wiltshire-St-Jacksonville-FL-32211/44521160_zpid/,44521160,,SINGLE FAMILY,"$295,000",5715 WILTSHIRE Street,Jacksonville,FL,32211,6,4,2683, ,2955
+https://www.zillow.com/homedetails/3083-Purdom-Dr-Jacksonville-FL-32223/44568394_zpid/,44568394,,SINGLE FAMILY,"$250,000",3083 PURDOM Drive,Jacksonville,FL,32223,3,2,1174,9583.2 sqft,1804
+https://www.zillow.com/homedetails/2919-Sans-Pareil-St-Jacksonville-FL-32246/44600700_zpid/,44600700,,SINGLE FAMILY,"$415,000",2919 SANS PAREIL Street,Jacksonville,FL,32246,3,2,1842,0.39 acres,2406
+https://www.zillow.com/homedetails/2137-La-Valle-Dr-Jacksonville-FL-32210/44413896_zpid/,44413896,,SINGLE FAMILY,"$219,750",2137 LA VALLE Drive,Jacksonville,FL,32210,4,2,1266,9147.6 sqft,
+https://www.zillow.com/homedetails/7060-Perke-Dr-Jacksonville-FL-32210/44431984_zpid/,44431984,,SINGLE FAMILY,"$149,900",7060 PERKE Drive,Jacksonville,FL,32210,3,2,1160,7840.8 sqft,1600
+https://www.zillow.com/homedetails/9209-Jefferson-Ave-Jacksonville-FL-32208/89856207_zpid/,89856207,,SINGLE FAMILY,"$200,000",9209 JEFFERSON Avenue,Jacksonville,FL,32208,3,2,1247,6098.4 sqft,1489
+https://www.zillow.com/homedetails/11003-Merrywood-Dr-Jacksonville-FL-32256/44572673_zpid/,44572673,,MANUFACTURED,"$142,000",11003 MERRYWOOD Drive,Jacksonville,FL,32256,3,2,1377,3920.4 sqft,1605
+https://www.zillow.com/homedetails/9252-San-Jose-Blvd-APT-3702-Jacksonville-FL-32257/44555991_zpid/,44555991,,CONDO,"$169,000",9252 SAN JOSE Boulevard #3702,Jacksonville,FL,32257,2,2,1345,1742.4 sqft,1713
+https://www.zillow.com/homedetails/11680-W-Ride-Dr-Jacksonville-FL-32223/44578327_zpid/,44578327,,SINGLE FAMILY,"$375,000",11680 W RIDE Drive,Jacksonville,FL,32223,3,2,1410,0.26 acres,2293
+https://www.zillow.com/homedetails/14420-Lookout-Pl-Jacksonville-FL-32224/44623511_zpid/,44623511,,SINGLE FAMILY,"$475,000",14420 LOOKOUT Place,Jacksonville,FL,32224,3,2,1486,10454.4 sqft,2996
+https://www.zillow.com/homedetails/2257-Hammock-Oaks-Dr-N-Jacksonville-FL-32223/44505198_zpid/,44505198,,SINGLE FAMILY,"$575,000",2257 HAMMOCK OAKS Drive,Jacksonville,FL,32223,4,3,2436,0.43 acres,3513
+https://www.zillow.com/homedetails/12068-Bayonne-St-Jacksonville-FL-32224/333079954_zpid/,333079954,,SINGLE FAMILY,"$379,900",12068 BAYONNE Street,Jacksonville,FL,32224,3,2,1350,0.3 acres,2186
+https://www.zillow.com/homedetails/691-Grove-Park-Blvd-Jacksonville-FL-32216/44539356_zpid/,44539356,,SINGLE FAMILY,"$235,000",691 GROVE PARK Boulevard,Jacksonville,FL,32216,3,2,1283, ,1762
+https://www.zillow.com/homedetails/5353-Blue-Pacific-Dr-W-Jacksonville-FL-32257/44564204_zpid/,44564204,,SINGLE FAMILY,"$399,000",5353 BLUE PACIFIC Drive W,Jacksonville,FL,32257,4,2,2222,0.32999999999999996 acres,2463
+https://www.zillow.com/homedetails/121-Pine-Manor-Dr-Jacksonville-FL-32256/252228109_zpid/,252228109,,SINGLE FAMILY,"$739,900",121 PINE MANOR Drive,Jacksonville,FL,32256,4,3,2476,0.26 acres,
+https://www.zillow.com/homedetails/4350-Springmoor-Dr-E-Jacksonville-FL-32225/44582690_zpid/,44582690,,SINGLE FAMILY,"$479,000",4350 SPRINGMOOR Drive E,Jacksonville,FL,32225,4,3,2352, ,3469
+https://www.zillow.com/homedetails/8824-Runnymeade-Rd-Jacksonville-FL-32257/44549043_zpid/,44549043,,SINGLE FAMILY,"$400,000",8824 RUNNYMEADE Road,Jacksonville,FL,32257,4,3,2124,10018.8 sqft,2964
+https://www.zillow.com/homedetails/4218-Kings-Ct-Jacksonville-FL-32217/44558211_zpid/,44558211,,SINGLE FAMILY,"$399,000",4218 KINGS Court,Jacksonville,FL,32217,3,3,2360,0.38 acres,2585
+https://www.zillow.com/homedetails/4458-Deep-River-Way-E-Jacksonville-FL-32224/44609049_zpid/,44609049,,SINGLE FAMILY,"$575,000",4458 DEEP RIVER Way E,Jacksonville,FL,32224,4,2,2362,0.31 acres,3592
+https://www.zillow.com/homedetails/2338-Companion-Cir-W-Jacksonville-FL-32224/44603792_zpid/,44603792,,SINGLE FAMILY,"$360,000",2338 COMPANION Circle W,Jacksonville,FL,32224,3,2,1396,7840.8 sqft,
+https://www.zillow.com/homedetails/15806-Whitebark-Dr-Jacksonville-FL-32218/333078825_zpid/,333078825,,SINGLE FAMILY,"$529,000",15806 WHITEBARK Drive,Jacksonville,FL,32218,4,4,2798,6534 sqft,3270
+https://www.zillow.com/homedetails/5612-Oliver-St-Jacksonville-FL-32211/44521176_zpid/,44521176,,SINGLE FAMILY,"$233,000",5612 OLIVER Street,Jacksonville,FL,32211,5,3,2358,7405.2 sqft,2388
+https://www.zillow.com/homedetails/6443-118th-St-Jacksonville-FL-32244/44420168_zpid/,44420168,,SINGLE FAMILY,"$125,000",6443 118TH Street,Jacksonville,FL,32244,4,2,1152,2.89 acres,1755
+https://www.zillow.com/homedetails/5911-Brush-Hollow-Rd-Jacksonville-FL-32258/82993184_zpid/,82993184,,SINGLE FAMILY,"$540,000",5911 BRUSH HOLLOW Road,Jacksonville,FL,32258,4,3,2679,7405.2 sqft,3423
+https://www.zillow.com/homedetails/226-River-Hills-Dr-Jacksonville-FL-32216/109764897_zpid/,109764897,,SINGLE FAMILY,"$970,000",226 RIVER HILLS Drive,Jacksonville,FL,32216,4,3,2979,0.4 acres,3309
+https://www.zillow.com/homedetails/953-Mystic-Harbor-Dr-Jacksonville-FL-32225/54142496_zpid/,54142496,,SINGLE FAMILY,"$439,999",953 MYSTIC HARBOR Drive,Jacksonville,FL,32225,5,3,2400,6969.6 sqft,2914
+https://www.zillow.com/homedetails/2943-Cassia-Ln-Jacksonville-FL-32246/338007614_zpid/,338007614,,SINGLE FAMILY,"$1,050,000",2943 CASSIA Lane,Jacksonville,FL,32246,5,4,3781,9583.2 sqft,5905
+https://www.zillow.com/homedetails/11470-Glenlaurel-Oaks-Cir-Jacksonville-FL-32257/122976596_zpid/,122976596,,SINGLE FAMILY,"$615,000",11470 GLENLAUREL OAKS Circle,Jacksonville,FL,32257,5,4,3448, ,3597
+https://www.zillow.com/homedetails/1163-Eagle-Bend-Ct-Jacksonville-FL-32226/44507181_zpid/,44507181,,SINGLE FAMILY,"$625,000",1163 EAGLE BEND Court,Jacksonville,FL,32226,4,3,2759,1.46 acres,2840
+https://www.zillow.com/homedetails/4567-Rocky-River-Rd-W-Jacksonville-FL-32224/44608973_zpid/,44608973,,SINGLE FAMILY,"$515,000",4567 ROCKY RIVER Road W,Jacksonville,FL,32224,4,2,2062,0.27999999999999997 acres,3013
+https://www.zillow.com/homedetails/5252-Santa-Monica-Blvd-N-Jacksonville-FL-32207/44561181_zpid/,44561181,,SINGLE FAMILY,"$315,000",5252 SANTA MONICA Boulevard N,Jacksonville,FL,32207,4,2,1316,8276.4 sqft,1839
+https://www.zillow.com/homedetails/6749-Sandle-Dr-Jacksonville-FL-32219/123461480_zpid/,123461480,,SINGLE FAMILY,"$279,900",6749 SANDLE Drive,Jacksonville,FL,32219,4,2,1856,7840.8 sqft,2099
+https://www.zillow.com/homedetails/6528-Valerosa-Ct-UNIT-4-Jacksonville-FL-32217/71044188_zpid/,71044188,,CONDO,"$129,000",6528 VALEROSA Court #4,Jacksonville,FL,32217,3,2,1430,435.6 sqft,
+https://www.zillow.com/homedetails/7679-Melissa-Ct-N-Jacksonville-FL-32210/44419049_zpid/,44419049,,TOWNHOUSE,"$209,900",7679 MELISSA Court N,Jacksonville,FL,32210,3,2,1386,3484.8 sqft,1628
+https://www.zillow.com/homedetails/3903-Saint-Johns-Ave-Jacksonville-FL-32205/44490111_zpid/,44490111,,SINGLE FAMILY,"$1,300,000",3903 ST JOHNS Avenue,JACKSONVILLE,FL,32205,4,4,3944,0.36 acres,2697
+https://www.zillow.com/homedetails/5406-Matanzas-Way-Jacksonville-FL-32211/44531036_zpid/,44531036,,SINGLE FAMILY,"$285,000",5406 MATANZAS Way,Jacksonville,FL,32211,4,2,1819,0.25 acres,2180
+https://www.zillow.com/homedetails/9149-12th-Ave-Jacksonville-FL-32208/44447543_zpid/,44447543,,SINGLE FAMILY,"$160,000",9149 12TH Avenue,Jacksonville,FL,32208,3,1,1062,6098.4 sqft,1453
+https://www.zillow.com/homedetails/3228-Tiger-Hole-Rd-Jacksonville-FL-32216/44561964_zpid/,44561964,,MANUFACTURED,"$289,900",3228 TIGER HOLE Road,Jacksonville,FL,32216,3,2,1431,0.9400000000000001 acres,1948
+https://www.zillow.com/homedetails/5025-Welborn-Rd-Jacksonville-FL-32207/44534832_zpid/,44534832,,SINGLE FAMILY,"$320,000",5025 WELBORN Road,Jacksonville,FL,32207,2,1,1399,9147.6 sqft,1472
+https://www.zillow.com/homedetails/13254-Karla-Cove-Ln-Jacksonville-FL-32225/44603654_zpid/,44603654,,SINGLE FAMILY,"$365,000",13254 KARLA COVE Lane,Jacksonville,FL,32225,3,2,1478,6969.6 sqft,2303
+https://www.zillow.com/homedetails/11150-S-Cisco-Gardens-Rd-Jacksonville-FL-32219/44404919_zpid/,44404919,,SINGLE FAMILY,"$699,000",11150 CISCO GARDENS Road S,Jacksonville,FL,32219,4,3,2575,3.6 acres,2832
+https://www.zillow.com/homedetails/12351-Burgess-Hill-Cir-S-Jacksonville-FL-32246/44598235_zpid/,44598235,,SINGLE FAMILY,"$579,900",12351 BURGESS HILL Circle S,Jacksonville,FL,32246,5,3,2838,7840.8 sqft,
+https://www.zillow.com/homedetails/2346-Sunset-Bluff-Dr-Jacksonville-FL-32216/82990525_zpid/,82990525,,TOWNHOUSE,"$277,000",2346 SUNSET BLUFF Drive,Jacksonville,FL,32216,3,3,1619,3049.2 sqft,1838
+https://www.zillow.com/homedetails/12462-Harbor-Winds-Dr-N-Jacksonville-FL-32225/44591201_zpid/,44591201,,SINGLE FAMILY,"$425,000",12462 HARBOR WINDS Drive N,Jacksonville,FL,32225,3,2,1733,6098.4 sqft,
+https://www.zillow.com/homedetails/425-W-21st-St-Jacksonville-FL-32206/154638573_zpid/,154638573,,MULTI FAMILY,"$240,000",425 W 21ST Street,Jacksonville,FL,32206,6,2,2452,4791.6 sqft,1456
+https://www.zillow.com/homedetails/95-Crestway-Ln-Jacksonville-FL-32081/125974894_zpid/,125974894,,SINGLE FAMILY,"$610,000",95 CRESTWAY Lane,Jacksonville,FL,32081,3,2,2128,5662.8 sqft,2926
+https://www.zillow.com/homedetails/8107-Woodgrove-Rd-Jacksonville-FL-32256/44551114_zpid/,44551114,,SINGLE FAMILY,"$825,000",8107 WOODGROVE Road,Jacksonville,FL,32256,4,3,3267,0.51 acres,
+https://www.zillow.com/homedetails/13882-White-Heron-Pl-Jacksonville-FL-32224/338007797_zpid/,338007797,,SINGLE FAMILY,"$849,900",13882 WHITE HERON Place,Jacksonville,FL,32224,5,5,3043,10454.4 sqft,4654
+https://www.zillow.com/homedetails/12084-Acornshell-Way-Jacksonville-FL-32223/44505178_zpid/,44505178,,SINGLE FAMILY,"$549,900",12084 ACORNSHELL Way,Jacksonville,FL,32223,4,3,2665,0.25 acres,3426
+https://www.zillow.com/homedetails/4906-Yellow-Water-Rd-Jacksonville-FL-32234/154522495_zpid/,154522495,,SINGLE FAMILY,"$875,000",4906 YELLOW WATER Road,Jacksonville,FL,32234,6,4,2967,10.04 acres,1324
+https://www.zillow.com/homedetails/1261-Knobb-Hill-Dr-Jacksonville-FL-32221/44410605_zpid/,44410605,,SINGLE FAMILY,"$133,000",1261 KNOBB HILL Drive,Jacksonville,FL,32221,3,2,2026,0.32 acres,2155
+https://www.zillow.com/homedetails/4115-Wilcrest-Cir-W-Jacksonville-FL-32277/44511778_zpid/,44511778,,SINGLE FAMILY,"$360,000",4115 WILCREST Circle W,Jacksonville,FL,32277,3,2,1666,0.25 acres,1944
+https://www.zillow.com/homedetails/6121-Collins-Rd-232-Jacksonville-FL-32244/455266916_zpid/,455266916,,MANUFACTURED,"$110,750",6121 Collins Rd #232,Jacksonville,FL,32244,3,2,1264, ,
+https://www.zillow.com/community/harts-ridge/440878051_zpid/,440878051,,SINGLE FAMILY,"$199,900+","1538 Juniper Plan, Harts Ridge",Jacksonville,FL,32218,3,3,1538, ,
+https://www.zillow.com/homedetails/9042-7th-Ave-Jacksonville-FL-32208/44447313_zpid/,44447313,,SINGLE FAMILY,"$149,900",9042 7TH Avenue,Jacksonville,FL,32208,4,2,1152,4791.6 sqft,1506
+https://www.zillow.com/homedetails/7495-Hawks-Cliff-Dr-Jacksonville-FL-32222/71038298_zpid/,71038298,,SINGLE FAMILY,"$324,900",7495 HAWKS CLIFF Drive,Jacksonville,FL,32222,3,2,1728,0.27999999999999997 acres,2037
+https://www.zillow.com/homedetails/2985-Cape-View-Dr-Jacksonville-FL-32226/71034720_zpid/,71034720,,SINGLE FAMILY,"$649,990",2985 CAPE VIEW Drive,Jacksonville,FL,32226,4,3,2898,1.19 acres,
+https://www.zillow.com/homedetails/13703-Richmond-Park-Dr-N-APT-1404-Jacksonville-FL-32224/447578697_zpid/,447578697,,CONDO,"$199,900",13703 RICHMOND PARK Drive N #1404,Jacksonville,FL,32224,2,2,1015,435.6 sqft,
+https://www.zillow.com/homedetails/9606-Evesham-Rd-Jacksonville-FL-32208/44449520_zpid/,44449520,,SINGLE FAMILY,"$119,900",9606 EVESHAM Road,Jacksonville,FL,32208,3,2,1080,9147.6 sqft,1428
+https://www.zillow.com/homedetails/2858-Downing-St-Jacksonville-FL-32205/44471531_zpid/,44471531,,SINGLE FAMILY,"$299,000",2858 DOWNING Street,Jacksonville,FL,32205,3,1,1080,3920.4 sqft,1818
+https://www.zillow.com/homedetails/6359-Rolling-Tree-St-Jacksonville-FL-32222/99399587_zpid/,99399587,,SINGLE FAMILY,"$350,000",6359 ROLLING TREE Street,Jacksonville,FL,32222,4,3,2042, ,2229
+https://www.zillow.com/homedetails/54178-Fouracre-Cir-Callahan-FL-32011/45946836_zpid/,45946836,,SINGLE FAMILY,"$389,000",54178 FOURACRE Circle,Callahan,FL,32011,3,3,1626,3.22 acres,2072
+https://www.zillow.com/homedetails/3248-Plum-St-Jacksonville-FL-32205/44468803_zpid/,44468803,,SINGLE FAMILY,"$162,000",3248 Plum St,Jacksonville,FL,32205,3,1,962,5075 sqft,1537
+https://www.zillow.com/homedetails/1636-Cocoanut-Rd-Jacksonville-FL-32224/44603831_zpid/,44603831,,MANUFACTURED,"$260,000",1636 Cocoanut Rd,Jacksonville,FL,32224,5,3,1924,0.28539944903581266 acres,2496
+https://www.zillow.com/homedetails/5877-Wind-Cave-Ln-Jacksonville-FL-32258/82992056_zpid/,82992056,,SINGLE FAMILY,"$425,000",5877 WIND CAVE Lane,Jacksonville,FL,32258,4,2,1887,0.38 acres,2593
+https://www.zillow.com/homedetails/6141-Old-Middleburg-Rd-S-Jacksonville-FL-32222/44421961_zpid/,44421961,,SINGLE FAMILY,"$189,900",6141 OLD MIDDLEBURG Road S,Jacksonville,FL,32222,4,3,1888,1.06 acres,2129
+https://www.zillow.com/homedetails/1636-King-St-APT-2-Jacksonville-FL-32204/44471996_zpid/,44471996,,CONDO,"$399,888",1636 KING Street #2,Jacksonville,FL,32204,2,2,1400,871.2 sqft,
+https://www.zillow.com/homedetails/4023-Skycrest-Dr-Jacksonville-FL-32246/44608590_zpid/,44608590,,SINGLE FAMILY,"$190,000",4023 Skycrest Dr,Jacksonville,FL,32246,3,1,976,9147.6 sqft,1669
+https://www.zillow.com/homedetails/8539-Gate-Pkwy-W-UNIT-9232-Jacksonville-FL-32216/448388376_zpid/,448388376,,CONDO,"$190,000",8539 GATE Parkway W #9232,Jacksonville,FL,32216,2,2,1049,435.6 sqft,
+https://www.zillow.com/homedetails/2738-Spring-Park-Rd-Jacksonville-FL-32207/44528006_zpid/,44528006,,SINGLE FAMILY,"$245,000",2738 SPRING PARK Road,Jacksonville,FL,32207,3,2,1573,9583.2 sqft,1748
+https://www.zillow.com/homedetails/7917-Linkside-Dr-Jacksonville-FL-32256/44564021_zpid/,44564021,,SINGLE FAMILY,"$415,000",7917 LINKSIDE Drive,Jacksonville,FL,32256,3,3,1756,5227.2 sqft,2450
+https://www.zillow.com/homedetails/2427-Olson-Ln-Jacksonville-FL-32210/44416404_zpid/,44416404,,SINGLE FAMILY,"$300,000",2427 OLSON Lane,Jacksonville,FL,32210,4,2,1744,9147.6 sqft,
+https://www.zillow.com/homedetails/13850-Windsor-Crown-Ct-E-Jacksonville-FL-32225/55118433_zpid/,55118433,,SINGLE FAMILY,"$795,000",13850 WINDSOR CROWN Court E,Jacksonville,FL,32225,5,4,2990,0.25 acres,3331
+https://www.zillow.com/homedetails/5631-Coldstream-Ct-Jacksonville-FL-32222/55115109_zpid/,55115109,,SINGLE FAMILY,"$495,000",5631 COLDSTREAM Court,Jacksonville,FL,32222,5,3,2800,0.27 acres,2893
+https://www.zillow.com/homedetails/14877-Capstan-Dr-Jacksonville-FL-32226/44510650_zpid/,44510650,,SINGLE FAMILY,"$419,000",14877 CAPSTAN Drive,Jacksonville,FL,32226,3,2,1843,1.05 acres,2075
+https://www.zillow.com/homedetails/12445-Acosta-Oaks-Dr-Jacksonville-FL-32258/123461084_zpid/,123461084,,SINGLE FAMILY,"$575,000",12445 ACOSTA OAKS Drive,Jacksonville,FL,32258,4,3,2929,8712 sqft,3670
+https://www.zillow.com/homedetails/9408-Evesham-Rd-Jacksonville-FL-32208/44449508_zpid/,44449508,,SINGLE FAMILY,"$259,000",9408 EVESHAM Road,Jacksonville,FL,32208,4,3,2170,10454.4 sqft,2081
+https://www.zillow.com/homedetails/7841-Baymeadows-Cir-W-Jacksonville-FL-32256/44563995_zpid/,44563995,,SINGLE FAMILY,"$338,000",7841 BAYMEADOWS Circle W,Jacksonville,FL,32256,3,2,1743,5227.2 sqft,2150
+https://www.zillow.com/homedetails/7437-Oriole-St-Jacksonville-FL-32208/44437704_zpid/,44437704,,SINGLE FAMILY,"$169,000",7437 ORIOLE Street,Jacksonville,FL,32208,3,2,1032,8276.4 sqft,1626
+https://www.zillow.com/homedetails/3305-Queen-Ann-Ln-Jacksonville-FL-32257/44552934_zpid/,44552934,,SINGLE FAMILY,"$535,000",3305 QUEEN ANN Lane,Jacksonville,FL,32257,5,3,2891,0.27999999999999997 acres,3484
+https://www.zillow.com/homedetails/7846-Denham-Rd-E-Jacksonville-FL-32208/44438103_zpid/,44438103,,SINGLE FAMILY,"$172,500",7846 DENHAM Road E,Jacksonville,FL,32208,3,1,1020,9147.6 sqft,1300
+https://www.zillow.com/homedetails/5195-Johnson-Lake-Ct-Jacksonville-FL-32218/82989989_zpid/,82989989,,SINGLE FAMILY,"$255,000",5195 JOHNSON LAKE Court,Jacksonville,FL,32218,3,2,1825,0.32 acres,
+https://www.zillow.com/homedetails/831-Aspen-Leaf-Dr-Jacksonville-FL-32081/125999342_zpid/,125999342,,SINGLE FAMILY,"$620,000",831 ASPEN LEAF Drive,Jacksonville,FL,32081,4,3,2464,0.29 acres,3534
+https://www.zillow.com/homedetails/816-S-South-Shores-Rd-Jacksonville-FL-32207/452997876_zpid/,452997876,,SINGLE FAMILY,"$489,900",816 S SOUTH SHORES Road,Jacksonville,FL,32207,3,2,1959,0.27 acres,
+https://www.zillow.com/homedetails/8063-Appian-Way-W-Jacksonville-FL-32208/44436148_zpid/,44436148,,SINGLE FAMILY,"$625,000",8063 APPIAN Way,Jacksonville,FL,32208,6,7,7471, ,4717
+https://www.zillow.com/homedetails/3439-Fitch-St-Jacksonville-FL-32205/44480986_zpid/,44480986,,SINGLE FAMILY,"$675,000",3439 FITCH Street,Jacksonville,FL,32205,3,2,2370,8712 sqft,2314
+https://www.zillow.com/homedetails/8227-Mar-Del-Plata-St-E-Jacksonville-FL-32256/44551303_zpid/,44551303,,SINGLE FAMILY,"$1,200,000",8227 MAR DEL PLATA Street E,Jacksonville,FL,32256,4,5,5140,0.51 acres,4794
+https://www.zillow.com/homedetails/6522-Barkwood-Dr-Jacksonville-FL-32277/44520594_zpid/,44520594,,SINGLE FAMILY,"$189,000",6522 BARKWOOD Drive,Jacksonville,FL,32277,3,2,1667,9583.2 sqft,1794
+https://www.zillow.com/homedetails/9626-McDaniels-Dr-Jacksonville-FL-32210/154547016_zpid/,154547016,,MULTI FAMILY,"$580,000",9626 MCDANIELS Drive,Jacksonville,FL,32210,8,0,3524,0.61 acres,1237
+https://www.zillow.com/homedetails/7779-Las-Palmas-Way-114-Jacksonville-FL-32256/44549723_zpid/,44549723,,CONDO,"$189,900",7779 LAS PALMAS Way #114,Jacksonville,FL,32256,4,3,2022,1742.4 sqft,
+https://www.zillow.com/homedetails/7960-Patou-Dr-S-Jacksonville-FL-32210/44413865_zpid/,44413865,,SINGLE FAMILY,"$200,000",7960 PATOU Drive S,Jacksonville,FL,32210,3,2,1450,10018.8 sqft,1977
+https://www.zillow.com/homedetails/1424-Broad-St-Jacksonville-FL-32233/125975691_zpid/,125975691,,SINGLE FAMILY,"$350,000",1424 BROAD Street,Jacksonville,FL,32233,4,2,1455,5662.8 sqft,2388
+https://www.zillow.com/homedetails/2585-Montreal-St-Jacksonville-FL-32233/44612568_zpid/,44612568,,SINGLE FAMILY,"$299,000",2585 MONTREAL Street,Jacksonville,FL,32233,3,1,989,7405.2 sqft,1736
+https://www.zillow.com/homedetails/6967-Welland-Rd-Jacksonville-FL-32209/44453176_zpid/,44453176,,SINGLE FAMILY,"$349,000",6967 WELLAND Road,Jacksonville,FL,32209,5,4,5500,8712 sqft,2978
+https://www.zillow.com/homedetails/1920-Bulls-Bay-Hwy-Jacksonville-FL-32220/44407105_zpid/,44407105,,SINGLE FAMILY,"$325,000",1920 BULLS BAY Highway,Jacksonville,FL,32220,3,2,1712,1.8 acres,1937
+https://www.zillow.com/homedetails/12844-Bay-Plantation-Dr-Jacksonville-FL-32223/44506620_zpid/,44506620,,SINGLE FAMILY,"$1,300,000",12844 BAY PLANTATION Drive,Jacksonville,FL,32223,5,5,4656,1 acres,5431
+https://www.zillow.com/homedetails/6073-Little-Springs-Ct-Jacksonville-FL-32258/71040634_zpid/,71040634,,SINGLE FAMILY,"$475,000",6073 LITTLE SPRINGS Court,Jacksonville,FL,32258,4,3,2622,8276.4 sqft,2901
+https://www.zillow.com/homedetails/5764-Hurdia-Rd-Jacksonville-FL-32244/44495282_zpid/,44495282,,SINGLE FAMILY,"$325,000",5764 HURDIA Road,Jacksonville,FL,32244,4,3,1963,0.78 acres,2137
+https://www.zillow.com/homedetails/6996-Goldilocks-Ln-Jacksonville-FL-32210/44431698_zpid/,44431698,,SINGLE FAMILY,"$199,000",6996 GOLDILOCKS Lane,Jacksonville,FL,32210,5,2,1490,9583.2 sqft,
+https://www.zillow.com/homedetails/1212-Talbot-Ave-Jacksonville-FL-32205/44489840_zpid/,44489840,,SINGLE FAMILY,"$185,000",1212 TALBOT Avenue,Jacksonville,FL,32205,2,1,942,6534 sqft,1584
+https://www.zillow.com/homedetails/7891-Oklahoma-St-Jacksonville-FL-32220/2061802631_zpid/,2061802631,,SINGLE FAMILY,"$314,990",7891 OKLAHOMA STREET Street,Jacksonville,FL,32220,4,2,1825, ,2165
+https://www.zillow.com/homedetails/355-W-63rd-St-Jacksonville-FL-32208/44446810_zpid/,44446810,,SINGLE FAMILY,"$169,999",355 W 63RD Street,Jacksonville,FL,32208,3,1,1108,6098.4 sqft,1393
+https://www.zillow.com/homedetails/1129-Creeks-Ridge-Rd-Jacksonville-FL-32225/55117273_zpid/,55117273,,SINGLE FAMILY,"$325,000",1129 CREEKS RIDGE Road,Jacksonville,FL,32225,3,2,1427,4356 sqft,2073
+https://www.zillow.com/homedetails/7305-Poinciana-Ave-Jacksonville-FL-32217/44557294_zpid/,44557294,,SINGLE FAMILY,"$365,000",7305 POINCIANA Avenue,Jacksonville,FL,32217,4,2,1964,0.26 acres,2472
+https://www.zillow.com/homedetails/9771-Lovage-Ln-Jacksonville-FL-32219/338720789_zpid/,338720789,,SINGLE FAMILY,"$299,507",9771 LOVAGE Lane,Jacksonville,FL,32219,3,2,1548,6098.4 sqft,
+https://www.zillow.com/homedetails/2200-Post-St-Jacksonville-FL-32204/44488696_zpid/,44488696,,SINGLE FAMILY,"$545,000",2200 POST Street,Jacksonville,FL,32204,3,2,1912, ,2934
+https://www.zillow.com/homedetails/14448-Magnolia-Spgs-Saint-Johns-FL-32259/2053709427_zpid/,2053709427,,SINGLE FAMILY,"$545,000",14448 MAGNOLIA SPRINGS Lane,Saint Johns,FL,32259,4,4,2903,0.4 acres,
+https://www.zillow.com/homedetails/2554-Lynnhaven-Ter-Jacksonville-FL-32223/44504800_zpid/,44504800,,SINGLE FAMILY,"$1,399,000",2554 LYNNHAVEN Terrace,Jacksonville,FL,32223,4,3,2964,0.86 acres,4119
+https://www.zillow.com/homedetails/5350-Arlington-Rd-2-Jacksonville-FL-32211/82991047_zpid/,82991047,,TOWNHOUSE,"$104,500",5350 ARLINGTON Road #2,Jacksonville,FL,32211,3,3,1508,3484.8 sqft,1687
+https://www.zillow.com/homedetails/9209-Jaybird-Cir-W-Jacksonville-FL-32257/44552603_zpid/,44552603,,SINGLE FAMILY,"$544,900",9209 JAYBIRD Circle W,Jacksonville,FL,32257,5,3,2595,0.29 acres,2549
+https://www.zillow.com/homedetails/2080-W-19th-St-Jacksonville-FL-32209/44458279_zpid/,44458279,,SINGLE FAMILY,"$168,500",2080 W 19TH Street,Jacksonville,FL,32209,3,2,1177,6098.4 sqft,1318
+https://www.zillow.com/homedetails/4340-Dalry-Dr-Jacksonville-FL-32246/44608401_zpid/,44608401,,SINGLE FAMILY,"$175,000",4340 Dalry Dr,Jacksonville,FL,32246,3,2,1064,0.2684573002754821 acres,1807
+https://www.zillow.com/homedetails/3929-Gadsden-Rd-Jacksonville-FL-32207/44483182_zpid/,44483182,,SINGLE FAMILY,"$435,000",3929 GADSDEN Road,Jacksonville,FL,32207,3,2,1424,8712 sqft,2334
+https://www.zillow.com/homedetails/4515-College-St-Jacksonville-FL-32205/44469647_zpid/,44469647,,SINGLE FAMILY,"$489,900",4515 COLLEGE Street,Jacksonville,FL,32205,4,2,1988,5662.8 sqft,1994
+https://www.zillow.com/homedetails/12306-Desoto-St-Jacksonville-FL-32218/44509525_zpid/,44509525,,SINGLE FAMILY,"$110,000",12306 DESOTO Street,Jacksonville,FL,32218,3,2,1296,9583.2 sqft,1735
+https://www.zillow.com/homedetails/1125-W-29th-St-Jacksonville-FL-32209/44484548_zpid/,44484548,,SINGLE FAMILY,"$105,000",1125 W 29TH Street,Jacksonville,FL,32209,3,1,864,4791.6 sqft,1184
+https://www.zillow.com/homedetails/13954-Sandhill-Crane-Dr-S-Jacksonville-FL-32224/55118653_zpid/,55118653,,SINGLE FAMILY,"$525,000",13954 SANDHILL CRANE Drive S,Jacksonville,FL,32224,3,2,2061,6534 sqft,2717
+https://www.zillow.com/homedetails/3419-Augustine-Elm-Ct-Jacksonville-FL-32223/44575350_zpid/,44575350,,SINGLE FAMILY,"$675,000",3419 AUGUSTINE ELM Court,Jacksonville,FL,32223,4,3,2759,0.48 acres,2927
+https://www.zillow.com/homedetails/5201-Atlantic-Blvd-UNIT-45-Jacksonville-FL-32207/44531654_zpid/,44531654,,CONDO,"$132,000",5201 ATLANTIC Boulevard #45,Jacksonville,FL,32207,2,2,1130, ,
+https://www.zillow.com/homedetails/0-Kernan-Blvd-S-Jacksonville-FL-32224/446667615_zpid/,446667615,,LOT,"$100,000",0 KERNAN Boulevard S,Jacksonville,FL,32224,,0,,22.73 acres,
+https://www.zillow.com/homedetails/3801-Crown-Point-Rd-UNIT-1074-Jacksonville-FL-32257/44553548_zpid/,44553548,,CONDO,"$134,999",3801 CROWN POINT Road #1074,Jacksonville,FL,32257,2,2,1002,871.2 sqft,1587
+https://www.zillow.com/homedetails/10758-Grayson-St-Jacksonville-FL-32220/50883399_zpid/,50883399,,SINGLE FAMILY,"$849,000",10758 GRAYSON Street,Jacksonville,FL,32220,4,3,2746,4.87 acres,3209
+https://www.zillow.com/homedetails/1419-McConihe-St-Jacksonville-FL-32209/44463471_zpid/,44463471,,SINGLE FAMILY,"$169,900",1419 MCCONIHE Street,Jacksonville,FL,32209,4,2,1148,3484.8 sqft,1298
+https://www.zillow.com/homedetails/9607-McDaniel-Dr-Jacksonville-FL-32210/154547011_zpid/,154547011,,MULTI FAMILY,"$700,000",9607 MCDANIEL Drive,Jacksonville,FL,32210,13,0,4309,0.9199999999999999 acres,1229
+https://www.zillow.com/homedetails/4507-Harbor-View-Dr-Jacksonville-FL-32208/44450561_zpid/,44450561,,SINGLE FAMILY,"$109,000",4507 HARBOR VIEW Drive,Jacksonville,FL,32208,3,2,954,0.3 acres,1367
+https://www.zillow.com/homedetails/9662-Red-Squirrel-Ln-Jacksonville-FL-32219/82988989_zpid/,82988989,,SINGLE FAMILY,"$559,900",9662 RED SQUIRREL Lane,Jacksonville,FL,32219,4,3,2803,0.5 acres,2526
+https://www.zillow.com/homedetails/325-E-63rd-St-Jacksonville-FL-32208/44445466_zpid/,44445466,,SINGLE FAMILY,"$135,000",325 E 63RD Street,Jacksonville,FL,32208,3,1,673,4791.6 sqft,1107
+https://www.zillow.com/homedetails/7800-Point-Meadows-Dr-APT-1527-Jacksonville-FL-32256/65795676_zpid/,65795676,,CONDO,"$175,000",7800 POINT MEADOWS Drive #1527,Jacksonville,FL,32256,3,2,1424,871.2 sqft,1732
+https://www.zillow.com/homedetails/12950-Old-Saint-Augustine-Rd-Jacksonville-FL-32258/109766079_zpid/,109766079,,SINGLE FAMILY,"$410,000",12950 OLD ST AUGUSTINE Road,Jacksonville,FL,32258,4,2,1760, ,2423
+https://www.zillow.com/homedetails/9814-Buncome-Rd-Jacksonville-FL-32246/44527102_zpid/,44527102,,SINGLE FAMILY,"$175,000",9814 BUNCOME Road,Jacksonville,FL,32246,2,1,756,9147.6 sqft,1430
+https://www.zillow.com/homedetails/6325-Autlan-Dr-Jacksonville-FL-32210/44504243_zpid/,44504243,,SINGLE FAMILY,"$185,000",6325 AUTLAN Drive,Jacksonville,FL,32210,4,2,1594,0.26 acres,1593
+https://www.zillow.com/homedetails/803-Escambia-St-Jacksonville-FL-32208/44443888_zpid/,44443888,,SINGLE FAMILY,"$168,500",803 ESCAMBIA Street,Jacksonville,FL,32208,3,2,1438,4791.6 sqft,1491
+https://www.zillow.com/homedetails/9672-Sibbald-Rd-Jacksonville-FL-32208/44450866_zpid/,44450866,,SINGLE FAMILY,"$199,900",9672 SIBBALD Road,Jacksonville,FL,32208,2,1,720,0.75 acres,1126
+https://www.zillow.com/homedetails/9940-Carbondale-Dr-W-Jacksonville-FL-32208/44444052_zpid/,44444052,,SINGLE FAMILY,"$675,000",9940 CARBONDALE Drive W,Jacksonville,FL,32208,4,4,2562,0.67 acres,2876
+https://www.zillow.com/homedetails/14530-Falling-Waters-Dr-Jacksonville-FL-32258/71040696_zpid/,71040696,,SINGLE FAMILY,"$425,000",14530 FALLING WATERS Drive,Jacksonville,FL,32258,5,3,2795, ,2881
+https://www.zillow.com/homedetails/5400-La-Moya-Ave-UNIT-30-Jacksonville-FL-32210/44502613_zpid/,44502613,,CONDO,"$170,000",5400 LA MOYA Avenue #30,Jacksonville,FL,32210,3,3,1508,1306.8 sqft,1585
+https://www.zillow.com/homedetails/1141-W-12th-St-Jacksonville-FL-32209/44463862_zpid/,44463862,,SINGLE FAMILY,"$128,000",1141 W 12TH Street,Jacksonville,FL,32209,3,2,1130,5662.8 sqft,1147
+https://www.zillow.com/homedetails/12785-Maricopa-Way-Jacksonville-FL-32246/44596649_zpid/,44596649,,SINGLE FAMILY,"$445,900",12785 MARICOPA Way,Jacksonville,FL,32246,4,3,2104,8276.4 sqft,2560
+https://www.zillow.com/homedetails/14049-Prater-Ct-Jacksonville-FL-32224/123463703_zpid/,123463703,,SINGLE FAMILY,"$615,000",14049 PRATER Court,Jacksonville,FL,32224,4,3,1970,6534 sqft,2987
+https://www.zillow.com/homedetails/11718-N-Gran-Crique-Ct-Jacksonville-FL-32223/447127115_zpid/,447127115,,SINGLE FAMILY,"$599,000",11718 N GRAN CRIQUE Court,Jacksonville,FL,32223,5,3,2932,1.13 acres,
+https://www.zillow.com/homedetails/9252-San-Jose-Blvd-APT-2904-Jacksonville-FL-32257/44555963_zpid/,44555963,,CONDO,"$189,000",9252 SAN JOSE Boulevard #2904,Jacksonville,FL,32257,2,2,1149,1742.4 sqft,1566
+https://www.zillow.com/homedetails/1015-Barbara-Ave-Jacksonville-FL-32207/44532010_zpid/,44532010,,SINGLE FAMILY,"$419,000",1015 BARBARA Avenue,Jacksonville,FL,32207,3,3,1512,4356 sqft,3133
+https://www.zillow.com/homedetails/12775-Mandarin-Rd-Jacksonville-FL-32223/44505869_zpid/,44505869,,SINGLE FAMILY,"$627,000",12775 MANDARIN Road,Jacksonville,FL,32223,5,4,4264,1.52 acres,
+https://www.zillow.com/homedetails/12700-Bartram-Park-Blvd-APT-124-Jacksonville-FL-32258/71044722_zpid/,71044722,,CONDO,"$189,000",12700 BARTRAM PARK Boulevard #124,Jacksonville,FL,32258,2,2,1188,435.6 sqft,
+https://www.zillow.com/homedetails/2020-Spoonbill-St-Jacksonville-FL-32224/44602900_zpid/,44602900,,SINGLE FAMILY,"$650,000",2020 SPOONBILL Street,Jacksonville,FL,32224,4,3,2780,0.3 acres,4340
+https://www.zillow.com/homedetails/1419-Falkirk-Ct-Jacksonville-FL-32221/61263574_zpid/,61263574,,SINGLE FAMILY,"$550,000",1419 FALKIRK Court,Jacksonville,FL,32221,4,3,2375,0.65 acres,2892
+https://www.zillow.com/homedetails/14502-Gossett-St-Jacksonville-FL-32218/44509887_zpid/,44509887,,MANUFACTURED,"$199,990",14502 GOSSETT Street,Jacksonville,FL,32218,3,2,1080,0.26 acres,1589
+https://www.zillow.com/homedetails/13703-Richmond-Park-Dr-UNIT-1803-Jacksonville-FL-32224/445786040_zpid/,445786040,,CONDO,"$184,900",13703 RICHMOND PARK Drive #1803,Jacksonville,FL,32224,2,2,1015,435.6 sqft,
+https://www.zillow.com/homedetails/13892-Tiffany-Pines-Cir-N-Jacksonville-FL-32225/44584886_zpid/,44584886,,SINGLE FAMILY,"$549,000",13892 TIFFANY PINES Circle N,Jacksonville,FL,32225,4,2,2433,0.33999999999999997 acres,3188
+https://www.zillow.com/homedetails/6656-Rivercrest-Dr-Jacksonville-FL-32226/44581430_zpid/,44581430,,SINGLE FAMILY,"$539,000",6656 RIVERCREST Drive,Jacksonville,FL,32226,3,2,2102,0.35 acres,2815
+https://www.zillow.com/homedetails/1045-Legay-Ave-Jacksonville-FL-32205/44414889_zpid/,44414889,,SINGLE FAMILY,"$139,000",1045 LEGAY Avenue,Jacksonville,FL,32205,3,2,1190,9583.2 sqft,1438
+https://www.zillow.com/homedetails/14267-Pablo-Woods-Ln-Jacksonville-FL-32224/44601213_zpid/,44601213,,SINGLE FAMILY,"$416,900",14267 PABLO WOODS Lane,Jacksonville,FL,32224,3,2,1272, ,2618
+https://www.zillow.com/homedetails/1648-Bermuda-Rd-Jacksonville-FL-32224/44603854_zpid/,44603854,,SINGLE FAMILY,"$414,000",1648 Bermuda Rd,Jacksonville,FL,32224,3,3,1639,7405.2 sqft,2937
+https://www.zillow.com/homedetails/5288-Oxford-Crest-Dr-Jacksonville-FL-32258/44572327_zpid/,44572327,,SINGLE FAMILY,"$449,900",5288 OXFORD CREST Drive,Jacksonville,FL,32258,4,3,2007,7405.2 sqft,2331
+https://www.zillow.com/homedetails/1887-San-Marco-Blvd-Jacksonville-FL-32207/66131346_zpid/,66131346,,SINGLE FAMILY,"$1,595,000",1887 SAN MARCO Boulevard,Jacksonville,FL,32207,4,4,4077,9583.2 sqft,
+https://www.zillow.com/homedetails/4322-Tideview-Dr-Jacksonville-FL-32250/44628509_zpid/,44628509,,SINGLE FAMILY,"$965,000",4322 TIDEVIEW Drive,Jacksonville,FL,32250,3,2,1823,0.27999999999999997 acres,3810
+https://www.zillow.com/homedetails/209-Trout-River-Dr-Jacksonville-FL-32208/44444550_zpid/,44444550,,SINGLE FAMILY,"$425,000",209 TROUT RIVER Drive,Jacksonville,FL,32208,4,2,2731,10454.4 sqft,1967
+https://www.zillow.com/homedetails/13042-Staffordshire-Dr-S-Jacksonville-FL-32225/44590749_zpid/,44590749,,SINGLE FAMILY,"$405,000",13042 STAFFORDSHIRE Drive S,Jacksonville,FL,32225,3,2,1320,6098.4 sqft,2363
+https://www.zillow.com/homedetails/12367-Mandarin-Rd-Jacksonville-FL-32223/44505727_zpid/,44505727,,SINGLE FAMILY,"$874,000",12367 MANDARIN Road,Jacksonville,FL,32223,4,4,2984,1.8 acres,4087
+https://www.zillow.com/homedetails/1614-Edgewood-Ave-S-Jacksonville-FL-32205/44479964_zpid/,44479964,,SINGLE FAMILY,"$610,000",1614 EDGEWOOD Avenue S,Jacksonville,FL,32205,4,2,2650, ,3164
+https://www.zillow.com/homedetails/4448-Rocky-River-Rd-W-Jacksonville-FL-32224/44609043_zpid/,44609043,,SINGLE FAMILY,"$509,995",4448 Rocky River Rd W,Jacksonville,FL,32224,3,2,2210,9147.6 sqft,
+https://www.zillow.com/homedetails/4738-Harlow-Blvd-Jacksonville-FL-32210/44430683_zpid/,44430683,,SINGLE FAMILY,"$153,750",4738 HARLOW Boulevard,Jacksonville,FL,32210,4,3,1440,9147.6 sqft,1896
+https://www.zillow.com/homedetails/8290-Gate-Pkwy-W-UNIT-1318-Jacksonville-FL-32216/445780648_zpid/,445780648,,CONDO,"$140,000",8290 GATE Parkway W #1318,Jacksonville,FL,32216,1,1,793, ,
+https://www.zillow.com/homedetails/12243-Kinelaven-Rd-Jacksonville-FL-32258/87635810_zpid/,87635810,,SINGLE FAMILY,"$525,000",12243 KINELAVEN Road,Jacksonville,FL,32258,4,3,2691,6098.4 sqft,3578
+https://www.zillow.com/homedetails/1447-Rivergate-Dr-Jacksonville-FL-32223/44505574_zpid/,44505574,,SINGLE FAMILY,"$400,000",1447 Rivergate Dr,Jacksonville,FL,32223,3,2,1723,0.39 acres,2277
+https://www.zillow.com/homedetails/3677-Burnt-Pine-Dr-Jacksonville-FL-32224/123460669_zpid/,123460669,,SINGLE FAMILY,"$890,000",3677 BURNT PINE Drive,Jacksonville,FL,32224,4,4,3759,0.25 acres,6535
+https://www.zillow.com/homedetails/1423-Jones-Rd-Jacksonville-FL-32220/44406925_zpid/,44406925,,SINGLE FAMILY,"$109,900",1423 JONES Road,Jacksonville,FL,32220,2,1,836,0.45999999999999996 acres,1347
+https://www.zillow.com/homedetails/950-Ashton-St-Jacksonville-FL-32208/44436532_zpid/,44436532,,SINGLE FAMILY,"$159,000",950 ASHTON Street,Jacksonville,FL,32208,3,1,1000,8276.4 sqft,1337
+https://www.zillow.com/homedetails/8641-Autumn-Green-Dr-Jacksonville-FL-32256/44610017_zpid/,44610017,,SINGLE FAMILY,"$795,000",8641 AUTUMN GREEN Drive,Jacksonville,FL,32256,5,4,3538,0.6799999999999999 acres,4081
+https://www.zillow.com/homedetails/2972-Cape-View-Dr-Jacksonville-FL-32226/109776359_zpid/,109776359,,SINGLE FAMILY,"$499,000",2972 CAPE VIEW Drive,Jacksonville,FL,32226,5,3,2262,1.22 acres,2743
+https://www.zillow.com/homedetails/6036-Park-St-Jacksonville-FL-32205/44473110_zpid/,44473110,,SINGLE FAMILY,"$470,000",6036 PARK Street,Jacksonville,FL,32205,3,3,2637,2.67 acres,3491
+https://www.zillow.com/homedetails/13680-Mount-Pleasant-Rd-Jacksonville-FL-32225/44584399_zpid/,44584399,,SINGLE FAMILY,"$675,000",13680 Mount Pleasant Rd,Jacksonville,FL,32225,4,2,2385,1.0007 acres,
+https://www.zillow.com/homedetails/5635-Kimbrell-Dr-S-Jacksonville-FL-32210/44503478_zpid/,44503478,,SINGLE FAMILY,"$147,900",5635 KIMBRELL Drive S,Jacksonville,FL,32210,2,1,672,9583.2 sqft,1097
+https://www.zillow.com/homedetails/9543-Plummer-Rd-Jacksonville-FL-32219/66131180_zpid/,66131180,,MANUFACTURED,"$175,000",9543 PLUMMER Road,Jacksonville,FL,32219,2,2,1040,4.08 acres,1535
+https://www.zillow.com/homedetails/4511-Mainmast-Ln-Jacksonville-FL-32277/55116366_zpid/,55116366,,SINGLE FAMILY,"$409,500",4511 MAINMAST Lane,Jacksonville,FL,32277,3,2,2268,0.27999999999999997 acres,2370
+https://www.zillow.com/homedetails/5838-Alderfer-Springs-Dr-Jacksonville-FL-32258/82981459_zpid/,82981459,,SINGLE FAMILY,"$447,500",5838 ALDERFER SPRINGS Drive,Jacksonville,FL,32258,4,2,2119,8276.4 sqft,2658
+https://www.zillow.com/homedetails/1475-Edgewood-Cir-Jacksonville-FL-32205/2140046906_zpid/,2140046906,,SINGLE FAMILY,"$899,000",1475 EDGEWOOD Circle,Jacksonville,FL,32205,4,4,2884,0.26 acres,
+https://www.zillow.com/homedetails/3341-Victoria-Lakes-Dr-N-Jacksonville-FL-32226/71035045_zpid/,71035045,,SINGLE FAMILY,"$465,000",3341 VICTORIA LAKES Drive N,Jacksonville,FL,32226,4,3,2570,9147.6 sqft,2860
+https://www.zillow.com/homedetails/4140-Ripken-Cir-W-Jacksonville-FL-32224/58657400_zpid/,58657400,,SINGLE FAMILY,"$449,000",4140 RIPKEN Circle W,Jacksonville,FL,32224,3,2,1958,9147.6 sqft,3411
+https://www.zillow.com/homedetails/4109-Sudbury-Ave-Jacksonville-FL-32210/44504103_zpid/,44504103,,SINGLE FAMILY,"$179,000",4109 SUDBURY Avenue,Jacksonville,FL,32210,3,2,1067,8276.4 sqft,1542
+https://www.zillow.com/homedetails/3852-Saint-Johns-Ave-Jacksonville-FL-32205/44490321_zpid/,44490321,,SINGLE FAMILY,"$1,125,000",3852 ST JOHNS Avenue,Jacksonville,FL,32205,3,3,2385,10018.8 sqft,3934
+https://www.zillow.com/homedetails/4840-Herton-Dr-Jacksonville-FL-32258/44573621_zpid/,44573621,,SINGLE FAMILY,"$459,000",4840 Herton Dr,Jacksonville,FL,32258,4,2,1800,0.5166207529843894 acres,3376
+https://www.zillow.com/homedetails/2055-Forbes-St-Jacksonville-FL-32204/109743832_zpid/,109743832,,SINGLE FAMILY,"$855,000",2055 FORBES Street,Jacksonville,FL,32204,4,3,2320, ,2910
+https://www.zillow.com/homedetails/5243-Ostrich-Ct-Jacksonville-FL-32226/338007501_zpid/,338007501,,SINGLE FAMILY,"$998,000",5243 OSTRICH Court,Jacksonville,FL,32226,6,5,4260,0.35 acres,4762
+https://www.zillow.com/homedetails/10282-Rabbit-Ridge-Rd-Jacksonville-FL-32219/61275395_zpid/,61275395,,MANUFACTURED,"$150,000",10282 RABBIT RIDGE Road,Jacksonville,FL,32219,3,2,1647,1.01 acres,1801
+https://www.zillow.com/homedetails/12844-Nungezer-Rd-Jacksonville-FL-32226/44581164_zpid/,44581164,,MANUFACTURED,"$450,000",12844 NUNGEZER Road,Jacksonville,FL,32226,3,2,1674,10.15 acres,1887
+https://www.zillow.com/homedetails/4417-Anvers-Blvd-Jacksonville-FL-32210/44430343_zpid/,44430343,,SINGLE FAMILY,"$169,000",4417 ANVERS Boulevard,Jacksonville,FL,32210,3,2,1030,9147.6 sqft,1428
+https://www.zillow.com/homedetails/8040-Pine-Lake-Rd-Jacksonville-FL-32256/44550824_zpid/,44550824,,SINGLE FAMILY,"$1,300,000",8040 PINE LAKE Road,Jacksonville,FL,32256,3,3,3095,0.45 acres,
+https://www.zillow.com/homedetails/156-Willow-Branch-Ave-Jacksonville-FL-32254/44465599_zpid/,44465599,,SINGLE FAMILY,"$146,000",156 WILLOW BRANCH Avenue,Jacksonville,FL,32254,4,2,1268,5662.8 sqft,1568
+https://www.zillow.com/homedetails/13321-Long-Cypress-Trl-Jacksonville-FL-32223/71041219_zpid/,71041219,,SINGLE FAMILY,"$599,900",13321 LONG CYPRESS Trail,Jacksonville,FL,32223,4,3,2765,0.27 acres,2777
+https://www.zillow.com/homedetails/11416-River-Knoll-Dr-Jacksonville-FL-32225/44582544_zpid/,44582544,,SINGLE FAMILY,"$475,000",11416 RIVER KNOLL Drive,Jacksonville,FL,32225,3,2,2154,0.4 acres,2956
+https://www.zillow.com/homedetails/1013-Celebrant-Dr-Jacksonville-FL-32225/44590485_zpid/,44590485,,SINGLE FAMILY,"$425,000",1013 CELEBRANT Drive,Jacksonville,FL,32225,3,2,1848,0.45 acres,2476
+https://www.zillow.com/homedetails/2903-Bratcher-Rd-Jacksonville-FL-32224/44601055_zpid/,44601055,,SINGLE FAMILY,"$144,900",2903 BRATCHER Road,Jacksonville,FL,32224,3,1,916,0.25 acres,1698
+https://www.zillow.com/homedetails/5502-Verbena-Rd-Jacksonville-FL-32209/44440653_zpid/,44440653,,SINGLE FAMILY,"$150,000",5502 VERBENA Road,Jacksonville,FL,32209,4,2,2744,8276.4 sqft,1593
+https://www.zillow.com/homedetails/10657-Crooked-Tree-Ct-Jacksonville-FL-32256/55119655_zpid/,55119655,,SINGLE FAMILY,"$505,000",10657 CROOKED TREE Court,Jacksonville,FL,32256,4,3,2290, ,3138
+https://www.zillow.com/homedetails/5298-Golfbrook-Dr-Jacksonville-FL-32208/58655811_zpid/,58655811,,SINGLE FAMILY,"$134,900",5298 GOLFBROOK Drive,Jacksonville,FL,32208,2,1,875,5227.2 sqft,1134
+https://www.zillow.com/homedetails/1646-Cornell-Rd-Jacksonville-FL-32207/44546670_zpid/,44546670,,SINGLE FAMILY,"$650,000",1646 CORNELL Road,Jacksonville,FL,32207,3,4,2738,0.39 acres,
+https://www.zillow.com/homedetails/13838-Jeremiah-Rd-Jacksonville-FL-32224/108872219_zpid/,108872219,,SINGLE FAMILY,"$500,000",13838 JEREMIAH Road,Jacksonville,FL,32224,4,4,2429,6098.4 sqft,3115
+https://www.zillow.com/homedetails/6992-Tonga-Dr-Jacksonville-FL-32216/44540171_zpid/,44540171,,SINGLE FAMILY,"$425,000",6992 TONGA Drive,Jacksonville,FL,32216,3,3,2068,0.7 acres,2454
+https://www.zillow.com/homedetails/5165-Archery-Ave-Jacksonville-FL-32208/44449068_zpid/,44449068,,SINGLE FAMILY,"$159,900",5165 ARCHERY Avenue,Jacksonville,FL,32208,5,2,1431,8712 sqft,1765
+https://www.zillow.com/homedetails/1900-Lake-Shore-Blvd-Jacksonville-FL-32210/44475040_zpid/,44475040,,SINGLE FAMILY,"$449,900",1900 LAKE SHORE Boulevard,Jacksonville,FL,32210,4,4,2850,0.51 acres,3185
+https://www.zillow.com/homedetails/5114-Imperial-Cove-Rd-Jacksonville-FL-32210/44500326_zpid/,44500326,,SINGLE FAMILY,"$899,000",5114 IMPERIAL COVE Road,Jacksonville,FL,32210,3,3,2541,9583.2 sqft,2531
+https://www.zillow.com/homedetails/3619-Boone-Park-Ave-Jacksonville-FL-32205/44489570_zpid/,44489570,,SINGLE FAMILY,"$590,000",3619 BOONE PARK Avenue,Jacksonville,FL,32205,3,2,1650,6534 sqft,2189
+https://www.zillow.com/homedetails/14023-Red-Rock-Lake-Dr-Jacksonville-FL-32226/83003900_zpid/,83003900,,SINGLE FAMILY,"$411,900",14023 REDROCK LAKE Drive,Jacksonville,FL,32226,4,2,2405,0.29 acres,2510
+https://www.zillow.com/homedetails/2333-Palmdale-St-Jacksonville-FL-32208/44439025_zpid/,44439025,,SINGLE FAMILY,"$184,000",2333 PALMDALE Street,Jacksonville,FL,32208,3,2,1136,9147.6 sqft,1519
+https://www.zillow.com/homedetails/2327-Cheryl-Dr-Jacksonville-FL-32217/44558537_zpid/,44558537,,SINGLE FAMILY,"$475,000",2327 CHERYL Drive,Jacksonville,FL,32217,3,3,2370,0.38 acres,3456
+https://www.zillow.com/homedetails/2170-Rio-Cove-Dr-Jacksonville-FL-32225/44517206_zpid/,44517206,,SINGLE FAMILY,"$505,000",2170 Rio Cove Dr,Jacksonville,FL,32225,4,2,2400,0.3399908172635445 acres,3369
+https://www.zillow.com/homedetails/19040-Waterville-Rd-Jacksonville-FL-32226/109754955_zpid/,109754955,,SINGLE FAMILY,"$179,900",19040 WATERVILLE Road,Jacksonville,FL,32226,2,2,920,0.93 acres,1559
+https://www.zillow.com/homedetails/3656-Capper-Rd-Jacksonville-FL-32218/44434680_zpid/,44434680,,SINGLE FAMILY,"$447,000",3656 CAPPER Road,Jacksonville,FL,32218,4,3,2242,2.55 acres,
+https://www.zillow.com/homedetails/12245-Tracy-Ann-Rd-Jacksonville-FL-32223/109749041_zpid/,109749041,,SINGLE FAMILY,"$999,000",12245 TRACY ANN Road,Jacksonville,FL,32223,4,5,3449,1.56 acres,4431
+https://www.zillow.com/homedetails/3132-Forest-Cir-Jacksonville-FL-32257/44556392_zpid/,44556392,,SINGLE FAMILY,"$619,900",3132 FOREST Circle,Jacksonville,FL,32257,4,3,2846,0.47000000000000003 acres,3654
+https://www.zillow.com/homedetails/14559-Cherry-Lake-Dr-E-Jacksonville-FL-32258/82982663_zpid/,82982663,,SINGLE FAMILY,"$515,000",14559 E CHERRY LAKE Drive,Jacksonville,FL,32258,5,3,2768,0.29 acres,2992
+https://www.zillow.com/homedetails/5012-Ortega-Blvd-Jacksonville-FL-32210/44500918_zpid/,44500918,,SINGLE FAMILY,"$620,000",5012 ORTEGA BLVD Boulevard,Jacksonville,FL,32210,3,3,2186, ,2571
+https://www.zillow.com/homedetails/13049-Yaupon-Pl-Jacksonville-FL-32246/44605208_zpid/,44605208,,SINGLE FAMILY,"$545,000",13049 YAUPON Place,Jacksonville,FL,32246,4,3,2430,0.32 acres,3348
+https://www.zillow.com/homedetails/3399-Shauna-Oaks-Cir-E-Jacksonville-FL-32277/44516893_zpid/,44516893,,SINGLE FAMILY,"$445,000",3399 SHAUNA OAKS Circle,Jacksonville,FL,32277,5,3,2422,10454.4 sqft,2617
+https://www.zillow.com/homedetails/12139-Cap-Ferrat-St-Jacksonville-FL-32224/82979335_zpid/,82979335,,SINGLE FAMILY,"$450,000",12139 CAP FERRAT Street,Jacksonville,FL,32224,3,2,1825,0.26 acres,
+https://www.zillow.com/homedetails/11529-Summer-Brook-Ct-Jacksonville-FL-32258/44579067_zpid/,44579067,,SINGLE FAMILY,"$599,000",11529 SUMMER BROOK Court,Jacksonville,FL,32258,5,5,3113,0.33999999999999997 acres,3646
+https://www.zillow.com/homedetails/940-Maynard-St-Jacksonville-FL-32208/44444481_zpid/,44444481,,SINGLE FAMILY,"$165,000",940 MAYNARD Street,Jacksonville,FL,32208,3,2,1040,4791.6 sqft,1503
+https://www.zillow.com/homedetails/12350-Shaky-Leaf-Ct-Jacksonville-FL-32224/44607831_zpid/,44607831,,SINGLE FAMILY,"$415,000",12350 SHAKY LEAF Court,Jacksonville,FL,32224,3,2,1920,0.33999999999999997 acres,2580
+https://www.zillow.com/homedetails/1224-Montevideo-Rd-Jacksonville-FL-32216/44539895_zpid/,44539895,,SINGLE FAMILY,"$484,900",1224 MONTEVIDEO Road,Jacksonville,FL,32216,4,3,1878,10454.4 sqft,
+https://www.zillow.com/homedetails/2757-Arapahoe-Ave-Jacksonville-FL-32210/44499826_zpid/,44499826,,SINGLE FAMILY,"$510,000",2757 ARAPAHOE Avenue,Jacksonville,FL,32210,4,2,1815,0.27 acres,2448
+https://www.zillow.com/homedetails/12753-Burning-Tree-Ln-W-Jacksonville-FL-32223/44579648_zpid/,44579648,,SINGLE FAMILY,"$429,900",12753 BURNING TREE Lane W,Jacksonville,FL,32223,3,2,1376,0.35 acres,2452
+https://www.zillow.com/homedetails/7757-Burnt-Oak-Trl-Jacksonville-FL-32256/53568592_zpid/,53568592,,SINGLE FAMILY,"$850,000",7757 BURNT OAK Trail,Jacksonville,FL,32256,6,5,3812,0.41 acres,
+https://www.zillow.com/homedetails/1475-Belvedere-Ave-Jacksonville-FL-32205/44480763_zpid/,44480763,,SINGLE FAMILY,"$780,000",1475 BELVEDERE Avenue,Jacksonville,FL,32205,3,3,2409,10454.4 sqft,4816
+https://www.zillow.com/homedetails/1705-Seminole-Rd-Jacksonville-FL-32205/44479572_zpid/,44479572,,SINGLE FAMILY,"$850,000",1705 SEMINOLE Road,Jacksonville,FL,32205,4,3,2584,6534 sqft,4720
+https://www.zillow.com/homedetails/8152-Sierra-Oaks-Blvd-Jacksonville-FL-32219/82985689_zpid/,82985689,,SINGLE FAMILY,"$524,900",8152 SIERRA OAKS Boulevard,Jacksonville,FL,32219,3,3,2292,0.6599999999999999 acres,2915
+https://www.zillow.com/homedetails/3451-Washburn-Rd-Jacksonville-FL-32250/44600921_zpid/,44600921,,SINGLE FAMILY,"$789,900",3451 WASHBURN Road,Jacksonville,FL,32250,5,3,2514,0.48 acres,4870
+https://www.zillow.com/homedetails/3100-Lucena-Ln-Jacksonville-FL-32246/126048855_zpid/,126048855,,TOWNHOUSE,"$600,000",3100 LUCENA Lane,Jacksonville,FL,32246,3,2,2275,5227.2 sqft,
+https://www.zillow.com/homedetails/4111-Glenhurst-Dr-S-Jacksonville-FL-32224/44609590_zpid/,44609590,,SINGLE FAMILY,"$665,000",4111 GLENHURST Drive S,Jacksonville,FL,32224,3,2,2095,0.27 acres,3288
+https://www.zillow.com/homedetails/13703-Richmond-Park-Dr-N-APT-1907-Jacksonville-FL-32224/81799149_zpid/,81799149,,CONDO,"$138,000",13703 RICHMOND PARK Drive N #1907,Jacksonville,FL,32224,1,1,499,435.6 sqft,1217
+https://www.zillow.com/homedetails/2565-Pineridge-Rd-Jacksonville-FL-32207/44482226_zpid/,44482226,,SINGLE FAMILY,"$449,000",2565 Pineridge Rd,Jacksonville,FL,32207,2,2,1541,7840.8 sqft,2448
+https://www.zillow.com/homedetails/9455-Lita-Rd-W-Jacksonville-FL-32257/44556028_zpid/,44556028,,SINGLE FAMILY,"$415,000",9455 LITA Road W,Jacksonville,FL,32257,3,2,2001,0.27999999999999997 acres,2135
+https://www.zillow.com/homedetails/4393-Tideview-Dr-Jacksonville-FL-32250/44628829_zpid/,44628829,,SINGLE FAMILY,"$1,350,000",4393 Tideview Drive,Jacksonville,FL,32250,3,2,2125, ,4258
+https://www.zillow.com/homedetails/4139-Tideview-Dr-Jacksonville-FL-32250/44628847_zpid/,44628847,,SINGLE FAMILY,"$1,225,000",4139 TIDEVIEW Drive,Jacksonville,FL,32250,4,4,2116,0.27999999999999997 acres,3348
+https://www.zillow.com/homedetails/1297-Hollywood-Ave-Jacksonville-FL-32205/44481070_zpid/,44481070,,SINGLE FAMILY,"$590,000",1297 HOLLYWOOD Avenue,Jacksonville,FL,32205,3,2,1657,6534 sqft,2834
+https://www.zillow.com/homedetails/341-Aspen-Leaf-Dr-Ponte-Vedra-FL-32081/2095019524_zpid/,2095019524,,SINGLE FAMILY,"$620,000",341 Aspen Leaf Dr,Ponte Vedra,FL,32081,4,4,2812,0.25 acres,
+https://www.zillow.com/homedetails/16026-Shark-Rd-W-Jacksonville-FL-32226/44580682_zpid/,44580682,,SINGLE FAMILY,"$834,000",16026 SHARK Road W,Jacksonville,FL,32226,3,2,2178,0.95 acres,2705
+https://www.zillow.com/homedetails/3926-Ruby-Dr-W-Jacksonville-FL-32246/44527407_zpid/,44527407,,SINGLE FAMILY,"$189,900",3926 RUBY Drive W,Jacksonville,FL,32246,2,1,957,9147.6 sqft,1545
+https://www.zillow.com/homedetails/8880-S-Old-Kings-Rd-115-Jacksonville-FL-32257/71043606_zpid/,71043606,,CONDO,"$165,000",8880 OLD KINGS Road S #115,Jacksonville,FL,32257,3,3,1637,871.2 sqft,1947
+https://www.zillow.com/homedetails/9627-Wexford-Rd-Jacksonville-FL-32257/44556810_zpid/,44556810,,SINGLE FAMILY,"$675,000",9627 WEXFORD Road,Jacksonville,FL,32257,5,4,3351,0.37 acres,4047
+https://www.zillow.com/homedetails/3119-Dolly-Dr-Jacksonville-FL-32218/44435507_zpid/,44435507,,SINGLE FAMILY,"$195,000",3119 DOLLY Drive,Jacksonville,FL,32218,4,2,1326,0.39 acres,1802
+https://www.zillow.com/homedetails/13989-Canopy-Overlook-Ct-Jacksonville-FL-32224/44604784_zpid/,44604784,,SINGLE FAMILY,"$769,900",13989 CANOPY OVERLOOK Court,Jacksonville,FL,32224,4,3,2515,9583.2 sqft,3389
+https://www.zillow.com/homedetails/12626-Mission-Hills-Cir-N-Jacksonville-FL-32225/44582053_zpid/,44582053,,SINGLE FAMILY,"$689,000",12626 MISSION HILLS Circle N,Jacksonville,FL,32225,4,4,3972, ,4996
+https://www.zillow.com/homedetails/5029-Glade-Hill-St-Jacksonville-FL-32207/44531513_zpid/,44531513,,SINGLE FAMILY,"$875,000",5029 GLADE HILL Street,Jacksonville,FL,32207,3,2,2919,0.33999999999999997 acres,2908
+https://www.zillow.com/homedetails/7421-Greenway-Dr-Jacksonville-FL-32244/44495421_zpid/,44495421,,SINGLE FAMILY,"$195,000",7421 GREENWAY Drive,Jacksonville,FL,32244,3,2,1882,0.32 acres,
+https://www.zillow.com/homedetails/1662-Osceola-St-Jacksonville-FL-32204/154640927_zpid/,154640927,,SINGLE FAMILY,"$650,000",1662 OSCEOLA Street,Jacksonville,FL,32204,4,3,2536, ,
+https://www.zillow.com/homedetails/3441-Blake-Ave-Jacksonville-FL-32218/44433819_zpid/,44433819,,MANUFACTURED,"$150,000",3441 BLAKE Avenue,Jacksonville,FL,32218,2,2,790,0.26 acres,1291
+https://www.zillow.com/homedetails/4056-Jammes-Rd-Jacksonville-FL-32210/44504459_zpid/,44504459,,SINGLE FAMILY,"$149,900",4056 JAMMES Road,Jacksonville,FL,32210,3,2,1040,10018.8 sqft,1513
+https://www.zillow.com/homedetails/4307-Kelnepa-Dr-Jacksonville-FL-32207/44497418_zpid/,44497418,,SINGLE FAMILY,"$675,000",4307 KELNEPA Drive,Jacksonville,FL,32207,4,3,2475,10018.8 sqft,2909
+https://www.zillow.com/homedetails/8247-Firetower-Rd-Jacksonville-FL-32210/66131230_zpid/,66131230,,MANUFACTURED,"$165,000",8247 FIRETOWER Road,Jacksonville,FL,32210,4,2,1890,6534 sqft,1838
+https://www.zillow.com/homedetails/12847-Swamp-Owl-Ln-Jacksonville-FL-32258/44579697_zpid/,44579697,,SINGLE FAMILY,"$874,000",12847 SWAMP OWL Lane,Jacksonville,FL,32258,3,3,2030,2.24 acres,2626
+https://www.zillow.com/homedetails/905-Shipwatch-Dr-E-Jacksonville-FL-32225/44601334_zpid/,44601334,,SINGLE FAMILY,"$1,100,000",905 SHIPWATCH Drive E,Jacksonville,FL,32225,4,4,3609,0.41 acres,4005
+https://www.zillow.com/homedetails/2605-Spreading-Oaks-Ln-Jacksonville-FL-32223/44577782_zpid/,44577782,,SINGLE FAMILY,"$625,000",2605 SPREADING OAKS Lane,Jacksonville,FL,32223,4,4,2659,0.51 acres,3822
+https://www.zillow.com/homedetails/3794-Crossview-Dr-Jacksonville-FL-32224/122976336_zpid/,122976336,,SINGLE FAMILY,"$789,900",3794 CROSSVIEW Drive,Jacksonville,FL,32224,3,3,2682,9583.2 sqft,4575
+https://www.zillow.com/homedetails/13110-Ebbtide-Ct-Jacksonville-FL-32225/44590003_zpid/,44590003,,SINGLE FAMILY,"$699,900",13110 EBBTIDE Court,Jacksonville,FL,32225,3,2,2556,2.07 acres,2956
+https://www.zillow.com/homedetails/1909-University-Blvd-S-APT-302-Jacksonville-FL-32216/44534800_zpid/,44534800,,CONDO,"$150,000",1909 University Blvd S APT 302,Jacksonville,FL,32216,2,4,1136,752 sqft,
+https://www.zillow.com/homedetails/725-Calvert-St-Jacksonville-FL-32208/44443775_zpid/,44443775,,SINGLE FAMILY,"$109,000",725 CALVERT Street,Jacksonville,FL,32208,3,1,1148,4791.6 sqft,1247
+https://www.zillow.com/homedetails/9533-Plummer-Rd-Jacksonville-FL-32219/61275339_zpid/,61275339,,MANUFACTURED,"$175,000",9533 PLUMMER Road,Jacksonville,FL,32219,3,2,1140,3.84 acres,1692
+https://www.zillow.com/homedetails/2673-Trollie-Ln-APT-1-Jacksonville-FL-32211/44519854_zpid/,44519854,,TOWNHOUSE,"$171,000",2673 TROLLIE Lane #1,Jacksonville,FL,32211,3,2,1196,5227.2 sqft,1593
+https://www.zillow.com/homedetails/654-Queens-Harbor-Blvd-Jacksonville-FL-32225/44601544_zpid/,44601544,,SINGLE FAMILY,"$1,249,000",654 QUEENS HARBOR Boulevard,Jacksonville,FL,32225,5,5,4472,0.43 acres,5604
+https://www.zillow.com/homedetails/3755-Golden-Reeds-Ln-Jacksonville-FL-32224/61277844_zpid/,61277844,,SINGLE FAMILY,"$649,000",3755 GOLDEN REEDS Lane,Jacksonville,FL,32224,3,2,2264,8276.4 sqft,3881
+https://www.zillow.com/homedetails/11719-Dartmoor-Ct-Jacksonville-FL-32256/61278438_zpid/,61278438,,SINGLE FAMILY,"$665,000",11719 DARTMOOR Court,Jacksonville,FL,32256,4,3,2179,9147.6 sqft,
+https://www.zillow.com/homedetails/1970-Camellia-Oaks-Ln-Jacksonville-FL-32217/71035179_zpid/,71035179,,SINGLE FAMILY,"$1,250,000",1970 CAMELLIA OAKS Lane,Jacksonville,FL,32217,4,4,3698,0.72 acres,5492
+https://www.zillow.com/homedetails/2638-W-End-St-Jacksonville-FL-32233/44612613_zpid/,44612613,,SINGLE FAMILY,"$789,500",2638 WEST END Street,Jacksonville,FL,32233,3,2,1604,0.53 acres,2562
+https://www.zillow.com/homedetails/14068-Pine-Island-Dr-Jacksonville-FL-32224/44626820_zpid/,44626820,,SINGLE FAMILY,"$650,000",14068 Pine Island Dr,Jacksonville,FL,32224,3,3,2110,0.5599999999999999 acres,3233
+https://www.zillow.com/homedetails/15312-Cape-Dr-S-Jacksonville-FL-32226/44510564_zpid/,44510564,,SINGLE FAMILY,"$649,900",15312 CAPE Drive S,Jacksonville,FL,32226,3,2,2016,1.19 acres,2150
+https://www.zillow.com/homedetails/5803-Rover-Dr-Jacksonville-FL-32244/44494154_zpid/,44494154,,SINGLE FAMILY,"$149,900",5803 ROVER Drive,Jacksonville,FL,32244,3,2,1312,7405.2 sqft,1548
+https://www.zillow.com/homedetails/8740-6th-Ave-Jacksonville-FL-32208/44447358_zpid/,44447358,,SINGLE FAMILY,"$135,000",8740 6TH Avenue,Jacksonville,FL,32208,3,1,929,5227.2 sqft,1265
+https://www.zillow.com/homedetails/2492-Whispering-Woods-Blvd-APT-1-Jacksonville-FL-32246/44599048_zpid/,44599048,,TOWNHOUSE,"$185,000",2492 WHISPERING WOODS Boulevard UNIT 1,Jacksonville,FL,32246,2,2,840,2613.6 sqft,1550
+https://www.zillow.com/homedetails/13747-Bromley-Point-Dr-Jacksonville-FL-32225/44601638_zpid/,44601638,,SINGLE FAMILY,"$1,495,000",13747 BROMLEY POINT Drive,Jacksonville,FL,32225,5,4,4762,0.38 acres,5553
+https://www.zillow.com/homedetails/7849-Rittenhouse-Ln-Jacksonville-FL-32256/44611398_zpid/,44611398,,SINGLE FAMILY,"$759,900",7849 RITTENHOUSE Lane,Jacksonville,FL,32256,5,4,3330,0.5599999999999999 acres,3763
+https://www.zillow.com/homedetails/6102-Heckscher-Dr-Jacksonville-FL-32226/44581328_zpid/,44581328,,SINGLE FAMILY,"$899,000",6102 Heckscher Dr,Jacksonville,FL,32226,4,3,2480,0.51 acres,2596
+https://www.zillow.com/homedetails/1539-E-26th-St-Jacksonville-FL-32206/448618530_zpid/,448618530,,SINGLE FAMILY,"$179,500",1539 E 26TH Street,Jacksonville,FL,32206,4,2,1202, ,
+https://www.zillow.com/homedetails/2157-The-Woods-Dr-Jacksonville-FL-32246/444641895_zpid/,444641895,,SINGLE FAMILY,"$639,000",2157 THE WOODS Drive,Jacksonville,FL,32246,4,3,2576,0.36 acres,
+https://www.zillow.com/homedetails/3340-San-Jose-Blvd-Jacksonville-FL-32207/44482537_zpid/,44482537,,SINGLE FAMILY,"$995,000",3340 SAN JOSE Boulevard,Jacksonville,FL,32207,5,6,3300,0.37 acres,4934
+https://www.zillow.com/homedetails/4172-Grant-Rd-Jacksonville-FL-32207/44547153_zpid/,44547153,,SINGLE FAMILY,"$194,997",4172 GRANT Road,Jacksonville,FL,32207,3,2,1044,6969.6 sqft,1784
+https://www.zillow.com/homedetails/12825-Brady-Rd-Jacksonville-FL-32223/44580072_zpid/,44580072,,SINGLE FAMILY,"$900,000",12825 BRADY Road,Jacksonville,FL,32223,4,4,2918,1 acres,3665
+https://www.zillow.com/homedetails/7670-Wexford-Club-Dr-W-Jacksonville-FL-32256/55119152_zpid/,55119152,,SINGLE FAMILY,"$939,500",7670 WEXFORD CLUB Drive W,Jacksonville,FL,32256,6,5,4271,0.67 acres,5369
+https://www.zillow.com/homedetails/1514-Dunsford-Rd-Jacksonville-FL-32207/44482882_zpid/,44482882,,SINGLE FAMILY,"$644,900",1514 DUNSFORD Road,Jacksonville,FL,32207,4,2,2193,0.25 acres,
+https://www.zillow.com/homedetails/2970-Shady-Dr-Jacksonville-FL-32257/44556546_zpid/,44556546,,SINGLE FAMILY,"$689,000",2970 SHADY Drive,Jacksonville,FL,32257,3,3,3281,0.5 acres,3460
+https://www.zillow.com/homedetails/4245-San-Jose-Blvd-Jacksonville-FL-32207/44497886_zpid/,44497886,,SINGLE FAMILY,"$650,000",4245 SAN JOSE Boulevard,Jacksonville,FL,32207,4,3,2628,0.26 acres,3055
+https://www.zillow.com/homedetails/7828-Rittenhouse-Ln-Jacksonville-FL-32256/44611389_zpid/,44611389,,SINGLE FAMILY,"$845,000",7828 RITTENHOUSE Lane,Jacksonville,FL,32256,5,4,3106,0.29 acres,3590
+https://www.zillow.com/homedetails/9921-Derby-Gate-Ct-Jacksonville-FL-32219/109768800_zpid/,109768800,,SINGLE FAMILY,"$715,000",9921 Derby Gate Ct,Jacksonville,FL,32219,5,4,2822,1.06 acres,2796
+https://www.zillow.com/homedetails/10225-Heather-Glen-Dr-Jacksonville-FL-32256/44609891_zpid/,44609891,,SINGLE FAMILY,"$667,500",10225 HEATHER GLEN Drive,Jacksonville,FL,32256,4,3,2836,0.79 acres,2864
+https://www.zillow.com/homedetails/3326-Blackfoot-Trl-S-Jacksonville-FL-32223/44574777_zpid/,44574777,,SINGLE FAMILY,"$625,000",3326 BLACKFOOT Trail S,Jacksonville,FL,32223,4,3,2142,0.35 acres,
+https://www.zillow.com/homedetails/10075-Gate-Pkwy-806-Jacksonville-FL-32246/450637906_zpid/,450637906,,CONDO,"$179,000",10075 GATE Parkway #806,Jacksonville,FL,32246,2,3,1209,435.6 sqft,
+https://www.zillow.com/homedetails/1745-Belmonte-Ave-Jacksonville-FL-32207/44482355_zpid/,44482355,,SINGLE FAMILY,"$659,000",1745 BELMONTE Avenue,Jacksonville,FL,32207,4,3,1985,4791.6 sqft,3031
+https://www.zillow.com/homedetails/699-Shipwatch-Dr-E-Jacksonville-FL-32225/44601303_zpid/,44601303,,SINGLE FAMILY,"$939,000",699 SHIPWATCH Drive E,Jacksonville,FL,32225,4,3,2595,0.5 acres,3026
+https://www.zillow.com/homedetails/2153-Mills-Rd-Jacksonville-FL-32216/44536278_zpid/,44536278,,SINGLE FAMILY,"$625,000",2153 MILLS Road,Jacksonville,FL,32216,4,3,2738,2.36 acres,
+https://www.zillow.com/homedetails/14550-Marsh-View-Dr-Jacksonville-FL-32250/44628324_zpid/,44628324,,SINGLE FAMILY,"$799,000",14550 MARSH VIEW Drive,Jacksonville,FL,32250,5,3,3147,8276.4 sqft,3805
+https://www.zillow.com/homedetails/12819-Fenwick-Island-Ct-E-Jacksonville-FL-32224/44607098_zpid/,44607098,,SINGLE FAMILY,"$1,100,000",12819 FENWICK ISLAND Court E,Jacksonville,FL,32224,4,4,3251,0.99 acres,5885
+https://www.zillow.com/homedetails/4121-Coquina-Dr-Jacksonville-FL-32250/316820017_zpid/,316820017,,SINGLE FAMILY,"$645,000",4121 Coquina Dr,Jacksonville,FL,32250,3,2,1575,0 sqft,
+https://www.zillow.com/homedetails/1508-Golf-Forest-Dr-Jacksonville-FL-32208/58655836_zpid/,58655836,,SINGLE FAMILY,"$159,900",1508 GOLF FOREST Drive,Jacksonville,FL,32208,3,2,1100,6534 sqft,1409
+https://www.zillow.com/homedetails/4982-Arapahoe-Ave-Jacksonville-FL-32210/44500978_zpid/,44500978,,SINGLE FAMILY,"$699,000",4982 ARAPAHOE Avenue,Jacksonville,FL,32210,4,3,2398,0.29 acres,2606
+https://www.zillow.com/homedetails/1221-Oriental-Gardens-Rd-Jacksonville-FL-32207/44482912_zpid/,44482912,,SINGLE FAMILY,"$1,295,000",1221 ORIENTAL GARDENS Road,Jacksonville,FL,32207,4,4,3802,0.32999999999999996 acres,4824
+https://www.zillow.com/homedetails/1652-Belmonte-Ave-Jacksonville-FL-32207/44481891_zpid/,44481891,,SINGLE FAMILY,"$729,000",1652 BELMONTE Avenue,Jacksonville,FL,32207,4,3,2387,4791.6 sqft,3224
+https://www.zillow.com/homedetails/7701-Timberlin-Park-Blvd-APT-923-Jacksonville-FL-32256/68005236_zpid/,68005236,,CONDO,"$129,000",7701 TIMBERLIN PARK Boulevard #923,Jacksonville,FL,32256,1,1,665,435.6 sqft,1160
+https://www.zillow.com/homedetails/276-Baisden-Rd-Jacksonville-FL-32218/44512789_zpid/,44512789,,SINGLE FAMILY,"$659,000",276 BAISDEN Road,Jacksonville,FL,32218,4,3,2676,0.62 acres,2896
+https://www.zillow.com/homedetails/10119-Hunters-Chase-Ct-Jacksonville-FL-32219/109760076_zpid/,109760076,,SINGLE FAMILY,"$700,000",10119 HUNTERS CHASE Court,Jacksonville,FL,32219,4,3,2432,2.03 acres,3161
+https://www.zillow.com/homedetails/8245-Persimmon-Hill-Ln-Jacksonville-FL-32256/44611214_zpid/,44611214,,SINGLE FAMILY,"$685,000",8245 PERSIMMON HILL Lane,Jacksonville,FL,32256,4,3,2685,0.38 acres,3041
+https://www.zillow.com/homedetails/2912-Isser-Ct-Jacksonville-FL-32257/44556314_zpid/,44556314,,SINGLE FAMILY,"$810,000",2912 Isser Ct,Jacksonville,FL,32257,7,4,4011,0.3034894398530762 acres,4609
+https://www.zillow.com/homedetails/11983-Reunion-Cir-Jacksonville-FL-32224/2053964653_zpid/,2053964653,,SINGLE FAMILY,"$1,595,000",11983 REUNION Circle,Jacksonville,FL,32224,5,3,3516,10454.4 sqft,5016
+https://www.zillow.com/homedetails/7805-Hunters-Grove-Rd-Jacksonville-FL-32256/44550894_zpid/,44550894,,SINGLE FAMILY,"$1,390,000",7805 HUNTERS GROVE Road,Jacksonville,FL,32256,6,5,4354,0.63 acres,5587
+https://www.zillow.com/homedetails/2236-Saint-Johns-Ave-Jacksonville-FL-32204/154640830_zpid/,154640830,,MULTI FAMILY,"$939,000",2236 ST JOHNS Avenue,Jacksonville,FL,32204,4,4,3352,4791.6 sqft,1576
+https://www.zillow.com/homedetails/2748-Scott-Mill-Ter-Jacksonville-FL-32257/44556475_zpid/,44556475,,SINGLE FAMILY,"$1,250,000",2748 SCOTT MILL Terrace,Jacksonville,FL,32257,4,4,3766,0.48 acres,4411
+https://www.zillow.com/homedetails/2545-Hendricks-Ave-Jacksonville-FL-32207/44482248_zpid/,44482248,,SINGLE FAMILY,"$649,500",2545 HENDRICKS Avenue,Jacksonville,FL,32207,4,3,2088,0.26 acres,3068
+https://www.zillow.com/homedetails/4966-Arapahoe-Ave-Jacksonville-FL-32210/44500976_zpid/,44500976,,SINGLE FAMILY,"$679,000",4966 ARAPAHOE Avenue,Jacksonville,FL,32210,4,2,1979,0.29 acres,2211
+https://www.zillow.com/homedetails/4342-Richmond-Park-Dr-E-Jacksonville-FL-32224/44609280_zpid/,44609280,,SINGLE FAMILY,"$799,000",4342 RICHMOND PARK Drive E,Jacksonville,FL,32224,4,3,2667,0.27 acres,
+https://www.zillow.com/homedetails/781-Providence-Island-Ct-Jacksonville-FL-32225/89845737_zpid/,89845737,,TOWNHOUSE,"$675,000",781 PROVIDENCE ISLAND Court,Jacksonville,FL,32225,4,5,3040,3920.4 sqft,3199
+https://www.zillow.com/homedetails/1740-Challen-Ave-Jacksonville-FL-32205/44480686_zpid/,44480686,,SINGLE FAMILY,"$1,125,000",1740 CHALLEN Avenue,Jacksonville,FL,32205,4,4,3216, ,3928
+https://www.zillow.com/homedetails/5129-Sanibel-Dr-Jacksonville-FL-32210/44502731_zpid/,44502731,,SINGLE FAMILY,"$749,900",5129 SANIBEL Drive,Jacksonville,FL,32210,3,2,1959,0.31 acres,2334
+https://www.zillow.com/homedetails/2429-Pineridge-Rd-Jacksonville-FL-32207/44482238_zpid/,44482238,,SINGLE FAMILY,"$655,000",2429 PINERIDGE Road,Jacksonville,FL,32207,2,1,1595,8712 sqft,2040
+https://www.zillow.com/homedetails/10176-Silverbrook-Trl-Jacksonville-FL-32256/333080485_zpid/,333080485,,SINGLE FAMILY,"$1,295,000",10176 SILVERBROOK Trail,Jacksonville,FL,32256,6,6,5029,0.31 acres,7639
+https://www.zillow.com/homedetails/4598-Edenfield-Ln-Jacksonville-FL-32277/44511090_zpid/,44511090,,SINGLE FAMILY,"$1,200,000",4598 EDENFIELD Lane,Jacksonville,FL,32277,3,2,2396,1.21 acres,2488
+https://www.zillow.com/homedetails/8523-Hampton-Landing-Dr-Jacksonville-FL-32256/44610273_zpid/,44610273,,SINGLE FAMILY,"$625,000",8523 HAMPTON LANDING Drive,Jacksonville,FL,32256,4,2,2181,0.3 acres,3284
+https://www.zillow.com/homedetails/10813-Crosswicks-Rd-Jacksonville-FL-32256/44551206_zpid/,44551206,,SINGLE FAMILY,"$1,175,000",10813 CROSSWICKS Road,Jacksonville,FL,32256,5,4,4029,0.53 acres,4284
+https://www.zillow.com/homedetails/3679-Rustic-Ln-Jacksonville-FL-32217/44559034_zpid/,44559034,,SINGLE FAMILY,"$699,999",3679 RUSTIC Lane,Jacksonville,FL,32217,4,4,3090,0.37 acres,3990
+https://www.zillow.com/homedetails/3719-Foggy-Veil-Ct-Jacksonville-FL-32250/44628401_zpid/,44628401,,SINGLE FAMILY,"$1,135,000",3719 FOGGY VEIL Court,Jacksonville,FL,32250,5,4,3322,8712 sqft,5177
+https://www.zillow.com/homedetails/4109-Tideview-Dr-Jacksonville-FL-32250/44628851_zpid/,44628851,,SINGLE FAMILY,"$905,000",4109 TIDEVIEW Drive,Jacksonville,FL,32250,3,2,1534,0.27 acres,2217
+https://www.zillow.com/homedetails/10408-Silverbrook-Trl-Jacksonville-FL-32256/338007899_zpid/,338007899,,SINGLE FAMILY,"$899,990",10408 SILVERBROOK Trail,Jacksonville,FL,32256,4,4,3101,0.26 acres,
+https://www.zillow.com/homedetails/6363-Forest-Stump-Ln-Jacksonville-FL-32258/82994654_zpid/,82994654,,SINGLE FAMILY,"$655,000",6363 FOREST STUMP Lane,Jacksonville,FL,32258,5,3,3146,0.26 acres,
+https://www.zillow.com/homedetails/4571-Swilcan-Bridge-Ln-N-Jacksonville-FL-32224/44608829_zpid/,44608829,,SINGLE FAMILY,"$1,590,000",4571 SWILCAN BRIDGE Lane N,Jacksonville,FL,32224,5,5,4321, ,5143
+https://www.zillow.com/homedetails/2628-Cassia-Ln-Jacksonville-FL-32246/338007655_zpid/,338007655,,SINGLE FAMILY,"$989,990",2628 CASSIA Lane,Jacksonville,FL,32246,4,3,2591,0.39 acres,5575
+https://www.zillow.com/homedetails/1521-Nottingham-Knoll-Dr-Jacksonville-FL-32225/44601649_zpid/,44601649,,SINGLE FAMILY,"$1,049,000",1521 NOTTINGHAM KNOLL Drive,Jacksonville,FL,32225,5,4,3306,0.26 acres,4333
+https://www.zillow.com/homedetails/1611-Nottingham-Knoll-Dr-Jacksonville-FL-32225/49906879_zpid/,49906879,,SINGLE FAMILY,"$940,000",1611 NOTTINGHAM KNOLL Drive,Jacksonville,FL,32225,4,3,2789,10454.4 sqft,
+https://www.zillow.com/homedetails/4276-Tradewinds-Dr-Jacksonville-FL-32250/55119972_zpid/,55119972,,SINGLE FAMILY,"$1,350,000",4276 TRADEWINDS Drive,Jacksonville,FL,32250,4,4,2606,0.25 acres,4951
+https://www.zillow.com/homedetails/2512-Tuscan-Oaks-Ln-Jacksonville-FL-32223/82789271_zpid/,82789271,,SINGLE FAMILY,"$1,150,000",2512 Tuscan Oaks Ln,Jacksonville,FL,32223,6,4,4315,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/1266-Belmont-Ter-Jacksonville-FL-32207/44482025_zpid/,44482025,,SINGLE FAMILY,"$739,900",1266 Belmont Ter,Jacksonville,FL,32207,3,3,2050,1.3813 acres,3747
+https://www.zillow.com/homedetails/10005-Vineyard-Lake-Rd-E-Jacksonville-FL-32256/44610973_zpid/,44610973,,SINGLE FAMILY,"$740,000",10005 VINEYARD LAKE Road E,Jacksonville,FL,32256,6,4,2989,0.43 acres,3789
+https://www.zillow.com/homedetails/10157-Illumination-Dr-Jacksonville-FL-32256/338723737_zpid/,338723737,,SINGLE FAMILY,"$744,000",10157 ILLUMINATION Drive,Jacksonville,FL,32256,3,3,2590,8712 sqft,3654
+https://www.zillow.com/homedetails/3612-Riverside-Ave-Jacksonville-FL-32205/44489490_zpid/,44489490,,SINGLE FAMILY,"$630,000",3612 RIVERSIDE Avenue,Jacksonville,FL,32205,3,2,1267,6098.4 sqft,1979
+https://www.zillow.com/homedetails/4350-Venetia-Blvd-Jacksonville-FL-32210/44500873_zpid/,44500873,,SINGLE FAMILY,"$950,000",4350 VENETIA Boulevard,Jacksonville,FL,32210,3,4,2831,10454.4 sqft,2770
+https://www.zillow.com/homedetails/1418-Falkirk-Ct-Jacksonville-FL-32221/338003673_zpid/,338003673,,SINGLE FAMILY,"$630,000",1418 FALKIRK Court,Jacksonville,FL,32221,4,3,3059,0.62 acres,2602
+https://www.zillow.com/homedetails/4229-Summerton-Oaks-Cir-Jacksonville-FL-32258/121044327_zpid/,121044327,,SINGLE FAMILY,"$624,000",4229 SUMMERTON OAKS Circle,Jacksonville,FL,32258,4,3,2681, ,2986
+https://www.zillow.com/homedetails/9202-Beauclerc-Cir-W-Jacksonville-FL-32257/44555833_zpid/,44555833,,SINGLE FAMILY,"$784,000",9202 BEAUCLERC Circle W,Jacksonville,FL,32257,4,4,4005,0.8300000000000001 acres,
+https://www.zillow.com/homedetails/3345-Eunice-Rd-Jacksonville-FL-32250/44623806_zpid/,44623806,,SINGLE FAMILY,"$875,000",3345 EUNICE Road,Jacksonville,FL,32250,3,2,2346,0.38 acres,4022
+https://www.zillow.com/homedetails/12953-Deep-Lagoon-Pl-E-Jacksonville-FL-32246/44605144_zpid/,44605144,,SINGLE FAMILY,"$725,000",12953 DEEP LAGOON Place E,Jacksonville,FL,32246,4,3,3569,0.4 acres,3491
+https://www.zillow.com/homedetails/11257-Portside-Dr-Jacksonville-FL-32225/44582510_zpid/,44582510,,SINGLE FAMILY,"$929,990",11257 PORTSIDE Drive,Jacksonville,FL,32225,4,3,3075,0.42000000000000004 acres,
+https://www.zillow.com/homedetails/13724-Shady-Woods-St-N-Jacksonville-FL-32224/67411360_zpid/,67411360,,SINGLE FAMILY,"$699,000",13724 Shady Woods St N,Jacksonville,FL,32224,4,3,2736,0.25 acres,
+https://www.zillow.com/homedetails/4440-San-Jose-Blvd-Jacksonville-FL-32207/351363934_zpid/,351363934,,SINGLE FAMILY,"$749,000",4440 SAN JOSE Boulevard,Jacksonville,FL,32207,4,3,2192, ,
+https://www.zillow.com/homedetails/9149-Woodsman-Cove-Ln-Jacksonville-FL-32226/442024392_zpid/,442024392,,SINGLE FAMILY,"$1,350,000",9149 WOODSMAN COVE Lane,Jacksonville,FL,32226,4,4,3243,1.16 acres,
+https://www.zillow.com/homedetails/2808-Scott-Mill-Estates-Dr-Jacksonville-FL-32257/44556800_zpid/,44556800,,SINGLE FAMILY,"$727,000",2808 SCOTT MILL ESTATES Drive,Jacksonville,FL,32257,4,4,2765,0.33999999999999997 acres,2985
+https://www.zillow.com/homedetails/5765-Heckscher-Dr-Jacksonville-FL-32226/109775418_zpid/,109775418,,SINGLE FAMILY,"$699,000",5765 HECKSCHER Drive,Jacksonville,FL,32226,3,3,2200,0.45999999999999996 acres,2688
+https://www.zillow.com/homedetails/6211-River-Glen-Ln-Jacksonville-FL-32216/44538030_zpid/,44538030,,SINGLE FAMILY,"$635,000",6211 RIVER GLEN Lane,Jacksonville,FL,32216,4,4,3071,0.62 acres,3357

@@ -1,0 +1,551 @@
+HOUSE URL,ZPID,HOME STATUS,HOUSE TYPE,PRICE($),STREET,CITY,STATE,ZIP CODE,NUMBER OF BEDROOMS,NUMBER OF BATHROOMS,HOUSE SIZE (sqft),LOT SIZE,RENT ZESTIMATE
+https://www.zillow.com/homedetails/5005-Buchanan-Draw-Rd-Austin-TX-78738/249912639_zpid/,249912639,,SINGLE FAMILY,"$650,000",5005 Buchanan Draw Rd,Austin,TX,78738,3,3,2515,7927.92 sqft,
+https://www.zillow.com/homedetails/13223-Darwin-Ln-Austin-TX-78729/29590408_zpid/,29590408,,SINGLE FAMILY,"$535,000",13223 Darwin Ln,Austin,TX,78729,3,3,2470,5902.38 sqft,
+https://www.zillow.com/homedetails/8511-Slant-Oak-Dr-Austin-TX-78729/29557582_zpid/,29557582,,SINGLE FAMILY,"$400,000",8511 Slant Oak Dr,Austin,TX,78729,3,2,1381,0.3754 acres,
+https://www.zillow.com/homedetails/7505-Seneca-Falls-Loop-Austin-TX-78739/70334907_zpid/,70334907,,SINGLE FAMILY,"$900,000",7505 Seneca Falls Loop,Austin,TX,78739,4,3,2882,7801.596 sqft,
+https://www.zillow.com/homedetails/8321-Panadero-Dr-Austin-TX-78747/89551009_zpid/,89551009,,SINGLE FAMILY,"$349,900",8321 Panadero Dr,Austin,TX,78747,3,2,1652,6316.2 sqft,1987
+https://www.zillow.com/homedetails/12401-Los-Indios-Trl-UNIT-5-Austin-TX-78729/29612618_zpid/,29612618,,CONDO,"$285,000",12401 Los Indios Trl UNIT 5,Austin,TX,78729,3,3,1480, ,
+https://www.zillow.com/homedetails/1705-Richcreek-Rd-Austin-TX-78757/29419021_zpid/,29419021,,SINGLE FAMILY,"$1,050,000",1705 Richcreek Rd,Austin,TX,78757,4,3,2450,8058.6 sqft,4101
+https://www.zillow.com/homedetails/8715-Ridgehill-Dr-Austin-TX-78759/58299034_zpid/,58299034,,SINGLE FAMILY,"$750,000",8715 Ridgehill Dr,Austin,TX,78759,4,2,2238,0.25370000000000004 acres,
+https://www.zillow.com/homedetails/7808-Woodcroft-Dr-Austin-TX-78749/29490749_zpid/,29490749,,SINGLE FAMILY,"$425,000",7808 Woodcroft Dr,Austin,TX,78749,3,2,1241,7230.96 sqft,2172
+https://www.zillow.com/homedetails/12725-Bloomington-Dr-129-Austin-TX-78748/339448920_zpid/,339448920,,SINGLE FAMILY,"$268,000",12725 Bloomington Dr #129,Austin,TX,78748,3,2,1350,8041.176 sqft,2107
+https://www.zillow.com/homedetails/4504-Tamarack-Trl-Austin-TX-78727/29446202_zpid/,29446202,,SINGLE FAMILY,$200K,4504 Tamarack Trl,Austin,TX,78727,3,2,1621,8951.58 sqft,
+https://www.zillow.com/homedetails/7300-Fred-Morse-Dr-Austin-TX-78723/29410148_zpid/,29410148,,SINGLE FAMILY,"$579,000",7300 Fred Morse Dr,Austin,TX,78723,3,2,1650,8546.472 sqft,
+https://www.zillow.com/homedetails/7312-Van-Ness-St-Austin-TX-78744/249891254_zpid/,249891254,,SINGLE FAMILY,"$435,000",7312 Van Ness St,Austin,TX,78744,3,2,1754,6534 sqft,
+https://www.zillow.com/homedetails/4530-Kind-Way-Austin-TX-78725/125806811_zpid/,125806811,,SINGLE FAMILY,"$238,000",4530 Kind Way,Austin,TX,78725,3,2,1100,6194.232 sqft,
+https://www.zillow.com/homedetails/3011-Wadsworth-Way-Austin-TX-78748/29510403_zpid/,29510403,,SINGLE FAMILY,"$545,000",3011 Wadsworth Way,Austin,TX,78748,3,3,2201,7723.188 sqft,
+https://www.zillow.com/homedetails/8909-Beatty-Ct-Austin-TX-78749/29492090_zpid/,29492090,,SINGLE FAMILY,"$749,900",8909 Beatty Ct,Austin,TX,78749,4,3,2214,8611.812 sqft,3672
+https://www.zillow.com/homedetails/6109-York-Bridge-Cir-Austin-TX-78749/64761288_zpid/,64761288,,SINGLE FAMILY,"$825,000",6109 York Bridge Cir,Austin,TX,78749,5,3,2931,7200.468 sqft,3409
+https://www.zillow.com/homedetails/4325-Dos-Cabezas-Dr-Austin-TX-78749/29488922_zpid/,29488922,,SINGLE FAMILY,"$559,900",4325 Dos Cabezas Dr,Austin,TX,78749,3,3,2526,0.2968 acres,3172
+https://www.zillow.com/homedetails/5816-Secrest-Dr-Austin-TX-78759/29369168_zpid/,29369168,,SINGLE FAMILY,"$800,000",5816 Secrest Dr,Austin,TX,78759,3,3,2136,10545.876 sqft,
+https://www.zillow.com/homedetails/7938-Wheel-Rim-Cir-Austin-TX-78749/29487066_zpid/,29487066,,SINGLE FAMILY,"$550,000",7938 Wheel Rim Cir,Austin,TX,78749,5,4,3084,10502.316 sqft,
+https://www.zillow.com/homedetails/5601-Samuel-Huston-Ave-Austin-TX-78721/29391539_zpid/,29391539,,SINGLE FAMILY,"$299,000",5601 Samuel Huston Ave,Austin,TX,78721,3,2,1422,8494.2 sqft,
+https://www.zillow.com/homedetails/405-El-Paso-St-Austin-TX-78704/29476453_zpid/,29476453,,SINGLE FAMILY,"$600,000",405 El Paso St,Austin,TX,78704,3,2,1458,6699.528 sqft,
+https://www.zillow.com/homedetails/8809-Lanna-Bluff-Loop-Austin-TX-78749/29499862_zpid/,29499862,,SINGLE FAMILY,"$599,900",8809 Lanna Bluff Loop,Austin,TX,78749,3,2,2046,7758.036 sqft,
+https://www.zillow.com/homedetails/10505-Big-Thicket-Dr-Austin-TX-78747/70357550_zpid/,70357550,,SINGLE FAMILY,"$369,000",10505 Big Thicket Dr,Austin,TX,78747,3,2,1763,6098.4 sqft,
+https://www.zillow.com/homedetails/1903-W-40th-St-Austin-TX-78731/29340403_zpid/,29340403,,SINGLE FAMILY,"$675,000",1903 W 40th St,Austin,TX,78731,2,1,966,7000 sqft,
+https://www.zillow.com/homedetails/7301-Berkman-Dr-Austin-TX-78752/29413813_zpid/,29413813,,SINGLE FAMILY,"$699,900",7301 Berkman Dr,Austin,TX,78752,5,3,2103,0.277 acres,
+https://www.zillow.com/homedetails/14301-Sandifer-St-Austin-TX-78725/60138190_zpid/,60138190,,SINGLE FAMILY,"$230,000",14301 Sandifer St,Austin,TX,78725,3,3,1655,6216.012 sqft,2015
+https://www.zillow.com/homedetails/8605-Peafowl-St-Austin-TX-78744/453182336_zpid/,453182336,,SINGLE FAMILY,"$614,990",8605 Peafowl St,Austin,TX,78744,4,4,2535,6098.4 sqft,
+https://www.zillow.com/homedetails/1600-Barton-Springs-Rd-UNIT-2201-Austin-TX-78704/83124374_zpid/,83124374,,CONDO,"$1,285,000",1600 Barton Springs Rd UNIT 2201,Austin,TX,78704,3,3,1706,1097.712 sqft,
+https://www.zillow.com/homedetails/3206-Goodwin-Ave-Austin-TX-78702/29386945_zpid/,29386945,,SINGLE FAMILY,"$495,000",3206 Goodwin Ave,Austin,TX,78702,3,1,1353,5662.8 sqft,2846
+https://www.zillow.com/homedetails/10825-Blacket-Dr-Austin-TX-78747/337146420_zpid/,337146420,,SINGLE FAMILY,"$379,000",10825 Blacket Dr,Austin,TX,78747,4,3,2080,7143.84 sqft,
+https://www.zillow.com/homedetails/1900-Jesse-Owens-Dr-Austin-TX-78748/64841811_zpid/,64841811,,SINGLE FAMILY,"$424,999",1900 Jesse Owens Dr,Austin,TX,78748,3,3,1860,6054.84 sqft,2341
+https://www.zillow.com/homedetails/3907-Eck-Ln-Austin-TX-78734/29364270_zpid/,29364270,,SINGLE FAMILY,"$550,000",3907 Eck Ln,Austin,TX,78734,3,3,1694,0.6414 acres,
+https://www.zillow.com/homedetails/4007-Eck-Ln-Austin-TX-78734/29364274_zpid/,29364274,,SINGLE FAMILY,"$550,000",4007 Eck Ln,Austin,TX,78734,3,2,1738,1.004 acres,
+https://www.zillow.com/homedetails/1316-Deupree-Dr-Austin-TX-78753/29433383_zpid/,29433383,,SINGLE FAMILY,"$365,000",1316 Deupree Dr,Austin,TX,78753,3,3,1422,6446.88 sqft,
+https://www.zillow.com/homedetails/5010-Rowena-Ave-1-Austin-TX-78751/338246577_zpid/,338246577,,SINGLE FAMILY,"$689,000",5010 Rowena Ave #1,Austin,TX,78751,4,3,2035,3994.452 sqft,4477
+https://www.zillow.com/homedetails/3207-Whitepine-Dr-Austin-TX-78757/29424633_zpid/,29424633,,SINGLE FAMILY,"$750,000",3207 Whitepine Dr,Austin,TX,78757,3,2,1514,10632.996 sqft,
+https://www.zillow.com/homedetails/3906-Galacia-Dr-Austin-TX-78759/29437173_zpid/,29437173,,SINGLE FAMILY,"$949,000",3906 Galacia Dr,Austin,TX,78759,4,3,2100,8363.52 sqft,
+https://www.zillow.com/homedetails/17712-Absinthe-Dr-Austin-TX-78738/455262379_zpid/,455262379,,SINGLE FAMILY,"$899,857",17712 Absinthe Dr,Austin,TX,78738,4,4,3436,7797.24 sqft,
+https://www.zillow.com/homedetails/14507-Deaf-Smith-Blvd-Austin-TX-78725/29462659_zpid/,29462659,,SINGLE FAMILY,"$279,900",14507 Deaf Smith Blvd,Austin,TX,78725,3,2,1087,6015.636 sqft,1829
+https://www.zillow.com/homedetails/7-Tall-Oaks-Trl-Austin-TX-78737/28595691_zpid/,28595691,,SINGLE FAMILY,"$899,950",7 Tall Oaks Trl,Austin,TX,78737,4,4,2893,2.157 acres,
+https://www.zillow.com/homedetails/11508-Arroyo-Blanco-Dr-Austin-TX-78748/70335257_zpid/,70335257,,SINGLE FAMILY,"$849,000",11508 Arroyo Blanco Dr,Austin,TX,78748,6,4,3385,0.287 acres,
+https://www.zillow.com/homedetails/3509-Oak-Springs-Dr-A-Austin-TX-78721/339460671_zpid/,339460671,,CONDO,"$525,000",3509 Oak Springs Dr #A,Austin,TX,78721,3,3,1473,4874.364 sqft,
+https://www.zillow.com/homedetails/4408-Lareina-Dr-Austin-TX-78745/29482298_zpid/,29482298,,SINGLE FAMILY,"$333,707",4408 Lareina Dr,Austin,TX,78745,2,1,1036,6991.38 sqft,
+https://www.zillow.com/homedetails/13008-Medina-River-Way-Austin-TX-78732/29361613_zpid/,29361613,,SINGLE FAMILY,"$1,050,000",13008 Medina River Way,Austin,TX,78732,4,3,2790,6865.056 sqft,
+https://www.zillow.com/homedetails/15102-Iowa-St-Austin-TX-78734/29363661_zpid/,29363661,,SINGLE FAMILY,"$205,000",15102 Iowa St,Austin,TX,78734,1,1,1050,7405.2 sqft,
+https://www.zillow.com/homedetails/10116-Willfield-Dr-Austin-TX-78753/29425962_zpid/,29425962,,SINGLE FAMILY,"$380,000",10116 Willfield Dr,Austin,TX,78753,4,2,1530,8258.976 sqft,
+https://www.zillow.com/homedetails/5600-Lakeview-Dr-Austin-TX-78734/448132784_zpid/,448132784,,SINGLE FAMILY,"$325,000",5600 Lakeview Dr,Austin,TX,78734,3,2,1611,0.4383 acres,
+https://www.zillow.com/homedetails/6309-Marsh-Ln-Buda-TX-78610/442287460_zpid/,442287460,,SINGLE FAMILY,"$329,999",6309 Marsh Ln,Buda,TX,78610,3,3,1649, ,
+https://www.zillow.com/homedetails/1005-Quail-Park-Dr-Austin-TX-78758/29426975_zpid/,29426975,,SINGLE FAMILY,"$649,000",1005 Quail Park Dr,Austin,TX,78758,5,3,2524,10454.4 sqft,
+https://www.zillow.com/homedetails/9600-Claxton-Dr-Austin-TX-78736/29474443_zpid/,29474443,,SINGLE FAMILY,"$600,000",9600 Claxton Dr,Austin,TX,78736,3,2,1631,1.3379 acres,
+https://www.zillow.com/homedetails/1913-Maize-Bend-Dr-Austin-TX-78727/58187171_zpid/,58187171,,SINGLE FAMILY,"$575,000",1913 Maize Bend Dr,Austin,TX,78727,4,3,2857,8071.668 sqft,2834
+https://www.zillow.com/homedetails/12813-Wooded-Lake-Ct-Austin-TX-78732/70352482_zpid/,70352482,,SINGLE FAMILY,"$1,100,000",12813 Wooded Lake Ct,Austin,TX,78732,4,4,3433,0.38360000000000005 acres,
+https://www.zillow.com/homedetails/1601-E-Slaughter-Ln-TRLR-184-Austin-TX-78747/70357629_zpid/,70357629,,MANUFACTURED,"$105,000",1601 E Slaughter Ln TRLR 184,Austin,TX,78747,4,2,1768, ,1858
+https://www.zillow.com/homedetails/1872-Dapplegrey-Ln-Austin-TX-78727/29441088_zpid/,29441088,,SINGLE FAMILY,"$530,000",1872 Dapplegrey Ln,Austin,TX,78727,3,3,2395,5693.292 sqft,2609
+https://www.zillow.com/homedetails/3009-Lawrence-Dr-Austin-TX-78734/126318942_zpid/,126318942,,SINGLE FAMILY,"$699,000",3009 Lawrence Dr,Austin,TX,78734,4,4,2644,0.28400000000000003 acres,
+https://www.zillow.com/homedetails/8520-Bradford-Dr-Austin-TX-78758/29423530_zpid/,29423530,,SINGLE FAMILY,"$410,000",8520 Bradford Dr,Austin,TX,78758,3,1,992,7736.256 sqft,1807
+https://www.zillow.com/homedetails/12901-Lamplight-Village-Ave-Austin-TX-78727/29442801_zpid/,29442801,,SINGLE FAMILY,"$299,900",12901 Lamplight Village Ave,Austin,TX,78727,4,3,2160,10733.184 sqft,2253
+https://www.zillow.com/homedetails/12166-Metric-Blvd-APT-384-Austin-TX-78758/80106505_zpid/,80106505,,CONDO,"$179,990",12166 Metric Blvd APT 384,Austin,TX,78758,2,2,1004,1568.16 sqft,
+https://www.zillow.com/homedetails/3840-Far-West-Blvd-APT-213-Austin-TX-78731/29353023_zpid/,29353023,,CONDO,"$299,000",3840 Far West Blvd APT 213,Austin,TX,78731,2,2,981,1746.756 sqft,
+https://www.zillow.com/homedetails/5817-Loblolly-Ln-69-Austin-TX-78744/124720727_zpid/,124720727,,SINGLE FAMILY,"$340,000",5817 Loblolly Ln #69,Austin,TX,78744,4,3,1992,4930.992 sqft,2361
+https://www.zillow.com/homedetails/7405-Attar-Cv-Austin-TX-78759/29371482_zpid/,29371482,,SINGLE FAMILY,"$809,000",7405 Attar Cv,Austin,TX,78759,3,2,1783,10450.044 sqft,
+https://www.zillow.com/homedetails/1809-Alegria-Rd-Austin-TX-78757/29414807_zpid/,29414807,,SINGLE FAMILY,"$1,550,000",1809 Alegria Rd,Austin,TX,78757,5,5,2663,9112.752 sqft,2687
+https://www.zillow.com/homedetails/10101-Dobbin-Dr-Austin-TX-78748/29507463_zpid/,29507463,,SINGLE FAMILY,"$749,999",10101 Dobbin Dr,Austin,TX,78748,5,3,2003,0.5442 acres,
+https://www.zillow.com/homedetails/11928-Arran-St-Austin-TX-78754/145652223_zpid/,145652223,,SINGLE FAMILY,"$375,000",11928 Arran St,Austin,TX,78754,3,2,2190,7501.032 sqft,
+https://www.zillow.com/homedetails/6702-Langston-Dr-Austin-TX-78723/29408731_zpid/,29408731,,SINGLE FAMILY,"$559,900",6702 Langston Dr,Austin,TX,78723,3,2,1790,10672.2 sqft,
+https://www.zillow.com/homedetails/1812-Pompton-Dr-Austin-TX-78757/29422399_zpid/,29422399,,SINGLE FAMILY,"$549,900",1812 Pompton Dr,Austin,TX,78757,3,2,1458,7814.664 sqft,
+https://www.zillow.com/homedetails/3603-Palomar-Ln-Austin-TX-78727/58307108_zpid/,58307108,,SINGLE FAMILY,"$430,000",3603 Palomar Ln,Austin,TX,78727,3,2,1366,6599.34 sqft,1904
+https://www.zillow.com/homedetails/15212-Shell-Bark-Cv-Austin-TX-78724/251030010_zpid/,251030010,,SINGLE FAMILY,"$315,000",15212 Shell Bark Cv,Austin,TX,78724,4,2,2047,5749.92 sqft,
+https://www.zillow.com/homedetails/1316-Dexford-Dr-Austin-TX-78753/29437772_zpid/,29437772,,SINGLE FAMILY,"$350,000",1316 Dexford Dr,Austin,TX,78753,3,3,1816,0.31930000000000003 acres,
+https://www.zillow.com/homedetails/9304-Apogee-Blvd-Austin-TX-78744/331629942_zpid/,331629942,,SINGLE FAMILY,"$475,000",9304 Apogee Blvd,Austin,TX,78744,4,3,2213,10515.384 sqft,
+https://www.zillow.com/homedetails/5416-Murano-Cv-Austin-TX-78747/441619883_zpid/,441619883,,SINGLE FAMILY,"$422,670",5416 Murano Cv,Austin,TX,78747,4,2,1657,4791.6 sqft,
+https://www.zillow.com/homedetails/1021-Gardner-Rd-Austin-TX-78721/29383669_zpid/,29383669,,SINGLE FAMILY,"$489,000",1021 Gardner Rd,Austin,TX,78721,3,2,1170,7840.8 sqft,
+https://www.zillow.com/homedetails/4702-Palisade-Dr-Austin-TX-78731/29346428_zpid/,29346428,,SINGLE FAMILY,"$925,000",4702 Palisade Dr,Austin,TX,78731,3,3,2147,0.2692 acres,3772
+https://www.zillow.com/homedetails/5114-Waterbrook-Dr-Austin-TX-78723/29399811_zpid/,29399811,,SINGLE FAMILY,"$340,000",5114 Waterbrook Dr,Austin,TX,78723,3,1,915,8341.74 sqft,
+https://www.zillow.com/homedetails/8902-Butler-Cir-Austin-TX-78737/29481885_zpid/,29481885,,SINGLE FAMILY,"$500,000",8902 Butler Cir,Austin,TX,78737,3,3,1308,1.05 acres,2533
+https://www.zillow.com/homedetails/13301-Country-Trails-Ln-Austin-TX-78732/83832236_zpid/,83832236,,SINGLE FAMILY,"$1,125,000",13301 Country Trails Ln,Austin,TX,78732,5,4,4117,0.254 acres,
+https://www.zillow.com/homedetails/2504-Briargrove-Dr-Austin-TX-78704/29325556_zpid/,29325556,,SINGLE FAMILY,"$1,000,000",2504 Briargrove Dr,Austin,TX,78704,4,2,2022,9600.624 sqft,
+https://www.zillow.com/homedetails/8900-Point-West-Dr-Austin-TX-78759/58299713_zpid/,58299713,,SINGLE FAMILY,"$1,449,000",8900 Point West,Austin,TX,78759,3,3,2476,0.271 acres,5760
+https://www.zillow.com/homedetails/604-N-Bluff-Dr-UNIT-146-Austin-TX-78745/124837761_zpid/,124837761,,CONDO,"$475,000",604 N Bluff Dr UNIT 146,Austin,TX,78745,3,3,1856,6.47 acres,2786
+https://www.zillow.com/homedetails/2901-Single-Trace-Ct-Austin-TX-78728/29449370_zpid/,29449370,,SINGLE FAMILY,"$390,000",2901 Single Trace Ct,Austin,TX,78728,4,3,2066,6621.12 sqft,2376
+https://www.zillow.com/homedetails/4608-Acers-Ln-Austin-TX-78725/79981801_zpid/,79981801,,SINGLE FAMILY,"$269,000",4608 Acers Ln,Austin,TX,78725,3,3,1626,5858.82 sqft,
+https://www.zillow.com/homedetails/3303-S-Oak-Dr-Austin-TX-78704/29476817_zpid/,29476817,,SINGLE FAMILY,"$650,000",3303 S Oak Dr,Austin,TX,78704,3,2,1465,8333.028 sqft,
+https://www.zillow.com/homedetails/743-E-Oltorf-St-APT-203-Austin-TX-78704/29462118_zpid/,29462118,,CONDO,"$340,000",743 E Oltorf St APT 203,Austin,TX,78704,2,1,923,2334.816 sqft,
+https://www.zillow.com/homedetails/11306-Eubank-Dr-Austin-TX-78758/58302905_zpid/,58302905,,SINGLE FAMILY,"$599,000",11306 Eubank Dr,Austin,TX,78758,4,2,2222,0.3538 acres,
+https://www.zillow.com/homedetails/1112-Estes-Ave-Austin-TX-78721/29387159_zpid/,29387159,,SINGLE FAMILY,"$525,000",1112 Estes Ave,Austin,TX,78721,2,2,904,7862.58 sqft,
+https://www.zillow.com/homedetails/14706-Menifee-St-Austin-TX-78725/29462562_zpid/,29462562,,SINGLE FAMILY,"$250,000",14706 Menifee St,Austin,TX,78725,3,3,2035,5275.116 sqft,1998
+https://www.zillow.com/homedetails/7103-Sansivera-Cv-Austin-TX-78750/29358910_zpid/,29358910,,SINGLE FAMILY,"$900,000",7103 Sansivera Cv,Austin,TX,78750,3,2,2221,0.45189999999999997 acres,
+https://www.zillow.com/homedetails/705-Ariana-Ct-Austin-TX-78746/447465473_zpid/,447465473,,CONDO,"$1,050,000",705 Ariana Ct,Austin,TX,78746,4,4,2318,0.30019999999999997 acres,
+https://www.zillow.com/homedetails/3704-Laurel-Ledge-Ln-Austin-TX-78731/29349255_zpid/,29349255,,SINGLE FAMILY,"$1,495,000",3704 Laurel Ledge Ln,Austin,TX,78731,5,3,3084,10759.32 sqft,
+https://www.zillow.com/homedetails/7604-Chimney-Cors-Austin-TX-78731/29353480_zpid/,29353480,,SINGLE FAMILY,"$1,105,000",7604 Chimney Cors,Austin,TX,78731,4,3,2478,0.2575 acres,
+https://www.zillow.com/homedetails/11509-Shadestone-Ter-Austin-TX-78732/94882852_zpid/,94882852,,SINGLE FAMILY,"$1,095,000",11509 Shadestone Ter,Austin,TX,78732,3,2,2239,0.376 acres,
+https://www.zillow.com/homedetails/8701-Meridian-Oak-Ln-Austin-TX-78744/70343536_zpid/,70343536,,SINGLE FAMILY,"$395,000",8701 Meridian Oak Ln,Austin,TX,78744,4,3,1919,5832.684 sqft,2364
+https://www.zillow.com/homedetails/10410-Margra-Ln-Austin-TX-78748/29512191_zpid/,29512191,,SINGLE FAMILY,"$299,900",10410 Margra Ln,Austin,TX,78748,4,2,1763,0.3721 acres,
+https://www.zillow.com/homedetails/1310-W-Parmer-Ln-APT-3201-Austin-TX-78727/114406395_zpid/,114406395,,CONDO,"$250,000",1310 W Parmer Ln APT 3201,Austin,TX,78727,2,2,1090, ,1669
+https://www.zillow.com/homedetails/1015-E-Yager-Ln-UNIT-187-Austin-TX-78753/29435506_zpid/,29435506,,CONDO,"$189,990",1015 E Yager Ln UNIT 187,Austin,TX,78753,2,2,891,4965.84 sqft,1551
+https://www.zillow.com/homedetails/4613-Greenridge-Ter-Austin-TX-78745/29485536_zpid/,29485536,,SINGLE FAMILY,"$340,000",4613 Greenridge Ter,Austin,TX,78745,3,2,864,6669.036 sqft,
+https://www.zillow.com/homedetails/7104-Brick-Slope-Path-Austin-TX-78744/241933033_zpid/,241933033,,SINGLE FAMILY,"$575,000",7104 Brick Slope Path,Austin,TX,78744,4,3,2754,8102.16 sqft,
+https://www.zillow.com/homedetails/4807-Pewter-Ln-Austin-TX-78744/29466922_zpid/,29466922,,SINGLE FAMILY,"$550,000",4807 Pewter Ln,Austin,TX,78744,4,3,1625,6721.308 sqft,
+https://www.zillow.com/homedetails/507-Sabine-St-APT-601-Austin-TX-78701/299248216_zpid/,299248216,,CONDO,"$695,000",507 Sabine St APT 601,Austin,TX,78701,2,2,1454,0.335 acres,
+https://www.zillow.com/homedetails/13451-Bullick-Hollow-Rd-Austin-TX-78726/305430346_zpid/,305430346,,SINGLE FAMILY,"$949,000",13451 Bullick Hollow Rd,Austin,TX,78726,4,6,5473,1.085 acres,
+https://www.zillow.com/homedetails/405-Mirafield-Ln-Austin-TX-78737/114157256_zpid/,114157256,,SINGLE FAMILY,"$950,000",405 Mirafield Ln,Austin,TX,78737,4,4,3204,0.29019999999999996 acres,
+https://www.zillow.com/homedetails/1807-Briar-Hill-Dr-A-B-Austin-TX-78741/441581074_zpid/,441581074,,MULTI FAMILY,"$550,000",1807 Briar Hill Dr #A & B,Austin,TX,78741,5,4,2530,10284.516 sqft,
+https://www.zillow.com/homedetails/5900-Nasco-Dr-Austin-TX-78757/29415930_zpid/,29415930,,SINGLE FAMILY,"$649,999",5900 Nasco Dr,Austin,TX,78757,4,2,1579,0.2848 acres,
+https://www.zillow.com/homedetails/502-E-46th-St-Austin-TX-78751/29403597_zpid/,29403597,,SINGLE FAMILY,"$650,000",502 E 46th St,Austin,TX,78751,2,1,1108,5793.48 sqft,
+https://www.zillow.com/homedetails/1604-Arcilla-St-Austin-TX-78741/305425661_zpid/,305425661,,SINGLE FAMILY,"$499,900",1604 Arcilla St,Austin,TX,78741,3,3,1961,4356 sqft,
+https://www.zillow.com/homedetails/13308-View-Ridge-Ct-Austin-TX-78737/2067645073_zpid/,2067645073,,SINGLE FAMILY,"$1,299,000",13308 View Ridge Ct,Austin,TX,78737,4,4,4568,2.53 acres,
+https://www.zillow.com/homedetails/7117-Jument-Dr-Austin-TX-78738/331627371_zpid/,331627371,,SINGLE FAMILY,"$599,000",7117 Jument Dr,Austin,TX,78738,3,3,2415,6499.152 sqft,
+https://www.zillow.com/homedetails/5408-Peppertree-Pkwy-Austin-TX-78744/29494311_zpid/,29494311,,SINGLE FAMILY,"$299,500",5408 Peppertree Pkwy,Austin,TX,78744,3,2,1028,9365.4 sqft,
+https://www.zillow.com/homedetails/5604-Hudson-Bend-Rd-Austin-TX-78734/29368783_zpid/,29368783,,SINGLE FAMILY,"$525,000",5604 Hudson Bend Rd,Austin,TX,78734,4,3,2048,0.404 acres,
+https://www.zillow.com/homedetails/5242-McCormick-Mountain-Dr-E-Austin-TX-78734/29365486_zpid/,29365486,,SINGLE FAMILY,"$1,400,000",5242 McCormick Mountain Dr #E,Austin,TX,78734,5,5,4849,5.974 acres,
+https://www.zillow.com/homedetails/2807-Pectoral-Dr-Austin-TX-78748/29504100_zpid/,29504100,,SINGLE FAMILY,"$475,000",2807 Pectoral Dr,Austin,TX,78748,3,2,1315,7357.284 sqft,2235
+https://www.zillow.com/homedetails/10712-Roy-Butler-Dr-Austin-TX-78717/89661029_zpid/,89661029,,SINGLE FAMILY,"$1,100,000",10712 Roy Butler Dr,Austin,TX,78717,5,4,4209,10585.08 sqft,3758
+https://www.zillow.com/homedetails/5906-Angora-Pass-Austin-TX-78724/449954238_zpid/,449954238,,SINGLE FAMILY,"$139,000",5906 Angora Pass,Austin,TX,78724,3,2,1512, ,
+https://www.zillow.com/homedetails/2500-Longview-St-217-Austin-TX-78705/338246044_zpid/,338246044,,CONDO,"$385,000",2500 Longview St #217,Austin,TX,78705,1,1,710,291.852 sqft,
+https://www.zillow.com/homedetails/12005-Mustang-Chase-Austin-TX-78727/58305538_zpid/,58305538,,SINGLE FAMILY,"$850,000",12005 Mustang Chase,Austin,TX,78727,3,3,2170,1.179981634527089 acres,2541
+https://www.zillow.com/homedetails/904-Plateau-Cir-Austin-TX-78745/29480209_zpid/,29480209,,SINGLE FAMILY,"$500,000",904 Plateau Cir,Austin,TX,78745,4,2,1144,6525.288 sqft,
+https://www.zillow.com/homedetails/12501-Mixson-Dr-Austin-TX-78732/29342563_zpid/,29342563,,SINGLE FAMILY,"$799,000",12501 Mixson Dr,Austin,TX,78732,4,3,2200,0.2696 acres,
+https://www.zillow.com/homedetails/907-Chicon-St-Austin-TX-78702/29385215_zpid/,29385215,,SINGLE FAMILY,"$649,000",907 Chicon St,Austin,TX,78702,3,2,1739,2539.548 sqft,
+https://www.zillow.com/homedetails/4012-Ridgelea-Dr-Austin-TX-78731/29406011_zpid/,29406011,,SINGLE FAMILY,"$675,000",4012 Ridgelea Dr,Austin,TX,78731,2,2,1473,7932.276 sqft,3314
+https://www.zillow.com/homedetails/6802-Lost-Valley-Austin-TX-78745/58314738_zpid/,58314738,,SINGLE FAMILY,"$619,000",6802 Lost Valley,Austin,TX,78745,4,3,1988,0.38189999999999996 acres,
+https://www.zillow.com/homedetails/5313-Harvest-Ln-Austin-TX-78745/29487982_zpid/,29487982,,SINGLE FAMILY,"$549,000",5313 Harvest Ln,Austin,TX,78745,3,3,1484,10628.64 sqft,
+https://www.zillow.com/homedetails/5201-Harvest-Cir-Austin-TX-78745/29487906_zpid/,29487906,,SINGLE FAMILY,"$395,000",5201 Harvest Cir,Austin,TX,78745,3,2,1120,9496.08 sqft,2357
+https://www.zillow.com/homedetails/7204-Covered-Bridge-Dr-Austin-TX-78736/64668992_zpid/,64668992,,SINGLE FAMILY,"$950,000",7204 Covered Bridge Dr,Austin,TX,78736,4,4,3572,0.2786 acres,
+https://www.zillow.com/homedetails/1931-E-38th-1-2-St-UNIT-71-Austin-TX-78723/241934834_zpid/,241934834,,TOWNHOUSE,"$559,000",1931 E 38th 1/2 St UNIT 71,Austin,TX,78723,3,3,1650,2543.904 sqft,
+https://www.zillow.com/homedetails/5607-Apple-Orchard-Ln-Austin-TX-78744/70341458_zpid/,70341458,,SINGLE FAMILY,"$285,000",5607 Apple Orchard Ln,Austin,TX,78744,3,2,1343,5898.024 sqft,2132
+https://www.zillow.com/homedetails/507-Sabine-St-APT-1010-Austin-TX-78701/83125191_zpid/,83125191,,CONDO,"$299,000",507 Sabine St APT 1010,Austin,TX,78701,1,1,745,117.612 sqft,
+https://www.zillow.com/homedetails/5908-Lehman-Way-Austin-TX-78747/305434666_zpid/,305434666,,SINGLE FAMILY,"$485,000",5908 Lehman Way,Austin,TX,78747,4,3,2835,7148.196 sqft,
+https://www.zillow.com/homedetails/4813-Yucca-Hill-Dr-Austin-TX-78744/29508291_zpid/,29508291,,TOWNHOUSE,"$175,000",4813 Yucca Hill Dr,Austin,TX,78744,3,2,1511,744.876 sqft,
+https://www.zillow.com/homedetails/6605-Kirkwynd-Dr-Austin-TX-78754/111372968_zpid/,111372968,,SINGLE FAMILY,"$300,000",6605 Kirkwynd Dr,Austin,TX,78754,3,2,1343,4826.448 sqft,
+https://www.zillow.com/homedetails/7806-Mullen-Dr-Austin-TX-78757/29421234_zpid/,29421234,,SINGLE FAMILY,"$725,000",7806 Mullen Dr,Austin,TX,78757,4,2,1800,0.257 acres,
+https://www.zillow.com/homedetails/7503-Sugar-Magnolia-St-Austin-TX-78757/124838852_zpid/,124838852,,TOWNHOUSE,"$475,000",7503 Sugar Magnolia St,Austin,TX,78757,3,3,1284,2339.172 sqft,2742
+https://www.zillow.com/homedetails/3601-Marcae-Ct-Austin-TX-78704/29476694_zpid/,29476694,,SINGLE FAMILY,"$615,000",3601 Marcae Ct,Austin,TX,78704,4,3,1392,6429.456 sqft,
+https://www.zillow.com/homedetails/15002-Wells-Port-Dr-Austin-TX-78728/29449776_zpid/,29449776,,SINGLE FAMILY,"$459,000",15002 Wells Port Dr,Austin,TX,78728,3,2,1834,8006.328 sqft,
+https://www.zillow.com/homedetails/6104-Shumard-Oak-Trl-Austin-TX-78735/449034055_zpid/,449034055,,SINGLE FAMILY,"$107,900",6104 Shumard Oak Trl,Austin,TX,78735,4,2,1792, ,
+https://www.zillow.com/homedetails/1115-Ebert-Ave-D-Austin-TX-78721/29385594_zpid/,29385594,,SINGLE FAMILY,"$145,000",1115 Ebert Ave #D,Austin,TX,78721,2,1,696,7048.008 sqft,1756
+https://www.zillow.com/homedetails/4361-S-Congress-Ave-435-Austin-TX-78745/241938682_zpid/,241938682,,CONDO,"$300,000",4361 S Congress Ave #435,Austin,TX,78745,2,2,1081,688.248 sqft,
+https://www.zillow.com/homedetails/1704-Prairie-Hen-Cv-Austin-TX-78758/29436030_zpid/,29436030,,SINGLE FAMILY,"$565,000",1704 Prairie Hen Cv,Austin,TX,78758,4,3,1953,7148.196 sqft,
+https://www.zillow.com/homedetails/3905-Danli-Ln-Austin-TX-78749/29499257_zpid/,29499257,,SINGLE FAMILY,"$535,000",3905 Danli Ln,Austin,TX,78749,3,3,1596,5776.056 sqft,
+https://www.zillow.com/homedetails/2606-W-49th-St-Austin-TX-78731/29411401_zpid/,29411401,,SINGLE FAMILY,"$1,399,000",2606 W 49th St,Austin,TX,78731,4,3,2741,7440.048 sqft,
+https://www.zillow.com/homedetails/1840-Burton-Dr-APT-231-Austin-TX-78741/29461604_zpid/,29461604,,CONDO,"$165,000",1840 Burton Dr APT 231,Austin,TX,78741,1,1,518,1402.632 sqft,
+https://www.zillow.com/homedetails/9516-Hunter-Ln-Austin-TX-78748/2086221434_zpid/,2086221434,,SINGLE FAMILY,"$510,000",9516 Hunter Ln,Austin,TX,78748,3,3,2476,6006.924 sqft,
+https://www.zillow.com/homedetails/10807-Redmond-Rd-Austin-TX-78739/29504777_zpid/,29504777,,SINGLE FAMILY,"$1,075,000",10807 Redmond Rd,Austin,TX,78739,4,4,3696,9252.144 sqft,4264
+https://www.zillow.com/homedetails/709-W-Saint-Elmo-Rd-2-Austin-TX-78745/338245854_zpid/,338245854,,SINGLE FAMILY,"$574,000",709 W Saint Elmo Rd #2,Austin,TX,78745,2,2,1067,3659.04 sqft,2887
+https://www.zillow.com/homedetails/2407-Enfield-Rd-A-Austin-TX-78703/89549760_zpid/,89549760,,SINGLE FAMILY,"$1,500,000",2407 Enfield Rd #A,Austin,TX,78703,3,4,3172,9888.12 sqft,
+https://www.zillow.com/homedetails/2209-Big-Hollow-Dr-Austin-TX-78728/29451361_zpid/,29451361,,SINGLE FAMILY,"$399,950",2209 Big Hollow Dr,Austin,TX,78728,3,2,1314,6577.56 sqft,2080
+https://www.zillow.com/homedetails/5604-Pinon-Vista-Dr-Austin-TX-78724/29397031_zpid/,29397031,,SINGLE FAMILY,"$245,000",5604 Pinon Vista Dr,Austin,TX,78724,3,2,1320,5749.92 sqft,2087
+https://www.zillow.com/homedetails/2918-Ranch-Road-620-N-C-122-Austin-TX-78734/2058876520_zpid/,2058876520,,CONDO,"$285,000",2918 Ranch Road 620 N #C-122,Austin,TX,78734,3,3,1556,5906.736 sqft,
+https://www.zillow.com/homedetails/1903-Canyon-Edge-Dr-Austin-TX-78733/29344942_zpid/,29344942,,SINGLE FAMILY,"$1,250,000",1903 Canyon Edge Dr,Austin,TX,78733,4,3,2554,0.7584000000000001 acres,
+https://www.zillow.com/homedetails/913-Christopher-St-Austin-TX-78704/29323731_zpid/,29323731,,SINGLE FAMILY,"$1,500,000",913 Christopher St,Austin,TX,78704,4,3,2352,5000.688 sqft,3518
+https://www.zillow.com/homedetails/4514-Cliffstone-Cv-Austin-TX-78735/29475375_zpid/,29475375,,SINGLE FAMILY,"$625,000",4514 Cliffstone Cv,Austin,TX,78735,3,2,1592,7701.408 sqft,
+https://www.zillow.com/homedetails/1811-Newton-St-7A-Austin-TX-78704/251036150_zpid/,251036150,,SINGLE FAMILY,"$1,450,000",1811 Newton St #7A,Austin,TX,78704,4,3,2800,6882.48 sqft,
+https://www.zillow.com/homedetails/4003-Reeders-Dr-Austin-TX-78725/60138152_zpid/,60138152,,SINGLE FAMILY,"$230,000",4003 Reeders Dr,Austin,TX,78725,3,2,1371,5309.964 sqft,
+https://www.zillow.com/homedetails/5708-Garden-Oaks-Dr-Austin-TX-78745/29489572_zpid/,29489572,,SINGLE FAMILY,"$274,900",5708 Garden Oaks Dr,Austin,TX,78745,2,1,864,6534 sqft,
+https://www.zillow.com/homedetails/4706-Clawson-Rd-Austin-TX-78745/58312955_zpid/,58312955,,SINGLE FAMILY,"$435,000",4706 Clawson Rd,Austin,TX,78745,4,2,1228,5832.684 sqft,
+https://www.zillow.com/homedetails/4000-Cortina-Dr-Austin-TX-78749/29499225_zpid/,29499225,,SINGLE FAMILY,"$485,000",4000 Cortina Dr,Austin,TX,78749,3,3,1596,8973.36 sqft,
+https://www.zillow.com/homedetails/6108-Shadow-Valley-Dr-A-Austin-TX-78731/2076887765_zpid/,2076887765,,TOWNHOUSE,"$374,900",6108 Shadow Valley Dr #A,Austin,TX,78731,3,2,1200,0.2817 acres,2370
+https://www.zillow.com/homedetails/3012-Hunt-Trl-Austin-TX-78757/29417771_zpid/,29417771,,SINGLE FAMILY,"$600,000",3012 Hunt Trl,Austin,TX,78757,3,2,1864,8816.544 sqft,
+https://www.zillow.com/homedetails/2102-E-17th-St-Austin-TX-78702/29388460_zpid/,29388460,,SINGLE FAMILY,"$675,000",2102 E 17th St,Austin,TX,78702,4,1,1104,7797.24 sqft,
+https://www.zillow.com/homedetails/1210-Holly-St-Austin-TX-78702/241934434_zpid/,241934434,,SINGLE FAMILY,"$549,000",1210 Holly St,Austin,TX,78702,2,3,895,2613.6 sqft,
+https://www.zillow.com/homedetails/6111-Carnation-Ter-2-Austin-TX-78741/345334412_zpid/,345334412,,SINGLE FAMILY,"$399,999",6111 Carnation Ter #2,Austin,TX,78741,3,3,1153,2822.688 sqft,
+https://www.zillow.com/homedetails/11704-Long-Rifle-Cv-Austin-TX-78754/70334318_zpid/,70334318,,SINGLE FAMILY,"$419,000",11704 Long Rifle Cv,Austin,TX,78754,3,2,1772,0.35200000000000004 acres,2407
+https://www.zillow.com/homedetails/11036-Cherisse-Dr-Austin-TX-78739/83831986_zpid/,83831986,,SINGLE FAMILY,"$599,900",11036 Cherisse Dr,Austin,TX,78739,3,2,1946,8847.036 sqft,
+https://www.zillow.com/homedetails/360-Nueces-St-APT-1018-Austin-TX-78701/89550068_zpid/,89550068,,CONDO,"$504,900",360 Nueces St APT 1018,Austin,TX,78701,1,1,760,100.188 sqft,
+https://www.zillow.com/homedetails/605-Silver-Wing-Dr-Austin-TX-78725/241937807_zpid/,241937807,,SINGLE FAMILY,"$373,000",605 Silver Wing Dr,Austin,TX,78725,4,3,2570,6904.26 sqft,
+https://www.zillow.com/homedetails/7401-Whistlestop-Dr-Austin-TX-78749/29483896_zpid/,29483896,,SINGLE FAMILY,"$579,900",7401 Whistlestop Dr,Austin,TX,78749,4,3,1891,10702.692 sqft,3719
+https://www.zillow.com/homedetails/15413-Echo-Hills-Dr-Austin-TX-78717/70985504_zpid/,70985504,,SINGLE FAMILY,"$825,000",15413 Echo Hills Dr,Austin,TX,78717,5,4,3534,9182.448 sqft,4233
+https://www.zillow.com/homedetails/2210-Meadowbrook-Dr-Austin-TX-78703/29335101_zpid/,29335101,,SINGLE FAMILY,"$1,570,000",2210 Meadowbrook Dr,Austin,TX,78703,4,3,2430,7923.564 sqft,
+https://www.zillow.com/homedetails/1901-Cresthaven-Dr-Austin-TX-78704/29325273_zpid/,29325273,,SINGLE FAMILY,"$1,450,000",1901 Cresthaven Dr,Austin,TX,78704,5,3,2693,0.3765 acres,
+https://www.zillow.com/homedetails/15405-Sutton-Dr-Austin-TX-78734/70324969_zpid/,70324969,,SINGLE FAMILY,"$375,000",15405 Sutton Dr,Austin,TX,78734,3,3,1692,0.802 acres,2513
+https://www.zillow.com/homedetails/905-Minturn-Ln-Austin-TX-78748/29509008_zpid/,29509008,,SINGLE FAMILY,"$365,000",905 Minturn Ln,Austin,TX,78748,3,2,1393,5074.74 sqft,
+https://www.zillow.com/homedetails/7314-Danwood-Dr-Austin-TX-78759/29371880_zpid/,29371880,,SINGLE FAMILY,"$736,000",7314 Danwood Dr,Austin,TX,78759,4,3,2182,0.2671 acres,3774
+https://www.zillow.com/homedetails/15201-Bullbrier-Rd-Austin-TX-78724/251029797_zpid/,251029797,,SINGLE FAMILY,"$295,000",15201 Bullbrier Rd,Austin,TX,78724,4,3,2189,5749.92 sqft,2204
+https://www.zillow.com/homedetails/11345-Church-Canyon-Dr-Austin-TX-78754/70339181_zpid/,70339181,,SINGLE FAMILY,"$289,000",11345 Church Canyon,Austin,TX,78754,4,3,1766,4443.12 sqft,2039
+https://www.zillow.com/homedetails/15433-Ozone-Pl-Austin-TX-78728/29454003_zpid/,29454003,,SINGLE FAMILY,"$449,000",15433 Ozone Pl,Austin,TX,78728,3,3,2265,6324.912 sqft,2761
+https://www.zillow.com/homedetails/11105-Rio-Vista-Dr-Austin-TX-78726/29374979_zpid/,29374979,,SINGLE FAMILY,"$668,800",11105 Rio Vista Dr,Austin,TX,78726,4,3,2848,7501.032 sqft,
+https://www.zillow.com/homedetails/903-Silver-Quail-Ln-Austin-TX-78758/29428754_zpid/,29428754,,TOWNHOUSE,"$247,000",903 Silver Quail Ln,Austin,TX,78758,3,2,1237,4260.168 sqft,1912
+https://www.zillow.com/homedetails/11000-Leland-Rich-Ct-Austin-TX-78717/121724673_zpid/,121724673,,SINGLE FAMILY,"$888,000",11000 Leland Rich Ct,Austin,TX,78717,4,4,3005,0.25 acres,
+https://www.zillow.com/homedetails/1212-Guadalupe-St-701A-Austin-TX-78701/455213836_zpid/,455213836,,CONDO,"$559,000",1212 Guadalupe St #701A,Austin,TX,78701,2,2,966,304.92 sqft,
+https://www.zillow.com/homedetails/2302-Rain-Water-Dr-Austin-TX-78734/125792760_zpid/,125792760,,SINGLE FAMILY,$250K,2302 Rain Water Dr,Austin,TX,78734,3,3,2443,8973.36 sqft,
+https://www.zillow.com/homedetails/405-Hackberry-Ln-B-Austin-TX-78753/346001651_zpid/,346001651,,SINGLE FAMILY,"$669,000",405 Hackberry Ln #B,Austin,TX,78753,3,3,2138,10720.116 sqft,
+https://www.zillow.com/homedetails/9005-Quail-Creek-Dr-Austin-TX-78758/29426784_zpid/,29426784,,SINGLE FAMILY,"$569,900",9005 Quail Creek Dr,Austin,TX,78758,3,2,1908,10036.224 sqft,3184
+https://www.zillow.com/homedetails/12404-Calistoga-Way-Austin-TX-78732/111746649_zpid/,111746649,,SINGLE FAMILY,"$799,000",12404 Calistoga Way,Austin,TX,78732,4,4,3352,9918.612 sqft,
+https://www.zillow.com/homedetails/5204-Hedgewood-Dr-Austin-TX-78745/29488004_zpid/,29488004,,SINGLE FAMILY,"$575,000",5204 Hedgewood Dr,Austin,TX,78745,3,2,1491,6416.388 sqft,2369
+https://www.zillow.com/homedetails/5006-Grover-Ave-Austin-TX-78756/64584472_zpid/,64584472,,SINGLE FAMILY,"$475,000",5006 Grover Ave,Austin,TX,78756,3,2,1920,6786.648 sqft,
+https://www.zillow.com/homedetails/2402-S-3rd-St-B-Austin-TX-78704/445752651_zpid/,445752651,,SINGLE FAMILY,"$600,000",2402 S 3rd St #B,Austin,TX,78704,2,3,1060,7322.436 sqft,
+https://www.zillow.com/homedetails/5901-Nelson-Oaks-Dr-Austin-TX-78724/83816563_zpid/,83816563,,SINGLE FAMILY,"$325,000",5901 Nelson Oaks Dr,Austin,TX,78724,3,2,1532,5749.92 sqft,
+https://www.zillow.com/homedetails/11606-Oak-Trl-Austin-TX-78753/58303265_zpid/,58303265,,SINGLE FAMILY,"$330,000",11606 Oak Trl,Austin,TX,78753,3,2,1761,0.2597 acres,
+https://www.zillow.com/homedetails/7820-Oteka-Cv-Austin-TX-78735/80095487_zpid/,80095487,,SINGLE FAMILY,"$1,000,000",7820 Oteka Cv,Austin,TX,78735,5,4,3672,0.298 acres,
+https://www.zillow.com/homedetails/3704-Munson-St-1-Austin-TX-78721/454834454_zpid/,454834454,,CONDO,"$424,000",3704 Munson St #1,Austin,TX,78721,3,2,1021,0.2513 acres,
+https://www.zillow.com/homedetails/4800-Lansing-Dr-Austin-TX-78745/29479914_zpid/,29479914,,SINGLE FAMILY,"$389,000",4800 Lansing Dr,Austin,TX,78745,3,2,1174,8799.12 sqft,
+https://www.zillow.com/homedetails/6304-Clubway-Ln-Austin-TX-78745/29493163_zpid/,29493163,,SINGLE FAMILY,"$350,000",6304 Clubway Ln,Austin,TX,78745,3,2,1179,6420.744 sqft,2341
+https://www.zillow.com/homedetails/1403-Ashwood-Rd-Austin-TX-78722/29397693_zpid/,29397693,,MULTI FAMILY,"$599,000",1403 Ashwood Rd,Austin,TX,78722,4,2,1850,9953.46 sqft,
+https://www.zillow.com/homedetails/703-Valdez-St-Austin-TX-78741/29462410_zpid/,29462410,,SINGLE FAMILY,"$207,500",703 Valdez St,Austin,TX,78741,3,2,1484,7579.44 sqft,2366
+https://www.zillow.com/homedetails/6000-Roxbury-Ln-Austin-TX-78739/29504743_zpid/,29504743,,SINGLE FAMILY,"$1,150,000",6000 Roxbury Ln,Austin,TX,78739,5,4,3576,0.2795 acres,
+https://www.zillow.com/homedetails/7711-Huddleston-Ln-Austin-TX-78745/80090461_zpid/,80090461,,SINGLE FAMILY,"$515,000",7711 Huddleston Ln,Austin,TX,78745,3,2,2009,5954.652 sqft,
+https://www.zillow.com/homedetails/5808-Spring-Meadow-Rd-Austin-TX-78744/29468058_zpid/,29468058,,SINGLE FAMILY,"$280,000",5808 Spring Meadow Rd,Austin,TX,78744,3,2,1103,7026.228 sqft,
+https://www.zillow.com/homedetails/6100-Smith-Oak-Trl-Austin-TX-78749/29478867_zpid/,29478867,,SINGLE FAMILY,"$950,000",6100 Smith Oak Trl,Austin,TX,78749,3,3,2345,6459.948 sqft,
+https://www.zillow.com/homedetails/1706-Whitney-Way-Austin-TX-78741/144337095_zpid/,144337095,,SINGLE FAMILY,"$399,989",1706 Whitney Way,Austin,TX,78741,3,2,1257,6011.28 sqft,2432
+https://www.zillow.com/homedetails/3401-Beartree-Cir-Austin-TX-78730/29344882_zpid/,29344882,,SINGLE FAMILY,"$1,400,000",3401 Beartree Cir,Austin,TX,78730,4,4,3412,1.01 acres,
+https://www.zillow.com/homedetails/1187-Coleto-St-Austin-TX-78702/29387811_zpid/,29387811,,SINGLE FAMILY,"$400,000",1187 Coleto St,Austin,TX,78702,1,1,526,2090.88 sqft,
+https://www.zillow.com/homedetails/4712-Carsonhill-Dr-Austin-TX-78723/29396675_zpid/,29396675,,SINGLE FAMILY,"$499,819",4712 Carsonhill Dr,Austin,TX,78723,3,2,1430,7688.34 sqft,
+https://www.zillow.com/homedetails/3208-Clawson-Rd-2-Austin-TX-78704/442199838_zpid/,442199838,,CONDO,"$506,500",3208 Clawson Rd #2,Austin,TX,78704,2,2,1013,7013.16 sqft,
+https://www.zillow.com/homedetails/4831-Trail-Crest-Cir-Austin-TX-78735/29473948_zpid/,29473948,,SINGLE FAMILY,"$715,000",4831 Trail Crest Cir,Austin,TX,78735,3,2,1600,8250.264 sqft,3628
+https://www.zillow.com/homedetails/13229-Country-Trails-Ln-Austin-TX-78732/83822300_zpid/,83822300,,SINGLE FAMILY,"$1,190,000",13229 Country Trails Ln,Austin,TX,78732,5,6,4659,10759.32 sqft,
+https://www.zillow.com/homedetails/609-Hammack-Dr-2-Austin-TX-78752/448359434_zpid/,448359434,,SINGLE FAMILY,"$434,000",609 Hammack Dr #2,Austin,TX,78752,2,2,872,7021.872 sqft,
+https://www.zillow.com/homedetails/1501-Cricket-Hollow-Dr-Austin-TX-78758/29434210_zpid/,29434210,,SINGLE FAMILY,"$449,900",1501 Cricket Hollow Dr,Austin,TX,78758,4,2,1584,0.5808 acres,2315
+https://www.zillow.com/homedetails/1716-W-Saint-Johns-Ave-Austin-TX-78757/29418056_zpid/,29418056,,SINGLE FAMILY,"$649,900",1716 W Saint Johns Ave,Austin,TX,78757,3,2,1368,8145.72 sqft,
+https://www.zillow.com/homedetails/4617-Sidereal-Dr-Austin-TX-78727/29444357_zpid/,29444357,,SINGLE FAMILY,"$445,000",4617 Sidereal Dr,Austin,TX,78727,3,2,1504,8542.116 sqft,
+https://www.zillow.com/homedetails/7205-Waldon-Dr-APT-209-Austin-TX-78750/58298927_zpid/,58298927,,CONDO,"$415,000",7205 Waldon Dr APT 209,Austin,TX,78750,2,2,1096,5096.52 sqft,
+https://www.zillow.com/homedetails/13113-Mansfield-Dr-Austin-TX-78732/29362552_zpid/,29362552,,SINGLE FAMILY,"$1,150,000",13113 Mansfield Dr,Austin,TX,78732,5,4,3528,0.474 acres,
+https://www.zillow.com/homedetails/6116-Whipple-Way-Austin-TX-78745/114406294_zpid/,114406294,,SINGLE FAMILY,"$625,000",6116 Whipple Way,Austin,TX,78745,4,3,2242,9016.92 sqft,
+https://www.zillow.com/homedetails/7503-Islander-Dr-Austin-TX-78749/29486438_zpid/,29486438,,SINGLE FAMILY,"$419,000",7503 Islander Dr,Austin,TX,78749,3,2,1931,9753.084 sqft,
+https://www.zillow.com/homedetails/2702-Gazelle-Horseshoe-Bay-TX-78657/452931012_zpid/,452931012,,MANUFACTURED,"$249,900",2702 Gazelle,Horseshoe Bay,TX,78657,4,2,1456,5227.2 sqft,
+https://www.zillow.com/homedetails/4315-S-Congress-Ave-406-Austin-TX-78745/442202408_zpid/,442202408,,CONDO,"$150,000",4315 S Congress Ave #406,Austin,TX,78745,0,1,594,274.428 sqft,
+https://www.zillow.com/homedetails/4500-Poteau-Cir-Austin-TX-78734/29364657_zpid/,29364657,,SINGLE FAMILY,"$882,500",4500 Poteau Cir,Austin,TX,78734,4,3,2496,0.9211 acres,4650
+https://www.zillow.com/homedetails/5603-Darlington-Ln-Austin-TX-78723/29402552_zpid/,29402552,,SINGLE FAMILY,"$439,889",5603 Darlington Ln,Austin,TX,78723,3,2,1110,9034.344 sqft,
+https://www.zillow.com/homedetails/1433-Salem-Meadow-Cir-Austin-TX-78745/58314404_zpid/,58314404,,SINGLE FAMILY,"$419,000",1433 Salem Meadow Cir,Austin,TX,78745,4,2,1217,9670.32 sqft,
+https://www.zillow.com/homedetails/3003-Salvidar-Bnd-Austin-TX-78728/338244508_zpid/,338244508,,SINGLE FAMILY,"$419,999",3003 Salvidar Bnd,Austin,TX,78728,4,3,2081,6873.768 sqft,
+https://www.zillow.com/homedetails/7508-Aspen-Brook-Dr-Austin-TX-78744/79980706_zpid/,79980706,,SINGLE FAMILY,"$345,000",7508 Aspen Brook Dr,Austin,TX,78744,4,3,2322,4399.56 sqft,
+https://www.zillow.com/homedetails/4911-Brighton-Rd-Austin-TX-78745/29482900_zpid/,29482900,,SINGLE FAMILY,"$450,000",4911 Brighton Rd,Austin,TX,78745,3,2,1130,7792.884 sqft,2553
+https://www.zillow.com/homedetails/1104-Brentwood-St-Austin-TX-78757/29415067_zpid/,29415067,,SINGLE FAMILY,"$620,000",1104 Brentwood St,Austin,TX,78757,3,1,1437,10746.252 sqft,
+https://www.zillow.com/homedetails/5816-Monmarte-Cv-Austin-TX-78744/251034607_zpid/,251034607,,SINGLE FAMILY,"$351,400",5816 Monmarte Cv,Austin,TX,78744,4,3,2246,8015.04 sqft,2393
+https://www.zillow.com/homedetails/1715-Mearns-Meadow-Blvd-Austin-TX-78758/29433501_zpid/,29433501,,SINGLE FAMILY,"$379,000",1715 Mearns Meadow Blvd,Austin,TX,78758,3,2,1130,9034.344 sqft,
+https://www.zillow.com/homedetails/3005-Susquehanna-Ln-Austin-TX-78723/29408686_zpid/,29408686,,SINGLE FAMILY,"$467,500",3005 Susquehanna Ln,Austin,TX,78723,3,2,1316,7305.012 sqft,2652
+https://www.zillow.com/homedetails/4502-Avenue-H-Austin-TX-78751/29403445_zpid/,29403445,,SINGLE FAMILY,"$799,500",4502 Avenue H,Austin,TX,78751,3,2,1577,6272.64 sqft,
+https://www.zillow.com/homedetails/11716-Tallow-Field-Way-Austin-TX-78758/29435896_zpid/,29435896,,SINGLE FAMILY,"$350,000",11716 Tallow Field Way,Austin,TX,78758,3,2,1087,4007.52 sqft,
+https://www.zillow.com/homedetails/3823-Threadgill-St-Austin-TX-78723/337143678_zpid/,337143678,,TOWNHOUSE,"$330,364",3823 Threadgill St,Austin,TX,78723,3,2,1124,1293.732 sqft,3014
+https://www.zillow.com/homedetails/6304-Gunflint-Dr-Austin-TX-78747/305434556_zpid/,305434556,,SINGLE FAMILY,"$374,500",6304 Gunflint Dr,Austin,TX,78747,4,3,2080,4800.312 sqft,2362
+https://www.zillow.com/homedetails/4100-Jefferson-St-Austin-TX-78731/29406022_zpid/,29406022,,SINGLE FAMILY,"$550,000",4100 Jefferson St,Austin,TX,78731,3,2,1342,9012.564 sqft,
+https://www.zillow.com/homedetails/5902-Coventry-Ln-Austin-TX-78723/64626530_zpid/,64626530,,SINGLE FAMILY,"$550,000",5902 Coventry Ln,Austin,TX,78723,3,2,1705,6969.6 sqft,
+https://www.zillow.com/homedetails/8902-Romayne-Ln-Austin-TX-78748/29509320_zpid/,29509320,,SINGLE FAMILY,"$365,000",8902 Romayne Ln,Austin,TX,78748,3,2,1266,5924.16 sqft,
+https://www.zillow.com/homedetails/5801-Taylor-Draper-Cv-Austin-TX-78759/29366023_zpid/,29366023,,SINGLE FAMILY,"$799,000",5801 Taylor Draper Cv,Austin,TX,78759,3,2,2289,0.30510000000000004 acres,
+https://www.zillow.com/homedetails/4701-Sylvandale-Dr-1-Austin-TX-78745/2065777991_zpid/,2065777991,,SINGLE FAMILY,"$385,000",4701 Sylvandale Dr #1,Austin,TX,78745,3,2,1135,4756.752 sqft,
+https://www.zillow.com/homedetails/3900-Threadgill-St-UNIT-16-Austin-TX-78723/114406878_zpid/,114406878,,SINGLE FAMILY,"$679,900",3900 Threadgill St UNIT 16,Austin,TX,78723,2,3,1534,1829.52 sqft,
+https://www.zillow.com/homedetails/14320-Padbrook-Park-Cv-Austin-TX-78717/60335767_zpid/,60335767,,SINGLE FAMILY,"$690,000",14320 Padbrook Park Cv,Austin,TX,78717,4,4,2937,10136.412 sqft,
+https://www.zillow.com/homedetails/12501-Rush-Creek-Ln-Austin-TX-78732/70337276_zpid/,70337276,,SINGLE FAMILY,"$699,000",12501 Rush Creek Ln,Austin,TX,78732,4,4,3163,8768.628 sqft,
+https://www.zillow.com/homedetails/5901-Camino-Seco-Austin-TX-78731/29347889_zpid/,29347889,,SINGLE FAMILY,"$675,000",5901 Camino Seco,Austin,TX,78731,3,3,1662,0.3033 acres,
+https://www.zillow.com/homedetails/4419-Sinclair-Ave-Austin-TX-78756/29406155_zpid/,29406155,,SINGLE FAMILY,"$725,000",4419 Sinclair Ave,Austin,TX,78756,3,2,1373,8100 sqft,
+https://www.zillow.com/homedetails/13400-Briarwick-Dr-UNIT-101-Austin-TX-78729/185288315_zpid/,185288315,,TOWNHOUSE,"$399,900",13400 Briarwick Dr UNIT 101,Austin,TX,78729,4,3,1981,1555.092 sqft,
+https://www.zillow.com/homedetails/12320-Cedarspur-Rd-Austin-TX-78758/29440507_zpid/,29440507,,SINGLE FAMILY,"$290,000",12320 Cedarspur Rd,Austin,TX,78758,2,1,840,5667.156 sqft,1677
+https://www.zillow.com/homedetails/6008-Smith-Oak-Trl-Austin-TX-78749/29478866_zpid/,29478866,,SINGLE FAMILY,"$675,000",6008 Smith Oak Trl,Austin,TX,78749,3,2,1746,7187.4 sqft,
+https://www.zillow.com/homedetails/6110-Gardenridge-Holw-Austin-TX-78750/58298437_zpid/,58298437,,SINGLE FAMILY,"$779,000",6110 Gardenridge Holw,Austin,TX,78750,4,3,2217,5384.016 sqft,
+https://www.zillow.com/homedetails/3424-Clarksburg-Dr-Austin-TX-78745/29490220_zpid/,29490220,,SINGLE FAMILY,"$435,000",3424 Clarksburg Dr,Austin,TX,78745,4,3,1603,9156.312 sqft,
+https://www.zillow.com/homedetails/11704-Harpster-Bnd-Austin-TX-78717/120772407_zpid/,120772407,,SINGLE FAMILY,"$650,000",11704 Harpster Bnd,Austin,TX,78717,4,4,2818,9583.2 sqft,
+https://www.zillow.com/homedetails/1401-Brixey-Cv-Austin-TX-78754/64713762_zpid/,64713762,,SINGLE FAMILY,"$575,000",1401 Brixey Cv,Austin,TX,78754,4,3,3154,0.31 acres,
+https://www.zillow.com/homedetails/15100-Canary-St-Austin-TX-78734/70324131_zpid/,70324131,,SINGLE FAMILY,"$870,000",15100 Canary St,Austin,TX,78734,4,4,3192,0.4568 acres,4799
+https://www.zillow.com/homedetails/10712-Shackelford-Dr-Austin-TX-78748/29511604_zpid/,29511604,,SINGLE FAMILY,"$950,000",10712 Shackelford Dr,Austin,TX,78748,4,4,3005,0.39899999999999997 acres,3436
+https://www.zillow.com/homedetails/1753-Gaylord-Dr-Austin-TX-78728/29447971_zpid/,29447971,,SINGLE FAMILY,"$499,000",1753 Gaylord Dr,Austin,TX,78728,4,3,2253,0.25 acres,2318
+https://www.zillow.com/homedetails/1806-Krizan-Ave-Austin-TX-78727/29443350_zpid/,29443350,,SINGLE FAMILY,"$365,000",1806 Krizan Ave,Austin,TX,78727,3,2,1334,10236.6 sqft,2217
+https://www.zillow.com/homedetails/14108-Laurinburg-Dr-Austin-TX-78717/121719682_zpid/,121719682,,SINGLE FAMILY,"$1,100,000",14108 Laurinburg Dr,Austin,TX,78717,4,4,4020,9787.932 sqft,
+https://www.zillow.com/homedetails/510-E-38th-St-Austin-TX-78705/29399405_zpid/,29399405,,SINGLE FAMILY,"$805,000",510 E 38th St,Austin,TX,78705,3,2,1278,7252.74 sqft,
+https://www.zillow.com/homedetails/2108-Lanier-Dr-Austin-TX-78757/29426425_zpid/,29426425,,SINGLE FAMILY,"$475,000",2108 Lanier Dr,Austin,TX,78757,3,2,1570,7313.724 sqft,
+https://www.zillow.com/homedetails/6605-Ladera-Norte-Austin-TX-78731/29353742_zpid/,29353742,,SINGLE FAMILY,"$1,400,000",6605 Ladera Norte,Austin,TX,78731,5,4,3789,0.41 acres,6798
+https://www.zillow.com/homedetails/9107-Cedar-Crest-Dr-Austin-TX-78750/29375849_zpid/,29375849,,SINGLE FAMILY,"$698,000",9107 Cedar Crest Dr,Austin,TX,78750,4,2,2478,0.3596 acres,
+https://www.zillow.com/homedetails/10607-Watchful-Fox-Dr-Austin-TX-78748/29513997_zpid/,29513997,,SINGLE FAMILY,"$449,999",10607 Watchful Fox Dr,Austin,TX,78748,4,3,1872,6229.08 sqft,
+https://www.zillow.com/homedetails/12902-Ben-Milam-Dr-Manchaca-TX-78652/58317858_zpid/,58317858,,SINGLE FAMILY,"$365,000",12902 Ben Milam Dr,Manchaca,TX,78652,3,2,2321,0.5788 acres,
+https://www.zillow.com/homedetails/8714-Silverhill-Ln-Austin-TX-78759/29432779_zpid/,29432779,,SINGLE FAMILY,"$980,000",8714 Silverhill Ln,Austin,TX,78759,3,2,1950,0.27090000000000003 acres,
+https://www.zillow.com/homedetails/16633-Chevalin-St-Austin-TX-78738/331627338_zpid/,331627338,,SINGLE FAMILY,"$549,900",16633 Chevalin St,Austin,TX,78738,3,3,2300,6499.152 sqft,3151
+https://www.zillow.com/homedetails/713-Patterson-Ave-Austin-TX-78703/29327687_zpid/,29327687,,SINGLE FAMILY,"$900,000",713 Patterson Ave,Austin,TX,78703,3,2,1572,7932.276 sqft,
+https://www.zillow.com/homedetails/224-Horseback-Holw-Austin-TX-78732/89548796_zpid/,89548796,,SINGLE FAMILY,"$1,299,000",224 Horseback Holw,Austin,TX,78732,5,4,4012,8746.848 sqft,
+https://www.zillow.com/homedetails/7400-Ophelia-Dr-Austin-TX-78752/29412851_zpid/,29412851,,CONDO,"$259,000",7400 Ophelia Dr,Austin,TX,78752,3,3,1762,5684.58 sqft,
+https://www.zillow.com/homedetails/1411-E-2nd-St-B2-Austin-TX-78702/83125165_zpid/,83125165,,CONDO,"$725,000",1411 E 2nd St #B2,Austin,TX,78702,3,3,1590,7405.2 sqft,
+https://www.zillow.com/homedetails/704-Franklin-Blvd-Austin-TX-78751/29410827_zpid/,29410827,,SINGLE FAMILY,"$810,000",704 Franklin Blvd,Austin,TX,78751,4,2,2096,7784.172 sqft,3978
+https://www.zillow.com/homedetails/4700-River-Place-Blvd-APT-3-Austin-TX-78730/29356766_zpid/,29356766,,SINGLE FAMILY,"$1,175,000",4700 River Place Blvd APT 3,Austin,TX,78730,4,4,3236,0.3951 acres,4278
+https://www.zillow.com/homedetails/800-Brazos-St-UNIT-1009-Austin-TX-78701/80094581_zpid/,80094581,,CONDO,"$355,000",800 Brazos St UNIT 1009,Austin,TX,78701,1,1,884,217.8 sqft,
+https://www.zillow.com/homedetails/113-Nelray-Blvd-2-Austin-TX-78751/443532746_zpid/,443532746,,SINGLE FAMILY,"$864,950",113 Nelray Blvd #2,Austin,TX,78751,3,3,1625,8028.108 sqft,
+https://www.zillow.com/homedetails/13206-Woodthorpe-St-Austin-TX-78729/29555139_zpid/,29555139,,SINGLE FAMILY,"$675,000",13206 Woodthorpe St,Austin,TX,78729,4,2,1928,0.28800000000000003 acres,2656
+https://www.zillow.com/homedetails/1811-Rogge-Ln-Austin-TX-78723/29402021_zpid/,29402021,,SINGLE FAMILY,"$735,000",1811 Rogge Ln,Austin,TX,78723,3,2,1674,0.26 acres,
+https://www.zillow.com/homedetails/8404-Cahill-Dr-Austin-TX-78729/29595279_zpid/,29595279,,SINGLE FAMILY,"$579,000",8404 Cahill Dr,Austin,TX,78729,4,3,2731,7161.264 sqft,3428
+https://www.zillow.com/homedetails/11602-Santa-Cruz-Dr-Austin-TX-78759/29438318_zpid/,29438318,,SINGLE FAMILY,"$475,000",11602 Santa Cruz Dr,Austin,TX,78759,3,2,1392,8799.12 sqft,
+https://www.zillow.com/homedetails/6201-River-Place-Blvd-APT-4-Austin-TX-78730/70352744_zpid/,70352744,,SINGLE FAMILY,"$510,000",6201 River Place Blvd APT 4,Austin,TX,78730,2,2,1512,0.5 acres,
+https://www.zillow.com/homedetails/3710-Hollywood-Ave-Austin-TX-78722/29396263_zpid/,29396263,,SINGLE FAMILY,"$499,900",3710 Hollywood Ave,Austin,TX,78722,2,1,1044,4952.772 sqft,
+https://www.zillow.com/homedetails/15835-Garrison-Cir-Austin-TX-78717/29616191_zpid/,29616191,,SINGLE FAMILY,"$639,000",15835 Garrison Cir,Austin,TX,78717,5,3,3003,0.358 acres,
+https://www.zillow.com/homedetails/6806-Thistle-Hill-Way-Austin-TX-78754/29421965_zpid/,29421965,,SINGLE FAMILY,"$498,900",6806 Thistle Hill Way,Austin,TX,78754,3,3,2304,7744.968 sqft,
+https://www.zillow.com/homedetails/7000-Bryn-Mawr-Cv-Austin-TX-78723/29408764_zpid/,29408764,,SINGLE FAMILY,"$340,000",7000 Bryn Mawr Cv,Austin,TX,78723,3,2,1657,7318.08 sqft,
+https://www.zillow.com/homedetails/7801-Shoal-Creek-Blvd-APT-240-Austin-TX-78757/29424509_zpid/,29424509,,CONDO,"$179,900",7801 Shoal Creek Blvd APT 240,Austin,TX,78757,2,1,789,1650.924 sqft,
+https://www.zillow.com/homedetails/4421-Dovemeadow-Dr-Austin-TX-78744/29499952_zpid/,29499952,,SINGLE FAMILY,"$320,000",4421 Dovemeadow Dr,Austin,TX,78744,3,3,1324,6568.848 sqft,2287
+https://www.zillow.com/homedetails/11612-Sierra-Nevada-Austin-TX-78759/120900323_zpid/,120900323,,SINGLE FAMILY,"$1,200,000",11612 Sierra Nevada,Austin,TX,78759,4,4,3016,0.32999999999999996 acres,5310
+https://www.zillow.com/homedetails/2004-Pennsylvania-Ave-A-Austin-TX-78702/241934556_zpid/,241934556,,CONDO,"$999,900",2004 Pennsylvania Ave #A,Austin,TX,78702,5,3,2458,3981.384 sqft,5068
+https://www.zillow.com/homedetails/5603-Oakwood-Cv-APT-232-Austin-TX-78731/29345796_zpid/,29345796,,CONDO,"$634,000",5603 Oakwood Cv APT 232,Austin,TX,78731,4,3,2686,0.3194 acres,3571
+https://www.zillow.com/homedetails/9609-Bluegrass-Dr-Austin-TX-78759/79980262_zpid/,79980262,,SINGLE FAMILY,"$799,000",9609 Bluegrass Dr,Austin,TX,78759,4,3,2457,0.3172 acres,
+https://www.zillow.com/homedetails/8310-Alvin-High-Ln-Austin-TX-78729/29613825_zpid/,29613825,,SINGLE FAMILY,"$415,000",8310 Alvin High Ln,Austin,TX,78729,3,3,1523,4904.856 sqft,
+https://www.zillow.com/homedetails/1508-Australis-Cv-Austin-TX-78732/70352630_zpid/,70352630,,SINGLE FAMILY,"$825,000",1508 Australis Cv,Austin,TX,78732,4,4,3663,0.26739999999999997 acres,
+https://www.zillow.com/homedetails/1719-E-32nd-St-Austin-TX-78722/29393180_zpid/,29393180,,SINGLE FAMILY,"$450,000",1719 E 32nd St,Austin,TX,78722,3,2,1572,9391.536 sqft,
+https://www.zillow.com/homedetails/4817-Delancey-Dr-Manor-TX-78653/337145052_zpid/,337145052,,SINGLE FAMILY,"$515,000",4817 Delancey Dr,Manor,TX,78653,4,3,2898,7152.552 sqft,
+https://www.zillow.com/homedetails/2102-Eva-St-UNIT-2-Austin-TX-78704/331624910_zpid/,331624910,,SINGLE FAMILY,"$699,000",2102 Eva St UNIT 2,Austin,TX,78704,2,3,936,3227.796 sqft,
+https://www.zillow.com/homedetails/3510-Oak-Springs-Dr-Austin-TX-78721/29388783_zpid/,29388783,,SINGLE FAMILY,"$467,000",3510 Oak Springs Dr,Austin,TX,78721,3,3,1524,6708.24 sqft,
+https://www.zillow.com/homedetails/6700-Rockridge-Ct-Austin-TX-78744/62608174_zpid/,62608174,,SINGLE FAMILY,"$245,999",6700 Rockridge Ct,Austin,TX,78744,4,2,1308,8367.876 sqft,
+https://www.zillow.com/homedetails/11603-Buttonwood-Dr-Austin-TX-78759/29369285_zpid/,29369285,,SINGLE FAMILY,"$699,900",11603 Buttonwood Dr,Austin,TX,78759,4,3,2432,0.34600000000000003 acres,
+https://www.zillow.com/homedetails/5904-Silver-Screen-Dr-Austin-TX-78747/80091503_zpid/,80091503,,SINGLE FAMILY,"$300,000",5904 Silver Screen Dr,Austin,TX,78747,4,3,2125,5061.672 sqft,2273
+https://www.zillow.com/homedetails/1036-Liberty-Park-Dr-APT-46-Austin-TX-78746/83825944_zpid/,83825944,,SINGLE FAMILY,"$1,297,500",1036 Liberty Park Dr APT 46,Austin,TX,78746,4,3,3098,10650.42 sqft,
+https://www.zillow.com/homedetails/5804-Chesterfield-Ave-Austin-TX-78752/29411920_zpid/,29411920,,SINGLE FAMILY,"$498,900",5804 Chesterfield Ave,Austin,TX,78752,2,2,1076,7244.028 sqft,
+https://www.zillow.com/homedetails/7617-Lazy-River-Cv-Austin-TX-78730/70352262_zpid/,70352262,,SINGLE FAMILY,"$1,428,000",7617 Lazy River Cv,Austin,TX,78730,4,3,3276,0.5034 acres,
+https://www.zillow.com/homedetails/2500-Burleson-Rd-APT-321-Austin-TX-78741/29463787_zpid/,29463787,,CONDO,"$199,000",2500 Burleson Rd APT 321,Austin,TX,78741,2,1,800,1102.068 sqft,
+https://www.zillow.com/homedetails/3316-Tavistock-Dr-Austin-TX-78748/70332556_zpid/,70332556,,SINGLE FAMILY,"$539,900",3316 Tavistock Dr,Austin,TX,78748,3,3,2190,6250.86 sqft,
+https://www.zillow.com/homedetails/4614-Englewood-Dr-UNIT-2-Austin-TX-78745/442201546_zpid/,442201546,,CONDO,"$549,900",4614 Englewood Dr UNIT 2,Austin,TX,78745,2,3,1081,3959.604 sqft,
+https://www.zillow.com/homedetails/6220-Sontag-Dr-Austin-TX-78738/441615104_zpid/,441615104,,SINGLE FAMILY,"$1,250,000",6220 Sontag Dr,Austin,TX,78738,5,5,3864,7688.34 sqft,
+https://www.zillow.com/homedetails/8301-Zyle-Rd-Austin-TX-78737/29502946_zpid/,29502946,,SINGLE FAMILY,"$880,000",8301 Zyle Rd,Austin,TX,78737,3,2,2266,1.5 acres,
+https://www.zillow.com/homedetails/11000-Anderson-Mill-Rd-UNIT-91-Austin-TX-78750/80121491_zpid/,80121491,,SINGLE FAMILY,"$375,000",11000 Anderson Mill Rd UNIT 91,Austin,TX,78750,3,3,1655,1890.504 sqft,2167
+https://www.zillow.com/homedetails/1309-Garden-St-Austin-TX-78702/29382625_zpid/,29382625,,SINGLE FAMILY,"$649,000",1309 Garden St,Austin,TX,78702,2,2,1001,3197.304 sqft,
+https://www.zillow.com/homedetails/4202-N-Hills-Dr-Austin-TX-78731/29351622_zpid/,29351622,,SINGLE FAMILY,"$1,295,000",4202 N Hills Dr,Austin,TX,78731,4,5,3905,0.2571 acres,
+https://www.zillow.com/homedetails/2612-Bridle-Path-Austin-TX-78703/29333954_zpid/,29333954,,SINGLE FAMILY,"$1,225,000",2612 Bridle Path,Austin,TX,78703,3,3,2121,0.2822 acres,
+https://www.zillow.com/homedetails/1925-Chasewood-Dr-Austin-TX-78727/29445431_zpid/,29445431,,SINGLE FAMILY,"$575,000",1925 Chasewood Dr,Austin,TX,78727,4,3,2808,7531.524 sqft,
+https://www.zillow.com/homedetails/6009-Glen-Meadow-Dr-Austin-TX-78745/29492670_zpid/,29492670,,SINGLE FAMILY,"$359,000",6009 Glen Meadow Dr,Austin,TX,78745,3,2,1283,6926.04 sqft,2265
+https://www.zillow.com/homedetails/1908-Karen-Ave-Austin-TX-78757/29416963_zpid/,29416963,,SINGLE FAMILY,"$769,000",1908 Karen Ave,Austin,TX,78757,4,2,1831,0.2651 acres,
+https://www.zillow.com/homedetails/7406-Shadow-Hill-Dr-APT-103-Austin-TX-78731/29423000_zpid/,29423000,,TOWNHOUSE,"$239,000",7406 Shadow Hill Dr APT 103,Austin,TX,78731,2,2,968,2056.032 sqft,
+https://www.zillow.com/homedetails/1511-Camp-Craft-Rd-APT-D-West-Lake-Hills-TX-78746/339460515_zpid/,339460515,,CONDO,"$550,000",1511 Camp Craft Rd APT D,West Lake Hills,TX,78746,2,2,1030,2217.204 sqft,
+https://www.zillow.com/homedetails/2910-Garwood-St-A-Austin-TX-78702/331626169_zpid/,331626169,,SINGLE FAMILY,"$800,000",2910 Garwood St #A,Austin,TX,78702,3,4,1738,3720.024 sqft,
+https://www.zillow.com/homedetails/1415-Mearns-Meadow-Blvd-Austin-TX-78758/29431318_zpid/,29431318,,SINGLE FAMILY,"$495,000",1415 Mearns Meadow Blvd,Austin,TX,78758,4,2,1588,0.2661 acres,2162
+https://www.zillow.com/homedetails/3800-Laurel-Ledge-Ln-Austin-TX-78731/29349258_zpid/,29349258,,SINGLE FAMILY,"$999,000",3800 Laurel Ledge Ln,Austin,TX,78731,3,3,2541,0.3432 acres,
+https://www.zillow.com/homedetails/1125-Saucedo-St-1-Austin-TX-78721/331627096_zpid/,331627096,,SINGLE FAMILY,"$839,000",1125 Saucedo St #1,Austin,TX,78721,4,3,2350,5148.792 sqft,
+https://www.zillow.com/homedetails/5702-Meadow-Crst-Austin-TX-78744/29468206_zpid/,29468206,,SINGLE FAMILY,"$250,000",5702 Meadow Crst,Austin,TX,78744,3,2,1026,6224.724 sqft,
+https://www.zillow.com/homedetails/15208-Sunningdale-St-Austin-TX-78717/67003952_zpid/,67003952,,SINGLE FAMILY,"$1,375,000",15208 Sunningdale St,Austin,TX,78717,4,4,4205,0.3488 acres,
+https://www.zillow.com/homedetails/12205-Kilmartin-Ln-Austin-TX-78754/60134562_zpid/,60134562,,SINGLE FAMILY,"$395,000",12205 Kilmartin Ln,Austin,TX,78754,4,5,2277,6242.148 sqft,
+https://www.zillow.com/homedetails/2009-Winsted-Ln-Austin-TX-78703/29333212_zpid/,29333212,,MULTI FAMILY,"$1,100,000",2009 Winsted Ln,Austin,TX,78703,4,6,4240,9125.82 sqft,
+https://www.zillow.com/homedetails/900-S-Lamar-Blvd-APT-210-Austin-TX-78704/79981339_zpid/,79981339,,CONDO,"$370,000",900 S Lamar Blvd APT 210,Austin,TX,78704,2,1,856,1350.36 sqft,
+https://www.zillow.com/homedetails/6700-Colina-Ln-Austin-TX-78759/29367683_zpid/,29367683,,SINGLE FAMILY,"$549,000",6700 Colina Ln,Austin,TX,78759,4,3,2172,8590.032 sqft,
+https://www.zillow.com/homedetails/7051-Meadow-Lake-Blvd-9303-Austin-TX-78744/455132203_zpid/,455132203,,CONDO,"$151,470",7051 Meadow Lake Blvd #9303,Austin,TX,78744,2,1,897, ,
+https://www.zillow.com/homedetails/2116-University-Club-Dr-Austin-TX-78732/70352426_zpid/,70352426,,SINGLE FAMILY,"$1,499,000",2116 University Club Dr,Austin,TX,78732,4,4,4379,0.4077 acres,5730
+https://www.zillow.com/homedetails/301-Wye-Oak-St-Austin-TX-78748/89551195_zpid/,89551195,,SINGLE FAMILY,"$570,000",301 Wye Oak St,Austin,TX,78748,4,3,3189,10367.28 sqft,
+https://www.zillow.com/homedetails/3701-Pappys-Way-Austin-TX-78730/80108194_zpid/,80108194,,SINGLE FAMILY,"$1,375,000",3701 Pappys Way,Austin,TX,78730,4,5,3609,0.468 acres,
+https://www.zillow.com/homedetails/6609-Serena-Cv-Austin-TX-78730/29356055_zpid/,29356055,,SINGLE FAMILY,"$1,300,000",6609 Serena Cv,Austin,TX,78730,3,3,2876,3.217 acres,
+https://www.zillow.com/homedetails/9854-N-Weir-Loop-Cir-Austin-TX-78736/450530469_zpid/,450530469,,SINGLE FAMILY,"$925,000",9854 N Weir Loop Cir,Austin,TX,78736,3,3,2365,2.36 acres,
+https://www.zillow.com/homedetails/4332-Canoas-Dr-Austin-TX-78730/29356813_zpid/,29356813,,SINGLE FAMILY,"$1,375,000",4332 Canoas Dr,Austin,TX,78730,4,3,3825,0.318 acres,
+https://www.zillow.com/homedetails/1405-Alma-Dr-Austin-TX-78753/29434826_zpid/,29434826,,SINGLE FAMILY,"$279,000",1405 Alma Dr,Austin,TX,78753,3,2,1099,6952.176 sqft,2038
+https://www.zillow.com/homedetails/7019-Creighton-Ln-Austin-TX-78723/29410975_zpid/,29410975,,SINGLE FAMILY,"$875,000",7019 Creighton Ln,Austin,TX,78723,4,3,2404,0.317 acres,
+https://www.zillow.com/homedetails/13209-Mansfield-Dr-Austin-TX-78732/452999291_zpid/,452999291,,SINGLE FAMILY,"$1,100,000",13209 Mansfield Dr,Austin,TX,78732,4,4,2850,9025.632 sqft,
+https://www.zillow.com/homedetails/4206-Sinclair-Ave-Austin-TX-78756/29406081_zpid/,29406081,,SINGLE FAMILY,"$1,095,000",4206 Sinclair Ave,Austin,TX,78756,2,1,1266,6843.276 sqft,
+https://www.zillow.com/homedetails/5802-Cherry-Park-Austin-TX-78745/29488120_zpid/,29488120,,SINGLE FAMILY,"$359,900",5802 Cherry Park,Austin,TX,78745,3,2,964,7579.44 sqft,1764
+https://www.zillow.com/homedetails/2520-Quarry-Rd-APT-204-Austin-TX-78703/29332219_zpid/,29332219,,CONDO,"$249,000",2520 Quarry Rd APT 204,Austin,TX,78703,2,2,754,1145.628 sqft,
+https://www.zillow.com/homedetails/8000-Williamson-Creek-Dr-Austin-TX-78736/29476113_zpid/,29476113,,SINGLE FAMILY,"$449,900",8000 Williamson Creek Dr,Austin,TX,78736,3,2,1298,0.3222 acres,
+https://www.zillow.com/homedetails/1120-Estes-Ave-A-B-Austin-TX-78721/452772868_zpid/,452772868,,MULTI FAMILY,"$500,000",1120 Estes Ave #A & B,Austin,TX,78721,6,2,1794,7932.276 sqft,
+https://www.zillow.com/homedetails/3315-W-William-Cannon-Dr-A-Austin-TX-78745/58315210_zpid/,58315210,,SINGLE FAMILY,"$350,000",3315 W William Cannon Dr #A,Austin,TX,78745,2,2,1164,7548.948 sqft,
+https://www.zillow.com/homedetails/11421-Dona-Villa-Dr-Austin-TX-78726/70332028_zpid/,70332028,,SINGLE FAMILY,"$850,000",11421 Dona Villa Dr,Austin,TX,78726,4,3,3210,0.2824 acres,
+https://www.zillow.com/homedetails/8412-Garcreek-Cir-Austin-TX-78724/58301173_zpid/,58301173,,MULTI FAMILY,"$599,000",8412 Garcreek Cir,Austin,TX,78724,8,8,3968,0.5165000000000001 acres,
+https://www.zillow.com/homedetails/14417-Cochise-Trl-Austin-TX-78734/144955692_zpid/,144955692,,SINGLE FAMILY,"$1,395,000",14417 Cochise Trl,Austin,TX,78734,4,3,2980,0.4254 acres,
+https://www.zillow.com/homedetails/11608-Norwegian-Wood-Dr-Austin-TX-78758/454958102_zpid/,454958102,,SINGLE FAMILY,"$300,000",11608 Norwegian Wood Dr,Austin,TX,78758,2,2,1072,4904.856 sqft,
+https://www.zillow.com/homedetails/15206-General-Williamson-Dr-Lakeway-TX-78734/124837129_zpid/,124837129,,SINGLE FAMILY,"$1,250,000",15206 General Williamson Dr,Lakeway,TX,78734,4,3,2452,0.314 acres,4063
+https://www.zillow.com/homedetails/11446-Rustic-Rock-Dr-Austin-TX-78750/29374077_zpid/,29374077,,SINGLE FAMILY,"$775,000",11446 Rustic Rock Dr,Austin,TX,78750,4,2,2225,0.3245 acres,
+https://www.zillow.com/homedetails/10005-Quail-Hutch-Dr-Austin-TX-78758/29431193_zpid/,29431193,,SINGLE FAMILY,"$349,900",10005 Quail Hutch,Austin,TX,78758,3,2,1220,7405.2 sqft,1967
+https://www.zillow.com/homedetails/8603-Appalachian-Dr-Austin-TX-78759/58299769_zpid/,58299769,,SINGLE FAMILY,"$849,000",8603 Appalachian Dr,Austin,TX,78759,3,2,2294,0.26 acres,
+https://www.zillow.com/homedetails/3500-Alpine-Cir-Austin-TX-78704/29478274_zpid/,29478274,,MULTI FAMILY,"$925,000",3500 Alpine Cir,Austin,TX,78704,8,8,3696,7361.64 sqft,4483
+https://www.zillow.com/homedetails/710-Colorado-St-APT-2A-Austin-TX-78701/2057608348_zpid/,2057608348,,CONDO,"$349,000",710 Colorado St APT 2A,Austin,TX,78701,1,1,849,104.544 sqft,
+https://www.zillow.com/homedetails/5133-Valburn-Ct-Austin-TX-78731/29358767_zpid/,29358767,,SINGLE FAMILY,"$1,175,000",5133 Valburn Ct,Austin,TX,78731,5,4,3346,0.315 acres,
+https://www.zillow.com/homedetails/9015-Cattle-Baron-Path-702-Austin-TX-78747/339461510_zpid/,339461510,,TOWNHOUSE,"$275,000",9015 Cattle Baron Path #702,Austin,TX,78747,2,3,1340,3323.628 sqft,
+https://www.zillow.com/homedetails/1904-S-6th-St-Austin-TX-78704/29472056_zpid/,29472056,,SINGLE FAMILY,"$699,999",1904 S 6th St,Austin,TX,78704,2,1,630,5140.08 sqft,1957
+https://www.zillow.com/homedetails/1327-Bonham-Ter-B-Austin-TX-78704/241937741_zpid/,241937741,,CONDO,"$1,195,000",1327 Bonham Ter #B,Austin,TX,78704,3,3,2012,10018.8 sqft,
+https://www.zillow.com/homedetails/607-W-32nd-St-Austin-TX-78705/29397925_zpid/,29397925,,SINGLE FAMILY,"$1,100,000",607 W 32nd St,Austin,TX,78705,3,3,2348,7701.408 sqft,
+https://www.zillow.com/homedetails/2707-Stacy-Ln-2-Austin-TX-78704/455217633_zpid/,455217633,,SINGLE FAMILY,"$849,000",2707 Stacy Ln #2,Austin,TX,78704,3,4,1282,7466.184 sqft,
+https://www.zillow.com/homedetails/6022-Abilene-Trl-Austin-TX-78749/29484162_zpid/,29484162,,SINGLE FAMILY,"$749,000",6022 Abilene Trl,Austin,TX,78749,5,4,3160,9604.98 sqft,
+https://www.zillow.com/homedetails/8309-Adirondack-Trl-Austin-TX-78759/58299354_zpid/,58299354,,SINGLE FAMILY,"$1,188,000",8309 Adirondack Trl,Austin,TX,78759,5,3,2744,0.3324 acres,6080
+https://www.zillow.com/homedetails/9110-Scotsman-Dr-Austin-TX-78750/29372481_zpid/,29372481,,SINGLE FAMILY,"$955,555",9110 Scotsman Dr,Austin,TX,78750,4,2,2563,10132.056 sqft,
+https://www.zillow.com/homedetails/5799-Rittenhouse-Shore-Dr-Austin-TX-78734/29367002_zpid/,29367002,,SINGLE FAMILY,"$650,000",5799 Rittenhouse Shore Dr,Austin,TX,78734,5,4,3759,0.624 acres,
+https://www.zillow.com/homedetails/5800-Needle-Nook-Ct-48-Austin-TX-78744/453593687_zpid/,453593687,,CONDO,"$280,000",5800 Needle Nook Ct #48,Austin,TX,78744,3,3,1524,4930.992 sqft,
+https://www.zillow.com/homedetails/3902-Knollwood-Dr-A-Austin-TX-78731/80097877_zpid/,80097877,,SINGLE FAMILY,"$1,375,000",3902 Knollwood Dr #A,Austin,TX,78731,4,2,2724,0.636 acres,
+https://www.zillow.com/homedetails/3702-Terrina-St-APT-12-Austin-TX-78759/2074872568_zpid/,2074872568,,SINGLE FAMILY,"$685,000",3702 Terrina St APT 12,Austin,TX,78759,3,3,2068,5898.024 sqft,
+https://www.zillow.com/homedetails/8615-Putnam-Dr-APT-C-Austin-TX-78757/29426620_zpid/,29426620,,TOWNHOUSE,"$224,500",8615 Putnam Dr APT C,Austin,TX,78757,2,2,1001,2452.428 sqft,1692
+https://www.zillow.com/homedetails/9503-Castlewood-Dr-Austin-TX-78748/29509667_zpid/,29509667,,SINGLE FAMILY,"$685,000",9503 Castlewood Dr,Austin,TX,78748,4,3,2204,0.43 acres,
+https://www.zillow.com/homedetails/13400-Briarwick-Dr-UNIT-1703-Austin-TX-78729/124158005_zpid/,124158005,,TOWNHOUSE,"$350,000",13400 Briarwick Dr UNIT 1703,Austin,TX,78729,3,3,1700, ,
+https://www.zillow.com/homedetails/8103-Pilgrims-Pl-Austin-TX-78759/29371967_zpid/,29371967,,SINGLE FAMILY,"$750,000",8103 Pilgrims Pl,Austin,TX,78759,4,2,1903,10193.04 sqft,
+https://www.zillow.com/homedetails/2018-W-Rundberg-Ln-APT-15C-Austin-TX-78758/83820832_zpid/,83820832,,CONDO,"$185,000",2018 W Rundberg Ln APT 15C,Austin,TX,78758,2,2,955,2099.592 sqft,
+https://www.zillow.com/homedetails/8400-Jamestown-Dr-APT-406-Austin-TX-78758/29423450_zpid/,29423450,,CONDO,"$199,000",8400 Jamestown Dr APT 406,Austin,TX,78758,2,2,968,2495.988 sqft,1698
+https://www.zillow.com/homedetails/13402-Briar-Hollow-Dr-Austin-TX-78729/29555511_zpid/,29555511,,SINGLE FAMILY,"$379,900",13402 Briar Hollow Dr,Austin,TX,78729,3,2,1292,0.331 acres,1976
+https://www.zillow.com/homedetails/6914-Pondsdale-Ln-Austin-TX-78724/58301487_zpid/,58301487,,SINGLE FAMILY,"$265,000",6914 Pondsdale Ln,Austin,TX,78724,4,1,984,6176.808 sqft,
+https://www.zillow.com/homedetails/9902-Marseilles-Dr-Austin-TX-78750/29372782_zpid/,29372782,,SINGLE FAMILY,"$649,000",9902 Marseilles Dr,Austin,TX,78750,4,2,2172,8755.56 sqft,
+https://www.zillow.com/homedetails/6828-Walkup-Ln-Austin-TX-78747/70342397_zpid/,70342397,,SINGLE FAMILY,"$319,500",6828 Walkup Ln,Austin,TX,78747,4,3,2068,4769.82 sqft,2268
+https://www.zillow.com/homedetails/1701-Apricot-Glen-Dr-Austin-TX-78746/29325989_zpid/,29325989,,SINGLE FAMILY,"$1,275,000",1701 Apricot Glen Dr,Austin,TX,78746,4,2,2378,0.254 acres,
+https://www.zillow.com/homedetails/1906-Willow-St-2-Austin-TX-78702/449376218_zpid/,449376218,,SINGLE FAMILY,"$634,900",1906 Willow St #2,Austin,TX,78702,2,3,1076,2631.024 sqft,
+https://www.zillow.com/homedetails/1700-Timber-Ridge-Dr-Austin-TX-78741/29464321_zpid/,29464321,,TOWNHOUSE,"$269,000",1700 Timber Ridge Dr,Austin,TX,78741,3,2,1394,2352.24 sqft,
+https://www.zillow.com/homedetails/9603-Teasdale-Ter-Austin-TX-78753/455212242_zpid/,455212242,,MULTI FAMILY,"$387,640",9603 Teasdale Ter,Austin,TX,78753,4,2,1964,7940.988 sqft,
+https://www.zillow.com/homedetails/4604-Fawnwood-Cv-Austin-TX-78735/29475339_zpid/,29475339,,SINGLE FAMILY,"$999,000",4604 Fawnwood Cv,Austin,TX,78735,4,3,2530,10349.856 sqft,
+https://www.zillow.com/homedetails/2918-Ranch-Rd-189-620-Austin-TX-78734/62605043_zpid/,62605043,,CONDO,"$849,000",2918 Ranch Rd #189-620,Austin,TX,78734,4,4,2714,10323.72 sqft,
+https://www.zillow.com/homedetails/2-Laurel-Hill-St-Austin-TX-78737/452108487_zpid/,452108487,,SINGLE FAMILY,"$1,395,000",2 Laurel Hill St,Austin,TX,78737,4,3,4375,2.211 acres,
+https://www.zillow.com/homedetails/6005-Hudson-Bend-Rd-Austin-TX-78734/29371046_zpid/,29371046,,SINGLE FAMILY,"$925,000",6005 Hudson Bend Rd,Austin,TX,78734,3,3,2731,1.6015 acres,
+https://www.zillow.com/homedetails/3110-Barton-Point-Dr-Austin-TX-78733/29334735_zpid/,29334735,,SINGLE FAMILY,"$1,330,000",3110 Barton Point Dr,Austin,TX,78733,4,3,3021,0.3481 acres,5045
+https://www.zillow.com/homedetails/17108-Fougere-Dr-Austin-TX-78738/455243495_zpid/,455243495,,SINGLE FAMILY,"$1,019,431",17108 Fougere Dr,Austin,TX,78738,5,5,3793,10044.936 sqft,
+https://www.zillow.com/homedetails/6029-Mount-Bonnell-Cv-Austin-TX-78731/29349665_zpid/,29349665,,SINGLE FAMILY,"$799,000",6029 Mount Bonnell Cv,Austin,TX,78731,3,3,2043,3920.4 sqft,
+https://www.zillow.com/homedetails/2403-Little-John-Ln-Austin-TX-78704/29462091_zpid/,29462091,,SINGLE FAMILY,"$625,000",2403 Little John Ln,Austin,TX,78704,3,1,1269,4146.912 sqft,
+https://www.zillow.com/homedetails/9402-Caracas-Dr-Austin-TX-78733/29344952_zpid/,29344952,,SINGLE FAMILY,"$1,150,000",9402 Caracas Dr,Austin,TX,78733,4,3,2647,0.27299999999999996 acres,
+https://www.zillow.com/homedetails/7213-Auburn-Blaze-Ln-Austin-TX-78744/241933147_zpid/,241933147,,SINGLE FAMILY,"$746,000",7213 Auburn Blaze Ln,Austin,TX,78744,5,3,3105,0.2788 acres,
+https://www.zillow.com/homedetails/6304-Lost-Horizon-Dr-Austin-TX-78759/29365309_zpid/,29365309,,SINGLE FAMILY,"$1,335,000",6304 Lost Horizon Dr,Austin,TX,78759,4,3,2453,0.3169 acres,
+https://www.zillow.com/homedetails/10839-Redmond-Rd-Austin-TX-78739/29505232_zpid/,29505232,,SINGLE FAMILY,"$1,295,000",10839 Redmond Rd,Austin,TX,78739,4,3,2836,0.3068 acres,
+https://www.zillow.com/homedetails/3812-Mira-Vista-Dr-Austin-TX-78732/29359464_zpid/,29359464,,SINGLE FAMILY,"$800,000",3812 Mira Vista Dr,Austin,TX,78732,4,3,2965,0.297 acres,
+https://www.zillow.com/homedetails/13902-Panorama-Dr-Austin-TX-78732/29368650_zpid/,29368650,,SINGLE FAMILY,"$1,549,000",13902 Panorama Dr,Austin,TX,78732,3,4,3066,0.38659999999999994 acres,5117
+https://www.zillow.com/homedetails/10703-Callanish-Park-Dr-Austin-TX-78750/29370279_zpid/,29370279,,SINGLE FAMILY,"$769,000",10703 Callanish Park Dr,Austin,TX,78750,3,3,2035,0.49660000000000004 acres,
+https://www.zillow.com/homedetails/311-W-5th-St-UNIT-1005-Austin-TX-78701/299248219_zpid/,299248219,,CONDO,"$1,150,000",311 W 5th St UNIT 1005,Austin,TX,78701,2,2,1897,239.58 sqft,
+https://www.zillow.com/homedetails/3108-Chennault-St-Austin-TX-78723/331621043_zpid/,331621043,,SINGLE FAMILY,"$1,369,000",3108 Chennault St,Austin,TX,78723,4,4,2812,3484.8 sqft,
+https://www.zillow.com/homedetails/3504-Tom-Miller-St-A-Austin-TX-78723/455165972_zpid/,455165972,,SINGLE FAMILY,"$1,349,000",3504 Tom Miller St #A,Austin,TX,78723,3,3,2395,6098.4 sqft,
+https://www.zillow.com/homedetails/2004-Bremen-St-Austin-TX-78703/29333796_zpid/,29333796,,SINGLE FAMILY,"$1,497,000",2004 Bremen St,Austin,TX,78703,3,3,1974,7405.2 sqft,
+https://www.zillow.com/homedetails/5808-Marilyn-Dr-Austin-TX-78757/29344185_zpid/,29344185,,SINGLE FAMILY,"$1,200,000",5808 Marilyn Dr,Austin,TX,78757,4,3,2221,10628.64 sqft,
+https://www.zillow.com/homedetails/15802-Axehandle-Trl-Austin-TX-78717/250824838_zpid/,250824838,,SINGLE FAMILY,"$1,150,000",15802 Axehandle Trl,Austin,TX,78717,4,4,3581,10315.008 sqft,
+https://www.zillow.com/homedetails/2018-W-Rundberg-Ln-APT-12B-Austin-TX-78758/83828398_zpid/,83828398,,TOWNHOUSE,"$179,000",2018 W Rundberg Ln APT 12B,Austin,TX,78758,2,3,1105,2430.648 sqft,
+https://www.zillow.com/homedetails/2600-Penny-Ln-APT-115-Austin-TX-78757/29426354_zpid/,29426354,,CONDO,"$199,900",2600 Penny Ln APT 115,Austin,TX,78757,2,2,833,1241.46 sqft,
+https://www.zillow.com/homedetails/3816-Pappys-Way-Austin-TX-78730/63395409_zpid/,63395409,,SINGLE FAMILY,"$1,290,000",3816 Pappys Way,Austin,TX,78730,4,4,3742,0.39399999999999996 acres,
+https://www.zillow.com/homedetails/3421-Pecos-St-B-7-Austin-TX-78703/29338966_zpid/,29338966,,CONDO,"$609,000",3421 Pecos St #B-7,Austin,TX,78703,2,2,1296,2796.552 sqft,
+https://www.zillow.com/homedetails/6602-Daugherty-St-Austin-TX-78757/29417875_zpid/,29417875,,SINGLE FAMILY,"$850,000",6602 Daugherty St,Austin,TX,78757,4,3,2085,0.25 acres,
+https://www.zillow.com/homedetails/10212-Rhett-Butler-Dr-Austin-TX-78739/29501966_zpid/,29501966,,SINGLE FAMILY,"$1,200,000",10212 Rhett Butler Dr,Austin,TX,78739,4,4,3797,0.3 acres,6082
+https://www.zillow.com/homedetails/4405-Greystone-Dr-Austin-TX-78731/29356465_zpid/,29356465,,SINGLE FAMILY,"$1,550,000",4405 Greystone Dr,Austin,TX,78731,4,2,2526,0.303 acres,
+https://www.zillow.com/homedetails/2312-Enfield-Rd-UNIT-2-Austin-TX-78703/305429874_zpid/,305429874,,SINGLE FAMILY,"$974,995",2312 Enfield Rd UNIT 2,Austin,TX,78703,3,3,2243,3297.492 sqft,
+https://www.zillow.com/homedetails/9512-Palmbrook-Dr-Austin-TX-78717/88015296_zpid/,88015296,,SINGLE FAMILY,"$1,015,000",9512 Palmbrook Dr,Austin,TX,78717,4,3,3351,0.27 acres,
+https://www.zillow.com/homedetails/9301-Elm-Grove-Cir-Austin-TX-78736/29479651_zpid/,29479651,,SINGLE FAMILY,"$625,000",9301 Elm Grove Cir,Austin,TX,78736,4,2,2110,1.074 acres,
+https://www.zillow.com/homedetails/12600-Grimes-Ranch-Ct-Austin-TX-78732/29357008_zpid/,29357008,,SINGLE FAMILY,"$620,000",12600 Grimes Ranch Ct,Austin,TX,78732,4,3,2401,8028.108 sqft,
+https://www.zillow.com/homedetails/2206-Newfield-Ln-Austin-TX-78703/29333258_zpid/,29333258,,SINGLE FAMILY,"$795,000",2206 Newfield Ln,Austin,TX,78703,2,2,1900,6189.876 sqft,
+https://www.zillow.com/homedetails/8101-Ceberry-Dr-Austin-TX-78759/29427234_zpid/,29427234,,SINGLE FAMILY,"$660,000",8101 Ceberry Dr,Austin,TX,78759,3,2,1485,8642.304 sqft,
+https://www.zillow.com/homedetails/9610-Vista-View-Dr-Austin-TX-78750/29372651_zpid/,29372651,,SINGLE FAMILY,"$839,999",9610 Vista View Dr,Austin,TX,78750,4,3,2535,0.3306 acres,4295
+https://www.zillow.com/homedetails/1806-Stamford-Ln-Austin-TX-78703/29335140_zpid/,29335140,,SINGLE FAMILY,"$1,250,000",1806 Stamford Ln,Austin,TX,78703,3,2,1850,7683.984 sqft,
+https://www.zillow.com/homedetails/1705-Westmoor-Dr-Austin-TX-78723/29402146_zpid/,29402146,,SINGLE FAMILY,"$934,900",1705 Westmoor Dr,Austin,TX,78723,3,3,2255,9530.928 sqft,
+https://www.zillow.com/homedetails/4014-Greenhill-Pl-Austin-TX-78759/29432722_zpid/,29432722,,SINGLE FAMILY,"$1,475,000",4014 Greenhill Pl,Austin,TX,78759,5,4,2921,0.2808 acres,
+https://www.zillow.com/homedetails/3121-Yandall-Dr-Austin-TX-78748/29514695_zpid/,29514695,,SINGLE FAMILY,"$600,000",3121 Yandall Dr,Austin,TX,78748,4,3,2692,0.26380000000000003 acres,3014
+https://www.zillow.com/homedetails/11720-Hobbiton-Trl-Austin-TX-78739/29513804_zpid/,29513804,,SINGLE FAMILY,"$750,000",11720 Hobbiton Trl,Austin,TX,78739,5,4,3160,0.386 acres,4580
+https://www.zillow.com/homedetails/11117-Comiso-Pala-Path-Austin-TX-78726/29374992_zpid/,29374992,,SINGLE FAMILY,"$840,000",11117 Comiso Pala Path,Austin,TX,78726,4,3,3116,8206.704 sqft,3595
+https://www.zillow.com/homedetails/10328-Ember-Glen-Dr-Austin-TX-78726/29375032_zpid/,29375032,,SINGLE FAMILY,"$750,000",10328 Ember Glen Dr,Austin,TX,78726,4,3,2743,0.34299999999999997 acres,
+https://www.zillow.com/homedetails/10303-Spicewood-Pkwy-Austin-TX-78750/29372810_zpid/,29372810,,SINGLE FAMILY,"$1,130,000",10303 Spicewood Pkwy,Austin,TX,78750,5,4,3638,0.41700000000000004 acres,
+https://www.zillow.com/homedetails/9604-Big-View-Dr-Austin-TX-78730/29351912_zpid/,29351912,,SINGLE FAMILY,"$1,295,000",9604 Big View Dr,Austin,TX,78730,5,4,4053,0.351 acres,
+https://www.zillow.com/homedetails/4304-Avenue-A-Austin-TX-78751/29403128_zpid/,29403128,,SINGLE FAMILY,"$975,000",4304 Avenue A,Austin,TX,78751,3,2,2013,6281.352 sqft,
+https://www.zillow.com/homedetails/7201-Bowditch-Dr-Austin-TX-78730/64651901_zpid/,64651901,,SINGLE FAMILY,"$1,350,000",7201 Bowditch Dr,Austin,TX,78730,4,3,2847,1.03 acres,
+https://www.zillow.com/homedetails/7302-Jester-Blvd-Austin-TX-78750/29361119_zpid/,29361119,,SINGLE FAMILY,"$1,299,000",7302 Jester Blvd,Austin,TX,78750,4,3,3244,0.2885 acres,
+https://www.zillow.com/homedetails/10701-Glass-Mountain-Trl-Austin-TX-78750/29376357_zpid/,29376357,,SINGLE FAMILY,"$1,099,000",10701 Glass Mountain Trl,Austin,TX,78750,4,3,2848,1.246 acres,
+https://www.zillow.com/homedetails/5715-Misty-Hill-Cv-Austin-TX-78759/120900361_zpid/,120900361,,SINGLE FAMILY,"$1,075,000",5715 Misty Hill Cv,Austin,TX,78759,4,3,2701,7710.12 sqft,
+https://www.zillow.com/homedetails/6008-Woodview-Ave-Austin-TX-78757/29414578_zpid/,29414578,,SINGLE FAMILY,"$1,175,000",6008 Woodview Ave,Austin,TX,78757,3,2,2714,0.322 acres,3850
+https://www.zillow.com/homedetails/15508-Staked-Plains-Loop-Austin-TX-78717/88024531_zpid/,88024531,,SINGLE FAMILY,"$715,000",15508 Staked Plains Loop,Austin,TX,78717,5,4,3211,8677.152 sqft,
+https://www.zillow.com/homedetails/3831-Epperson-Trl-Austin-TX-78732/29359793_zpid/,29359793,,SINGLE FAMILY,"$679,000",3831 Epperson Trl,Austin,TX,78732,4,3,3079,6952.176 sqft,
+https://www.zillow.com/homedetails/1909-David-St-Austin-TX-78705/29331879_zpid/,29331879,,SINGLE FAMILY,"$1,169,200",1909 David St,Austin,TX,78705,5,3,1742,7914.852 sqft,
+https://www.zillow.com/homedetails/598-Naples-Ln-Austin-TX-78737/119623564_zpid/,119623564,,SINGLE FAMILY,"$999,000",598 Naples Ln,Austin,TX,78737,4,5,3980,0.3346 acres,
+https://www.zillow.com/homedetails/9002-Scotsman-Dr-Austin-TX-78750/29372472_zpid/,29372472,,SINGLE FAMILY,"$799,900",9002 Scotsman Dr,Austin,TX,78750,4,3,3625,0.283 acres,
+https://www.zillow.com/homedetails/12125-Montclair-Bnd-Austin-TX-78732/83817538_zpid/,83817538,,SINGLE FAMILY,"$999,000",12125 Montclair Bnd,Austin,TX,78732,5,4,3543,8276.4 sqft,5379
+https://www.zillow.com/homedetails/3605-Fawn-Creek-Path-Austin-TX-78746/29343325_zpid/,29343325,,SINGLE FAMILY,"$999,000",3605 Fawn Creek Path,Austin,TX,78746,3,2,2050,5985.144 sqft,
+https://www.zillow.com/homedetails/309-Camperdown-Elm-Dr-Austin-TX-78748/80094187_zpid/,80094187,,SINGLE FAMILY,"$649,888",309 Camperdown Elm Dr,Austin,TX,78748,4,4,3729,0.2569 acres,
+https://www.zillow.com/homedetails/17704-Absinthe-Dr-Austin-TX-78738/455262233_zpid/,455262233,,SINGLE FAMILY,"$949,453",17704 Absinthe Dr,Austin,TX,78738,5,5,3793,7801.596 sqft,
+https://www.zillow.com/homedetails/17708-Absinthe-Dr-Austin-TX-78738/455242897_zpid/,455242897,,SINGLE FAMILY,"$944,974",17708 Absinthe Dr,Austin,TX,78738,5,5,3830,7801.596 sqft,
+https://www.zillow.com/homedetails/1606-W-14th-St-Austin-TX-78703/29329882_zpid/,29329882,,SINGLE FAMILY,"$1,195,000",1606 W 14th St,Austin,TX,78703,3,2,2138,6987.024 sqft,
+https://www.zillow.com/homedetails/12609-Dessau-Rd-Austin-TX-78754/2074840421_zpid/,2074840421,,MANUFACTURED,"$128,000",12609 Dessau Rd,Austin,TX,78754,3,2,1216,0.5 acres,1961
+https://www.zillow.com/homedetails/4330-Parkwood-Rd-Austin-TX-78722/29399614_zpid/,29399614,,SINGLE FAMILY,"$875,000",4330 Parkwood Rd,Austin,TX,78722,3,2,2107,0.338 acres,
+https://www.zillow.com/homedetails/1105-Lipan-Trl-Austin-TX-78733/29345255_zpid/,29345255,,SINGLE FAMILY,"$1,499,000",1105 Lipan Trl,Austin,TX,78733,4,4,3508,0.27299999999999996 acres,
+https://www.zillow.com/homedetails/1305-Kinney-Ave-1-Austin-TX-78704/338246634_zpid/,338246634,,SINGLE FAMILY,"$1,495,000",1305 Kinney Ave #1,Austin,TX,78704,4,3,2252,4599.936 sqft,
+https://www.zillow.com/homedetails/803-Josephine-St-Austin-TX-78704/29324889_zpid/,29324889,,SINGLE FAMILY,"$1,349,500",803 Josephine St,Austin,TX,78704,4,5,2013,7048.008 sqft,5695
+https://www.zillow.com/homedetails/10601-Queensbury-Cv-Austin-TX-78726/29376546_zpid/,29376546,,SINGLE FAMILY,"$959,000",10601 Queensbury Cv,Austin,TX,78726,4,3,3174,0.26 acres,
+https://www.zillow.com/homedetails/6809-Willamette-Dr-Austin-TX-78723/29408733_zpid/,29408733,,SINGLE FAMILY,"$719,900",6809 Willamette Dr,Austin,TX,78723,4,2,2438,0.4188 acres,3345
+https://www.zillow.com/homedetails/296-Running-Bird-Rd-Austin-TX-78737/442281648_zpid/,442281648,,SINGLE FAMILY,"$1,075,000",296 Running Bird Rd,Austin,TX,78737,4,5,3210,0.26 acres,
+https://www.zillow.com/homedetails/3304-Mulberry-Creek-Dr-Austin-TX-78732/29356971_zpid/,29356971,,SINGLE FAMILY,"$675,000",3304 Mulberry Creek Dr,Austin,TX,78732,4,3,3320,0.25 acres,
+https://www.zillow.com/homedetails/3313-Oxsheer-Dr-Austin-TX-78732/29359898_zpid/,29359898,,SINGLE FAMILY,"$850,000",3313 Oxsheer Dr,Austin,TX,78732,4,3,3122,9382.824 sqft,
+https://www.zillow.com/homedetails/16720-Horondelle-Dr-Austin-TX-78738/331627383_zpid/,331627383,,SINGLE FAMILY,"$755,000",16720 Horondelle Dr,Austin,TX,78738,4,3,2909,8424.504 sqft,
+https://www.zillow.com/homedetails/569-Mendocino-Ln-Austin-TX-78737/250400169_zpid/,250400169,,SINGLE FAMILY,"$825,000",569 Mendocino Ln,Austin,TX,78737,4,3,2852,9583.2 sqft,
+https://www.zillow.com/homedetails/406-W-55th-1-2-St-Austin-TX-78751/29409232_zpid/,29409232,,SINGLE FAMILY,"$650,000",406 W 55th 1/2 St,Austin,TX,78751,3,3,1604,6912.972 sqft,
+https://www.zillow.com/homedetails/4612-Avenue-B-Austin-TX-78751/29406233_zpid/,29406233,,SINGLE FAMILY,"$950,000",4612 Avenue B,Austin,TX,78751,4,3,1908,0.253 acres,4376
+https://www.zillow.com/homedetails/6805-County-Road-2001-Lampasas-TX-76550/2053683809_zpid/,2053683809,,SINGLE FAMILY,"$1,149,900",6805 County Road 2001,Lampasas,TX,76550,3,1,3000,30.5 acres,1140
+https://www.zillow.com/homedetails/5813-Sandalwood-Holw-Austin-TX-78731/29349682_zpid/,29349682,,SINGLE FAMILY,"$995,000",5813 Sandalwood Holw,Austin,TX,78731,3,3,2500,6015.636 sqft,5754
+https://www.zillow.com/homedetails/8210-Landsman-Dr-Austin-TX-78736/2084291202_zpid/,2084291202,,SINGLE FAMILY,"$675,000",8210 Landsman Dr,Austin,TX,78736,4,3,2698,0.634 acres,
+https://www.zillow.com/homedetails/6721-Lost-Valley-Austin-TX-78745/58314755_zpid/,58314755,,SINGLE FAMILY,"$649,000",6721 Lost Valley,Austin,TX,78745,3,3,1754,7087.212 sqft,
+https://www.zillow.com/homedetails/7503-Carriage-Dr-Austin-TX-78752/29416641_zpid/,29416641,,SINGLE FAMILY,"$675,000",7503 Carriage Dr,Austin,TX,78752,3,2,1264,0.3132 acres,
+https://www.zillow.com/homedetails/2601-Ashdale-Dr-Austin-TX-78757/29424806_zpid/,29424806,,SINGLE FAMILY,"$625,000",2601 Ashdale Dr,Austin,TX,78757,3,2,1178,0.3309 acres,
+https://www.zillow.com/homedetails/291-Torrington-Dr-Austin-TX-78737/80075569_zpid/,80075569,,SINGLE FAMILY,"$989,000",291 Torrington Dr,Austin,TX,78737,4,5,3695,0.254 acres,5412
+https://www.zillow.com/homedetails/6301-Harrogate-Dr-Austin-TX-78759/29367551_zpid/,29367551,,SINGLE FAMILY,"$725,000",6301 Harrogate Dr,Austin,TX,78759,4,3,2420,0.2715 acres,
+https://www.zillow.com/homedetails/1205-Alta-Vista-Ave-Austin-TX-78704/29459007_zpid/,29459007,,MULTI FAMILY,"$800,000",1205 Alta Vista Ave,Austin,TX,78704,5,3,2380,5850.108 sqft,
+https://www.zillow.com/homedetails/6507-Auburnhill-St-Austin-TX-78723/29408413_zpid/,29408413,,SINGLE FAMILY,"$639,000",6507 Auburnhill St,Austin,TX,78723,3,2,1962,9918.612 sqft,2847
+https://www.zillow.com/homedetails/2800-Waymaker-Way-UNIT-15-Austin-TX-78746/58297963_zpid/,58297963,,CONDO,"$1,050,000",2800 Waymaker Way UNIT 15,Austin,TX,78746,4,3,2918,0.293 acres,5502
+https://www.zillow.com/homedetails/2817-Scotia-Bluff-Loop-Austin-TX-78748/70335252_zpid/,70335252,,SINGLE FAMILY,"$899,000",2817 Scotia Bluff Loop,Austin,TX,78748,4,4,2945,0.3736 acres,
+https://www.zillow.com/homedetails/8623-Foggy-Mountain-Dr-Austin-TX-78736/29476059_zpid/,29476059,,SINGLE FAMILY,"$650,000",8623 Foggy Mountain Dr,Austin,TX,78736,4,3,2840,9496.08 sqft,3247
+https://www.zillow.com/homedetails/2106-Homedale-Dr-Austin-TX-78704/29322899_zpid/,29322899,,SINGLE FAMILY,"$1,280,000",2106 Homedale Dr,Austin,TX,78704,3,3,2550,8459.352 sqft,
+https://www.zillow.com/homedetails/2743-Grimes-Ranch-Rd-Austin-TX-78732/29357229_zpid/,29357229,,SINGLE FAMILY,"$675,000",2743 Grimes Ranch Rd,Austin,TX,78732,4,3,2931,8624.88 sqft,
+https://www.zillow.com/homedetails/13111-Mansfield-Dr-Austin-TX-78732/29362553_zpid/,29362553,,SINGLE FAMILY,"$699,000",13111 Mansfield Dr,Austin,TX,78732,3,4,2626,0.3742 acres,3678
+https://www.zillow.com/homedetails/5010-N-Fresco-Dr-Austin-TX-78731/29342767_zpid/,29342767,,SINGLE FAMILY,"$998,888",5010 N Fresco Dr,Austin,TX,78731,3,2,2000,0.281 acres,
+https://www.zillow.com/homedetails/6302-Gato-Path-Austin-TX-78731/29353288_zpid/,29353288,,SINGLE FAMILY,"$1,185,000",6302 Gato Path,Austin,TX,78731,4,4,2851,0.27299999999999996 acres,
+https://www.zillow.com/homedetails/1205-Dusky-Thrush-Trl-Austin-TX-78746/29328322_zpid/,29328322,,SINGLE FAMILY,"$1,000,000",1205 Dusky Thrush Trl,Austin,TX,78746,3,3,1608,0.2697 acres,
+https://www.zillow.com/homedetails/1821-Westlake-Dr-UNIT-104-Austin-TX-78746/29338021_zpid/,29338021,,CONDO,"$799,000",1821 Westlake Dr UNIT 104,Austin,TX,78746,2,2,1614,7753.68 sqft,
+https://www.zillow.com/homedetails/512-Bouldin-Ave-Austin-TX-78704/29323817_zpid/,29323817,,SINGLE FAMILY,"$995,000",512 Bouldin Ave,Austin,TX,78704,2,2,1408,7305.012 sqft,
+https://www.zillow.com/homedetails/11506-Gatling-Gun-Ln-Austin-TX-78748/29513586_zpid/,29513586,,SINGLE FAMILY,"$665,000",11506 Gatling Gun Ln,Austin,TX,78748,4,4,2402,8049.888 sqft,2690
+https://www.zillow.com/homedetails/4917-Flaming-Oak-Cv-Austin-TX-78749/29486487_zpid/,29486487,,CONDO,"$750,000",4917 Flaming Oak Cv,Austin,TX,78749,4,3,2903,0.2549 acres,
+https://www.zillow.com/homedetails/4713-Trail-Crest-Cir-Austin-TX-78735/29473908_zpid/,29473908,,SINGLE FAMILY,"$740,000",4713 Trail Crest Cir,Austin,TX,78735,3,2,1699,7701.408 sqft,
+https://www.zillow.com/homedetails/3717-Portofino-Ct-Austin-TX-78732/29356911_zpid/,29356911,,SINGLE FAMILY,"$1,049,000",3717 Portofino Ct,Austin,TX,78732,5,4,3644,0.38 acres,
+https://www.zillow.com/homedetails/4604-Hibiscus-Valley-Dr-Austin-TX-78739/58316449_zpid/,58316449,,SINGLE FAMILY,"$750,000",4604 Hibiscus Valley Dr,Austin,TX,78739,4,3,2485,5889.312 sqft,
+https://www.zillow.com/homedetails/5710-Marilyn-Dr-Austin-TX-78757/29344192_zpid/,29344192,,SINGLE FAMILY,"$1,225,000",5710 Marilyn Dr,Austin,TX,78757,5,3,2813,0.257 acres,
+https://www.zillow.com/homedetails/4413-Whispering-Valley-Dr-Austin-TX-78727/58305150_zpid/,58305150,,MULTI FAMILY,"$730,000",4413 Whispering Valley Dr,Austin,TX,78727,8,8,3936,8755.56 sqft,
+https://www.zillow.com/homedetails/2114-Cliffs-Edge-Dr-Austin-TX-78733/29336774_zpid/,29336774,,SINGLE FAMILY,"$1,395,000",2114 Cliffs Edge Dr,Austin,TX,78733,4,4,3517,0.3125 acres,
+https://www.zillow.com/homedetails/1122-Colorado-St-APT-2007-Austin-TX-78701/29387447_zpid/,29387447,,CONDO,"$950,000",1122 Colorado St APT 2007,Austin,TX,78701,3,3,1644,252.648 sqft,3868
+https://www.zillow.com/homedetails/7412-Mitra-Dr-Austin-TX-78739/83126401_zpid/,83126401,,SINGLE FAMILY,"$1,100,000",7412 Mitra Dr,Austin,TX,78739,4,4,4295,9600.624 sqft,4100
+https://www.zillow.com/homedetails/9201-Cessna-Ln-Austin-TX-78717/52830606_zpid/,52830606,,SINGLE FAMILY,"$875,000",9201 Cessna Ln,Austin,TX,78717,5,4,3990,0.271 acres,
+https://www.zillow.com/homedetails/120-July-Johnson-Dr-Austin-TX-78737/336746825_zpid/,336746825,,SINGLE FAMILY,"$1,250,000",120 July Johnson Dr,Austin,TX,78737,5,5,4230,1 acres,7316
+https://www.zillow.com/homedetails/2214-S-3rd-St-B-Austin-TX-78704/339460644_zpid/,339460644,,SINGLE FAMILY,"$1,195,000",2214 S 3rd St #B,Austin,TX,78704,3,3,1420,4094.64 sqft,
+https://www.zillow.com/homedetails/5913-N-West-Pl-Austin-TX-78731/29348284_zpid/,29348284,,SINGLE FAMILY,"$974,990",5913 N West Pl,Austin,TX,78731,3,3,3052,5061.672 sqft,
+https://www.zillow.com/homedetails/10701-Culberson-Dr-Austin-TX-78748/29511616_zpid/,29511616,,SINGLE FAMILY,"$949,000",10701 Culberson Dr,Austin,TX,78748,4,2,2698,0.42740000000000006 acres,
+https://www.zillow.com/homedetails/7303-Barley-Cv-Austin-TX-78750/29361252_zpid/,29361252,,SINGLE FAMILY,"$999,900",7303 Barley Cv,Austin,TX,78750,4,3,2730,0.283 acres,3819
+https://www.zillow.com/homedetails/3816-Gaines-Ct-Austin-TX-78735/62576816_zpid/,62576816,,SINGLE FAMILY,"$850,000",3816 Gaines Ct,Austin,TX,78735,3,3,2133,3606.768 sqft,
+https://www.zillow.com/homedetails/7504-Creekbluff-Dr-Austin-TX-78750/58298714_zpid/,58298714,,SINGLE FAMILY,"$860,000",7504 Creekbluff Dr,Austin,TX,78750,4,4,2228,0.5792 acres,
+https://www.zillow.com/homedetails/10-Scarlet-Rdg-Austin-TX-78737/28595613_zpid/,28595613,,SINGLE FAMILY,"$1,190,000",10 Scarlet Rdg,Austin,TX,78737,5,4,4670,2.01 acres,
+https://www.zillow.com/homedetails/4216-Threadgill-St-Austin-TX-78723/83125465_zpid/,83125465,,SINGLE FAMILY,"$899,000",4216 Threadgill St,Austin,TX,78723,3,3,2074,2761.704 sqft,
+https://www.zillow.com/homedetails/3002-Stardust-Dr-Austin-TX-78757/29422173_zpid/,29422173,,SINGLE FAMILY,"$899,000",3002 Stardust Dr,Austin,TX,78757,4,3,2382,10323.72 sqft,
+https://www.zillow.com/homedetails/1600-Barton-Springs-Rd-UNIT-3504-Austin-TX-78704/83124439_zpid/,83124439,,CONDO,"$874,900",1600 Barton Springs Rd UNIT 3504,Austin,TX,78704,3,2,1520,975.744 sqft,
+https://www.zillow.com/homedetails/2800-Waymaker-Way-UNIT-63-Austin-TX-78746/58297984_zpid/,58297984,,SINGLE FAMILY,"$1,000,000",2800 Waymaker Way UNIT 63,Austin,TX,78746,4,3,2806,0.293 acres,5325
+https://www.zillow.com/homedetails/1605-Garden-St-Austin-TX-78702/29382730_zpid/,29382730,,SINGLE FAMILY,"$915,000",1605 Garden St,Austin,TX,78702,3,4,2078,9626.76 sqft,
+https://www.zillow.com/homedetails/1904-Hearthstone-Dr-Austin-TX-78757/29426682_zpid/,29426682,,MULTI FAMILY,"$875,000",1904 Hearthstone Dr,Austin,TX,78757,8,4,3584,8049.888 sqft,
+https://www.zillow.com/homedetails/1913-Littlefield-St-Austin-TX-78723/80092885_zpid/,80092885,,SINGLE FAMILY,"$805,000",1913 Littlefield St,Austin,TX,78723,3,3,1946,3397.68 sqft,
+https://www.zillow.com/homedetails/11104-Claro-Vista-Cv-Austin-TX-78739/70346024_zpid/,70346024,,SINGLE FAMILY,"$859,000",11104 Claro Vista Cv,Austin,TX,78739,4,3,3123,9461.232 sqft,
+https://www.zillow.com/homedetails/2800-Cherry-Ln-Austin-TX-78703/29333889_zpid/,29333889,,SINGLE FAMILY,"$1,598,000",2800 Cherry Ln,Austin,TX,78703,4,3,2633,7692.696 sqft,
+https://www.zillow.com/homedetails/900-S-1st-St-306-Austin-TX-78704/251033932_zpid/,251033932,,CONDO,"$190,000",900 S 1st St #306,Austin,TX,78704,0,1,500,313 sqft,2174
+https://www.zillow.com/homedetails/1510-Holly-St-UNIT-3-Austin-TX-78702/455184410_zpid/,455184410,,SINGLE FAMILY,"$1,350,000",1510 Holly St UNIT 3,Austin,TX,78702,3,5,2150,3354.12 sqft,
+https://www.zillow.com/homedetails/11704-Palisades-Pkwy-Austin-TX-78732/83816102_zpid/,83816102,,SINGLE FAMILY,"$1,060,000",11704 Palisades Pkwy,Austin,TX,78732,4,4,3416,0.319 acres,4376
+https://www.zillow.com/homedetails/7517-Robert-Kleburg-Ln-Austin-TX-78749/29484298_zpid/,29484298,,SINGLE FAMILY,"$845,000",7517 Robert Kleburg Ln,Austin,TX,78749,4,3,3454,7801.596 sqft,
+https://www.zillow.com/homedetails/3004-Hunt-Trl-Austin-TX-78757/29417767_zpid/,29417767,,SINGLE FAMILY,"$1,599,000",3004 Hunt Trl,Austin,TX,78757,4,3,2960,9278.28 sqft,
+https://www.zillow.com/homedetails/4217-Greystone-Dr-N-Austin-TX-78731/453277317_zpid/,453277317,,SINGLE FAMILY,"$1,225,000",4217 Greystone Dr N,Austin,TX,78731,4,3,2560,0.2872 acres,
+https://www.zillow.com/homedetails/8413-Indian-Smt-Austin-TX-78737/454936244_zpid/,454936244,,SINGLE FAMILY,"$1,299,900",8413 Indian Smt,Austin,TX,78737,3,3,2996,2.6 acres,
+https://www.zillow.com/homedetails/1708-Briar-St-Austin-TX-78704/29472173_zpid/,29472173,,SINGLE FAMILY,"$1,350,000",1708 Briar St,Austin,TX,78704,4,4,2397,5732.496 sqft,
+https://www.zillow.com/homedetails/512-E-49th-St-Austin-TX-78751/29406537_zpid/,29406537,,SINGLE FAMILY,"$1,345,000",512 E 49th St,Austin,TX,78751,4,3,2186,9526.572 sqft,
+https://www.zillow.com/homedetails/4604-Rue-St-Austin-TX-78731/29410412_zpid/,29410412,,SINGLE FAMILY,"$945,000",4604 Rue St,Austin,TX,78731,4,2,2242,9143.244 sqft,
+https://www.zillow.com/homedetails/12417-Mediterra-Pl-Austin-TX-78732/111371084_zpid/,111371084,,SINGLE FAMILY,"$925,000",12417 Mediterra Pl,Austin,TX,78732,5,4,3523,0.2769 acres,
+https://www.zillow.com/homedetails/13300-Country-Lake-Dr-Austin-TX-78732/60136464_zpid/,60136464,,SINGLE FAMILY,"$1,200,000",13300 Country Lake Dr,Austin,TX,78732,4,4,3334,0.45120000000000005 acres,
+https://www.zillow.com/homedetails/5703-Taunton-Dr-Austin-TX-78723/2067375243_zpid/,2067375243,,SINGLE FAMILY,"$935,000",5703 Taunton Dr,Austin,TX,78723,4,4,2482,10267.092 sqft,
+https://www.zillow.com/homedetails/1121-Reagan-Ter-Austin-TX-78704/29459536_zpid/,29459536,,SINGLE FAMILY,"$995,000",1121 Reagan Ter,Austin,TX,78704,3,2,1242,6838.92 sqft,2369
+https://www.zillow.com/homedetails/1407-Spring-Garden-Rd-Austin-TX-78746/29326951_zpid/,29326951,,SINGLE FAMILY,"$1,499,000",1407 Spring Garden Rd,Austin,TX,78746,4,3,2311,0.27 acres,
+https://www.zillow.com/homedetails/33-Long-Creek-Rd-Austin-TX-78737/28595666_zpid/,28595666,,SINGLE FAMILY,"$1,100,000",33 Long Creek Rd,Austin,TX,78737,4,4,3708,3.806 acres,
+https://www.zillow.com/homedetails/3102-Hemphill-Park-Austin-TX-78705/29397263_zpid/,29397263,,SINGLE FAMILY,"$990,000",3102 Hemphill Park,Austin,TX,78705,3,3,2479,5370.948 sqft,
+https://www.zillow.com/homedetails/1769-Parten-Ranch-Pkwy-Austin-TX-78737/347380563_zpid/,347380563,,SINGLE FAMILY,"$1,588,000",1769 Parten Ranch Pkwy,Austin,TX,78737,5,5,4078,1.615 acres,
+https://www.zillow.com/homedetails/6903-Narrow-Oak-Trl-Austin-TX-78759/29367688_zpid/,29367688,,SINGLE FAMILY,"$850,000",6903 Narrow Oak Trl,Austin,TX,78759,3,3,1920,9953.46 sqft,
+https://www.zillow.com/homedetails/524-Mendocino-Ln-Austin-TX-78737/243294071_zpid/,243294071,,SINGLE FAMILY,"$800,000",524 Mendocino Ln,Austin,TX,78737,4,4,2968,7840.8 sqft,
+https://www.zillow.com/homedetails/4804-Ranch-Road-2222-Austin-TX-78731/29346323_zpid/,29346323,,SINGLE FAMILY,"$950,000",4804 Ranch Road 2222,Austin,TX,78731,3,3,2265,0.3952 acres,
+https://www.zillow.com/homedetails/7051-Meadow-Lake-Blvd-8203-Austin-TX-78744/452093054_zpid/,452093054,,CONDO,"$151,470",7051 Meadow Lake Blvd #8203,Austin,TX,78744,2,1,897,1219.68 sqft,
+https://www.zillow.com/homedetails/4328-Far-West-Blvd-Austin-TX-78731/29353133_zpid/,29353133,,SINGLE FAMILY,"$1,399,500",4328 Far West Blvd,Austin,TX,78731,4,3,2500,0.3812 acres,
+https://www.zillow.com/homedetails/10006-Mandeville-Cir-Austin-TX-78750/29376122_zpid/,29376122,,SINGLE FAMILY,"$1,149,000",10006 Mandeville Cir,Austin,TX,78750,4,3,2902,0.33999999999999997 acres,
+https://www.zillow.com/homedetails/9800-Knotty-Pine-Cv-Austin-TX-78750/29370696_zpid/,29370696,,SINGLE FAMILY,"$899,500",9800 Knotty Pine Cv,Austin,TX,78750,4,4,3015,0.3332 acres,
+https://www.zillow.com/homedetails/42-Laurel-Hill-St-Austin-TX-78737/452974588_zpid/,452974588,,SINGLE FAMILY,"$875,000",42 Laurel Hill St,Austin,TX,78737,4,2,2172,4.034 acres,
+https://www.zillow.com/homedetails/2705-Pyramid-Dr-Austin-TX-78734/249889607_zpid/,249889607,,SINGLE FAMILY,"$929,000",2705 Pyramid Dr,Austin,TX,78734,4,5,3371,0.71 acres,
+https://www.zillow.com/homedetails/8719-Crest-Ridge-Cir-Austin-TX-78750/29373970_zpid/,29373970,,SINGLE FAMILY,"$840,000",8719 Crest Ridge Cir,Austin,TX,78750,4,3,2405,0.3202 acres,
+https://www.zillow.com/homedetails/8509-Appalachian-Dr-Austin-TX-78759/58299347_zpid/,58299347,,SINGLE FAMILY,"$1,399,900",8509 Appalachian Dr,Austin,TX,78759,4,4,3507,0.2646 acres,
+https://www.zillow.com/homedetails/6719-Ridge-Oak-Rd-Austin-TX-78749/29481172_zpid/,29481172,,SINGLE FAMILY,"$1,375,000",6719 Ridge Oak Rd,Austin,TX,78749,4,2,1870,1.93 acres,3306
+https://www.zillow.com/homedetails/7106-Mountain-Trl-Austin-TX-78732/29368643_zpid/,29368643,,SINGLE FAMILY,"$995,000",7106 Mountain Trl,Austin,TX,78732,2,3,2246,0.609 acres,
+https://www.zillow.com/homedetails/4800-Sylvandale-Dr-Austin-TX-78745/29480146_zpid/,29480146,,SINGLE FAMILY,"$1,550,000",4800 Sylvandale Dr,Austin,TX,78745,4,4,2937,7845.156 sqft,
+https://www.zillow.com/homedetails/2124-Burton-Dr-APT-208-Austin-TX-78741/70348697_zpid/,70348697,,CONDO,"$160,000",2124 Burton Dr APT 208,Austin,TX,78741,2,2,850,1681.416 sqft,
+https://www.zillow.com/homedetails/1036-Liberty-Park-Dr-APT-52A-Austin-TX-78746/83827247_zpid/,83827247,,CONDO,"$1,140,000",1036 Liberty Park Dr APT 52A,Austin,TX,78746,4,3,2655,10650.42 sqft,
+https://www.zillow.com/homedetails/613-Horseback-Holw-Austin-TX-78732/89549563_zpid/,89549563,,SINGLE FAMILY,"$1,399,000",613 Horseback Holw,Austin,TX,78732,4,4,4373,9491.724 sqft,
+https://www.zillow.com/homedetails/3112-Tom-Miller-St-Austin-TX-78723/125804880_zpid/,125804880,,SINGLE FAMILY,"$1,250,000",3112 Tom Miller St,Austin,TX,78723,4,3,2843,4164.336 sqft,5022
+https://www.zillow.com/homedetails/4704-Wild-Briar-Pass-Austin-TX-78746/29328381_zpid/,29328381,,SINGLE FAMILY,"$1,500,000",4704 Wild Briar Pass,Austin,TX,78746,5,4,3301,0.3921 acres,
+https://www.zillow.com/homedetails/159-Fireside-Rd-Austin-TX-78737/2061752098_zpid/,2061752098,,SINGLE FAMILY,"$899,777",159 Fireside Rd,Austin,TX,78737,5,5,3541,0.309 acres,
+https://www.zillow.com/homedetails/12400-Cascade-Caverns-Trl-Austin-TX-78739/60139010_zpid/,60139010,,SINGLE FAMILY,"$829,000",12400 Cascade Caverns Trl,Austin,TX,78739,4,3,3124,0.3376 acres,
+https://www.zillow.com/homedetails/13821-Hunters-Pass-Austin-TX-78734/29354232_zpid/,29354232,,SINGLE FAMILY,"$979,000",13821 Hunters Pass,Austin,TX,78734,4,3,2947,1.0506 acres,3498
+https://www.zillow.com/homedetails/45-Rawhide-Rdg-Graford-TX-76449/445925036_zpid/,445925036,,LOT,"$145,000",45 Rawhide Rdg,Graford,TX,76449,,,,2.93 acres,
+https://www.zillow.com/homedetails/12304-Buvana-Dr-Austin-TX-78739/83814419_zpid/,83814419,,SINGLE FAMILY,"$915,000",12304 Buvana Dr,Austin,TX,78739,4,4,3509,0.2755 acres,
+https://www.zillow.com/homedetails/84-East-Ave-3808-Austin-TX-78701/455236087_zpid/,455236087,,CONDO,"$800,000",84 East Ave #3808,Austin,TX,78701,1,1,300,0.39 acres,
+https://www.zillow.com/homedetails/4500-E-Oltorf-St-SUITE-E-Austin-TX-78741/455191471_zpid/,455191471,,CONDO,"$145,000",4500 E Oltorf St SUITE E,Austin,TX,78741,1,1,650, ,
+https://www.zillow.com/homedetails/3520-Highland-View-Dr-Austin-TX-78731/29349295_zpid/,29349295,,SINGLE FAMILY,"$1,185,000",3520 Highland View Dr,Austin,TX,78731,4,3,2262,9587.556 sqft,
+https://www.zillow.com/homedetails/1302-Wilderness-Dr-Austin-TX-78746/29326826_zpid/,29326826,,SINGLE FAMILY,"$1,249,000",1302 Wilderness Dr,Austin,TX,78746,3,2,1998,9539.64 sqft,
+https://www.zillow.com/homedetails/409-July-Johnson-Dr-Austin-TX-78737/336746870_zpid/,336746870,,SINGLE FAMILY,"$999,900",409 July Johnson Dr,Austin,TX,78737,5,5,3181,1.01 acres,
+https://www.zillow.com/homedetails/1200-E-52nd-St-APT-205-Austin-TX-78723/2053066039_zpid/,2053066039,,CONDO,"$180,000",1200 E 52nd St APT 205,Austin,TX,78723,1,1,575,0.993 acres,
+https://www.zillow.com/homedetails/1004-Karen-Ave-Austin-TX-78757/29415031_zpid/,29415031,,SINGLE FAMILY,"$1,499,000",1004 Karen Ave,Austin,TX,78757,5,3,3308,9317.484 sqft,
+https://www.zillow.com/homedetails/1036-Liberty-Park-Dr-APT-3-Austin-TX-78746/83832282_zpid/,83832282,,SINGLE FAMILY,"$1,300,000",1036 Liberty Park Dr APT 3,Austin,TX,78746,4,3,3098,0.334 acres,5710
+https://www.zillow.com/homedetails/7320-Brecourt-Manor-Way-Austin-TX-78739/70342823_zpid/,70342823,,SINGLE FAMILY,"$814,900",7320 Brecourt Manor Way,Austin,TX,78739,4,3,2661,7501.032 sqft,
+https://www.zillow.com/homedetails/1700-Barton-Hills-Dr-Austin-TX-78704/29324561_zpid/,29324561,,SINGLE FAMILY,"$950,000",1700 Barton Hills Dr,Austin,TX,78704,3,2,1720,10201.752 sqft,3650
+https://www.zillow.com/homedetails/3210-Bryker-Dr-Austin-TX-78703/29338643_zpid/,29338643,,SINGLE FAMILY,"$1,095,000",3210 Bryker Dr,Austin,TX,78703,4,3,1287,8015.04 sqft,
+https://www.zillow.com/homedetails/10601-Spicewood-Pkwy-Austin-TX-78750/29372627_zpid/,29372627,,SINGLE FAMILY,"$1,195,000",10601 Spicewood Pkwy,Austin,TX,78750,4,3,3723,0.3793 acres,
+https://www.zillow.com/homedetails/300-Bowie-St-APT-2402-Austin-TX-78703/83827603_zpid/,83827603,,CONDO,"$1,095,000",300 Bowie St APT 2402,Austin,TX,78703,3,3,1704,169.884 sqft,4167
